@@ -1139,4 +1139,4 @@ LogPakFile: Display: "Sublevels/Persistent/T016_Persistent_Tech.uexp" offset: 26
 LogPakFile: Display: "Sublevels/Persistent/T016_Persistent_Volumes.uexp" offset: 2673801216, size: 5549 bytes, sha1: 17BFB0E6F38F37AB93DDF6B47B841885840D6E4B, compression: None.
 LogPakFile: Display: "Sublevels/T016_Notes.uexp" offset: 2673807360, size: 1765 bytes, sha1: 5DFAF07264FCA31C1BE1A67C484ED810A041A182, compression: None.
 LogPakFile: Display: 1138 files (2672478850 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.391319 seconds
+LogPakFile: Display: Unreal pak executed in 0.258547 seconds

@@ -433,4 +433,4 @@ LogPakFile: Display: "HeightMap_x5_y5LOD/HeightMap_x5_y5_LOD2.uexp" offset: 2648
 LogPakFile: Display: "HeightMap_x5_y5LOD/HeightMap_x5_y5_LOD3.ubulk" offset: 2649694208, size: 2260992 bytes, sha1: 5A8AC18467BFE1BAA64A864463EBD61219E2FD02, compression: None.
 LogPakFile: Display: "HeightMap_x5_y5LOD/HeightMap_x5_y5_LOD3.uexp" offset: 2651957248, size: 883496 bytes, sha1: 949A68D7EF22157A48C2B16768177DEE624A144E, compression: None.
 LogPakFile: Display: 432 files (2652269074 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.143377 seconds
+LogPakFile: Display: Unreal pak executed in 0.141198 seconds
