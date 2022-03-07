@@ -197,22 +197,22 @@ LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_x0_y1.umap
 LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_x1_y0.umap" offset: 13594624, size: 330485 bytes, sha1: 74B29252119614BCDA1493DDEA823A7550141090, compression: None.
 LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_x1_y1.umap" offset: 13926400, size: 283510 bytes, sha1: F612A124633A6CAC2404F712B1EAE5E3BE9D30A3, compression: None.
 LogPakFile: Display: "Outpost_007/Outpost_007.umap" offset: 14211072, size: 21169 bytes, sha1: FBDFF392352801D946805035B4900A5006A5C1F6, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_Rock_LayerInfo.uasset" offset: 14232294, size: 796 bytes, sha1: 572DDE71CDA47DB0C437F5C84038C1176B63D365, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_GroundMuddy_LayerInfo.uasset" offset: 14233600, size: 817 bytes, sha1: 44F902A76FB92CBBCF9A8C0424F9E3C8423E29A9, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_GroundMoss_LayerInfo.uasset" offset: 14234470, size: 814 bytes, sha1: C18E676AB6DE4E27874C40B953A1F761F5070678, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_Dirt_LayerInfo.uasset" offset: 14235648, size: 796 bytes, sha1: A0D24D98ABE12B70C906743B4ADCD879BA8D5C8A, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/LC_Sand_LayerInfo.uasset" offset: 14236497, size: 796 bytes, sha1: 4221A7D412F65595BDDF5721650BF0AD6D68375E, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/LC_Lava_LayerInfo.uasset" offset: 14237696, size: 796 bytes, sha1: DFDCF9332EB62A7D92998D11AE5CF8B6A4332B7D, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/DC_Sand_LayerInfo.uasset" offset: 14238545, size: 796 bytes, sha1: 7B3B55878227536A0A6464D25E1EDD0DE0D8406B, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/DC_Incline_LayerInfo.uasset" offset: 14239744, size: 805 bytes, sha1: 0FE1F0F8E1BAA29115DD8600054ADA0129FAC93B, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/DC_Dirt_LayerInfo.uasset" offset: 14240602, size: 796 bytes, sha1: EF984BC73CFADB643F9E1E9F85E52A54F7D90ACC, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/CF_Needles_LayerInfo.uasset" offset: 14241792, size: 805 bytes, sha1: 84D702FC8C160E6E4ACE0832976045304CBF1FEA, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/CF_Moss_LayerInfo.uasset" offset: 14242650, size: 796 bytes, sha1: F03F6B1DD06C530560F20AE5290BAF8BA8ACC433, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/CF_Dirt_LayerInfo.uasset" offset: 14243840, size: 796 bytes, sha1: 196A5B16BA7CB223B6F2E5ED4EB936D5B0D780DF, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/C_Snowcap_LayerInfo.uasset" offset: 14244689, size: 802 bytes, sha1: F2E8B02EBA046E7CA084C8D64942CDCC9C22EC76, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/C_River_Stones_LayerInfo.uasset" offset: 14245888, size: 817 bytes, sha1: AB72F3C9D9597CFA6909237978716D2C758B3970, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/C_Erosion_LayerInfo.uasset" offset: 14246758, size: 802 bytes, sha1: 91A464C35F53F92A9CB2727D2E52F3EC724BF620, compression: None.
-LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/AC_Snow_LayerInfo.uasset" offset: 14247936, size: 796 bytes, sha1: F02CFB9AB1C69C84B28F2034D016982988D11C79, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/C_River_Stones_LayerInfo.uasset" offset: 14232294, size: 817 bytes, sha1: AB72F3C9D9597CFA6909237978716D2C758B3970, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/C_Erosion_LayerInfo.uasset" offset: 14233600, size: 802 bytes, sha1: 91A464C35F53F92A9CB2727D2E52F3EC724BF620, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/AC_Snow_LayerInfo.uasset" offset: 14234455, size: 796 bytes, sha1: F02CFB9AB1C69C84B28F2034D016982988D11C79, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/C_Snowcap_LayerInfo.uasset" offset: 14235648, size: 802 bytes, sha1: F2E8B02EBA046E7CA084C8D64942CDCC9C22EC76, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/CF_Dirt_LayerInfo.uasset" offset: 14236503, size: 796 bytes, sha1: 196A5B16BA7CB223B6F2E5ED4EB936D5B0D780DF, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/CF_Moss_LayerInfo.uasset" offset: 14237696, size: 796 bytes, sha1: F03F6B1DD06C530560F20AE5290BAF8BA8ACC433, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/CF_Needles_LayerInfo.uasset" offset: 14238545, size: 805 bytes, sha1: 84D702FC8C160E6E4ACE0832976045304CBF1FEA, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/DC_Dirt_LayerInfo.uasset" offset: 14239744, size: 796 bytes, sha1: EF984BC73CFADB643F9E1E9F85E52A54F7D90ACC, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/DC_Incline_LayerInfo.uasset" offset: 14240593, size: 805 bytes, sha1: 0FE1F0F8E1BAA29115DD8600054ADA0129FAC93B, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/DC_Sand_LayerInfo.uasset" offset: 14241792, size: 796 bytes, sha1: 7B3B55878227536A0A6464D25E1EDD0DE0D8406B, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/LC_Lava_LayerInfo.uasset" offset: 14242641, size: 796 bytes, sha1: DFDCF9332EB62A7D92998D11AE5CF8B6A4332B7D, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/LC_Sand_LayerInfo.uasset" offset: 14243840, size: 796 bytes, sha1: 4221A7D412F65595BDDF5721650BF0AD6D68375E, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_Dirt_LayerInfo.uasset" offset: 14244689, size: 796 bytes, sha1: A0D24D98ABE12B70C906743B4ADCD879BA8D5C8A, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_GroundMoss_LayerInfo.uasset" offset: 14245888, size: 814 bytes, sha1: C18E676AB6DE4E27874C40B953A1F761F5070678, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_GroundMuddy_LayerInfo.uasset" offset: 14246755, size: 817 bytes, sha1: 44F902A76FB92CBBCF9A8C0424F9E3C8423E29A9, compression: None.
+LogPakFile: Display: "Outpost_007/Outpost_007_sharedassets/WL_Rock_LayerInfo.uasset" offset: 14247936, size: 796 bytes, sha1: 572DDE71CDA47DB0C437F5C84038C1176B63D365, compression: None.
 LogPakFile: Display: "Outpost_007/007_Heightmap/007_Heightmap_x0_y0.umap" offset: 14249984, size: 103800 bytes, sha1: D67C60B16E11F821B892F1B2AD5D384169FA69AA, compression: None.
 LogPakFile: Display: "Outpost_007/007_Heightmap/007_Heightmap_x0_y1.umap" offset: 14354432, size: 103783 bytes, sha1: E9CEFDF890E6456AF9861A7D9DC18DD785BE6199, compression: None.
 LogPakFile: Display: "Outpost_007/007_Heightmap/007_Heightmap_x1_y0.umap" offset: 14458880, size: 101911 bytes, sha1: 466936241457F55D618A849169B307D1CB3DADDA, compression: None.
@@ -687,4 +687,4 @@ LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x1_y1LOD/HeightMap_x1_
 LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x1_y1LOD/HeightMap_x1_y1_LOD3.ubulk" offset: 2650552320, size: 2260992 bytes, sha1: 489D36373BBA1E2CB029363E9EC8B525B1BB998E, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x1_y1LOD/HeightMap_x1_y1_LOD3.uexp" offset: 2652815360, size: 884855 bytes, sha1: 12672E6EB8D4E5034E188D5C0CD29365139487AE, compression: None.
 LogPakFile: Display: 686 files (2653093694 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.158828 seconds
+LogPakFile: Display: Unreal pak executed in 0.161537 seconds
