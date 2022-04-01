@@ -8,7 +8,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.012302 seconds
+LogPakFile: Display: Unreal pak executed in 0.045734 seconds
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_016_OLY/
 LogPakFile: Display: "HeightMap/HeightMap_x3_y7.umap" offset: 0, size: 151389 bytes, sha1: 7886B35E16D5AA25972ED2CA1623ACDDA13C6B7F, compression: None.
@@ -592,4 +592,4 @@ LogPakFile: Display: "Sublevels/Generated/T016_Generated_x1_y3LOD/T_PROXY_T016_G
 LogPakFile: Display: "Sublevels/Generated/T016_Generated_x1_y3LOD/T_PROXY_T016_Generated_x1_y3_LOD1_Normal.ubulk" offset: 2662893568, size: 1392640 bytes, sha1: AE1E282909895EA63C363CCB824173A0D9DA444B, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T016_Generated_x1_y3LOD/T_PROXY_T016_Generated_x1_y3_LOD1_Normal.uexp" offset: 2664288256, size: 6197 bytes, sha1: B64B28EF98F83DD3D073055E409DA7261AC72AAB, compression: None.
 LogPakFile: Display: 580 files (2663581182 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.662720 seconds
+LogPakFile: Display: Unreal pak executed in 0.646723 seconds
