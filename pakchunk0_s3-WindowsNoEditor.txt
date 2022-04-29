@@ -3,12 +3,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1609136748
 LogPakFile: Display:     IndexSize: 17201
-LogPakFile: Display:     IndexHash: F46BF2981F0985A2C3E6661E960073AE41D1F65D
+LogPakFile: Display:     IndexHash: 4EC2779F8241191E99F49DB555343B9CAA431CFF
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.157331 seconds
+LogPakFile: Display: Unreal pak executed in 0.175147 seconds
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/CHA/
 LogPakFile: Display: "CHA_MAL_001_Legs_a.uasset" offset: 0, size: 805 bytes, sha1: 1642ECA426A7C5BAE70696EC4A6F46412535F4D2, compression: None.
@@ -40,13 +40,13 @@ LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Ina
 LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Decals_A.uasset" offset: 57344, size: 875 bytes, sha1: 753B109713241CE8310830E2098EC81D0FCECD9B, compression: None.
 LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/MA_CHA_Envirosuit_Inaris_Decal_Master.uasset" offset: 59392, size: 3399 bytes, sha1: A0688B2B7F31529943701B893F2031E34B05E696, compression: None.
 LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/V01/MA_CHA_Envirosuit_Inaris_Decal.uasset" offset: 63488, size: 3078 bytes, sha1: F604F471B8AAB9AB174D2599C9630577A07506E6, compression: None.
-LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Helmet_N.uasset" offset: 67584, size: 1001 bytes, sha1: 5BC0863236A39DDD233799476FEE928EF4FC75B7, compression: None.
-LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Helmet_ID.uasset" offset: 68638, size: 877 bytes, sha1: 466693D084DC0B0CE70D8735E5B62800BA6A0001, compression: None.
-LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Helmet_D1.uasset" offset: 69632, size: 877 bytes, sha1: 83775A7A7CF56CFCE1D6A16C9CB5B5BDEEDF3517, compression: None.
-LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/DLS_CHA_Envirosuit_Inaris_MASTER.uasset" offset: 71680, size: 6923 bytes, sha1: 33531A5B758E69C750E727F2513BE4F7F21B5449, compression: None.
-LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Legs_N.uasset" offset: 78656, size: 997 bytes, sha1: 951C301377CDA7E62D93B518A2FD8276CDE7E7F7, compression: None.
-LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Legs_ID.uasset" offset: 79872, size: 873 bytes, sha1: 3F2D72D2EEDD1C75189F29CB684651C2980FB693, compression: None.
-LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Legs_D1.uasset" offset: 80798, size: 873 bytes, sha1: 603A039D534A7A964766045AD6DBC9F804CCF331, compression: None.
+LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Legs_N.uasset" offset: 67584, size: 997 bytes, sha1: 951C301377CDA7E62D93B518A2FD8276CDE7E7F7, compression: None.
+LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Legs_ID.uasset" offset: 68634, size: 873 bytes, sha1: 3F2D72D2EEDD1C75189F29CB684651C2980FB693, compression: None.
+LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Legs_D1.uasset" offset: 69632, size: 873 bytes, sha1: 603A039D534A7A964766045AD6DBC9F804CCF331, compression: None.
+LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Helmet_N.uasset" offset: 70558, size: 1001 bytes, sha1: 5BC0863236A39DDD233799476FEE928EF4FC75B7, compression: None.
+LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Helmet_ID.uasset" offset: 71680, size: 877 bytes, sha1: 466693D084DC0B0CE70D8735E5B62800BA6A0001, compression: None.
+LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Helmet_D1.uasset" offset: 72610, size: 877 bytes, sha1: 83775A7A7CF56CFCE1D6A16C9CB5B5BDEEDF3517, compression: None.
+LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/DLS_CHA_Envirosuit_Inaris_MASTER.uasset" offset: 73728, size: 6923 bytes, sha1: 33531A5B758E69C750E727F2513BE4F7F21B5449, compression: None.
 LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/V01/DLS_CHA_Envirosuit_Inaris_Legs.uasset" offset: 81920, size: 4772 bytes, sha1: F5F3870B0A5925803BCF567D5BBAA2FFBD9F14DA, compression: None.
 LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Hands_N.uasset" offset: 86745, size: 999 bytes, sha1: B880B2C5EA9172D1C42386309301F21718E7F17E, compression: None.
 LogPakFile: Display: "3RD/CHA_MAL_Envirosuit_Inaris_MAT/T_CHA_MAL_Envirosuit_Inaris_Hands_ID.uasset" offset: 88064, size: 875 bytes, sha1: D994C8FF3D5B249E370B89B0F5AA5668399C20A9, compression: None.
@@ -153,10 +153,10 @@ LogPakFile: Display: "ARMOR/T_1ST_CHA_MAL_ARM_CarbonFiber_Arms_A.uasset" offset:
 LogPakFile: Display: "ARMOR/TMP/M_1ST_CHA_MAL_ARM_CarbonFiber_Arms.uasset" offset: 448512, size: 4350 bytes, sha1: 12833B1A25A6AD179EF20413C49BFFD2573BF787, compression: None.
 LogPakFile: Display: "ARM/SK_1ST_CHA_MAL_ARM_Arm_CarbonFiber.uasset" offset: 454656, size: 4203 bytes, sha1: 272787F2B13A6E5110790BB22460A220F235F06A, compression: None.
 LogPakFile: Display: "ARMOR/T_1ST_CHA_MAL_ARM_Carbon_Fiber_Hands_Masks.uasset" offset: 458912, size: 904 bytes, sha1: 80CE2A9A301BB0E68D0CD18DB410863B2C6DDBA2, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_Carbon_Fiber_Chest_Masks.uasset" offset: 460800, size: 888 bytes, sha1: C882D053A16757CDFA23EE69EFBB56703F2B62F7, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Carbon_Fiber_Chest_RMA.uasset" offset: 461741, size: 969 bytes, sha1: 03327FB30A2E92C4E2B5CCBB26986F10C3F5E033, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Carbon_Fiber_Chest_N.uasset" offset: 462848, size: 969 bytes, sha1: F01E51FD070DBBB411A759F8E67BA0EF182E2660, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Carbon_Fiber_Chest_A.uasset" offset: 463870, size: 843 bytes, sha1: 7383825DCE02ECE031E6BA4C191C8B07332FA510, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Carbon_Fiber_Chest_RMA.uasset" offset: 460800, size: 969 bytes, sha1: 03327FB30A2E92C4E2B5CCBB26986F10C3F5E033, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Carbon_Fiber_Chest_N.uasset" offset: 461822, size: 969 bytes, sha1: F01E51FD070DBBB411A759F8E67BA0EF182E2660, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Carbon_Fiber_Chest_A.uasset" offset: 462848, size: 843 bytes, sha1: 7383825DCE02ECE031E6BA4C191C8B07332FA510, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_Carbon_Fiber_Chest_Masks.uasset" offset: 463744, size: 888 bytes, sha1: C882D053A16757CDFA23EE69EFBB56703F2B62F7, compression: None.
 LogPakFile: Display: "ARMOR/TMP/M_CHA_MAL_ARM_Carbon_Fiber_Chest_V1.uasset" offset: 464896, size: 4875 bytes, sha1: 9C44DE5CC15D7F5D6566B512D0DC1E0612F1F4A0, compression: None.
 LogPakFile: Display: "ARMOR/TMP/M_1ST_CHA_MAL_ARM_CarbonFiber_Arms_V1.uasset" offset: 471040, size: 4788 bytes, sha1: 803324B410D1C0A991C1558659D8848A1C631BE3, compression: None.
 LogPakFile: Display: "ARM/SK_1ST_CHA_MAL_ARM_Arm_CarbonFiber_V1.uasset" offset: 477184, size: 4215 bytes, sha1: E41FF711387C1B519CB64A5E1BEE4415495FFDF3, compression: None.
@@ -186,9 +186,9 @@ LogPakFile: Display: "ARMOR/T_1ST_CHA_MAL_ARM_Fur_Arms_A.uasset" offset: 550912,
 LogPakFile: Display: "ARMOR/TMP/M_1ST_CHA_MAL_ARM_Fur_Arms.uasset" offset: 552960, size: 4615 bytes, sha1: 71D5150592428DD50B7F2E616D6DA00B8851B5D9, compression: None.
 LogPakFile: Display: "ARM/SK_1ST_CHA_MAL_ARM_Arm_Fur.uasset" offset: 559104, size: 4114 bytes, sha1: B1C91575DF1A8164007D900FAA5271E7DFF1B6A8, compression: None.
 LogPakFile: Display: "ARM/SK_1ST_CHA_MAL_ARM_Arm_Ghillie_PhysicsAsset.uasset" offset: 565248, size: 2865 bytes, sha1: 2B3B38B1164CD9D279C9C8991C7FE61050015132, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Ghillie_Fibers_RMA.uasset" offset: 568166, size: 961 bytes, sha1: 76E7888543E7510F1403D8C01B08458661FE1E38, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Ghillie_Fibers_N.uasset" offset: 569344, size: 961 bytes, sha1: 25B8AD171F627ABA04C6060ABE559CACD7F95296, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Ghillie_Fibers_A.uasset" offset: 570358, size: 835 bytes, sha1: A1905B4986509E3A2A0F18DA2DE1B4EBB2D7DE76, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Ghillie_Fibers_N.uasset" offset: 568166, size: 961 bytes, sha1: 25B8AD171F627ABA04C6060ABE559CACD7F95296, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Ghillie_Fibers_A.uasset" offset: 569344, size: 835 bytes, sha1: A1905B4986509E3A2A0F18DA2DE1B4EBB2D7DE76, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Ghillie_Fibers_RMA.uasset" offset: 570232, size: 961 bytes, sha1: 76E7888543E7510F1403D8C01B08458661FE1E38, compression: None.
 LogPakFile: Display: "ARMOR/TMP/M_CHA_MAL_ARM_Ghillie_Fibers.uasset" offset: 571392, size: 4342 bytes, sha1: 228AB18745B0812C379FC34CE0329B9A211DD137, compression: None.
 LogPakFile: Display: "ARMOR/T_1ST_CHA_MAL_ARM_Ghillie_Arms_RMA.uasset" offset: 575787, size: 965 bytes, sha1: 5917FB7916EDC328AA64E0BEFFF0CC3C3D974991, compression: None.
 LogPakFile: Display: "ARMOR/T_1ST_CHA_MAL_ARM_Ghillie_Arms_N.uasset" offset: 577536, size: 965 bytes, sha1: 13076D43AAF120E4586FC815A0F8BDE6C2645D38, compression: None.
@@ -244,10 +244,10 @@ LogPakFile: Display: "ARM/SK_CHA_ARM_Chest_PolarBear.uasset" offset: 737280, siz
 LogPakFile: Display: "ARM/SK_CHA_ARM_Chest_PolarBear_Skeleton_AnimBlueprint.uasset" offset: 743424, size: 2662 bytes, sha1: BFDF1696ED3F5667CA9845C3C00F8C2B578CABB3, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_ARM_Head_PolarBear_Skeleton.uasset" offset: 746139, size: 1065 bytes, sha1: 567022E195ED17A60F02A69E664576E46B64E6FE, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_ARM_Head_PolarBear_PhysicsAsset.uasset" offset: 747520, size: 1576 bytes, sha1: D1FF84A63AEDBD8F173883FB34ADF863C024C39A, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Hunter_Head_E.uasset" offset: 749568, size: 739 bytes, sha1: C8E1ABE53CE696B4C66CDDF05D2D7067A2E80B47, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_PolarBear_Head_RMA.uasset" offset: 750360, size: 969 bytes, sha1: 5654D46FC2CE5FDAE438DC28EBF9D9A5398A0DE8, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_PolarBear_Head_N.uasset" offset: 751616, size: 969 bytes, sha1: DBC42D711CD4D511A996B8232811D4AAF9DA07CB, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_PolarBear_Head_A.uasset" offset: 752638, size: 843 bytes, sha1: EE4D2E4FC0E4FFA489DC16A409BBEBB937A47762, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_PolarBear_Head_RMA.uasset" offset: 749568, size: 969 bytes, sha1: 5654D46FC2CE5FDAE438DC28EBF9D9A5398A0DE8, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_PolarBear_Head_N.uasset" offset: 750590, size: 969 bytes, sha1: DBC42D711CD4D511A996B8232811D4AAF9DA07CB, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_PolarBear_Head_A.uasset" offset: 751616, size: 843 bytes, sha1: EE4D2E4FC0E4FFA489DC16A409BBEBB937A47762, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Hunter_Head_E.uasset" offset: 752512, size: 739 bytes, sha1: C8E1ABE53CE696B4C66CDDF05D2D7067A2E80B47, compression: None.
 LogPakFile: Display: "ARMOR/TMP/CHA_MAL_ARM_Fur_PolarBear_Head.uasset" offset: 753664, size: 4781 bytes, sha1: EB001AA64F8C8F3F65D80D16C3FD1AAE5D974A55, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_ARM_Head_PolarBear.uasset" offset: 759808, size: 3483 bytes, sha1: 6BF32A920C613CE3E73E5FBBF42C003DCC6C5240, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_ARM_Head_PolarBear_Skeleton_AnimBlueprint.uasset" offset: 763904, size: 2656 bytes, sha1: 0B53426706CFC8DBEDD7A9B414CB21F853695BEF, compression: None.
@@ -427,9 +427,9 @@ LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_Head_RMA.uasset" offset: 1473433, 
 LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_Head_N.uasset" offset: 1474560, size: 949 bytes, sha1: 208C2CA9E6C8963511ED8C81866E6EBD5DD9468D, compression: None.
 LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Fur_Head_A.uasset" offset: 1475562, size: 823 bytes, sha1: D8356CF2433889B52CF37EA02532E147318EF284, compression: None.
 LogPakFile: Display: "ARMOR/TMP/M_CHA_MAL_ARM_Fur_Head.uasset" offset: 1476608, size: 4074 bytes, sha1: A8B3950517F03828214969959840DFBA65AA6F18, compression: None.
-LogPakFile: Display: "ARMOR/fur01_RMA.uasset" offset: 1480735, size: 915 bytes, sha1: D5211899C9527709D281773213B40A6D71E5A485, compression: None.
-LogPakFile: Display: "ARMOR/fur01_N.uasset" offset: 1481703, size: 915 bytes, sha1: 0C0A539249DA75E583F799579F625EDF2782E726, compression: None.
-LogPakFile: Display: "ARMOR/fur01_A2.uasset" offset: 1482752, size: 791 bytes, sha1: B9936D857133AF818D8901D85FC30BE865BBDD5B, compression: None.
+LogPakFile: Display: "ARMOR/fur01_N.uasset" offset: 1480735, size: 915 bytes, sha1: 0C0A539249DA75E583F799579F625EDF2782E726, compression: None.
+LogPakFile: Display: "ARMOR/fur01_A2.uasset" offset: 1481703, size: 791 bytes, sha1: B9936D857133AF818D8901D85FC30BE865BBDD5B, compression: None.
+LogPakFile: Display: "ARMOR/fur01_RMA.uasset" offset: 1482752, size: 915 bytes, sha1: D5211899C9527709D281773213B40A6D71E5A485, compression: None.
 LogPakFile: Display: "ARMOR/TMP/M_CHA_MAL_ARM_FuR02.uasset" offset: 1484800, size: 4158 bytes, sha1: 6BC315BA959484FD4E664C0BDD23D281BB73E852, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_MAL_ARM_Head_Fur.uasset" offset: 1490944, size: 6854 bytes, sha1: 5146ECBB97BD311F7095C54893A4495CFAC296CB, compression: None.
 LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Ghillie_Head_RMA.uasset" offset: 1497851, size: 957 bytes, sha1: E2BCA2C6C30E2BA7E5FB17D9E921CBC289303043, compression: None.
@@ -442,10 +442,10 @@ LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Hunter_Head_N.uasset" offset: 1515520,
 LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Hunter_Head_A.uasset" offset: 1516528, size: 829 bytes, sha1: 255484C9B3B9B93141311748066B70E4DEB5FBDD, compression: None.
 LogPakFile: Display: "ARMOR/TMP/M_CHA_MAL_ARM_Hunter_Head.uasset" offset: 1517568, size: 4325 bytes, sha1: 6D8BB935F854128B21254B944139E64BD5459C78, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_MAL_ARM_Head_Hunter.uasset" offset: 1523712, size: 7076 bytes, sha1: 1933FA97F72E8B77C2B2209A64717DE2731CD68A, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Leather_Head_RMA.uasset" offset: 1530841, size: 957 bytes, sha1: A6FB2150A7E67C07F10821206E3D92E0DD019751, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Leather_Head_N.uasset" offset: 1531904, size: 957 bytes, sha1: 17F141AB048BD3EFDD20C4B8D2084A3EC6A1B50E, compression: None.
-LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Leather_Head_A.uasset" offset: 1532914, size: 831 bytes, sha1: 20D5B14C1407DC317BC9D25A1550F949DB0A9495, compression: None.
-LogPakFile: Display: "ARMOR/CHA_MAL_001_Head_B.uasset" offset: 1533952, size: 937 bytes, sha1: 5CDE3CD81C8160A6D8E9CEF1E37E8B377F8543E9, compression: None.
+LogPakFile: Display: "ARMOR/CHA_MAL_001_Head_B.uasset" offset: 1530841, size: 937 bytes, sha1: 5CDE3CD81C8160A6D8E9CEF1E37E8B377F8543E9, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Leather_Head_RMA.uasset" offset: 1531904, size: 957 bytes, sha1: A6FB2150A7E67C07F10821206E3D92E0DD019751, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Leather_Head_N.uasset" offset: 1532914, size: 957 bytes, sha1: 17F141AB048BD3EFDD20C4B8D2084A3EC6A1B50E, compression: None.
+LogPakFile: Display: "ARMOR/T_CHA_MAL_ARM_Leather_Head_A.uasset" offset: 1533952, size: 831 bytes, sha1: 20D5B14C1407DC317BC9D25A1550F949DB0A9495, compression: None.
 LogPakFile: Display: "ARMOR/M_CHA_MAL_ARM_Leather_Head.uasset" offset: 1536000, size: 4442 bytes, sha1: D85A9DFB56BDEF25B4C8F8087CA44866DB32C214, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_MAL_ARM_Head_Leather.uasset" offset: 1542144, size: 6735 bytes, sha1: 1A2382B5FCC7F1EC5782EB61820DD6D08E60F2D2, compression: None.
 LogPakFile: Display: "ARM/SK_CHA_MAL_ARM_Head_Scale_PhysicsAsset.uasset" offset: 1550336, size: 1576 bytes, sha1: BA26A2711E912D3D8806F1E087CFAA27C429DDA7, compression: None.
@@ -555,17 +555,17 @@ LogPakFile: Display: "3RD/CHA_MAL_EnvirSuit_Shengong_MAT/T_CHA_MAL_Envirosuit_Sh
 LogPakFile: Display: "3RD/CHA_MAL_EnvirSuit_Shengong_MAT/V1/DLS_CHA_MAL_EnviroSuit_Shengong_Head_inst.uasset" offset: 1918976, size: 5265 bytes, sha1: AA4AB9C2E47D2D87E464EBC849EED4A4EAFEA1E7, compression: None.
 LogPakFile: Display: "3RD/M_CHA_001_HelmetGlass2.uasset" offset: 1925120, size: 3379 bytes, sha1: FB22839C77A83955724CE6D5F7AF73107A99E4F8, compression: None.
 LogPakFile: Display: "3RD/M_CHA_001_Invis.uasset" offset: 1929216, size: 1117 bytes, sha1: A0D7825D6701DDC1A8E0EA66A6C12B96FEBD6723, compression: None.
-LogPakFile: Display: "3RD/OLD_3RD_CHA_Idle.uasset" offset: 1931264, size: 1641 bytes, sha1: E85BBB74400578C5C3D03113E4353C8D3964100B, compression: None.
-LogPakFile: Display: "3RD/OLD_3RD_CHA_Idle_Add.uasset" offset: 1933312, size: 1839 bytes, sha1: 5A7A0A94CA98290C0B2CE338E59F508F5B03C3DF, compression: None.
-LogPakFile: Display: "Anim_VehicleLayerInterface.uasset" offset: 1935360, size: 1555 bytes, sha1: 5C75E6749529614715A4350B626D98690E89B759, compression: None.
+LogPakFile: Display: "Anim_VehicleLayerInterface.uasset" offset: 1931264, size: 1555 bytes, sha1: 5C75E6749529614715A4350B626D98690E89B759, compression: None.
+LogPakFile: Display: "3RD/OLD_3RD_CHA_Idle.uasset" offset: 1933312, size: 1641 bytes, sha1: E85BBB74400578C5C3D03113E4353C8D3964100B, compression: None.
+LogPakFile: Display: "3RD/OLD_3RD_CHA_Idle_Add.uasset" offset: 1935360, size: 1839 bytes, sha1: 5A7A0A94CA98290C0B2CE338E59F508F5B03C3DF, compression: None.
 LogPakFile: Display: "3RD/OLD_3RD_CHA_SPRIdle.uasset" offset: 1937408, size: 1622 bytes, sha1: E4219DAA6A0533AD658C062FD35D7DC75D34157D, compression: None.
-LogPakFile: Display: "3RD/SK_CHA_FEM_HAB_PhysicsAsset.uasset" offset: 1939456, size: 7173 bytes, sha1: 37F96CCCDF8693BCCFCEF19381C6DCAFD43252AA, compression: None.
-LogPakFile: Display: "3RD/SK_CHA_FEM_HAB.uasset" offset: 1947648, size: 6071 bytes, sha1: CBB5D52887D8951EDB9F075D28B6B0E4CD2FDE16, compression: None.
-LogPakFile: Display: "3RD_CHA_MAL_HAB_Skeleton.uasset" offset: 1953792, size: 6921 bytes, sha1: F3BEFC9CF6CE437179A08AED174B24952EF90B6E, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_RMA.uasset" offset: 1960766, size: 939 bytes, sha1: F18516AC6E149A3D6655432349D010DDF7208C95, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_N.uasset" offset: 1961984, size: 939 bytes, sha1: BDE485EEFEED9F41D0170E419AC055C5E87DF9A6, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_B.uasset" offset: 1962976, size: 939 bytes, sha1: A7C5F44BE0B43964B1F084CFF2C993B42551E42C, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_A.uasset" offset: 1964032, size: 813 bytes, sha1: E9F0B1D4B779C67BB8DAF50C4D85379BDDFE4545, compression: None.
+LogPakFile: Display: "3RD_CHA_MAL_HAB_Skeleton.uasset" offset: 1939456, size: 6921 bytes, sha1: F3BEFC9CF6CE437179A08AED174B24952EF90B6E, compression: None.
+LogPakFile: Display: "3RD/SK_CHA_FEM_HAB_PhysicsAsset.uasset" offset: 1947648, size: 7173 bytes, sha1: 37F96CCCDF8693BCCFCEF19381C6DCAFD43252AA, compression: None.
+LogPakFile: Display: "3RD/SK_CHA_FEM_HAB.uasset" offset: 1955840, size: 6071 bytes, sha1: CBB5D52887D8951EDB9F075D28B6B0E4CD2FDE16, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_RMA.uasset" offset: 1961984, size: 939 bytes, sha1: F18516AC6E149A3D6655432349D010DDF7208C95, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_N.uasset" offset: 1962976, size: 939 bytes, sha1: BDE485EEFEED9F41D0170E419AC055C5E87DF9A6, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_B.uasset" offset: 1964032, size: 939 bytes, sha1: A7C5F44BE0B43964B1F084CFF2C993B42551E42C, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Legs_A.uasset" offset: 1965024, size: 813 bytes, sha1: E9F0B1D4B779C67BB8DAF50C4D85379BDDFE4545, compression: None.
 LogPakFile: Display: "3RD/M_CHA_MAL_001_Legs.uasset" offset: 1966080, size: 4412 bytes, sha1: AF4799BC607D153BE46C1D928FFF62DFA4E7065F, compression: None.
 LogPakFile: Display: "3RD/T_CHA_MAL_001_Hands_RMA.uasset" offset: 1970545, size: 941 bytes, sha1: 715EFF5A1A977C61E7B378D095BA12A3F047CA88, compression: None.
 LogPakFile: Display: "3RD/T_CHA_MAL_001_Hands_N.uasset" offset: 1972224, size: 941 bytes, sha1: B4F636185F8A6EE9C5262591930540A8C8C95ECA, compression: None.
@@ -577,10 +577,10 @@ LogPakFile: Display: "3RD/T_CHA_MAL_001_Feet_B.uasset" offset: 1982464, size: 93
 LogPakFile: Display: "3RD/T_CHA_MAL_001_Feet_A.uasset" offset: 1983456, size: 813 bytes, sha1: 8370C594E44340C1F408D60B523551A3EB823F4A, compression: None.
 LogPakFile: Display: "3RD/T_CHA_FEM_001_Feet_N.uasset" offset: 1984512, size: 939 bytes, sha1: 2B195CA6FF738F8D01EADE3062054C697B83C903, compression: None.
 LogPakFile: Display: "3RD/M_CHA_MAL_001_Feet.uasset" offset: 1986560, size: 4399 bytes, sha1: 2581188EE6AAC659CEC5FC5F26A938F75734BBB8, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_RMA.uasset" offset: 1991012, size: 941 bytes, sha1: E8D7A05D78B8107C904EDF9E745520639EB1ACBE, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_N.uasset" offset: 1992704, size: 941 bytes, sha1: 70E800A25A4103A968960C6C8CD606F164C63508, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_B.uasset" offset: 1993698, size: 941 bytes, sha1: FCF463016648F3487A8CDC87931EAFDB2BB2B72F, compression: None.
-LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_A.uasset" offset: 1994752, size: 815 bytes, sha1: 46B1A8B9AA084C0E70FD9F6C190C494E3A80ED24, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_N.uasset" offset: 1991012, size: 941 bytes, sha1: 70E800A25A4103A968960C6C8CD606F164C63508, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_B.uasset" offset: 1992704, size: 941 bytes, sha1: FCF463016648F3487A8CDC87931EAFDB2BB2B72F, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_A.uasset" offset: 1993698, size: 815 bytes, sha1: 46B1A8B9AA084C0E70FD9F6C190C494E3A80ED24, compression: None.
+LogPakFile: Display: "3RD/T_CHA_MAL_001_Chest_RMA.uasset" offset: 1994752, size: 941 bytes, sha1: E8D7A05D78B8107C904EDF9E745520639EB1ACBE, compression: None.
 LogPakFile: Display: "3RD/M_CHA_MAL_001_Chest.uasset" offset: 1996800, size: 4385 bytes, sha1: B731F052058CDD9BE7DDBE857AB77B466318408F, compression: None.
 LogPakFile: Display: "ARMOR/TMP/M_CHA_MAL_ARM_Fur.uasset" offset: 2002944, size: 4093 bytes, sha1: D4C62AFE9F23D09C51D0E169340D383E71B0073D, compression: None.
 LogPakFile: Display: "CHA_MAL_001_EyeBall_RMA.uasset" offset: 2007090, size: 929 bytes, sha1: 038F4E6E82EAC4C2CED31E965E13F054693261BD, compression: None.
@@ -1434,4 +1434,4 @@ LogPakFile: Display: "CHA_MAL_001_Legs.uexp" offset: 2682472448, size: 557061 by
 LogPakFile: Display: "CHA_MAL_001_Legs_a.ubulk" offset: 2683031552, size: 2793472 bytes, sha1: 4CD75F97862111908045775EDA21D247A02A3894, compression: None.
 LogPakFile: Display: "CHA_MAL_001_Legs_a.uexp" offset: 2685827072, size: 3423 bytes, sha1: 561B2087B7DC38AA5F256248231D6819E23A6072, compression: None.
 LogPakFile: Display: 1422 files (2684215710 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.492269 seconds
+LogPakFile: Display: Unreal pak executed in 1.610052 seconds
