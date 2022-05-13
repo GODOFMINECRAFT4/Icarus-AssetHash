@@ -3,12 +3,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1688418386
 LogPakFile: Display:     IndexSize: 15865
-LogPakFile: Display:     IndexHash: 11AE1CE81AAFD1730DE72F16DDF9397016ED0EF1
+LogPakFile: Display:     IndexHash: A54BC58B6B396E73AA8667A4AC65D417265DB38A
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.012189 seconds
+LogPakFile: Display: Unreal pak executed in 0.151807 seconds
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/
 LogPakFile: Display: "DEP/T_DEP_Campfire_RMA.uasset" offset: 0, size: 919 bytes, sha1: 512FE10F7997A3EAD51011E89BD5C1673CD4D645, compression: None.
@@ -47,14 +47,14 @@ LogPakFile: Display: "DEP/T_DEP_Extractor_01_Albedo.uasset" offset: 32768, size:
 LogPakFile: Display: "DEP/T_DEP_STD_Extractor_Belt_RMA.uasset" offset: 33640, size: 939 bytes, sha1: 7468917B4C78B7910E2994EEF1F7F7A97D241F5D, compression: None.
 LogPakFile: Display: "DEP/T_DEP_STD_Extractor_Belt_N.uasset" offset: 34816, size: 938 bytes, sha1: EF471BB8C81D3194345FCB6B398B143C4022F783, compression: None.
 LogPakFile: Display: "DEP/T_DEP_STD_Extractor_Belt_A.uasset" offset: 35807, size: 821 bytes, sha1: EF5FE8ECB13DCCDE3DAA9DC49AD782377994A195, compression: None.
-LogPakFile: Display: "DEP/T_M_DEP_Extractor_T4_Panels_V2_RMA.uasset" offset: 36864, size: 882 bytes, sha1: D2A9FA69C36B07D82BC45893FB92FBF0155CB97E, compression: None.
-LogPakFile: Display: "DEP/T_M_DEP_Extractor_T4_Panels_V2_N.uasset" offset: 37799, size: 955 bytes, sha1: 8B4AEC142E582CF1EFA1E59070689587CFC4C1FF, compression: None.
-LogPakFile: Display: "DEP/T_M_DEP_Extractor_T4_Panels_V2_A.uasset" offset: 38912, size: 743 bytes, sha1: 3BC0BF3B5ADE883FBB7743D67B6CA150837FCA99, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Extractor_T4_RMA.uasset" offset: 39708, size: 858 bytes, sha1: 3D8E8DAD3603B93A970EDCB92B0FB49623B62B53, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Extractor_T4_N.uasset" offset: 40960, size: 931 bytes, sha1: DC087B18F3016BE3A249B21D1F7CAF29E4DEB5A0, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Extractor_T4_A.uasset" offset: 41944, size: 719 bytes, sha1: D88EE45154DB1212CF6A46EF38E68004C47DF3F8, compression: None.
-LogPakFile: Display: "DEP/T_DEP_STD_Extractor_V2_EM.uasset" offset: 43008, size: 819 bytes, sha1: BA8CFE4025A6CF6F10CE617B569C07CA99F46EAD, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Extractor_T4_V2_RMA.uasset" offset: 43880, size: 864 bytes, sha1: 221E388EB2F8DB995E02009D6AAB40211936BC94, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Extractor_T4_RMA.uasset" offset: 36864, size: 858 bytes, sha1: 3D8E8DAD3603B93A970EDCB92B0FB49623B62B53, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Extractor_T4_N.uasset" offset: 37775, size: 931 bytes, sha1: DC087B18F3016BE3A249B21D1F7CAF29E4DEB5A0, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Extractor_T4_A.uasset" offset: 38912, size: 719 bytes, sha1: D88EE45154DB1212CF6A46EF38E68004C47DF3F8, compression: None.
+LogPakFile: Display: "DEP/T_DEP_STD_Extractor_V2_EM.uasset" offset: 39684, size: 819 bytes, sha1: BA8CFE4025A6CF6F10CE617B569C07CA99F46EAD, compression: None.
+LogPakFile: Display: "DEP/T_M_DEP_Extractor_T4_Panels_V2_RMA.uasset" offset: 40960, size: 882 bytes, sha1: D2A9FA69C36B07D82BC45893FB92FBF0155CB97E, compression: None.
+LogPakFile: Display: "DEP/T_M_DEP_Extractor_T4_Panels_V2_N.uasset" offset: 41895, size: 955 bytes, sha1: 8B4AEC142E582CF1EFA1E59070689587CFC4C1FF, compression: None.
+LogPakFile: Display: "DEP/T_M_DEP_Extractor_T4_Panels_V2_A.uasset" offset: 43008, size: 743 bytes, sha1: 3BC0BF3B5ADE883FBB7743D67B6CA150837FCA99, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Extractor_T4_V2_RMA.uasset" offset: 43804, size: 864 bytes, sha1: 221E388EB2F8DB995E02009D6AAB40211936BC94, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Extractor_T4_V2_N.uasset" offset: 45056, size: 937 bytes, sha1: AF2A0E2D4586EF9EBC1CEFD4E61CCC5329AE3D7C, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Extractor_T4_V2_A.uasset" offset: 46046, size: 725 bytes, sha1: EEBFEAD062BC1A7613A349892E50C604B030AC53, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Floor_Torch_RMA.uasset" offset: 47104, size: 925 bytes, sha1: 1E8FBA087B7EBCDC1D081B676EA136802EDB54F8, compression: None.
@@ -156,10 +156,10 @@ LogPakFile: Display: "DEP/T_DEP_Crate_SML_Metal_A.uasset" offset: 145408, size: 
 LogPakFile: Display: "DEP/T_DEP_Crate_MED_RefinedWood_RMA.uasset" offset: 146276, size: 945 bytes, sha1: 69E1CEF73129D891C942BD75504089C596DC7C9A, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Crate_MED_RefinedWood_N.uasset" offset: 147456, size: 944 bytes, sha1: 6CE3976AA20C178AB01DE5F1EECBB4901958614A, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Crate_MED_RefinedWood_A.uasset" offset: 148453, size: 827 bytes, sha1: B5273161F2E5AFFB39DEAA9E14663014079664C7, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Crate_SML_RefinedWood_A.uasset" offset: 149504, size: 827 bytes, sha1: A294CD046900A8B7EB416DD3FF292FE715CBE319, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Crate_SML_RefinedWood_RMA.uasset" offset: 150384, size: 945 bytes, sha1: 4856D983E34E89F39A7FD6707A9966973C8D460E, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Crate_SML_RefinedWood_N.uasset" offset: 151552, size: 944 bytes, sha1: 2E9BAD8B595BA686203B377EF89C27D3E3D7999A, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Cupboard_Wood_INT_RMA.uasset" offset: 152549, size: 937 bytes, sha1: 556D01CBAC8E19A368A87D39BED67329DCE9ACEA, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Crate_SML_RefinedWood_RMA.uasset" offset: 149504, size: 945 bytes, sha1: 4856D983E34E89F39A7FD6707A9966973C8D460E, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Crate_SML_RefinedWood_N.uasset" offset: 150502, size: 944 bytes, sha1: 2E9BAD8B595BA686203B377EF89C27D3E3D7999A, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Crate_SML_RefinedWood_A.uasset" offset: 151552, size: 827 bytes, sha1: A294CD046900A8B7EB416DD3FF292FE715CBE319, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Cupboard_Wood_INT_RMA.uasset" offset: 152432, size: 937 bytes, sha1: 556D01CBAC8E19A368A87D39BED67329DCE9ACEA, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Cupboard_Wood_INT_N.uasset" offset: 153600, size: 936 bytes, sha1: 241C842FE6A5699CBEED157B541525D6344B516B, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Cupboard_Wood_INT_A.uasset" offset: 154589, size: 819 bytes, sha1: 7C4532AB1EFA1B5C1C654D97316C4A9D0759FC22, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Cupboard_Wood_INT_Small_RMA.uasset" offset: 155648, size: 949 bytes, sha1: BA3F2D7EC0BF4E0D81259FC45DA8D93C848399EB, compression: None.
@@ -301,20 +301,20 @@ LogPakFile: Display: "DEP/T_DEP_Ladder_Reinforced_Wood_A.uasset" offset: 293863,
 LogPakFile: Display: "DEP/T_DEP_Ladder_Thatch_RMA.uasset" offset: 294912, size: 929 bytes, sha1: 05E7D97D718AB914C964503D9DA813FB023BA3CE, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Ladder_Thatch_N.uasset" offset: 295894, size: 928 bytes, sha1: B1661EFE2BD698100DC7FD91EEC8C6FD3BB193B1, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Ladder_Thatch_A.uasset" offset: 296960, size: 811 bytes, sha1: EF5ACC9AD8DC07A8234A932416473590EC19F9D7, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Top_Light_Glass_Basic_RMA.uasset" offset: 297824, size: 876 bytes, sha1: 6C481111EE452A352BEA0DD802254C16350FD602, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Top_Light_Glass_Basic_N.uasset" offset: 299008, size: 949 bytes, sha1: 960C99B398B29D343B36F2DDC07F88CDAE9294A1, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Top_Light_Glass_Basic_A.uasset" offset: 300010, size: 737 bytes, sha1: A00DA73FC9896F76ED6B84693C764DF9A363D597, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_RMA.uasset" offset: 301056, size: 933 bytes, sha1: BDBCD6B959BE1C3697CAE0BF5CA4F726A78E5A86, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_N.uasset" offset: 302042, size: 932 bytes, sha1: EC6F0E08017A3C47D2818F4EEA59DC2B2E763088, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_A.uasset" offset: 303104, size: 815 bytes, sha1: B9F4D5626BE4EBEC353C7FEE732FB335983905E5, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_E.uasset" offset: 303972, size: 815 bytes, sha1: E3286FB62C92C632A4FCD913CAB899499F5A8219, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_RMA.uasset" offset: 297824, size: 933 bytes, sha1: BDBCD6B959BE1C3697CAE0BF5CA4F726A78E5A86, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_N.uasset" offset: 299008, size: 932 bytes, sha1: EC6F0E08017A3C47D2818F4EEA59DC2B2E763088, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_A.uasset" offset: 299993, size: 815 bytes, sha1: B9F4D5626BE4EBEC353C7FEE732FB335983905E5, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Top_Light_Glass_Basic_RMA.uasset" offset: 301056, size: 876 bytes, sha1: 6C481111EE452A352BEA0DD802254C16350FD602, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Top_Light_Glass_Basic_N.uasset" offset: 301985, size: 949 bytes, sha1: 960C99B398B29D343B36F2DDC07F88CDAE9294A1, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Top_Light_Glass_Basic_A.uasset" offset: 303104, size: 737 bytes, sha1: A00DA73FC9896F76ED6B84693C764DF9A363D597, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Top_Light_Basic_E.uasset" offset: 303894, size: 815 bytes, sha1: E3286FB62C92C632A4FCD913CAB899499F5A8219, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Wall_Light_Glass_RMA.uasset" offset: 305152, size: 866 bytes, sha1: F88C5F3702AA0AC5C6DDD3E8A47046F19D223D7F, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Wall_Light_Glass_N.uasset" offset: 306071, size: 939 bytes, sha1: 440FE0381E8355D79185D18B82FDB4AE81780DA7, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Wall_Light_Glass_A.uasset" offset: 307200, size: 727 bytes, sha1: 41719E8D2363A7EBF7A7943A7E016E1DC498E457, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Wall_Light_RMA.uasset" offset: 307980, size: 923 bytes, sha1: A142B9BD3C5B15F8A80533878FEBD6220F01B9FC, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Wall_Light_N.uasset" offset: 309248, size: 922 bytes, sha1: AB8645650ED80C5377313AA9FD7C6B78C1500381, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Wall_Light_A.uasset" offset: 310223, size: 805 bytes, sha1: A7D55907D97FADDA09B2F2D243550C425417BFFF, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Wall_Light_E.uasset" offset: 311296, size: 805 bytes, sha1: 4FC381CA72E42D71FB1F79BDBFEDF35574E6C1F8, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Wall_Light_E.uasset" offset: 307980, size: 805 bytes, sha1: 4FC381CA72E42D71FB1F79BDBFEDF35574E6C1F8, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Wall_Light_RMA.uasset" offset: 309248, size: 923 bytes, sha1: A142B9BD3C5B15F8A80533878FEBD6220F01B9FC, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Wall_Light_N.uasset" offset: 310224, size: 922 bytes, sha1: AB8645650ED80C5377313AA9FD7C6B78C1500381, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Wall_Light_A.uasset" offset: 311296, size: 805 bytes, sha1: A7D55907D97FADDA09B2F2D243550C425417BFFF, compression: None.
 LogPakFile: Display: "DEP/T_DEP_FireWood_EM.uasset" offset: 312154, size: 713 bytes, sha1: 4FB1A5225C0C45434C154D6E683B581BFF9F7C7D, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Fire_RMA.uasset" offset: 313344, size: 842 bytes, sha1: 64094A8ABD74A79AA7181451DA6951A39D843AB6, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Fire_N.uasset" offset: 314239, size: 910 bytes, sha1: F061B76E04544D518EB2A81F3B3F4DBC0AC1B81C, compression: None.
@@ -350,12 +350,12 @@ LogPakFile: Display: "DEP/T_DEP_Cooler_T4_RMA.uasset" offset: 344064, size: 852 
 LogPakFile: Display: "DEP/T_DEP_Cooler_T4_O.uasset" offset: 344969, size: 803 bytes, sha1: 85C81AA0BCFAF64D52F100A447E271C1A1AF75E1, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Cooler_T4_N.uasset" offset: 346112, size: 925 bytes, sha1: 0CEED72E4C05E0BB41D1E580D5F1DA6E89F2D361, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Cooler_T4_A.uasset" offset: 347090, size: 713 bytes, sha1: 66817C42C5C10CC0CED782A2FEFA9FC3839B8F33, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Heater_T4_E.uasset" offset: 348160, size: 803 bytes, sha1: 7307C0343C5A5D5A7796A475BDD9E14DB49D24AD, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Heater_T4_RMA.uasset" offset: 349016, size: 852 bytes, sha1: 11C016475B0D8376FEE9247397AE022FEED83942, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Heater_T4_O.uasset" offset: 350208, size: 803 bytes, sha1: 432D1BC6434FD168ECB7027A52410A35AD09B86D, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Heater_T4_N.uasset" offset: 351064, size: 925 bytes, sha1: E80BFA62E6C233C83009825E674E4E526840344B, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Heater_T4_A.uasset" offset: 352256, size: 713 bytes, sha1: 1D3BA7990E98D56F18CA762732CE5732EAFE314A, compression: None.
-LogPakFile: Display: "DEP/T_DEP_WolfAlpha_Trophy_RMA.uasset" offset: 353022, size: 866 bytes, sha1: 96C9A76E758F8ED2103EA28B48651B95606C4146, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Heater_T4_RMA.uasset" offset: 348160, size: 852 bytes, sha1: 11C016475B0D8376FEE9247397AE022FEED83942, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Heater_T4_O.uasset" offset: 349065, size: 803 bytes, sha1: 432D1BC6434FD168ECB7027A52410A35AD09B86D, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Heater_T4_N.uasset" offset: 350208, size: 925 bytes, sha1: E80BFA62E6C233C83009825E674E4E526840344B, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Heater_T4_A.uasset" offset: 351186, size: 713 bytes, sha1: 1D3BA7990E98D56F18CA762732CE5732EAFE314A, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Heater_T4_E.uasset" offset: 352256, size: 803 bytes, sha1: 7307C0343C5A5D5A7796A475BDD9E14DB49D24AD, compression: None.
+LogPakFile: Display: "DEP/T_DEP_WolfAlpha_Trophy_RMA.uasset" offset: 353112, size: 866 bytes, sha1: 96C9A76E758F8ED2103EA28B48651B95606C4146, compression: None.
 LogPakFile: Display: "DEP/T_DEP_WolfAlpha_Trophy_N.uasset" offset: 354304, size: 934 bytes, sha1: 40866B55FDCD8F9D8F458E26955030480FAFC4A5, compression: None.
 LogPakFile: Display: "DEP/T_DEP_WolfAlpha_Trophy_A.uasset" offset: 355291, size: 727 bytes, sha1: E535576D2DC45545D196C69E17F647ABCAF882A4, compression: None.
 LogPakFile: Display: "DEP/T_DEP_GrizzlyBear_Trophy_Trim_O.uasset" offset: 356352, size: 831 bytes, sha1: 3A2074498F4577C74F336AD30047C5860346D858, compression: None.
@@ -383,9 +383,9 @@ LogPakFile: Display: "DEP/T_DEP_Deer_Trophy_A.uasset" offset: 377809, size: 807 
 LogPakFile: Display: "DEP/T_DEP_Jaguar_Trophy_RMA.uasset" offset: 378880, size: 860 bytes, sha1: D499D3744E1761DD9A1D9A47FB80328AFEF145A3, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Jaguar_Trophy_N.uasset" offset: 379793, size: 928 bytes, sha1: 57BAFF3A942A061D3563CF18805A159684C7193B, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Jaguar_Trophy_A.uasset" offset: 380928, size: 721 bytes, sha1: F1FEC8AA84F073E376C2000BE21E5887C9DDDF33, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Mammoth_Trophy_A.uasset" offset: 381702, size: 723 bytes, sha1: FCAB02E6373903CA62AE69E30E33D8A4C65BE985, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Mammoth_Trophy_RMA.uasset" offset: 382976, size: 862 bytes, sha1: 76448E4614365F8ECD16C41A804466904A4CA295, compression: None.
-LogPakFile: Display: "DEP/T_DEP_Mammoth_Trophy_N.uasset" offset: 383891, size: 935 bytes, sha1: 51E9CF40E7A87899B9B9894CD2503B21A5AA1E85, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Mammoth_Trophy_RMA.uasset" offset: 381702, size: 862 bytes, sha1: 76448E4614365F8ECD16C41A804466904A4CA295, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Mammoth_Trophy_N.uasset" offset: 382976, size: 935 bytes, sha1: 51E9CF40E7A87899B9B9894CD2503B21A5AA1E85, compression: None.
+LogPakFile: Display: "DEP/T_DEP_Mammoth_Trophy_A.uasset" offset: 383964, size: 723 bytes, sha1: FCAB02E6373903CA62AE69E30E33D8A4C65BE985, compression: None.
 LogPakFile: Display: "DEP/T_DEP_PolarBear_Trophy_RMA.uasset" offset: 385024, size: 935 bytes, sha1: 78D1009D7DD4F3D9DE645BF3626C0AA4B3F15996, compression: None.
 LogPakFile: Display: "DEP/T_DEP_PolarBear_Trophy_N.uasset" offset: 386012, size: 934 bytes, sha1: CBDB022590D4F92787FE89DCE972A739D2230442, compression: None.
 LogPakFile: Display: "DEP/T_DEP_PolarBear_Trophy_A.uasset" offset: 387072, size: 817 bytes, sha1: 1E74AFBBD344BDD055E93D14182CBB26AF57AB07, compression: None.
@@ -441,9 +441,9 @@ LogPakFile: Display: "DEP/T_DEP_Water_Pump_A.uasset" offset: 437199, size: 805 b
 LogPakFile: Display: "DEP/T_DEP_Oxidizer_RMA.uasset" offset: 438272, size: 919 bytes, sha1: 200FF2D7A62436FA2FDDCB81D54B0C62E15C4E6C, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Oxidizer_N.uasset" offset: 439244, size: 918 bytes, sha1: FA237193067D5B3986AAB3126F08B4883BF08597, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Oxidizer_A.uasset" offset: 440320, size: 801 bytes, sha1: BBBEC141B8D651AEC96AA6E6B93C40FE6839172A, compression: None.
-LogPakFile: Display: "DEP/T_DEP_PotBellyStove_RMA.uasset" offset: 441174, size: 929 bytes, sha1: 27FC0433B59FB943D9D9DE4CAEBF71BAB5740643, compression: None.
-LogPakFile: Display: "DEP/T_DEP_PotBellyStove_N.uasset" offset: 442368, size: 928 bytes, sha1: FBC1AFA916A18EADD45F049E364ABB13C369AA5D, compression: None.
-LogPakFile: Display: "DEP/T_DEP_PotBellyStove_A.uasset" offset: 443349, size: 811 bytes, sha1: 310D96D8B45F8F1D65E7FE9B9434FA48ED5653EA, compression: None.
+LogPakFile: Display: "DEP/T_DEP_PotBellyStove_N.uasset" offset: 441174, size: 928 bytes, sha1: FBC1AFA916A18EADD45F049E364ABB13C369AA5D, compression: None.
+LogPakFile: Display: "DEP/T_DEP_PotBellyStove_A.uasset" offset: 442368, size: 811 bytes, sha1: 310D96D8B45F8F1D65E7FE9B9434FA48ED5653EA, compression: None.
+LogPakFile: Display: "DEP/T_DEP_PotBellyStove_RMA.uasset" offset: 443232, size: 929 bytes, sha1: 27FC0433B59FB943D9D9DE4CAEBF71BAB5740643, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Crate_Sinotai_D_RMA.uasset" offset: 444416, size: 864 bytes, sha1: 6CB94EB3AB7DE55FD9CCD16317589E5148500883, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Crate_Sinotai_D_N.uasset" offset: 445333, size: 937 bytes, sha1: FB3F484E4AABE6FB970F16F5B7530E914AF0F08D, compression: None.
 LogPakFile: Display: "DEP/T_DEP_Crate_Sinotai_D_A.uasset" offset: 446464, size: 725 bytes, sha1: DBDA75A098EDBBC13F16C09E2666A40263621318, compression: None.
@@ -1323,4 +1323,4 @@ LogPakFile: Display: "DPS/ANI_DPS_SML_DropShip_02_MID_DoorOpen.uasset" offset: 2
 LogPakFile: Display: "DPS/ANI_DPS_SML_DropShip_02_MID_DoorOpen.uexp" offset: 2606546474, size: 1600 bytes, sha1: A5548C8D8DAF294F6BBDCE24ACCC7BE86B08063D, compression: None.
 LogPakFile: Display: "DPS/ANI_DPS_SML_Dropship_MID.uexp" offset: 2606548127, size: 730 bytes, sha1: 2E29D5745F74FB1BF0902F145AACFE6582A91739, compression: None.
 LogPakFile: Display: 1311 files (2605072944 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.195598 seconds
+LogPakFile: Display: Unreal pak executed in 1.462253 seconds
