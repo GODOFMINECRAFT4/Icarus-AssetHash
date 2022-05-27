@@ -3,12 +3,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1627779656
 LogPakFile: Display:     IndexSize: 19273
-LogPakFile: Display:     IndexHash: D2645783CB6E084D5926B13BE223B5F70246D40C
+LogPakFile: Display:     IndexHash: 9138DBDD275021C3F28E7E429C477567DB886834
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.137850 seconds
+LogPakFile: Display: Unreal pak executed in 0.124961 seconds
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/
 LogPakFile: Display: "BLD/T_BLD_TrapDoorHatch_Concrete_RMA.uasset" offset: 0, size: 947 bytes, sha1: 5B096224EB8625FEE455538334E53AD7A225F7D3, compression: None.
@@ -29,8 +29,8 @@ LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNIAttack01.uasset" offset: 4
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNI_Attack_Montage.uasset" offset: 49152, size: 4510 bytes, sha1: 3B828987C77C21B9C38BEC38A4E15DCC277D0337, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNIFlip.uasset" offset: 55296, size: 3302 bytes, sha1: 4F480CDB5BD47AC5D5C48AF93F3442E0D20402D2, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNI_Equip_Montage.uasset" offset: 59392, size: 2878 bytes, sha1: 2EB84CD7376A6FCBD81E5E2D0EA5C1964D584939, compression: None.
-LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNIThrow.uasset" offset: 63488, size: 3335 bytes, sha1: 1C5671381F9770D75E91E62623BE6DE06255C49C, compression: None.
-LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNIAimIdle.uasset" offset: 67584, size: 1493 bytes, sha1: 11DF8369B5781061ADC86A4BA7C930854EFC007F, compression: None.
+LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNIAimIdle.uasset" offset: 63488, size: 1493 bytes, sha1: 11DF8369B5781061ADC86A4BA7C930854EFC007F, compression: None.
+LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNIThrow.uasset" offset: 65536, size: 3335 bytes, sha1: 1C5671381F9770D75E91E62623BE6DE06255C49C, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HKNI_Throw_Montage.uasset" offset: 69632, size: 3160 bytes, sha1: 3C3804EF50C33DB39864FA4AABD9B6D8A9884A4F, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HLamp_Idle.uasset" offset: 73728, size: 1491 bytes, sha1: 05A6D07303339070DF203FA0A512EEDA6DDE1888, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_1HLamp_OnOff.uasset" offset: 75776, size: 1493 bytes, sha1: C163B9BB3669067FCB95ABC6BB1FE088306DBDC4, compression: None.
@@ -112,8 +112,8 @@ LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtinguisherEquip.uasset" o
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtinguisherEquip_Montage.uasset" offset: 274432, size: 1838 bytes, sha1: EEF35525366A3A0A834C45E411579E529C3C6D6B, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtinguisherUse_Loop.uasset" offset: 276480, size: 1517 bytes, sha1: 758EFF8F54F3FD918E7574B0DAA886E5F1DFC941, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtinguisherUse_Montage.uasset" offset: 278528, size: 1840 bytes, sha1: 023AC04ABCE773B28594E671C065040C69BC4DA3, compression: None.
-LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtingusherRun.uasset" offset: 280576, size: 1505 bytes, sha1: 4B0F45CC4E83418AAD734CC5CEDD21F3BE3C803A, compression: None.
-LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtinguisherWalk.uasset" offset: 282624, size: 1525 bytes, sha1: 3CBB253A4537C227AE90C02BFFBA56F7783CE4AB, compression: None.
+LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtinguisherWalk.uasset" offset: 280576, size: 1525 bytes, sha1: 3CBB253A4537C227AE90C02BFFBA56F7783CE4AB, compression: None.
+LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtingusherRun.uasset" offset: 282624, size: 1505 bytes, sha1: 4B0F45CC4E83418AAD734CC5CEDD21F3BE3C803A, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtinguisherIdle.uasset" offset: 284672, size: 1509 bytes, sha1: 472A2E17D33D019E537851C6F70E22CD92FF23BC, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_FireExtingusher_Loco_BS.uasset" offset: 286720, size: 1775 bytes, sha1: 60193B28C4C8A4295A0323692F6B4C4B3B216A54, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_Punch_Right.uasset" offset: 288768, size: 1491 bytes, sha1: CCDAE602F9F0317C3D0B59519C437158E31C4AFD, compression: None.
@@ -199,12 +199,12 @@ LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_SPRWalk.uasset" offset: 538624,
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_SPRRun.uasset" offset: 540672, size: 1481 bytes, sha1: 93D1D77BA24407B5A31F3C9874B1CA17ED1C86FD, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_SPRIdle.uasset" offset: 542720, size: 1483 bytes, sha1: 8FA1957DB5FBE42D32E3A82D3926EFF316A105E8, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_SPR__Loco_BS.uasset" offset: 544768, size: 1677 bytes, sha1: 1396C52A74D0D1FF21ED2B3CA6D86C10CB81D420, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Chest_N.uasset" offset: 546816, size: 957 bytes, sha1: 94A51D0E5CB70175D05DF69EA6457E10E8818240, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Chest_ID.uasset" offset: 547826, size: 833 bytes, sha1: CCDAD3C6FD300B7484BD9BCDC57DD87AC7DE023F, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Chest_D1.uasset" offset: 548864, size: 867 bytes, sha1: 8B59497E2B06BF32D4F3BEE92FAB1A9D757C06C6, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DLS_CHA_001_MASTER.uasset" offset: 550912, size: 7650 bytes, sha1: FB4E3EAB2217BCD131BA3D98F5834197E451066C, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Feet_ID.uasset" offset: 559104, size: 831 bytes, sha1: F50AF9F94B6A6E43584904DF45A4B9F1899EC119, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Feet_D1.uasset" offset: 559988, size: 831 bytes, sha1: 71A1BF63FA9E9D0A1F0E4657A7888DB7BFB5422A, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Feet_ID.uasset" offset: 546816, size: 831 bytes, sha1: F50AF9F94B6A6E43584904DF45A4B9F1899EC119, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Feet_D1.uasset" offset: 547700, size: 831 bytes, sha1: 71A1BF63FA9E9D0A1F0E4657A7888DB7BFB5422A, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Chest_N.uasset" offset: 548864, size: 957 bytes, sha1: 94A51D0E5CB70175D05DF69EA6457E10E8818240, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Chest_ID.uasset" offset: 549874, size: 833 bytes, sha1: CCDAD3C6FD300B7484BD9BCDC57DD87AC7DE023F, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Chest_D1.uasset" offset: 550912, size: 867 bytes, sha1: 8B59497E2B06BF32D4F3BEE92FAB1A9D757C06C6, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DLS_CHA_001_MASTER.uasset" offset: 552960, size: 7650 bytes, sha1: FB4E3EAB2217BCD131BA3D98F5834197E451066C, compression: None.
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Decal_ID.uasset" offset: 561152, size: 833 bytes, sha1: BB19FA867AF0E245B95FF78F1D4D433B716F5D78, compression: None.
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Decal_A.uasset" offset: 562038, size: 831 bytes, sha1: B360079394472976155539A6FC3C5716307E26CC, compression: None.
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MA_CHA_001_Decal_MASTER.uasset" offset: 563200, size: 4033 bytes, sha1: B73D265CFA0322A8C38EEC70016F5758A991ACAD, compression: None.
@@ -216,24 +216,24 @@ LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V1_A.uasset" offset: 582536, size: 849 bytes, sha1: 8379D97F3F252499A4148E4A40CA884A9CD3A0CF, compression: None.
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/MA_Decal_Variation_MASTER.uasset" offset: 583680, size: 4053 bytes, sha1: AF201E8B98587816FB624F27E5107579F69B990A, compression: None.
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/M_Decal_Variation_v1.uasset" offset: 589824, size: 3241 bytes, sha1: F3D0B8B2CB0864647642B1342188EEBEE594C0CD, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V2.uasset" offset: 593920, size: 4728 bytes, sha1: 5846615A8F56E58120385003C01ACF4CC09D818E, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V2.uasset" offset: 600064, size: 4260 bytes, sha1: 231AE7967F7F35B9736F6E3F00D868CB319E8056, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V2_N.uasset" offset: 604377, size: 971 bytes, sha1: 3438F83B935C1062D39622A207360B23CECC115D, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V2_ID.uasset" offset: 606208, size: 761 bytes, sha1: 1F04F97F736726D5F30BA89CDF84931871DCD5A2, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V2_A.uasset" offset: 607022, size: 849 bytes, sha1: 01BCC751924D73763A6990D8A2E7DE54A4C31DF5, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/M_Decal_Variation_v2.uasset" offset: 608256, size: 3196 bytes, sha1: 03BD7D7953A738911BE42F4D3EB8A346340D42EA, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V3.uasset" offset: 612352, size: 4728 bytes, sha1: 9A636CE1F7CA4C11F6B5D5F8A85C92E8462DA014, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V3.uasset" offset: 618496, size: 4260 bytes, sha1: 76E1BEC33975919D1D3E133495F98FBFC3435766, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V3_N.uasset" offset: 622809, size: 971 bytes, sha1: 8E5E797B162BA8D8B5AA4D30F8F1033D730588A1, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V3_ID.uasset" offset: 624640, size: 761 bytes, sha1: 01208AF285832FB198759E5B671994D54C211503, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V3_A.uasset" offset: 625454, size: 849 bytes, sha1: E69336F947A6BF859BE3AC7C926DA9DD860AA975, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/M_Decal_Variation_v3.uasset" offset: 626688, size: 3171 bytes, sha1: 342C9FE2860E37090C0C052899C6B2E5B887E397, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V4.uasset" offset: 630784, size: 4728 bytes, sha1: EAE7B8B7D3467A7CFBA0C44D753218FCF7D6B486, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V4.uasset" offset: 636928, size: 4260 bytes, sha1: E2DC57858E0C8B5693BA1673AE4890B1CCAB6572, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V4_N.uasset" offset: 641241, size: 971 bytes, sha1: BA7E396748F8DB3FB701E54F3200AEF33FEA0F28, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V4_ID.uasset" offset: 643072, size: 761 bytes, sha1: 6A6491DDF6952DF4F8A5AC8CE0B3CDCF92BC5721, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V4_A.uasset" offset: 643886, size: 849 bytes, sha1: 7E750B139C2F9E799909725D7EA86BA949CCD714, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/M_Decal_Variation_v4.uasset" offset: 645120, size: 3146 bytes, sha1: 6A6902D3F4063A44EB906A9DB45A2B5253CD32D8, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V2.uasset" offset: 593920, size: 4260 bytes, sha1: 231AE7967F7F35B9736F6E3F00D868CB319E8056, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V2_N.uasset" offset: 598233, size: 971 bytes, sha1: 3438F83B935C1062D39622A207360B23CECC115D, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V2_ID.uasset" offset: 600064, size: 761 bytes, sha1: 1F04F97F736726D5F30BA89CDF84931871DCD5A2, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V2_A.uasset" offset: 600878, size: 849 bytes, sha1: 01BCC751924D73763A6990D8A2E7DE54A4C31DF5, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/M_Decal_Variation_v2.uasset" offset: 602112, size: 3196 bytes, sha1: 03BD7D7953A738911BE42F4D3EB8A346340D42EA, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V2.uasset" offset: 606208, size: 4728 bytes, sha1: 5846615A8F56E58120385003C01ACF4CC09D818E, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V3.uasset" offset: 612352, size: 4260 bytes, sha1: 76E1BEC33975919D1D3E133495F98FBFC3435766, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V3_N.uasset" offset: 616665, size: 971 bytes, sha1: 8E5E797B162BA8D8B5AA4D30F8F1033D730588A1, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V3_ID.uasset" offset: 618496, size: 761 bytes, sha1: 01208AF285832FB198759E5B671994D54C211503, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V3_A.uasset" offset: 619310, size: 849 bytes, sha1: E69336F947A6BF859BE3AC7C926DA9DD860AA975, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/M_Decal_Variation_v3.uasset" offset: 620544, size: 3171 bytes, sha1: 342C9FE2860E37090C0C052899C6B2E5B887E397, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V3.uasset" offset: 624640, size: 4728 bytes, sha1: 9A636CE1F7CA4C11F6B5D5F8A85C92E8462DA014, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V4_N.uasset" offset: 629421, size: 971 bytes, sha1: BA7E396748F8DB3FB701E54F3200AEF33FEA0F28, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V4_ID.uasset" offset: 630784, size: 761 bytes, sha1: 6A6491DDF6952DF4F8A5AC8CE0B3CDCF92BC5721, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/T_Decal_Variation_V4_A.uasset" offset: 631598, size: 849 bytes, sha1: 7E750B139C2F9E799909725D7EA86BA949CCD714, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/DECAL_VARIATION/M_Decal_Variation_v4.uasset" offset: 632832, size: 3146 bytes, sha1: 6A6902D3F4063A44EB906A9DB45A2B5253CD32D8, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V4.uasset" offset: 636928, size: 4728 bytes, sha1: EAE7B8B7D3467A7CFBA0C44D753218FCF7D6B486, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V4.uasset" offset: 643072, size: 4260 bytes, sha1: E2DC57858E0C8B5693BA1673AE4890B1CCAB6572, compression: None.
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V5.uasset" offset: 649216, size: 4260 bytes, sha1: 77F6718769083C0CB1D09A0790E0BD7FD3A246EA, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Thatch_Foliage_SSS.uasset" offset: 653529, size: 827 bytes, sha1: FECD0B23AAAD4179D518ED233E1450ADA239AFD4, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Thatched_Foliage_RMA.uasset" offset: 655360, size: 945 bytes, sha1: 55DB4616FBBDB72227BB9E082415FFBAEDFC511A, compression: None.
@@ -246,8 +246,8 @@ LogPakFile: Display: "BLD/T_BLD_Wall_Triangle_Wood_A.uasset" offset: 661504, siz
 LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Wood_RSA.uasset" offset: 662378, size: 943 bytes, sha1: 0E3535EB6142C00CE73AFE028FFB828F641975AB, compression: None.
 LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Wood_N.uasset" offset: 663552, size: 942 bytes, sha1: 8EC6E6BEE32238387B99787497C0E0443CA058E7, compression: None.
 LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Wood_A.uasset" offset: 664547, size: 825 bytes, sha1: A3837B915E961A866CA1259D1CF9B96917D3C6E3, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V0.uasset" offset: 665600, size: 4748 bytes, sha1: 0FE2177E0E42BE90395A43BFE165E702778704D3, compression: None.
-LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V0.uasset" offset: 671744, size: 4260 bytes, sha1: 1AEB9225A70A2BF24E2AD78703FDFAAB42DF559E, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Hose_V0.uasset" offset: 665600, size: 4260 bytes, sha1: 1AEB9225A70A2BF24E2AD78703FDFAAB42DF559E, compression: None.
+LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/MATERIAL_VARIATION/DLS_Material_Variation_Wrist_V0.uasset" offset: 671744, size: 4748 bytes, sha1: 0FE2177E0E42BE90395A43BFE165E702778704D3, compression: None.
 LogPakFile: Display: "CHA/3RD/3RD_CHA_MAL_Master_SkeletonRig.uasset" offset: 677888, size: 3523 bytes, sha1: E4299599F23475F2539C3FE41D40281D8F3B805F, compression: None.
 LogPakFile: Display: "CHA/3RD/3RD_CHA_MAL_Master_Rig_Skeleton.uasset" offset: 681984, size: 7197 bytes, sha1: 9895CC0B3310AB29446D467F2CB8D204A9A2A46B, compression: None.
 LogPakFile: Display: "CHA/1ST/1ST_NewRig/1ST_CHA_DriveTurnL_to_TurnR.uasset" offset: 690176, size: 1523 bytes, sha1: 564AFD701102F6E24BEFC49FA5C6CBD8CFF219C1, compression: None.
@@ -304,12 +304,12 @@ LogPakFile: Display: "BLD/T_BLD_Stairs_Concrete_A.uasset" offset: 866304, size: 
 LogPakFile: Display: "BLD/T_BLD_Wall_Door_Concrete_RMA.uasset" offset: 867172, size: 939 bytes, sha1: 057CDB7D9E83C24CC90A1CD45CD04DE52C7E4AE8, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Door_Concrete_N.uasset" offset: 868352, size: 938 bytes, sha1: F466323DE0334A007EAB50B408B0813EDB8281AC, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Door_Concrete_A.uasset" offset: 869343, size: 821 bytes, sha1: DC64DE0710421795FDD09332019636830D27FF41, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Lower_Concrete_R_RMA.uasset" offset: 870400, size: 896 bytes, sha1: E59D8E3D066F5A507C5502EF0598A237FEEDCD7B, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Lower_Concrete_R_N.uasset" offset: 871349, size: 969 bytes, sha1: D75163EDD143FCC6BC1E4F0F0E306540A6281FF9, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Lower_Concrete_R_A.uasset" offset: 872448, size: 757 bytes, sha1: 9CBA0C6ECC10C070B71B6255B6BA5C81238555DA, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_Stone_DM_RMA.uasset" offset: 873258, size: 929 bytes, sha1: AEE237CD90D6729BDA1FC108456A182414E0CC3F, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_Stone_DM_A.uasset" offset: 874496, size: 811 bytes, sha1: 44DEB71D01C3ADD67D26DB7DD6FC68A100616829, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Upper_Concrete_RMA.uasset" offset: 875360, size: 892 bytes, sha1: 62689C7CD3713A2AA28B98D3DB56070DAE7CC25B, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_Stone_DM_RMA.uasset" offset: 870400, size: 929 bytes, sha1: AEE237CD90D6729BDA1FC108456A182414E0CC3F, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_Stone_DM_A.uasset" offset: 871382, size: 811 bytes, sha1: 44DEB71D01C3ADD67D26DB7DD6FC68A100616829, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Lower_Concrete_R_RMA.uasset" offset: 872448, size: 896 bytes, sha1: E59D8E3D066F5A507C5502EF0598A237FEEDCD7B, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Lower_Concrete_R_N.uasset" offset: 873397, size: 969 bytes, sha1: D75163EDD143FCC6BC1E4F0F0E306540A6281FF9, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Lower_Concrete_R_A.uasset" offset: 874496, size: 757 bytes, sha1: 9CBA0C6ECC10C070B71B6255B6BA5C81238555DA, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Upper_Concrete_RMA.uasset" offset: 875306, size: 892 bytes, sha1: 62689C7CD3713A2AA28B98D3DB56070DAE7CC25B, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Upper_Concrete_N.uasset" offset: 876544, size: 965 bytes, sha1: F5B9613B917433C8B8B0605FDAFF4AC264A1B1EC, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Upper_Concrete_A.uasset" offset: 877562, size: 753 bytes, sha1: B777A7B0EA7569ECD358C7E2AE7BBC279CA29948, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Half_Concrete_RMA.uasset" offset: 878592, size: 870 bytes, sha1: 14A12386B7B9C5D34BA4C459BFD40B74CD63AEF3, compression: None.
@@ -353,9 +353,9 @@ LogPakFile: Display: "BLD/T_BLD_Wall_Triangle_Glass_B_A.uasset" offset: 916454, 
 LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Glass_A_RMA.uasset" offset: 917504, size: 949 bytes, sha1: EB2C62F170633D4E35B42638E644654C6601326E, compression: None.
 LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Glass_A_N.uasset" offset: 918506, size: 948 bytes, sha1: 44BF1C0A1D40664F006EB049A3830FFAC4C0C150, compression: None.
 LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Glass_A_A.uasset" offset: 919552, size: 831 bytes, sha1: 2BD93B223EB50E1B9AEC56B9384F245E2461DE05, compression: None.
-LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Glass_B_A.uasset" offset: 920436, size: 831 bytes, sha1: B01075FD214087ACEC84AC870896E39CC8FC4332, compression: None.
-LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Glass_B_RMA.uasset" offset: 921600, size: 949 bytes, sha1: A1540E4B8B52CE4694B09E7C40EE3A3A9C71E08E, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_Door_Glass_A_RMA.uasset" offset: 922602, size: 937 bytes, sha1: DDA8B0E44096099518E8474D5AD0076BF170ED4C, compression: None.
+LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Glass_B_RMA.uasset" offset: 920436, size: 949 bytes, sha1: A1540E4B8B52CE4694B09E7C40EE3A3A9C71E08E, compression: None.
+LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Glass_B_A.uasset" offset: 921600, size: 831 bytes, sha1: B01075FD214087ACEC84AC870896E39CC8FC4332, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_Door_Glass_A_RMA.uasset" offset: 922484, size: 937 bytes, sha1: DDA8B0E44096099518E8474D5AD0076BF170ED4C, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Door_Glass_A_N.uasset" offset: 923648, size: 936 bytes, sha1: E5E5326176928C380E5AC1603BEEB5B04471218E, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Door_Glass_A_A.uasset" offset: 924637, size: 819 bytes, sha1: 2BC73C572729822C79C377B7DBDEBC26569F5876, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Door_Glass_B_RMA.uasset" offset: 925696, size: 937 bytes, sha1: E1C2AFB6B8E6E353356C2D1FCD833AB4252B07B6, compression: None.
@@ -400,10 +400,10 @@ LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Lower_Wood_INT_A.uasset" offset: 
 LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Upper_Wood_INT_RMA.uasset" offset: 965414, size: 892 bytes, sha1: DD2B2216DBA6AAA022F7341F806CD4A0155EFD50, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Upper_Wood_INT_N.uasset" offset: 966656, size: 965 bytes, sha1: B502DD888547A0B9B8A1232C8BFF88381B637EEE, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_HalfPitch_Upper_Wood_INT_A.uasset" offset: 967674, size: 753 bytes, sha1: F166B57126958DFEEA05C2056DD22483D6F2D4C3, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_Half_Wood_INT_N.uasset" offset: 968704, size: 943 bytes, sha1: 3B662EFAC3DC0D55349C26FE63CA0FF5BF569F02, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_Half_Wood_INT_A.uasset" offset: 969700, size: 731 bytes, sha1: 996899175AF88D0E93324AB2DBF30BE5B7FBEB66, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_Half_Wood_INT_RMA.uasset" offset: 970752, size: 870 bytes, sha1: F0E10D50E415679E440BA82AF54CDA85E27B3C25, compression: None.
-LogPakFile: Display: "BLD/T_BLD_Wall_Triangle_Wood_INT_RMA.uasset" offset: 971675, size: 947 bytes, sha1: 7FFDB97441596E3E5658745EFF2A6B02C9632DC4, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_Half_Wood_INT_RMA.uasset" offset: 968704, size: 870 bytes, sha1: F0E10D50E415679E440BA82AF54CDA85E27B3C25, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_Half_Wood_INT_N.uasset" offset: 969627, size: 943 bytes, sha1: 3B662EFAC3DC0D55349C26FE63CA0FF5BF569F02, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_Half_Wood_INT_A.uasset" offset: 970752, size: 731 bytes, sha1: 996899175AF88D0E93324AB2DBF30BE5B7FBEB66, compression: None.
+LogPakFile: Display: "BLD/T_BLD_Wall_Triangle_Wood_INT_RMA.uasset" offset: 971536, size: 947 bytes, sha1: 7FFDB97441596E3E5658745EFF2A6B02C9632DC4, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Triangle_Wood_INT_N.uasset" offset: 972800, size: 946 bytes, sha1: 5E325457F59C358B6C7A19CBFE612DD7E6D9ED16, compression: None.
 LogPakFile: Display: "BLD/T_BLD_Wall_Triangle_Wood_INT_A.uasset" offset: 973799, size: 829 bytes, sha1: 588E6CE108EB41927D564588C15D8DE1087EFB2C, compression: None.
 LogPakFile: Display: "BLD/T_BLD_RoofPeak_CapEnd_Wood_INT_RMA.uasset" offset: 974848, size: 951 bytes, sha1: FE42DD7B85D306F8AB951196330D9CBE6895D47D, compression: None.
@@ -1607,4 +1607,4 @@ LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Feet_D1.uexp" offset
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Feet_ID.ubulk" offset: 2656000000, size: 11182080 bytes, sha1: ECA0D1FDF7C49099389D3374D5D035C23CEA3900, compression: None.
 LogPakFile: Display: "CHA/3RD/CHA_MAL_001_MAT/T_CHA_MAL_001_Feet_ID.uexp" offset: 2667184128, size: 3459 bytes, sha1: 5064848B5891DE317ABD6D61535B44D433469E96, compression: None.
 LogPakFile: Display: 1595 files (2665461158 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.673112 seconds
+LogPakFile: Display: Unreal pak executed in 1.601411 seconds
