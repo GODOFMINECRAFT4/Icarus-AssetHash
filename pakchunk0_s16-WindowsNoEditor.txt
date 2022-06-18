@@ -8,7 +8,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.137810 seconds
+LogPakFile: Display: Unreal pak executed in 0.155625 seconds
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
 LogPakFile: Display: "Planet_Scene/Planet_Maps/T_Icarus_GasGiant_g.uasset" offset: 0, size: 909 bytes, sha1: EF3FED6F78C7C0A4FF916AF97CCFF3C8CA3C3C2A, compression: None.
@@ -476,4 +476,4 @@ LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x2_y7LOD/HeightMap_x2_
 LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x2_y7LOD/HeightMap_x2_y7_LOD3.ubulk" offset: 2641203200, size: 2260992 bytes, sha1: 823F8159AA3E4D9B3793F4B312F6769434D4D30D, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x2_y7LOD/HeightMap_x2_y7_LOD3.uexp" offset: 2643466240, size: 892568 bytes, sha1: 25C9CAC0B7E43C6ED37E2D764DD92F860F7F59FB, compression: None.
 LogPakFile: Display: 464 files (2643882362 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.514533 seconds
+LogPakFile: Display: Unreal pak executed in 0.568156 seconds

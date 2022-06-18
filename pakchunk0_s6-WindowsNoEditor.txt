@@ -8,7 +8,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.125601 seconds
+LogPakFile: Display: Unreal pak executed in 0.192873 seconds
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/
 LogPakFile: Display: "DEP/T_DEP_DeepMiningDrill_Biofuel_RMA.uasset" offset: 0, size: 949 bytes, sha1: B0975589E25FE7682E3C476B3CCBE865FA6A146C, compression: None.
@@ -1639,4 +1639,4 @@ LogPakFile: Display: "DPS/T_DS_Inner_Normal.uexp" offset: 2676359168, size: 6233
 LogPakFile: Display: "DPS/T_DS_Inner_RMA.ubulk" offset: 2676367360, size: 2793472 bytes, sha1: EC56699444803DB3261A52BEC25E65AF452D3E3E, compression: None.
 LogPakFile: Display: "DPS/T_DS_Inner_RMA.uexp" offset: 2679162880, size: 3490 bytes, sha1: 058EB26B8DFA9CEAFE795B4DF4D3BFFC2A613285, compression: None.
 LogPakFile: Display: 1627 files (2677416807 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.965255 seconds
+LogPakFile: Display: Unreal pak executed in 1.927597 seconds
