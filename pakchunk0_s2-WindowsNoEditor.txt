@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1614483403
 LogPakFile: Display:     IndexSize: 11945
-LogPakFile: Display:     IndexHash: A44BEE1C509EE0F1EB7B40091613D30F83E329F0
+LogPakFile: Display:     IndexHash: 5551C24B0F19B88369CCDF8747043F72CF3ED60B
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.119143 seconds
+LogPakFile: Display: Unreal pak executed in 0.132794 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/BLD/
@@ -49,15 +49,15 @@ LogPakFile: Display: "T_BLD_Wall_Thatched_Foliage_A.ubulk" offset: 30814208, siz
 LogPakFile: Display: "T_BLD_Wall_Stone_DM_N.uasset" offset: 33609728, size: 928 bytes, sha1: DE036B78B341BED6B9EEC3BA0EA8C39AE633E762, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Stone_DM_N.uexp" offset: 33610709, size: 6197 bytes, sha1: F8858F2BB3BB03F29592A82D2F20366A253E0EEA, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Stone_DM_N.ubulk" offset: 33617920, size: 1392640 bytes, sha1: B79F634D832DA2D3C3C23CBFDE9AB307EEDA32FB, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_N.uasset" offset: 35012608, size: 973 bytes, sha1: 11F96089F2806B8A420AF63BE84EDBE476EFCAD9, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_N.uexp" offset: 35013634, size: 6269 bytes, sha1: FABBF0C0F47E7C6FB6BC68766EAFE3FBC6ECCFDB, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_N.ubulk" offset: 35020800, size: 22364160 bytes, sha1: 23C91C3C79194DFBF9373449C96D98DDDDCB720A, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_A.uasset" offset: 57387008, size: 761 bytes, sha1: 80BD2B070949AB9228F657F763C5F58B9B20D94E, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_A.uexp" offset: 57387822, size: 3418 bytes, sha1: 50545BF2E050B947DB157A2C5CA38128B2996129, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_A.ubulk" offset: 57393152, size: 11182080 bytes, sha1: 458CD612830610A8EF7C08AC6702FDEB713A7F6F, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_RMA.uasset" offset: 68577280, size: 900 bytes, sha1: 606987215C34B201EB84A905BE833E053172A7D1, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_RMA.uexp" offset: 68578233, size: 3485 bytes, sha1: 0DBF3157C7950F63337629041EE6F5AA0E1576E7, compression: None.
-LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_RMA.ubulk" offset: 68583424, size: 11182080 bytes, sha1: F5089B3A3EAFF2D397C3AE4F4BE3F4A44689E551, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_RMA.uasset" offset: 35012608, size: 900 bytes, sha1: 606987215C34B201EB84A905BE833E053172A7D1, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_RMA.uexp" offset: 35013561, size: 3485 bytes, sha1: 0DBF3157C7950F63337629041EE6F5AA0E1576E7, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_RMA.ubulk" offset: 35018752, size: 11182080 bytes, sha1: F5089B3A3EAFF2D397C3AE4F4BE3F4A44689E551, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_N.uasset" offset: 46202880, size: 973 bytes, sha1: 11F96089F2806B8A420AF63BE84EDBE476EFCAD9, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_N.uexp" offset: 46203906, size: 6269 bytes, sha1: FABBF0C0F47E7C6FB6BC68766EAFE3FBC6ECCFDB, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_N.ubulk" offset: 46211072, size: 22364160 bytes, sha1: 23C91C3C79194DFBF9373449C96D98DDDDCB720A, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_A.uasset" offset: 68577280, size: 761 bytes, sha1: 80BD2B070949AB9228F657F763C5F58B9B20D94E, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_A.uexp" offset: 68578094, size: 3418 bytes, sha1: 50545BF2E050B947DB157A2C5CA38128B2996129, compression: None.
+LogPakFile: Display: "T_BLD_Roof_PyramidHip_Inverted_Concrete_A.ubulk" offset: 68583424, size: 11182080 bytes, sha1: 458CD612830610A8EF7C08AC6702FDEB713A7F6F, compression: None.
 LogPakFile: Display: "T_BLD_Roof_HalfPitch_Lower_Concrete_RMA.uasset" offset: 79767552, size: 892 bytes, sha1: 22D8CD83123F7182B0E6B629FB7D00B5EB6DC107, compression: None.
 LogPakFile: Display: "T_BLD_Roof_HalfPitch_Lower_Concrete_RMA.uexp" offset: 79768497, size: 3485 bytes, sha1: 665AA127A778D9F8E8EBEAEA0DDFC2E79C08E1A9, compression: None.
 LogPakFile: Display: "T_BLD_Roof_HalfPitch_Lower_Concrete_RMA.ubulk" offset: 79773696, size: 11182080 bytes, sha1: 03EB962D7E86C48E9C012F59A6C2B48BE3EDC15F, compression: None.
@@ -112,21 +112,21 @@ LogPakFile: Display: "T_BLD_Wall_Door_Concrete_N.ubulk" offset: 216870912, size:
 LogPakFile: Display: "T_BLD_Wall_Door_Concrete_A.uasset" offset: 222459904, size: 821 bytes, sha1: DC64DE0710421795FDD09332019636830D27FF41, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Door_Concrete_A.uexp" offset: 222460778, size: 3423 bytes, sha1: 2FB14420AB3674A093EBDC13EE59311258B2B02F, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Door_Concrete_A.ubulk" offset: 222466048, size: 2793472 bytes, sha1: E4ACCF0F010DAA97BBF6446814D03796EE72B5AC, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uasset" offset: 225261568, size: 878 bytes, sha1: C0395ADF00CE07B6AC9699449EFDD746C79ECD8B, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uexp" offset: 225262499, size: 3485 bytes, sha1: CAE536EFE81CA27A833747470F20D4C48D9634FB, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.ubulk" offset: 225267712, size: 11182080 bytes, sha1: B4D61AAF73DBFE4DA42B69991F7C7E1166C29715, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uasset" offset: 236451840, size: 951 bytes, sha1: 21BC44B992748D6B895227E50B4B245C27F42DAA, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uexp" offset: 236452844, size: 6269 bytes, sha1: E5114844BC49332C27F9103E8CAFAFE04E4B9960, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.ubulk" offset: 236460032, size: 22364160 bytes, sha1: 3490E0680DCD8C4C6E5389161560A06774774F80, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uasset" offset: 258826240, size: 739 bytes, sha1: 702874F2DC1F6141E8D725EB5066957C98148BEB, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uexp" offset: 258827032, size: 3418 bytes, sha1: CD77726A172C3CB406AC26ED0D188F9EBA2A5300, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.ubulk" offset: 258832384, size: 11182080 bytes, sha1: 2856F77C58508845DF1FDFF6A4A3554E24207C19, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Stone_DM_RMA.uasset" offset: 270016512, size: 929 bytes, sha1: AEE237CD90D6729BDA1FC108456A182414E0CC3F, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Stone_DM_RMA.uexp" offset: 270017494, size: 3454 bytes, sha1: 60EA6610022A7047B342C152C6E6EB2BC3AE8272, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Stone_DM_RMA.ubulk" offset: 270022656, size: 696320 bytes, sha1: E0002081D69EC896D84177394399E86CB3C78793, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Stone_DM_A.uasset" offset: 270721024, size: 811 bytes, sha1: 44DEB71D01C3ADD67D26DB7DD6FC68A100616829, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Stone_DM_A.uexp" offset: 270721888, size: 3387 bytes, sha1: 3F679FB68CDD6CA0CAA7A966AF14B7960081A1AC, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Stone_DM_A.ubulk" offset: 270727168, size: 696320 bytes, sha1: C3143BC62CA7FB7D536A3E94CCEA2623A0AE87C8, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Stone_DM_RMA.uasset" offset: 225261568, size: 929 bytes, sha1: AEE237CD90D6729BDA1FC108456A182414E0CC3F, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Stone_DM_RMA.uexp" offset: 225262550, size: 3454 bytes, sha1: 60EA6610022A7047B342C152C6E6EB2BC3AE8272, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Stone_DM_RMA.ubulk" offset: 225267712, size: 696320 bytes, sha1: E0002081D69EC896D84177394399E86CB3C78793, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Stone_DM_A.uasset" offset: 225966080, size: 811 bytes, sha1: 44DEB71D01C3ADD67D26DB7DD6FC68A100616829, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Stone_DM_A.uexp" offset: 225966944, size: 3387 bytes, sha1: 3F679FB68CDD6CA0CAA7A966AF14B7960081A1AC, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Stone_DM_A.ubulk" offset: 225972224, size: 696320 bytes, sha1: C3143BC62CA7FB7D536A3E94CCEA2623A0AE87C8, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uasset" offset: 226670592, size: 878 bytes, sha1: C0395ADF00CE07B6AC9699449EFDD746C79ECD8B, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uexp" offset: 226671523, size: 3485 bytes, sha1: CAE536EFE81CA27A833747470F20D4C48D9634FB, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.ubulk" offset: 226676736, size: 11182080 bytes, sha1: B4D61AAF73DBFE4DA42B69991F7C7E1166C29715, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uasset" offset: 237860864, size: 951 bytes, sha1: 21BC44B992748D6B895227E50B4B245C27F42DAA, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uexp" offset: 237861868, size: 6269 bytes, sha1: E5114844BC49332C27F9103E8CAFAFE04E4B9960, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.ubulk" offset: 237869056, size: 22364160 bytes, sha1: 3490E0680DCD8C4C6E5389161560A06774774F80, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uasset" offset: 260235264, size: 739 bytes, sha1: 702874F2DC1F6141E8D725EB5066957C98148BEB, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uexp" offset: 260236056, size: 3418 bytes, sha1: CD77726A172C3CB406AC26ED0D188F9EBA2A5300, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.ubulk" offset: 260241408, size: 11182080 bytes, sha1: 2856F77C58508845DF1FDFF6A4A3554E24207C19, compression: None.
 LogPakFile: Display: "T_BLD_Wall_HalfPitch_Lower_Concrete_R_RMA.uasset" offset: 271425536, size: 896 bytes, sha1: E59D8E3D066F5A507C5502EF0598A237FEEDCD7B, compression: None.
 LogPakFile: Display: "T_BLD_Wall_HalfPitch_Lower_Concrete_R_RMA.uexp" offset: 271426485, size: 3485 bytes, sha1: 3B7ED71A172FBE29B0F8F80501BE191F8355FE5C, compression: None.
 LogPakFile: Display: "T_BLD_Wall_HalfPitch_Lower_Concrete_R_RMA.ubulk" offset: 271431680, size: 11182080 bytes, sha1: B6F5105F3C064AD0F77D8264113A4CD049E1F0E1, compression: None.
@@ -478,15 +478,15 @@ LogPakFile: Display: "T_BLD_Roof_Iron_N.ubulk" offset: 1366736896, size: 5586944
 LogPakFile: Display: "T_BLD_Roof_Iron_A.uasset" offset: 1372325888, size: 803 bytes, sha1: A97AFC96B46EDDC24AF7FE236D4C8EC997BCCE75, compression: None.
 LogPakFile: Display: "T_BLD_Roof_Iron_A.uexp" offset: 1372326744, size: 3423 bytes, sha1: B60CAF314993958B40D2C2191E6C4EB1FE9595A7, compression: None.
 LogPakFile: Display: "T_BLD_Roof_Iron_A.ubulk" offset: 1372332032, size: 2793472 bytes, sha1: 9C20CFD4E11468B927910D66C7BE393E95F7E068, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_N.uasset" offset: 1375127552, size: 928 bytes, sha1: E42AA27BD011A181B3B55C7BA997518F8AAB868F, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_N.uexp" offset: 1375128533, size: 6233 bytes, sha1: 6699473AE30D8E2109E59A2B370C2EBB0245A49A, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_N.ubulk" offset: 1375135744, size: 5586944 bytes, sha1: 1B11275C4B21346147A8F4D2B0F29D5610765869, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_A.uasset" offset: 1380724736, size: 811 bytes, sha1: D6964140D1257910F56A35AD14A1718EFB16B288, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_A.uexp" offset: 1380725600, size: 3423 bytes, sha1: F47EC72F4505420EB8C3BD4BD560F06069DE4D7E, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_A.ubulk" offset: 1380730880, size: 2793472 bytes, sha1: 99D20567D73D2441DAE180882F99365B86DE10CD, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_RMA.uasset" offset: 1383526400, size: 929 bytes, sha1: D64790468F1D6D0BFF917B8DE92ADEDE22CD928F, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_RMA.uexp" offset: 1383527382, size: 3490 bytes, sha1: 5EE998068A81C64AF1D117BABB51A5C65200FD31, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_Iron_RMA.ubulk" offset: 1383532544, size: 2793472 bytes, sha1: B824778BB061BE439ADCF8C8A5438E139E11D2BA, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_RMA.uasset" offset: 1375127552, size: 929 bytes, sha1: D64790468F1D6D0BFF917B8DE92ADEDE22CD928F, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_RMA.uexp" offset: 1375128534, size: 3490 bytes, sha1: 5EE998068A81C64AF1D117BABB51A5C65200FD31, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_RMA.ubulk" offset: 1375133696, size: 2793472 bytes, sha1: B824778BB061BE439ADCF8C8A5438E139E11D2BA, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_N.uasset" offset: 1377929216, size: 928 bytes, sha1: E42AA27BD011A181B3B55C7BA997518F8AAB868F, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_N.uexp" offset: 1377930197, size: 6233 bytes, sha1: 6699473AE30D8E2109E59A2B370C2EBB0245A49A, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_N.ubulk" offset: 1377937408, size: 5586944 bytes, sha1: 1B11275C4B21346147A8F4D2B0F29D5610765869, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_A.uasset" offset: 1383526400, size: 811 bytes, sha1: D6964140D1257910F56A35AD14A1718EFB16B288, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_A.uexp" offset: 1383527264, size: 3423 bytes, sha1: F47EC72F4505420EB8C3BD4BD560F06069DE4D7E, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_Iron_A.ubulk" offset: 1383532544, size: 2793472 bytes, sha1: 99D20567D73D2441DAE180882F99365B86DE10CD, compression: None.
 LogPakFile: Display: "T_BLD_Stairs_Iron_RMA.uasset" offset: 1386328064, size: 925 bytes, sha1: 1C52E7B6DD5AE9D6747947C4B1EE6619D5E2A2BE, compression: None.
 LogPakFile: Display: "T_BLD_Stairs_Iron_RMA.uexp" offset: 1386329042, size: 3490 bytes, sha1: 44BD1B714DF5BC05A7BFB2DA7A74598FA3A9D6DC, compression: None.
 LogPakFile: Display: "T_BLD_Stairs_Iron_RMA.ubulk" offset: 1386334208, size: 2793472 bytes, sha1: 0E02F2236B6AC0EFD7E4874E73C87CFBEE75A76C, compression: None.
@@ -685,15 +685,15 @@ LogPakFile: Display: "T_BLD_Wall_Half_Stone_N.ubulk" offset: 1930524672, size: 2
 LogPakFile: Display: "T_BLD_Wall_Half_Stone_A.uasset" offset: 1952890880, size: 725 bytes, sha1: 9083579B773D9257396931653833A773B9F3E6B8, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Half_Stone_A.uexp" offset: 1952891658, size: 3418 bytes, sha1: AABD5A0679BCBFA97F20613865675C49E99093C7, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Half_Stone_A.ubulk" offset: 1952897024, size: 11182080 bytes, sha1: 10D2E529C50D2E640F2121BB5A15CF3754FB6A4A, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_RMA.uasset" offset: 1964081152, size: 945 bytes, sha1: B7A42FC97B55C9CC65BA637ACD5086AE93B9B875, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_RMA.uexp" offset: 1964082150, size: 6234 bytes, sha1: 5D36B184AA882E3B1560A8B27F98162C8C738CA2, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_RMA.ubulk" offset: 1964089344, size: 5586944 bytes, sha1: BC2329C362F1B110ED40EE1EA6C328F018F9EC84, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_N.uasset" offset: 1969678336, size: 944 bytes, sha1: E333DCE16AD1BF43F27725FBA330B272F453E209, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_N.uexp" offset: 1969679333, size: 6233 bytes, sha1: DFD68A90E20B4B1234381AE2E7ECB7D89BD1E65F, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_N.ubulk" offset: 1969686528, size: 5586944 bytes, sha1: 5C8A50B1C6BA1642DF183235FEBFF818CC83FD84, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_A.uasset" offset: 1975275520, size: 827 bytes, sha1: BE085289AA10C021908EB19BF28990CB93D7DB7D, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_A.uexp" offset: 1975276400, size: 3423 bytes, sha1: 6D9378B0F13BD1D6C969D6A9335EDA66E0F5FCD4, compression: None.
-LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_A.ubulk" offset: 1975281664, size: 2793472 bytes, sha1: 1369DB84B4847BF126E0AA8946CD340F26CD34A1, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_A.uasset" offset: 1964081152, size: 827 bytes, sha1: BE085289AA10C021908EB19BF28990CB93D7DB7D, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_A.uexp" offset: 1964082032, size: 3423 bytes, sha1: 6D9378B0F13BD1D6C969D6A9335EDA66E0F5FCD4, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_A.ubulk" offset: 1964087296, size: 2793472 bytes, sha1: 1369DB84B4847BF126E0AA8946CD340F26CD34A1, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_RMA.uasset" offset: 1966882816, size: 945 bytes, sha1: B7A42FC97B55C9CC65BA637ACD5086AE93B9B875, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_RMA.uexp" offset: 1966883814, size: 6234 bytes, sha1: 5D36B184AA882E3B1560A8B27F98162C8C738CA2, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_RMA.ubulk" offset: 1966891008, size: 5586944 bytes, sha1: BC2329C362F1B110ED40EE1EA6C328F018F9EC84, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_N.uasset" offset: 1972480000, size: 944 bytes, sha1: E333DCE16AD1BF43F27725FBA330B272F453E209, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_N.uexp" offset: 1972480997, size: 6233 bytes, sha1: DFD68A90E20B4B1234381AE2E7ECB7D89BD1E65F, compression: None.
+LogPakFile: Display: "T_BLD_RoofPeak_CapEnd_Stone_N.ubulk" offset: 1972488192, size: 5586944 bytes, sha1: 5C8A50B1C6BA1642DF183235FEBFF818CC83FD84, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Stone_RMA.uasset" offset: 1978077184, size: 923 bytes, sha1: 14088E1B4F33B7A526129379A9E23C613B1C0A24, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Stone_RMA.uexp" offset: 1978078160, size: 6234 bytes, sha1: DF5B116D39073F16628155C34C8207A6174F43E2, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Stone_RMA.ubulk" offset: 1978085376, size: 5586944 bytes, sha1: 21DC1F1BDA057DB5C540CC8BC1B359F6B57D6FFF, compression: None.
@@ -998,4 +998,4 @@ LogPakFile: Display: "T_BLD_Wall_Glass_A_A.uasset" offset: 2677684224, size: 809
 LogPakFile: Display: "T_BLD_Wall_Glass_A_A.uexp" offset: 2677685086, size: 3423 bytes, sha1: 65B6F4507572FE86B7EB6304E5CD63ED5D60B37A, compression: None.
 LogPakFile: Display: "T_BLD_Wall_Glass_A_A.ubulk" offset: 2677690368, size: 2793472 bytes, sha1: DAAF8F4C0FAD353835D32B7A8234CCA532C3A6BA, compression: None.
 LogPakFile: Display: 984 files (2679336847 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.033051 seconds
+LogPakFile: Display: Unreal pak executed in 1.117888 seconds
