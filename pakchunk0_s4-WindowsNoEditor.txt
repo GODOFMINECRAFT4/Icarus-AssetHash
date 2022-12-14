@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1608485484
 LogPakFile: Display:     IndexSize: 26657
-LogPakFile: Display:     IndexHash: 694C83EDC3A76C04B21D0729E488C48A219CBAEB
+LogPakFile: Display:     IndexHash: 2DD099D280F9BE62E8739935F37B08C8496C1115
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.122250 seconds
+LogPakFile: Display: Unreal pak executed in 0.123289 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/DEP/
@@ -233,28 +233,28 @@ LogPakFile: Display: "T_DEP_Fortification_Wood_Wall_MASK.uexp" offset: 340067308
 LogPakFile: Display: "T_DEP_Fortification_Wood_Wall_MASK.ubulk" offset: 340072448, size: 2793472 bytes, sha1: B0DED7F40ABBE7F525BF179F28D8A20B3599DD48, compression: None.
 LogPakFile: Display: "SM_Fortification_Wood_Gate.uasset" offset: 342867968, size: 2595 bytes, sha1: D806F5C17FFB2221005F3FE1F91924063C8842C5, compression: None.
 LogPakFile: Display: "SM_Fortification_Wood_Gate.uexp" offset: 342870616, size: 11261904 bytes, sha1: B9B2FF63B86A95056E2F5412D4B1D2358CCBAC68, compression: None.
-LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uasset" offset: 354134016, size: 2808 bytes, sha1: 4B02DD7DA2938CADAC35EE314FFF44AF090EED50, compression: None.
-LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uexp" offset: 354136877, size: 50308 bytes, sha1: 9E8C59F22529717030017CAF53E5D2EEFB228215, compression: None.
-LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uasset" offset: 354187264, size: 2812 bytes, sha1: C5A53D9BBDB561A879933AE474A411618C1949CC, compression: None.
-LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uexp" offset: 354190129, size: 31724 bytes, sha1: B40C0C86BD6190DEAD17CBB68C153D0234ADD82D, compression: None.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uasset" offset: 354222080, size: 2420 bytes, sha1: 6EDEB7B0CBEBA3E3D2558534B56E65DBA4880B36, compression: None.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uexp" offset: 354224553, size: 20425 bytes, sha1: D23BF909676209195BE4481BA95D1A822B5BF5F4, compression: None.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML.uasset" offset: 354246656, size: 2488 bytes, sha1: 9AA03617EBD43117787AC821066166A198ECE9DF, compression: None.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML.uexp" offset: 354249197, size: 43922 bytes, sha1: D2F4007CB28677270D0E1FD88C9BA6D92A068AEF, compression: None.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uasset" offset: 354293760, size: 2428 bytes, sha1: C409695EEBEAD995DC53D0D450EA187BDD57E7FD, compression: None.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uexp" offset: 354296241, size: 20425 bytes, sha1: 9F1F047D5294A621F429E35ECFB3AB7C754E9E80, compression: None.
-LogPakFile: Display: "SM_DEP_FuelPipe_SML.uasset" offset: 354318336, size: 2486 bytes, sha1: 646E722AD189DF98A0E96AFD17BA659DC1E0C298, compression: None.
-LogPakFile: Display: "SM_DEP_FuelPipe_SML.uexp" offset: 354320875, size: 43922 bytes, sha1: 947A2825AB019AAB4EBE524B51F42A6BD8398DC0, compression: None.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML.uasset" offset: 354365440, size: 2496 bytes, sha1: 534C0FF88C66C95F64CC0B5F8C5A704B22E9BF8B, compression: None.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML.uexp" offset: 354367989, size: 43922 bytes, sha1: 69C08EB4BA0BC0A5AF4D9BACF26D2E9D17B8AD2E, compression: None.
-LogPakFile: Display: "SK_DEP_Radar_Skeleton.uasset" offset: 354412544, size: 1318 bytes, sha1: 42DDFB8A67CC0C3938453D3ED9FE351427B9E035, compression: None.
-LogPakFile: Display: "SK_DEP_Radar_Skeleton.uexp" offset: 354413915, size: 2320 bytes, sha1: 7C6DDB65C7BB8EA30F085EB1EDC0F492668057F8, compression: None.
-LogPakFile: Display: "SK_DEP_Radar_Deploy_Anim.uasset" offset: 354416640, size: 1489 bytes, sha1: 4A05800E037DA57D710B03D27B679AE426A7FCE5, compression: None.
-LogPakFile: Display: "SK_DEP_Radar_Deploy_Anim.uexp" offset: 354418182, size: 13235 bytes, sha1: 15392156BBF53B1BCF551283DE62ED896DE5A859, compression: None.
-LogPakFile: Display: "SK_DEP_Radar_Physics.uasset" offset: 354433024, size: 3750 bytes, sha1: 24A0209438BD823C7EEBE0D7DE93D395BA6E931F, compression: None.
-LogPakFile: Display: "SK_DEP_Radar_Physics.uexp" offset: 354436827, size: 8827 bytes, sha1: C5A54DC877DFEEAE0F458C88739DA28317B5F2B4, compression: None.
-LogPakFile: Display: "SK_DEP_Radar.uasset" offset: 354447360, size: 3772 bytes, sha1: A92AD766F35F98EA70922C5C25C451415B2F7EB6, compression: None.
-LogPakFile: Display: "SK_DEP_Radar.uexp" offset: 354451185, size: 2761818 bytes, sha1: 2D056219671B81D3C96BD9516BD409F4705DB1B7, compression: None.
+LogPakFile: Display: "SK_DEP_Radar_Skeleton.uasset" offset: 354134016, size: 1318 bytes, sha1: 42DDFB8A67CC0C3938453D3ED9FE351427B9E035, compression: None.
+LogPakFile: Display: "SK_DEP_Radar_Skeleton.uexp" offset: 354135387, size: 2320 bytes, sha1: 7C6DDB65C7BB8EA30F085EB1EDC0F492668057F8, compression: None.
+LogPakFile: Display: "SK_DEP_Radar_Deploy_Anim.uasset" offset: 354138112, size: 1489 bytes, sha1: 4A05800E037DA57D710B03D27B679AE426A7FCE5, compression: None.
+LogPakFile: Display: "SK_DEP_Radar_Deploy_Anim.uexp" offset: 354139654, size: 13235 bytes, sha1: 15392156BBF53B1BCF551283DE62ED896DE5A859, compression: None.
+LogPakFile: Display: "SK_DEP_Radar_Physics.uasset" offset: 354154496, size: 3750 bytes, sha1: 24A0209438BD823C7EEBE0D7DE93D395BA6E931F, compression: None.
+LogPakFile: Display: "SK_DEP_Radar_Physics.uexp" offset: 354158299, size: 8827 bytes, sha1: C5A54DC877DFEEAE0F458C88739DA28317B5F2B4, compression: None.
+LogPakFile: Display: "SK_DEP_Radar.uasset" offset: 354168832, size: 3772 bytes, sha1: A92AD766F35F98EA70922C5C25C451415B2F7EB6, compression: None.
+LogPakFile: Display: "SK_DEP_Radar.uexp" offset: 354172657, size: 2761818 bytes, sha1: 2D056219671B81D3C96BD9516BD409F4705DB1B7, compression: None.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uasset" offset: 356935680, size: 2420 bytes, sha1: 6EDEB7B0CBEBA3E3D2558534B56E65DBA4880B36, compression: None.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uexp" offset: 356938153, size: 20425 bytes, sha1: D23BF909676209195BE4481BA95D1A822B5BF5F4, compression: None.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML.uasset" offset: 356960256, size: 2488 bytes, sha1: 9AA03617EBD43117787AC821066166A198ECE9DF, compression: None.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML.uexp" offset: 356962797, size: 43922 bytes, sha1: D2F4007CB28677270D0E1FD88C9BA6D92A068AEF, compression: None.
+LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uasset" offset: 357007360, size: 2808 bytes, sha1: 4B02DD7DA2938CADAC35EE314FFF44AF090EED50, compression: None.
+LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uexp" offset: 357010221, size: 50308 bytes, sha1: 9E8C59F22529717030017CAF53E5D2EEFB228215, compression: None.
+LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uasset" offset: 357060608, size: 2812 bytes, sha1: C5A53D9BBDB561A879933AE474A411618C1949CC, compression: None.
+LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uexp" offset: 357063473, size: 31724 bytes, sha1: B40C0C86BD6190DEAD17CBB68C153D0234ADD82D, compression: None.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uasset" offset: 357095424, size: 2428 bytes, sha1: C409695EEBEAD995DC53D0D450EA187BDD57E7FD, compression: None.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uexp" offset: 357097905, size: 20425 bytes, sha1: 9F1F047D5294A621F429E35ECFB3AB7C754E9E80, compression: None.
+LogPakFile: Display: "SM_DEP_FuelPipe_SML.uasset" offset: 357120000, size: 2486 bytes, sha1: 646E722AD189DF98A0E96AFD17BA659DC1E0C298, compression: None.
+LogPakFile: Display: "SM_DEP_FuelPipe_SML.uexp" offset: 357122539, size: 43922 bytes, sha1: 947A2825AB019AAB4EBE524B51F42A6BD8398DC0, compression: None.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML.uasset" offset: 357167104, size: 2496 bytes, sha1: 534C0FF88C66C95F64CC0B5F8C5A704B22E9BF8B, compression: None.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML.uexp" offset: 357169653, size: 43922 bytes, sha1: 69C08EB4BA0BC0A5AF4D9BACF26D2E9D17B8AD2E, compression: None.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.uasset" offset: 357214208, size: 943 bytes, sha1: 0B817D3E6AE52089DFD089BC1A64565043BD06AF, compression: None.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.uexp" offset: 357215204, size: 3490 bytes, sha1: 076AD558CECC35706F5DC65BAEE0A0B6DFA26A0A, compression: None.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.ubulk" offset: 357220352, size: 2793472 bytes, sha1: D55C09C9C977A11510DA318652CFA83FE34430CF, compression: None.
@@ -537,7 +537,7 @@ LogPakFile: Display: "T_DEP_Crate_SML_RefinedWood_A.ubulk" offset: 714821632, si
 LogPakFile: Display: "SM_DEP_Crate_SML_Wood_INT.uasset" offset: 717617152, size: 2720 bytes, sha1: 8B2AAED8ADFEA8DADE240EABBD71A366D7E9EB2D, compression: None.
 LogPakFile: Display: "SM_DEP_Crate_SML_Wood_INT.uexp" offset: 717619925, size: 907411 bytes, sha1: ECFE7259472E4ACF96FE8E5EF60B978EE258FB96, compression: None.
 LogPakFile: Display: "SM_DEP_Crate_SML_Wood_INT_DM.uasset" offset: 718528512, size: 4079 bytes, sha1: A14A1A171413FA35E5590AF17D1FAA49E22E82BD, compression: None.
-LogPakFile: Display: "SM_DEP_Crate_SML_Wood_INT_DM.uexp" offset: 718532644, size: 4977180 bytes, sha1: D2B17E1D0D20475440698BA3148AAC819F94B6EA, compression: None.
+LogPakFile: Display: "SM_DEP_Crate_SML_Wood_INT_DM.uexp" offset: 718532644, size: 4977180 bytes, sha1: 275A040CB5024B8E1FCAF5BA13E29051634CE283, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_INT_RMA.uasset" offset: 723511296, size: 937 bytes, sha1: 556D01CBAC8E19A368A87D39BED67329DCE9ACEA, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_INT_RMA.uexp" offset: 723512286, size: 3490 bytes, sha1: 30E484B95E6972A7A9A34EDF756CC501A2002207, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_INT_RMA.ubulk" offset: 723517440, size: 2793472 bytes, sha1: 38E5A171232117413FDF3F5C3DA043119ACEA7DE, compression: None.
@@ -550,7 +550,7 @@ LogPakFile: Display: "T_DEP_Cupboard_Wood_INT_A.ubulk" offset: 731916288, size: 
 LogPakFile: Display: "SM_DEP_Cupboard_Wood_INT.uasset" offset: 734711808, size: 2728 bytes, sha1: 2656DAE453810D2BFFFE3760BDEF51EB746B90EC, compression: None.
 LogPakFile: Display: "SM_DEP_Cupboard_Wood_INT.uexp" offset: 734714589, size: 961881 bytes, sha1: 564DF2267B0A37B595DC6E3EBD6E79E00060E2D1, compression: None.
 LogPakFile: Display: "SM_DEP_Cupboard_Wood_INT_DM.uasset" offset: 735678464, size: 3805 bytes, sha1: 486DA626449960A24E5651AFEDC0632A32B75671, compression: None.
-LogPakFile: Display: "SM_DEP_Cupboard_Wood_INT_DM.uexp" offset: 735682322, size: 2934556 bytes, sha1: 4728AF1AAEA90AC037372E66242C914E8414DF43, compression: None.
+LogPakFile: Display: "SM_DEP_Cupboard_Wood_INT_DM.uexp" offset: 735682322, size: 2934556 bytes, sha1: 561B7D4A1E0E236A9D2F51AB7F4FFA306EFF6657, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_INT_Small_RMA.uasset" offset: 738617344, size: 949 bytes, sha1: BA3F2D7EC0BF4E0D81259FC45DA8D93C848399EB, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_INT_Small_RMA.uexp" offset: 738618346, size: 3490 bytes, sha1: FBC49B56D56E3D83EDB74A61F995FBF8264348A2, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_INT_Small_RMA.ubulk" offset: 738623488, size: 2793472 bytes, sha1: B9FD507E2498A9263ADF468B96FE9C7C6A0C1872, compression: None.
@@ -598,7 +598,7 @@ LogPakFile: Display: "T_DEP_Cupboard_Metal_A.ubulk" offset: 782831616, size: 279
 LogPakFile: Display: "SM_DEP_Cupboard_Metal.uasset" offset: 785627136, size: 2764 bytes, sha1: C535295B633FB5562F93F7D75A99284A352C7F1A, compression: None.
 LogPakFile: Display: "SM_DEP_Cupboard_Metal.uexp" offset: 785629953, size: 791515 bytes, sha1: DC6011CB9A7FC69164C9FBE4468FB058D4EDCBB9, compression: None.
 LogPakFile: Display: "SM_DEP_Cupboard_Metal_DM.uasset" offset: 786421760, size: 3615 bytes, sha1: 9AD11A6961316D5613F70B8478DB141893924E21, compression: None.
-LogPakFile: Display: "SM_DEP_Cupboard_Metal_DM.uexp" offset: 786425428, size: 3335813 bytes, sha1: E1D9442E298D30748F7F6208D6E373A411AAC771, compression: None.
+LogPakFile: Display: "SM_DEP_Cupboard_Metal_DM.uexp" offset: 786425428, size: 3335813 bytes, sha1: 1B6898EE6D0C7C2FCA01D4889640C2742B58F348, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Metal_Small_RMA.uasset" offset: 789762048, size: 943 bytes, sha1: 0A55E3F2E1CB7CCDC95CC84302592DF23E6BE8D9, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Metal_Small_RMA.uexp" offset: 789763044, size: 3490 bytes, sha1: 9A8D862B664FC14AF18BBBB69C66D05A95967391, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Metal_Small_RMA.ubulk" offset: 789768192, size: 2793472 bytes, sha1: EE52E6572C8E543FF1338A78AC56D4B00782803B, compression: None.
@@ -657,7 +657,7 @@ LogPakFile: Display: "T_DEP_Cupboard_Wood_A.ubulk" offset: 852013056, size: 2793
 LogPakFile: Display: "SM_DEP_Cupboard_Wood.uasset" offset: 854808576, size: 2758 bytes, sha1: A4769B3496BD0803D2EEA869E19CFED12E056801, compression: None.
 LogPakFile: Display: "SM_DEP_Cupboard_Wood.uexp" offset: 854811387, size: 1319101 bytes, sha1: CC848DB55C3DC57266E9405F6E89CA7A2C5F3793, compression: None.
 LogPakFile: Display: "SM_DEP_Cupboard_Wood_DM.uasset" offset: 856131584, size: 3969 bytes, sha1: 341F7C78198BF2B6C0A4FC31133FA74D5C1F920D, compression: None.
-LogPakFile: Display: "SM_DEP_Cupboard_Wood_DM.uexp" offset: 856135606, size: 6386880 bytes, sha1: 7312B6C8D8776A99034B6CFD192A1887FF49965A, compression: None.
+LogPakFile: Display: "SM_DEP_Cupboard_Wood_DM.uexp" offset: 856135606, size: 6386880 bytes, sha1: 29FF9666C505440A4E90C8ABD3B12F415FEA3AF4, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_Small_RMA.uasset" offset: 862523392, size: 941 bytes, sha1: 58DBCD635A801C364D0A3942E9DBE417B9789B80, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_Small_RMA.uexp" offset: 862524386, size: 3490 bytes, sha1: A73619F2C3C42743DD54176CA6A0A45C1BA4E84E, compression: None.
 LogPakFile: Display: "T_DEP_Cupboard_Wood_Small_RMA.ubulk" offset: 862529536, size: 2793472 bytes, sha1: 9FC26BB79BBDA1B9E13B86C49FB27A659E5B24B9, compression: None.
@@ -820,15 +820,15 @@ LogPakFile: Display: "T_DEP_Carpentry_Bench_T4_A.uexp" offset: 1042041706, size:
 LogPakFile: Display: "T_DEP_Carpentry_Bench_T4_A.ubulk" offset: 1042046976, size: 11182080 bytes, sha1: B6641D8E7964C888BBBDC0C26A5FC3B57D1CC246, compression: None.
 LogPakFile: Display: "SM_DEP_Carpentry_Bench_T4.uasset" offset: 1053231104, size: 3108 bytes, sha1: 4668A52DF54AADF01929102920C387A9B4B64022, compression: None.
 LogPakFile: Display: "SM_DEP_Carpentry_Bench_T4.uexp" offset: 1053234265, size: 5026809 bytes, sha1: A78D3E0602BC37CCD5400A8A3DA7AEDD6838ECCD, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_N.uasset" offset: 1058263040, size: 942 bytes, sha1: 14DF265F19197F056A45E1E477C559C2922304B2, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_N.uexp" offset: 1058264035, size: 6233 bytes, sha1: 496DA3DC4DDD270F268A3A9E8AB78996DB12AF97, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_N.ubulk" offset: 1058271232, size: 5586944 bytes, sha1: C033F3EEECA00EA09E8A9757A7C94DD80C633070, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_A.uasset" offset: 1063860224, size: 825 bytes, sha1: 1A1B2BE925E71BFC9219FC3EAC21C22032264A07, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_A.uexp" offset: 1063861102, size: 3423 bytes, sha1: 30FD1BAA1BEC5D590F5C3A3F27C6EADFC2D96E53, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_A.ubulk" offset: 1063866368, size: 2793472 bytes, sha1: 85308A40C82C86CD12CAEA8667122B6BCD66DB0F, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_RMA.uasset" offset: 1066661888, size: 943 bytes, sha1: 12FFDD6163A537AC90F7ADCF560EBA45EDFFB297, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_RMA.uexp" offset: 1066662884, size: 3490 bytes, sha1: 79B3F220EC2EC9300EBF077A23484996D10E89BF, compression: None.
-LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_RMA.ubulk" offset: 1066668032, size: 2793472 bytes, sha1: 0A83DF5B3AB08A5A3790C04ECE59EBA0AD2C0958, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_RMA.uasset" offset: 1058263040, size: 943 bytes, sha1: 12FFDD6163A537AC90F7ADCF560EBA45EDFFB297, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_RMA.uexp" offset: 1058264036, size: 3490 bytes, sha1: 79B3F220EC2EC9300EBF077A23484996D10E89BF, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_RMA.ubulk" offset: 1058269184, size: 2793472 bytes, sha1: 0A83DF5B3AB08A5A3790C04ECE59EBA0AD2C0958, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_N.uasset" offset: 1061064704, size: 942 bytes, sha1: 14DF265F19197F056A45E1E477C559C2922304B2, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_N.uexp" offset: 1061065699, size: 6233 bytes, sha1: 496DA3DC4DDD270F268A3A9E8AB78996DB12AF97, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_N.ubulk" offset: 1061072896, size: 5586944 bytes, sha1: C033F3EEECA00EA09E8A9757A7C94DD80C633070, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_A.uasset" offset: 1066661888, size: 825 bytes, sha1: 1A1B2BE925E71BFC9219FC3EAC21C22032264A07, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_A.uexp" offset: 1066662766, size: 3423 bytes, sha1: 30FD1BAA1BEC5D590F5C3A3F27C6EADFC2D96E53, compression: None.
+LogPakFile: Display: "T_DEP_Concrete_Mixer_Proxy_A.ubulk" offset: 1066668032, size: 2793472 bytes, sha1: 85308A40C82C86CD12CAEA8667122B6BCD66DB0F, compression: None.
 LogPakFile: Display: "SM_DEP_Concrete_Mixer_Proxy_Output3.uasset" offset: 1069463552, size: 2440 bytes, sha1: 97C68425D1851F0EFA3448DE67157365D6FC5A41, compression: None.
 LogPakFile: Display: "SM_DEP_Concrete_Mixer_Proxy_Output3.uexp" offset: 1069466045, size: 109880 bytes, sha1: 6A37C76ED8B08CC56F23171071597B77023C7F64, compression: None.
 LogPakFile: Display: "SM_DEP_Concrete_Mixer_Proxy_Output2.uasset" offset: 1069576192, size: 2743 bytes, sha1: 2BAD9B57E13F77286A47E172E4ED2E7F406CAE48, compression: None.
@@ -1253,7 +1253,7 @@ LogPakFile: Display: "T_DEP_Furnace_Stone_01_A.ubulk" offset: 1589295104, size: 
 LogPakFile: Display: "SM_DEP_Furnace_Stone.uasset" offset: 1594884096, size: 3307 bytes, sha1: 54A3ACF44F9A74BB22A05997F39C7FB8539D0ACC, compression: None.
 LogPakFile: Display: "SM_DEP_Furnace_Stone.uexp" offset: 1594887456, size: 1938869 bytes, sha1: 9CCEDEF27EF27DE2FD98AA42784CAB447F316A1F, compression: None.
 LogPakFile: Display: "SM_DEP_Furnace_Stone_DM.uasset" offset: 1596827648, size: 3854 bytes, sha1: 1EA91608B04D4539ED72D08B5FB215EF5649C2CF, compression: None.
-LogPakFile: Display: "SM_DEP_Furnace_Stone_DM.uexp" offset: 1596831555, size: 9954409 bytes, sha1: 5B5FCBE8857C7D2BB518B20C21621AF9678E346D, compression: None.
+LogPakFile: Display: "SM_DEP_Furnace_Stone_DM.uexp" offset: 1596831555, size: 9954409 bytes, sha1: C6912F592312D675154CC7B119FD9C945124E91A, compression: None.
 LogPakFile: Display: "T_DEP_Furnace_LEET_RMA.uasset" offset: 1606787072, size: 927 bytes, sha1: 227D3EB77FBBAFB67D9017154D470EB0377FDFAB, compression: None.
 LogPakFile: Display: "T_DEP_Furnace_LEET_RMA.uexp" offset: 1606788052, size: 3490 bytes, sha1: 65ECE32434C2E9C1EB6737AEFE0FE0252F7A218F, compression: None.
 LogPakFile: Display: "T_DEP_Furnace_LEET_RMA.ubulk" offset: 1606793216, size: 2793472 bytes, sha1: 8332B6508EA9F93EABA3B00ACC3F6B0F41CFF0AC, compression: None.
@@ -1324,7 +1324,7 @@ LogPakFile: Display: "T_DEP_Chair_Wood_A.ubulk" offset: 1652105216, size: 558694
 LogPakFile: Display: "SM_DEP_Chair_Wood.uasset" offset: 1657694208, size: 2758 bytes, sha1: 1B477D5EB9637B9463E1F300F4C3ED221A5ECDAB, compression: None.
 LogPakFile: Display: "SM_DEP_Chair_Wood.uexp" offset: 1657697019, size: 745145 bytes, sha1: 1E925370E6F8CE3854087A211CCC579E1F68F8F2, compression: None.
 LogPakFile: Display: "SM_DEP_Chair_Wood_DM.uasset" offset: 1658443776, size: 3569 bytes, sha1: 92B9FE10AC163C671B04C14D5B70B1C1A7618715, compression: None.
-LogPakFile: Display: "SM_DEP_Chair_Wood_DM.uexp" offset: 1658447398, size: 3929051 bytes, sha1: AC43CFD492B0570A7A9D81F76DD1EF174E65F38E, compression: None.
+LogPakFile: Display: "SM_DEP_Chair_Wood_DM.uexp" offset: 1658447398, size: 3929051 bytes, sha1: 985D769620CE116F155A141D448D57855E38D42D, compression: None.
 LogPakFile: Display: "SM_DEP_Table_Wood.uasset" offset: 1662377984, size: 2686 bytes, sha1: A0C5C989E2DC55A0C6F10879C4D2482076DA2515, compression: None.
 LogPakFile: Display: "SM_DEP_Table_Wood.uexp" offset: 1662380723, size: 297485 bytes, sha1: 0F79A84961F66E86CE3C42FB58217B9B9F2C8A7D, compression: None.
 LogPakFile: Display: "T_DEP_GEN_Fuel_RMA.uasset" offset: 1662679040, size: 919 bytes, sha1: 1DBBA8AA03A26B94D79738948516E05ACF61C187, compression: None.
@@ -1451,7 +1451,7 @@ LogPakFile: Display: "SM_DEP_RES_Stack_SML_Stone.uexp" offset: 1772698325, size:
 LogPakFile: Display: "SM_DEP_RES_Stack_SML_Wood.uasset" offset: 1774108672, size: 2971 bytes, sha1: 330943CB1157D2386DF823EB356F38CBCE3EB8D6, compression: None.
 LogPakFile: Display: "SM_DEP_RES_Stack_SML_Wood.uexp" offset: 1774111696, size: 3244540 bytes, sha1: 0E8EDA95038FCC8589E329E8EFE310CA0F345D9D, compression: None.
 LogPakFile: Display: "SM_DEP_RES_Stack_SML_Wood_DM.uasset" offset: 1777356800, size: 4519 bytes, sha1: AB865C1EEF4520A37CA5D51A88F40234A7248A7C, compression: None.
-LogPakFile: Display: "SM_DEP_RES_Stack_SML_Wood_DM.uexp" offset: 1777361372, size: 7457888 bytes, sha1: BFC52743A21D019B8CDF1BD19721E6433001CFB9, compression: None.
+LogPakFile: Display: "SM_DEP_RES_Stack_SML_Wood_DM.uexp" offset: 1777361372, size: 7457888 bytes, sha1: C9A4DDEC70E96029CC0510B1537A412FA256A82A, compression: None.
 LogPakFile: Display: "SM_DEP_Sprinkler_SML_v2.uasset" offset: 1784819712, size: 2814 bytes, sha1: D0CD5F25C99951D275B98075A8E9365652685EA6, compression: None.
 LogPakFile: Display: "SM_DEP_Sprinkler_SML_v2.uexp" offset: 1784822579, size: 548126 bytes, sha1: 7F6EDD55CFC7176710B997A98E0C9D885BA8634B, compression: None.
 LogPakFile: Display: "SM_DEP_Target_Dummy_Bullseye.uasset" offset: 1785372672, size: 2773 bytes, sha1: 6A1BD90E846E4949BFBB155617CD5F95CC529BA7, compression: None.
@@ -1613,10 +1613,10 @@ LogPakFile: Display: "T_DEP_Crate_Sinotai_Retrieval_N.ubulk" offset: 1942628352,
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Retrieval_A.uasset" offset: 1948217344, size: 831 bytes, sha1: 27E4E1B2117B063B52C42FEF7ECF09A8DE6C3454, compression: None.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Retrieval_A.uexp" offset: 1948218228, size: 3423 bytes, sha1: A842682E37F13E2A4E44E9239501F1AE8E4291C3, compression: None.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Retrieval_A.ubulk" offset: 1948223488, size: 2793472 bytes, sha1: 97EF0046A26AA7A66DC60B404416EBE787544EFC, compression: None.
-LogPakFile: Display: "SM_DEP_STD_Extractor_Unfolded.uasset" offset: 1951019008, size: 3009 bytes, sha1: 75E75BD7809629A651C68A76459A417776395826, compression: None.
-LogPakFile: Display: "SM_DEP_STD_Extractor_Unfolded.uexp" offset: 1951022070, size: 7258814 bytes, sha1: 1C41033E151115787C4911B648B27342F9D570DD, compression: None.
-LogPakFile: Display: "SM_DEP_STD_Extractor_Folded.uasset" offset: 1958281216, size: 3001 bytes, sha1: C5000B8165127140425827725023751CA125D3A6, compression: None.
-LogPakFile: Display: "SM_DEP_STD_Extractor_Folded.uexp" offset: 1958284270, size: 7489896 bytes, sha1: 3AECA4FE31773B030D19D0DAD8BBAB5889B57831, compression: None.
+LogPakFile: Display: "SM_DEP_STD_Extractor_Folded.uasset" offset: 1951019008, size: 3001 bytes, sha1: C5000B8165127140425827725023751CA125D3A6, compression: None.
+LogPakFile: Display: "SM_DEP_STD_Extractor_Folded.uexp" offset: 1951022062, size: 7489896 bytes, sha1: 3AECA4FE31773B030D19D0DAD8BBAB5889B57831, compression: None.
+LogPakFile: Display: "SM_DEP_STD_Extractor_Unfolded.uasset" offset: 1958512640, size: 3009 bytes, sha1: 75E75BD7809629A651C68A76459A417776395826, compression: None.
+LogPakFile: Display: "SM_DEP_STD_Extractor_Unfolded.uexp" offset: 1958515702, size: 7258814 bytes, sha1: 1C41033E151115787C4911B648B27342F9D570DD, compression: None.
 LogPakFile: Display: "SK_DEP_Scanner_Bio_PhysicsAsset.uasset" offset: 1965774848, size: 3610 bytes, sha1: B045BDB81A12A50FC42B1552BED9A767699A31A4, compression: None.
 LogPakFile: Display: "SK_DEP_Scanner_Bio_PhysicsAsset.uexp" offset: 1965778511, size: 7623 bytes, sha1: 0B8E06C434BF5EC5471E4941DD31D420EC4EA759, compression: None.
 LogPakFile: Display: "SK_DEP_Scanner_Bio_Skeleton.uasset" offset: 1965787136, size: 1264 bytes, sha1: 62527319D027A229974CECDA8B53D1CC48B672F6, compression: None.
@@ -1782,15 +1782,15 @@ LogPakFile: Display: "T_DEP_Furnace_Electric_V5_EM_02.ubulk" offset: 2161367040,
 LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_02.uasset" offset: 2164162560, size: 829 bytes, sha1: A0AF7EAB00EBFC30CCE89BD4EAB797DC4DC0E839, compression: None.
 LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_02.uexp" offset: 2164163442, size: 3423 bytes, sha1: 592F3FAF5EF5B2918B3AD2EE470D3D607B963BC4, compression: None.
 LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_02.ubulk" offset: 2164168704, size: 2793472 bytes, sha1: C93DCEC45EC3ABD9E9379FAFFF095350E8508C2C, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_RMA_01.uasset" offset: 2166964224, size: 947 bytes, sha1: EA75533A6F209DAB369D27B23FF5353DD3AF958F, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_RMA_01.uexp" offset: 2166965224, size: 3490 bytes, sha1: 6046B18CA2960E8433021147C93E96DCEC0B31CF, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_RMA_01.ubulk" offset: 2166970368, size: 2793472 bytes, sha1: 79576A7FD72473C1E6B7E3D5153BE252E15E46E5, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_N_01.uasset" offset: 2169765888, size: 946 bytes, sha1: 3826E8F883943D9F786B1EA60744077F94E3400B, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_N_01.uexp" offset: 2169766887, size: 6233 bytes, sha1: F01FA6C68B7B1B835BDCDE9D97D520D95DB42837, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_N_01.ubulk" offset: 2169774080, size: 5586944 bytes, sha1: 062CF537DCA620AE4778A23903198233CDB0D365, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_01.uasset" offset: 2175363072, size: 829 bytes, sha1: 1202047F84913475FA5FF9C13E5ACE59CF5AA42D, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_01.uexp" offset: 2175363954, size: 3423 bytes, sha1: 1319F37EEB1AA8C2D2A668DAC65AE022A7C0C8AB, compression: None.
-LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_01.ubulk" offset: 2175369216, size: 2793472 bytes, sha1: 7278E8C2565C32FAFA656368306896050E44A10A, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_01.uasset" offset: 2166964224, size: 829 bytes, sha1: 1202047F84913475FA5FF9C13E5ACE59CF5AA42D, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_01.uexp" offset: 2166965106, size: 3423 bytes, sha1: 1319F37EEB1AA8C2D2A668DAC65AE022A7C0C8AB, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_A_01.ubulk" offset: 2166970368, size: 2793472 bytes, sha1: 7278E8C2565C32FAFA656368306896050E44A10A, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_RMA_01.uasset" offset: 2169765888, size: 947 bytes, sha1: EA75533A6F209DAB369D27B23FF5353DD3AF958F, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_RMA_01.uexp" offset: 2169766888, size: 3490 bytes, sha1: 6046B18CA2960E8433021147C93E96DCEC0B31CF, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_RMA_01.ubulk" offset: 2169772032, size: 2793472 bytes, sha1: 79576A7FD72473C1E6B7E3D5153BE252E15E46E5, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_N_01.uasset" offset: 2172567552, size: 946 bytes, sha1: 3826E8F883943D9F786B1EA60744077F94E3400B, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_N_01.uexp" offset: 2172568551, size: 6233 bytes, sha1: F01FA6C68B7B1B835BDCDE9D97D520D95DB42837, compression: None.
+LogPakFile: Display: "T_DEP_Furnace_Electric_V5_N_01.ubulk" offset: 2172575744, size: 5586944 bytes, sha1: 062CF537DCA620AE4778A23903198233CDB0D365, compression: None.
 LogPakFile: Display: "SM_DEP_Furnace_Electric_V5.uasset" offset: 2178164736, size: 3111 bytes, sha1: 6B4503B7B86F251BE3C70FC9785AF591F409AEAF, compression: None.
 LogPakFile: Display: "SM_DEP_Furnace_Electric_V5.uexp" offset: 2178167900, size: 6571119 bytes, sha1: E07C5A48EDD4EFA0C1FFF5F9B946B5C5303D615C, compression: None.
 LogPakFile: Display: "SM_DEP_OmniLight_B.uasset" offset: 2184740864, size: 3148 bytes, sha1: 57A8962DA56D6450A7F68DE720D1B6AFB7486543, compression: None.
@@ -2057,40 +2057,40 @@ LogPakFile: Display: "T_DEP_Bench_Kitchen_Stove_A.uexp" offset: 2470939500, size
 LogPakFile: Display: "T_DEP_Bench_Kitchen_Stove_A.ubulk" offset: 2470944768, size: 2793472 bytes, sha1: 79DEDED64786777191F05C7B3B83BCC177C8B600, compression: None.
 LogPakFile: Display: "SM_DEP_Bench_Kitchen_Stove.uasset" offset: 2473740288, size: 3188 bytes, sha1: DB237C7702239822E8E7726A1DD57AD12E9D8AB8, compression: None.
 LogPakFile: Display: "SM_DEP_Bench_Kitchen_Stove.uexp" offset: 2473743529, size: 2662589 bytes, sha1: 025FD6AEC88B9D5F71E378B990F90D4496475AB3, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Wood_Low.uasset" offset: 2476406784, size: 2833 bytes, sha1: 37F1CBB7A73F063934FCF6C761629460C7C3770B, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Wood_Low.uexp" offset: 2476409670, size: 535878 bytes, sha1: 744ED15A9391A326155A94047FBC17909F6AFC44, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Wood_Full.uasset" offset: 2476947456, size: 2774 bytes, sha1: C9F8B3F76579AE09E1B04C8989A6F73B1699B7E9, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Wood_Full.uexp" offset: 2476950283, size: 1536779 bytes, sha1: 028C0EF8125EB975449AC587D955CA9195337DE4, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Sticks_Low.uasset" offset: 2478487552, size: 2798 bytes, sha1: 16D46D2E3E345C4C82678A25C1EAA9D4AF168508, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Sticks_Low.uexp" offset: 2478490403, size: 2181610 bytes, sha1: FED8FFD31515B41AFE1706D957D4041EAF8431BF, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Sticks_Full.uasset" offset: 2480672768, size: 2800 bytes, sha1: 450024A7ADE6ABB3F9884CC95EFE94348A235827, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Sticks_Full.uexp" offset: 2480675621, size: 4461766 bytes, sha1: CEF3EC5B32434BB25BBEE36749545E6A0E5A151E, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Cooking_Meat_Proxy.uasset" offset: 2485139456, size: 2747 bytes, sha1: 1561E7C65242D1FA2BA01D5EF1CDCF9577235863, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Cooking_Meat_Proxy.uexp" offset: 2485142256, size: 114803 bytes, sha1: CDA29D68012BB9623F2630BA30B651B23136B8D2, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Base.uasset" offset: 2485258240, size: 2796 bytes, sha1: 6F6637F7DB8EE93BF267E40C0BF43B5DBDBBEAA9, compression: None.
-LogPakFile: Display: "SM_DEP_Campfire_Base.uexp" offset: 2485261089, size: 864949 bytes, sha1: 001C861720C7EA155C37442CE03268FEB5D1BF73, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Wood_Full.uasset" offset: 2476406784, size: 2774 bytes, sha1: C9F8B3F76579AE09E1B04C8989A6F73B1699B7E9, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Wood_Full.uexp" offset: 2476409611, size: 1536779 bytes, sha1: 028C0EF8125EB975449AC587D955CA9195337DE4, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Sticks_Low.uasset" offset: 2477946880, size: 2798 bytes, sha1: 16D46D2E3E345C4C82678A25C1EAA9D4AF168508, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Sticks_Low.uexp" offset: 2477949731, size: 2181610 bytes, sha1: FED8FFD31515B41AFE1706D957D4041EAF8431BF, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Sticks_Full.uasset" offset: 2480132096, size: 2800 bytes, sha1: 450024A7ADE6ABB3F9884CC95EFE94348A235827, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Sticks_Full.uexp" offset: 2480134949, size: 4461766 bytes, sha1: CEF3EC5B32434BB25BBEE36749545E6A0E5A151E, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Cooking_Meat_Proxy.uasset" offset: 2484598784, size: 2747 bytes, sha1: 1561E7C65242D1FA2BA01D5EF1CDCF9577235863, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Cooking_Meat_Proxy.uexp" offset: 2484601584, size: 114803 bytes, sha1: CDA29D68012BB9623F2630BA30B651B23136B8D2, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Base.uasset" offset: 2484717568, size: 2796 bytes, sha1: 6F6637F7DB8EE93BF267E40C0BF43B5DBDBBEAA9, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Base.uexp" offset: 2484720417, size: 864949 bytes, sha1: 001C861720C7EA155C37442CE03268FEB5D1BF73, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Wood_Low.uasset" offset: 2485585920, size: 2833 bytes, sha1: 37F1CBB7A73F063934FCF6C761629460C7C3770B, compression: None.
+LogPakFile: Display: "SM_DEP_Campfire_Wood_Low.uexp" offset: 2485588806, size: 535878 bytes, sha1: 744ED15A9391A326155A94047FBC17909F6AFC44, compression: None.
 LogPakFile: Display: "SM_DEP_Campfire_Stones.uasset" offset: 2486126592, size: 2365 bytes, sha1: 722E107A7420E5A66F97A09811ED0C2ACEA9445E, compression: None.
 LogPakFile: Display: "SM_DEP_Campfire_Stones.uexp" offset: 2486129010, size: 1992150 bytes, sha1: ACD52F56075571FAF878B8D5347CC40383C2D4AA, compression: None.
 LogPakFile: Display: "SM_DEP_Campfire_Cooking_Stick.uasset" offset: 2488121344, size: 2737 bytes, sha1: 1E2F090E1374E59FA3E9689EA3B406EED36907FC, compression: None.
 LogPakFile: Display: "SM_DEP_Campfire_Cooking_Stick.uexp" offset: 2488124134, size: 177609 bytes, sha1: 69DC90C537FB9EA3C6B391CE71D437D600D99ECD, compression: None.
-LogPakFile: Display: "T_DEP_Fire_RMA.uasset" offset: 2488303616, size: 842 bytes, sha1: 64094A8ABD74A79AA7181451DA6951A39D843AB6, compression: None.
-LogPakFile: Display: "T_DEP_Fire_RMA.uexp" offset: 2488304511, size: 3413 bytes, sha1: 4FF1F37A3470A2D63C60C928D94A995DDF422B07, compression: None.
-LogPakFile: Display: "T_DEP_Fire_RMA.ubulk" offset: 2488309760, size: 696320 bytes, sha1: CCA42C4E20106C3B08820E0CEC49A0C6E655D83C, compression: None.
-LogPakFile: Display: "T_DEP_Fire_N.uasset" offset: 2489008128, size: 910 bytes, sha1: F061B76E04544D518EB2A81F3B3F4DBC0AC1B81C, compression: None.
-LogPakFile: Display: "T_DEP_Fire_N.uexp" offset: 2489009091, size: 6197 bytes, sha1: 916563D071816C381FB1F23317FD3C3A096EB028, compression: None.
-LogPakFile: Display: "T_DEP_Fire_N.ubulk" offset: 2489016320, size: 1392640 bytes, sha1: EB096853617AC572D6A06EBBC226DF4633254E25, compression: None.
-LogPakFile: Display: "T_DEP_Fire_A.uasset" offset: 2490411008, size: 703 bytes, sha1: 50D005EFF004E1844B2CF7BAA5F8FF0BF49C5C88, compression: None.
-LogPakFile: Display: "T_DEP_Fire_A.uexp" offset: 2490411764, size: 3346 bytes, sha1: 5E02B164F097CE65BE681E32563D0A2861F12A6F, compression: None.
-LogPakFile: Display: "T_DEP_Fire_A.ubulk" offset: 2490417152, size: 696320 bytes, sha1: 2C605FC965164F770F3C7A545E6785822D256D19, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_RMA.uasset" offset: 2491115520, size: 923 bytes, sha1: 3C1A6FB1D2DD46ACB5493E408FA52A093BE10832, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_RMA.uexp" offset: 2491116496, size: 6198 bytes, sha1: B2D0C6C2AD23C203B9A4092CEB19F493ED8E8BED, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_RMA.ubulk" offset: 2491123712, size: 1392640 bytes, sha1: 13FD5348CEBCAF28C073CDD6D8DF88EAAD999AA3, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_N.uasset" offset: 2492518400, size: 922 bytes, sha1: F296872C57B57F1CC9C473A041CB9A86EA82CC5A, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_N.uexp" offset: 2492519375, size: 6197 bytes, sha1: EB005E340545B26A811DBBE1F3F69E2D4360E2A4, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_N.ubulk" offset: 2492526592, size: 1392640 bytes, sha1: F8281EE4792849A9ED0F42440DF0B089CED53D4E, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_A.uasset" offset: 2493921280, size: 805 bytes, sha1: 96E72791C4F55DA597272C75ABA0F903010EB50A, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_A.uexp" offset: 2493922138, size: 6131 bytes, sha1: F513D770A582AFCB34F056C10E3D6EC33A220221, compression: None.
-LogPakFile: Display: "T_DEP_Brazier_02_A.ubulk" offset: 2493929472, size: 1392640 bytes, sha1: 5D9EFFE26BBAA5B70674922AA1ED1C416DCE704C, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_RMA.uasset" offset: 2488303616, size: 923 bytes, sha1: 3C1A6FB1D2DD46ACB5493E408FA52A093BE10832, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_RMA.uexp" offset: 2488304592, size: 6198 bytes, sha1: B2D0C6C2AD23C203B9A4092CEB19F493ED8E8BED, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_RMA.ubulk" offset: 2488311808, size: 1392640 bytes, sha1: 13FD5348CEBCAF28C073CDD6D8DF88EAAD999AA3, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_N.uasset" offset: 2489706496, size: 922 bytes, sha1: F296872C57B57F1CC9C473A041CB9A86EA82CC5A, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_N.uexp" offset: 2489707471, size: 6197 bytes, sha1: EB005E340545B26A811DBBE1F3F69E2D4360E2A4, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_N.ubulk" offset: 2489714688, size: 1392640 bytes, sha1: F8281EE4792849A9ED0F42440DF0B089CED53D4E, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_A.uasset" offset: 2491109376, size: 805 bytes, sha1: 96E72791C4F55DA597272C75ABA0F903010EB50A, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_A.uexp" offset: 2491110234, size: 6131 bytes, sha1: F513D770A582AFCB34F056C10E3D6EC33A220221, compression: None.
+LogPakFile: Display: "T_DEP_Brazier_02_A.ubulk" offset: 2491117568, size: 1392640 bytes, sha1: 5D9EFFE26BBAA5B70674922AA1ED1C416DCE704C, compression: None.
+LogPakFile: Display: "T_DEP_Fire_RMA.uasset" offset: 2492512256, size: 842 bytes, sha1: 64094A8ABD74A79AA7181451DA6951A39D843AB6, compression: None.
+LogPakFile: Display: "T_DEP_Fire_RMA.uexp" offset: 2492513151, size: 3413 bytes, sha1: 4FF1F37A3470A2D63C60C928D94A995DDF422B07, compression: None.
+LogPakFile: Display: "T_DEP_Fire_RMA.ubulk" offset: 2492518400, size: 696320 bytes, sha1: CCA42C4E20106C3B08820E0CEC49A0C6E655D83C, compression: None.
+LogPakFile: Display: "T_DEP_Fire_N.uasset" offset: 2493216768, size: 910 bytes, sha1: F061B76E04544D518EB2A81F3B3F4DBC0AC1B81C, compression: None.
+LogPakFile: Display: "T_DEP_Fire_N.uexp" offset: 2493217731, size: 6197 bytes, sha1: 916563D071816C381FB1F23317FD3C3A096EB028, compression: None.
+LogPakFile: Display: "T_DEP_Fire_N.ubulk" offset: 2493224960, size: 1392640 bytes, sha1: EB096853617AC572D6A06EBBC226DF4633254E25, compression: None.
+LogPakFile: Display: "T_DEP_Fire_A.uasset" offset: 2494619648, size: 703 bytes, sha1: 50D005EFF004E1844B2CF7BAA5F8FF0BF49C5C88, compression: None.
+LogPakFile: Display: "T_DEP_Fire_A.uexp" offset: 2494620404, size: 3346 bytes, sha1: 5E02B164F097CE65BE681E32563D0A2861F12A6F, compression: None.
+LogPakFile: Display: "T_DEP_Fire_A.ubulk" offset: 2494625792, size: 696320 bytes, sha1: 2C605FC965164F770F3C7A545E6785822D256D19, compression: None.
 LogPakFile: Display: "SM_DEP_Brazier_02.uasset" offset: 2495324160, size: 3104 bytes, sha1: A5021652619095B9257EDAB4BC154647DDFF14BA, compression: None.
 LogPakFile: Display: "SM_DEP_Brazier_02.uexp" offset: 2495327317, size: 643584 bytes, sha1: B08D5ACC707B602AAC094E0CB1FFC84F2CB8D5D3, compression: None.
 LogPakFile: Display: "SM_DEP_Hedgehog_MED.uasset" offset: 2495971328, size: 2937 bytes, sha1: C3887238DC14EA1691433F7E535D7C32D3E309DF, compression: None.
@@ -2224,4 +2224,4 @@ LogPakFile: Display: "T_DEP_DeepMiningDrill_Electric_EM.uasset" offset: 26836807
 LogPakFile: Display: "T_DEP_DeepMiningDrill_Electric_EM.ubulk" offset: 2683682816, size: 2793472 bytes, sha1: A53793D124E86ED9D5C9B72AE6365BE2F77D8803, compression: None.
 LogPakFile: Display: "T_DEP_DeepMiningDrill_Electric_EM.uexp" offset: 2686478336, size: 3423 bytes, sha1: FB2EB0F93660403E918D75B6B5D3FA83DA93CC62, compression: None.
 LogPakFile: Display: 2210 files (2684329211 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 2.548975 seconds
+LogPakFile: Display: Unreal pak executed in 2.427054 seconds
