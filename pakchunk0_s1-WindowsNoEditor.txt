@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1610455233
 LogPakFile: Display:     IndexSize: 45257
-LogPakFile: Display:     IndexHash: C362189F7B928CB14A2780E84FA81E4F84D40D88
+LogPakFile: Display:     IndexHash: 51285B81E8D58E515A1BBF200DCABAFE94FCB43F
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.151845 seconds
+LogPakFile: Display: Unreal pak executed in 0.119363 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/BLD/
@@ -477,34 +477,34 @@ LogPakFile: Display: "DES/DM_BLD_Wall_Door_Concrete_Support.uasset" offset: 3490
 LogPakFile: Display: "DES/DM_BLD_Wall_Door_Concrete_Support.uexp" offset: 349037885, size: 996830 bytes, sha1: E027B8336ADE8F2C39CD85FAE2229B648D188A0E, compression: None.
 LogPakFile: Display: "SM_BLD_Wall_Door_Concrete_SHA.uasset" offset: 350035968, size: 2392 bytes, sha1: 5227BBB03240506EDC5DBDC67F6FEA76D2101E64, compression: None.
 LogPakFile: Display: "SM_BLD_Wall_Door_Concrete_SHA.uexp" offset: 350038413, size: 41508 bytes, sha1: 04B807747ED6ABA62B4DD1B47F8C6425790BD344, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_RMA.uasset" offset: 350081024, size: 929 bytes, sha1: 1590D66DC65B72C0FA52E2E60EEA72D573F58B9E, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_RMA.uexp" offset: 350082006, size: 3490 bytes, sha1: E829664664AD2E0CBE7A14D9A24A88592C939BD0, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_RMA.ubulk" offset: 350087168, size: 2793472 bytes, sha1: A9CD8FA134CF2F79A00E9D94E9A25E821B8B5D95, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_N.uasset" offset: 352882688, size: 928 bytes, sha1: AC03FF43F18E850B8D60D206A24B3CDCE26F354A, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_N.uexp" offset: 352883669, size: 6233 bytes, sha1: E185C0396EB96874DB5EBC0CE84B566FCCD8FC3D, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_N.ubulk" offset: 352890880, size: 5586944 bytes, sha1: 90935212E424EDA6E3A83021AC661EE34C1D3D97, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_A.uasset" offset: 358479872, size: 811 bytes, sha1: 758FC28444A2B650070D5F02607BD65090E02592, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_A.uexp" offset: 358480736, size: 3423 bytes, sha1: 38BA35487E4AAB96F9F8EC02103CC81425944D5E, compression: None.
-LogPakFile: Display: "T_BLD_Door_Concrete_A.ubulk" offset: 358486016, size: 2793472 bytes, sha1: 70FFDC40D8AAF90EAD31E14F763AB4C274C27D42, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_A.uasset" offset: 350081024, size: 811 bytes, sha1: 758FC28444A2B650070D5F02607BD65090E02592, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_A.uexp" offset: 350081888, size: 3423 bytes, sha1: 38BA35487E4AAB96F9F8EC02103CC81425944D5E, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_A.ubulk" offset: 350087168, size: 2793472 bytes, sha1: 70FFDC40D8AAF90EAD31E14F763AB4C274C27D42, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_RMA.uasset" offset: 352882688, size: 929 bytes, sha1: 1590D66DC65B72C0FA52E2E60EEA72D573F58B9E, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_RMA.uexp" offset: 352883670, size: 3490 bytes, sha1: E829664664AD2E0CBE7A14D9A24A88592C939BD0, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_RMA.ubulk" offset: 352888832, size: 2793472 bytes, sha1: A9CD8FA134CF2F79A00E9D94E9A25E821B8B5D95, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_N.uasset" offset: 355684352, size: 928 bytes, sha1: AC03FF43F18E850B8D60D206A24B3CDCE26F354A, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_N.uexp" offset: 355685333, size: 6233 bytes, sha1: E185C0396EB96874DB5EBC0CE84B566FCCD8FC3D, compression: None.
+LogPakFile: Display: "T_BLD_Door_Concrete_N.ubulk" offset: 355692544, size: 5586944 bytes, sha1: 90935212E424EDA6E3A83021AC661EE34C1D3D97, compression: None.
 LogPakFile: Display: "M_BLD_Door_Concrete.uasset" offset: 361281536, size: 4776 bytes, sha1: AEE04261EFB90AFD96FFA36F8BA9B58A13DBA562, compression: None.
 LogPakFile: Display: "M_BLD_Door_Concrete.uexp" offset: 361286365, size: 2537 bytes, sha1: 893974EBECBD29C2C6577780FF13C6FC06BE475D, compression: None.
 LogPakFile: Display: "SM_BLD_Door_Concrete.uasset" offset: 361289728, size: 2894 bytes, sha1: 901DFD557741500FD147525528C2B378C067255F, compression: None.
 LogPakFile: Display: "SM_BLD_Door_Concrete.uexp" offset: 361292675, size: 562548 bytes, sha1: E2972BEB16054E2601121F7EE1F948CB185BF18C, compression: None.
 LogPakFile: Display: "SM_BLD_Wall_Doorframe_Concrete.uasset" offset: 361857024, size: 3343 bytes, sha1: C81AA21291632B0A4543F11691FC566490CEB83F, compression: None.
 LogPakFile: Display: "SM_BLD_Wall_Doorframe_Concrete.uexp" offset: 361860420, size: 450082 bytes, sha1: 91F4C0F08CDA99CB56EF535922918EB34FA0660D, compression: None.
-LogPakFile: Display: "M_BLD_Stone_DM.uasset" offset: 362311680, size: 4715 bytes, sha1: 79CD656BF4D00382E659EACC72894290ABA99A73, compression: None.
-LogPakFile: Display: "M_BLD_Stone_DM.uexp" offset: 362316448, size: 2511 bytes, sha1: DE597C0374EA048E0E447203BB4B3C2463656C74, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uasset" offset: 362319872, size: 947 bytes, sha1: 9ECA0E988DBDAF4AE1099EF1F5698886DF0EB79F, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uexp" offset: 362320872, size: 3490 bytes, sha1: 3E259F1450170CDB486FE341F7256190582B0016, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.ubulk" offset: 362326016, size: 2793472 bytes, sha1: AE6B351023C28CEE322BC33F9CD4BDCE6DD575DD, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uasset" offset: 365121536, size: 946 bytes, sha1: 9E17973128B43540A6ACA39B58B382C32BAFEE12, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uexp" offset: 365122535, size: 6233 bytes, sha1: 640B4B719CF71FCC962CA31796E1378B844449CE, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.ubulk" offset: 365129728, size: 5586944 bytes, sha1: 2637FFABFB4CD1448B4A815928B7B51C64606BA1, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uasset" offset: 370718720, size: 829 bytes, sha1: B80C21459525DCD32DEC7E234DBC61DB5C7674D7, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uexp" offset: 370719602, size: 3423 bytes, sha1: 77290C7B5F6DB4E5DD231B6935E33A604C790E93, compression: None.
-LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.ubulk" offset: 370724864, size: 2793472 bytes, sha1: 024AF2239F16D98E4F40E391D241B484A5753F44, compression: None.
-LogPakFile: Display: "m_BLD_Wall_Door_DBL_Concrete.uasset" offset: 373520384, size: 4848 bytes, sha1: 5FECB1E7241CB9A8DFCED0F7042AC5EB98E6561E, compression: None.
-LogPakFile: Display: "m_BLD_Wall_Door_DBL_Concrete.uexp" offset: 373525285, size: 2537 bytes, sha1: 893974EBECBD29C2C6577780FF13C6FC06BE475D, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uasset" offset: 362311680, size: 947 bytes, sha1: 9ECA0E988DBDAF4AE1099EF1F5698886DF0EB79F, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.uexp" offset: 362312680, size: 3490 bytes, sha1: 3E259F1450170CDB486FE341F7256190582B0016, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_RMA.ubulk" offset: 362317824, size: 2793472 bytes, sha1: AE6B351023C28CEE322BC33F9CD4BDCE6DD575DD, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uasset" offset: 365113344, size: 946 bytes, sha1: 9E17973128B43540A6ACA39B58B382C32BAFEE12, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.uexp" offset: 365114343, size: 6233 bytes, sha1: 640B4B719CF71FCC962CA31796E1378B844449CE, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_N.ubulk" offset: 365121536, size: 5586944 bytes, sha1: 2637FFABFB4CD1448B4A815928B7B51C64606BA1, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uasset" offset: 370710528, size: 829 bytes, sha1: B80C21459525DCD32DEC7E234DBC61DB5C7674D7, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.uexp" offset: 370711410, size: 3423 bytes, sha1: 77290C7B5F6DB4E5DD231B6935E33A604C790E93, compression: None.
+LogPakFile: Display: "T_BLD_Wall_Door_DBL_Concrete_A.ubulk" offset: 370716672, size: 2793472 bytes, sha1: 024AF2239F16D98E4F40E391D241B484A5753F44, compression: None.
+LogPakFile: Display: "m_BLD_Wall_Door_DBL_Concrete.uasset" offset: 373512192, size: 4848 bytes, sha1: 5FECB1E7241CB9A8DFCED0F7042AC5EB98E6561E, compression: None.
+LogPakFile: Display: "m_BLD_Wall_Door_DBL_Concrete.uexp" offset: 373517093, size: 2537 bytes, sha1: 893974EBECBD29C2C6577780FF13C6FC06BE475D, compression: None.
+LogPakFile: Display: "M_BLD_Stone_DM.uasset" offset: 373520384, size: 4715 bytes, sha1: 79CD656BF4D00382E659EACC72894290ABA99A73, compression: None.
+LogPakFile: Display: "M_BLD_Stone_DM.uexp" offset: 373525152, size: 2511 bytes, sha1: DE597C0374EA048E0E447203BB4B3C2463656C74, compression: None.
 LogPakFile: Display: "SM_BLD_Wall_Door_DBL_Concrete_L_Support.uasset" offset: 373528576, size: 2752 bytes, sha1: 2DF9165AA8809FFFF90E37E14F80DFC2359794BF, compression: None.
 LogPakFile: Display: "SM_BLD_Wall_Door_DBL_Concrete_L_Support.uexp" offset: 373531381, size: 154746 bytes, sha1: FD01756F61F7B1C2D01537F2B13719371B4A50B5, compression: None.
 LogPakFile: Display: "DM_BLD_Wall_Door_DBL_Concrete_L_Support.uasset" offset: 373686272, size: 3326 bytes, sha1: C5A8628E1D059F432A50739C27C6EDF5182209D8, compression: None.
@@ -1161,28 +1161,28 @@ LogPakFile: Display: "DES/DM_BLD_Floor_TrapDoor_Wood_INT_Support.uasset" offset:
 LogPakFile: Display: "DES/DM_BLD_Floor_TrapDoor_Wood_INT_Support.uexp" offset: 791164340, size: 169745 bytes, sha1: 781778DCEB40E645640EEE3C1A511736EA80C0BE, compression: None.
 LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Wood_INT_SHA.uasset" offset: 791334912, size: 2428 bytes, sha1: 49543734BBC41162725548BE803A6D3A750620B9, compression: None.
 LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Wood_INT_SHA.uexp" offset: 791337393, size: 73697 bytes, sha1: FB2A3B34455EE70681EC69A44AFC9EFE8775768D, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_RMA.uasset" offset: 791412736, size: 959 bytes, sha1: 108E2D0803A74C287CEE084E5792CBC07FE82254, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_RMA.uexp" offset: 791413748, size: 3454 bytes, sha1: F627B93DD1C9809302C6E2784E4AF37A6A25746B, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_RMA.ubulk" offset: 791418880, size: 696320 bytes, sha1: D31407152C401517807A397920BDFB5015EF6BCC, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_N.uasset" offset: 792117248, size: 958 bytes, sha1: 917AFE01B5CADDB0CFB5177B710A6736B31B8984, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_N.uexp" offset: 792118259, size: 6197 bytes, sha1: C9C917BFD12EBC93469813600688553134B20817, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_N.ubulk" offset: 792125440, size: 1392640 bytes, sha1: 8184C0CF080E19C319A956DB58DD5E7F0DBE0900, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_A.uasset" offset: 793520128, size: 841 bytes, sha1: 4BF2F83BAEDDD4CA8E36540E54D07D5192D8CED2, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_A.uexp" offset: 793521022, size: 3423 bytes, sha1: 6F95A32F2DFB891F1799277E03F354843C9678FE, compression: None.
-LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_A.ubulk" offset: 793526272, size: 2793472 bytes, sha1: 40041C4A72E7DCD65DDFC7451A74322BD804D58C, compression: None.
-LogPakFile: Display: "M_BLD_TrapDoorHatch_Wood_INT.uasset" offset: 796321792, size: 4833 bytes, sha1: A0EAC7209FA2C9429EDE8AA5ABA6DA2ADDAA75BA, compression: None.
-LogPakFile: Display: "M_BLD_TrapDoorHatch_Wood_INT.uexp" offset: 796326678, size: 2511 bytes, sha1: DE597C0374EA048E0E447203BB4B3C2463656C74, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_RMA.uasset" offset: 796329984, size: 919 bytes, sha1: AF14CCB7C00E62C08DE912A7590CDCD36394C053, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_RMA.uexp" offset: 796330956, size: 3490 bytes, sha1: 96A429B69287613C3303BBB4C4710FD82F87EE3C, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_RMA.ubulk" offset: 796336128, size: 2793472 bytes, sha1: AEE9682EA03C27710CB4F9DADC8F1365DE055EAE, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_N.uasset" offset: 799131648, size: 918 bytes, sha1: FC9ECE0E22D5D6FFEC884AC6DE1CA56C53CF8BA0, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_N.uexp" offset: 799132619, size: 6233 bytes, sha1: 954475D0F9D04C5652D80C146A9F23497035389B, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_N.ubulk" offset: 799139840, size: 5586944 bytes, sha1: A5C46CA25D973FE2E676CA88E6CF67F6B7EA417D, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_A.uasset" offset: 804728832, size: 801 bytes, sha1: 89D07B0125ACC42FAF5037DB2BECDB072683F868, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_A.uexp" offset: 804729686, size: 3423 bytes, sha1: A06BA7B6BBCEF774B2DECBA62E20F5072B696912, compression: None.
-LogPakFile: Display: "T_BLD_Door_INT_A.ubulk" offset: 804734976, size: 2793472 bytes, sha1: 300E62825A65861AE353D7F305EAD0E4CAA29BE8, compression: None.
-LogPakFile: Display: "M_BLD_Door_Wood_INT.uasset" offset: 807530496, size: 4744 bytes, sha1: C6A9F502B4EE9CC1087048CB221907C6354871CD, compression: None.
-LogPakFile: Display: "M_BLD_Door_Wood_INT.uexp" offset: 807535293, size: 2537 bytes, sha1: 893974EBECBD29C2C6577780FF13C6FC06BE475D, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_RMA.uasset" offset: 791412736, size: 919 bytes, sha1: AF14CCB7C00E62C08DE912A7590CDCD36394C053, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_RMA.uexp" offset: 791413708, size: 3490 bytes, sha1: 96A429B69287613C3303BBB4C4710FD82F87EE3C, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_RMA.ubulk" offset: 791418880, size: 2793472 bytes, sha1: AEE9682EA03C27710CB4F9DADC8F1365DE055EAE, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_N.uasset" offset: 794214400, size: 918 bytes, sha1: FC9ECE0E22D5D6FFEC884AC6DE1CA56C53CF8BA0, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_N.uexp" offset: 794215371, size: 6233 bytes, sha1: 954475D0F9D04C5652D80C146A9F23497035389B, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_N.ubulk" offset: 794222592, size: 5586944 bytes, sha1: A5C46CA25D973FE2E676CA88E6CF67F6B7EA417D, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_A.uasset" offset: 799811584, size: 801 bytes, sha1: 89D07B0125ACC42FAF5037DB2BECDB072683F868, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_A.uexp" offset: 799812438, size: 3423 bytes, sha1: A06BA7B6BBCEF774B2DECBA62E20F5072B696912, compression: None.
+LogPakFile: Display: "T_BLD_Door_INT_A.ubulk" offset: 799817728, size: 2793472 bytes, sha1: 300E62825A65861AE353D7F305EAD0E4CAA29BE8, compression: None.
+LogPakFile: Display: "M_BLD_Door_Wood_INT.uasset" offset: 802613248, size: 4744 bytes, sha1: C6A9F502B4EE9CC1087048CB221907C6354871CD, compression: None.
+LogPakFile: Display: "M_BLD_Door_Wood_INT.uexp" offset: 802618045, size: 2537 bytes, sha1: 893974EBECBD29C2C6577780FF13C6FC06BE475D, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_RMA.uasset" offset: 802621440, size: 959 bytes, sha1: 108E2D0803A74C287CEE084E5792CBC07FE82254, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_RMA.uexp" offset: 802622452, size: 3454 bytes, sha1: F627B93DD1C9809302C6E2784E4AF37A6A25746B, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_RMA.ubulk" offset: 802627584, size: 696320 bytes, sha1: D31407152C401517807A397920BDFB5015EF6BCC, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_N.uasset" offset: 803325952, size: 958 bytes, sha1: 917AFE01B5CADDB0CFB5177B710A6736B31B8984, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_N.uexp" offset: 803326963, size: 6197 bytes, sha1: C9C917BFD12EBC93469813600688553134B20817, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_N.ubulk" offset: 803334144, size: 1392640 bytes, sha1: 8184C0CF080E19C319A956DB58DD5E7F0DBE0900, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_A.uasset" offset: 804728832, size: 841 bytes, sha1: 4BF2F83BAEDDD4CA8E36540E54D07D5192D8CED2, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_A.uexp" offset: 804729726, size: 3423 bytes, sha1: 6F95A32F2DFB891F1799277E03F354843C9678FE, compression: None.
+LogPakFile: Display: "T_BLD_Floor_TrapDoorHatch_Wood_INT_A.ubulk" offset: 804734976, size: 2793472 bytes, sha1: 40041C4A72E7DCD65DDFC7451A74322BD804D58C, compression: None.
+LogPakFile: Display: "M_BLD_TrapDoorHatch_Wood_INT.uasset" offset: 807530496, size: 4833 bytes, sha1: A0EAC7209FA2C9429EDE8AA5ABA6DA2ADDAA75BA, compression: None.
+LogPakFile: Display: "M_BLD_TrapDoorHatch_Wood_INT.uexp" offset: 807535382, size: 2511 bytes, sha1: DE597C0374EA048E0E447203BB4B3C2463656C74, compression: None.
 LogPakFile: Display: "SM_BLD_TrapDoorHatch_Wood_INT.uasset" offset: 807538688, size: 2905 bytes, sha1: 9AC8C183740EB878B54FCC01B91DE612F738378F, compression: None.
 LogPakFile: Display: "SM_BLD_TrapDoorHatch_Wood_INT.uexp" offset: 807541646, size: 310714 bytes, sha1: 6E656F79F74E6577BDD498DCB07D349D3B9BD30C, compression: None.
 LogPakFile: Display: "SM_BLD_Floor_Trapdoor_Wood_INT.uasset" offset: 807854080, size: 3959 bytes, sha1: EFB3DC6700FCC471F9F07C19A87E6C57FE9EFED7, compression: None.
@@ -2052,10 +2052,10 @@ LogPakFile: Display: "DES/SM_BLD_Floor_TrapDoor_Stone_Support.uasset" offset: 13
 LogPakFile: Display: "DES/SM_BLD_Floor_TrapDoor_Stone_Support.uexp" offset: 1306055415, size: 72926 bytes, sha1: D4552B3CD40A1F569A53CB2A2A9FAC8E76533624, compression: None.
 LogPakFile: Display: "DES/DM_BLD_Floor_TrapDoor_Stone_Support.uasset" offset: 1306130432, size: 3396 bytes, sha1: E6211829B1C2E0FCF7854074CE2CCB2EF17052AE, compression: None.
 LogPakFile: Display: "DES/DM_BLD_Floor_TrapDoor_Stone_Support.uexp" offset: 1306133881, size: 164894 bytes, sha1: 123E0FAB9152BFCEA0C59D84BA93650CFE2A2F14, compression: None.
-LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone_SHA.uasset" offset: 1306300416, size: 2396 bytes, sha1: AFC9A2CE0F5C8B2062DA75519E1B82AD62ECF26E, compression: None.
-LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone_SHA.uexp" offset: 1306302865, size: 56672 bytes, sha1: F5D62C47D4370AC11D5C712E78293779A762C9EF, compression: None.
-LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone.uasset" offset: 1306359808, size: 4053 bytes, sha1: 8C42299879F2860B2676E4579D5EAC0564204089, compression: None.
-LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone.uexp" offset: 1306363914, size: 966069 bytes, sha1: EA8E8BB5ADE992E36D14A238E13D9B7B3974600E, compression: None.
+LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone.uasset" offset: 1306300416, size: 4053 bytes, sha1: 8C42299879F2860B2676E4579D5EAC0564204089, compression: None.
+LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone.uexp" offset: 1306304522, size: 966069 bytes, sha1: EA8E8BB5ADE992E36D14A238E13D9B7B3974600E, compression: None.
+LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone_SHA.uasset" offset: 1307271168, size: 2396 bytes, sha1: AFC9A2CE0F5C8B2062DA75519E1B82AD62ECF26E, compression: None.
+LogPakFile: Display: "SM_BLD_Floor_TrapDoor_Stone_SHA.uexp" offset: 1307273617, size: 56672 bytes, sha1: F5D62C47D4370AC11D5C712E78293779A762C9EF, compression: None.
 LogPakFile: Display: "T_BLD_Frame_Angled_Stone_RMA.uasset" offset: 1307330560, size: 939 bytes, sha1: 78625219D62F78D7DF6F6E05ED9F290F692731FE, compression: None.
 LogPakFile: Display: "T_BLD_Frame_Angled_Stone_RMA.uexp" offset: 1307331552, size: 3490 bytes, sha1: BB4CAE5E38A08A2473E98F2F2CF6CF0BF7E7CED9, compression: None.
 LogPakFile: Display: "T_BLD_Frame_Angled_Stone_RMA.ubulk" offset: 1307336704, size: 2793472 bytes, sha1: 772820866FA643D997453A71FB5CEABA1BA99D60, compression: None.
@@ -3569,15 +3569,15 @@ LogPakFile: Display: "SK_BLD_Floor_TrapDoorHatch_Thatch_Physics.uasset" offset: 
 LogPakFile: Display: "SK_BLD_Floor_TrapDoorHatch_Thatch_Physics.uexp" offset: 2590316150, size: 734 bytes, sha1: D5CB224A47E96DCF89F8737B8E80D477D7F95C48, compression: None.
 LogPakFile: Display: "SK_BLD_Floor_TrapDoorHatch_Thatch.uasset" offset: 2590318592, size: 3407 bytes, sha1: 958AF0E26537C92A6B10096ABB90BEA0E8A5064B, compression: None.
 LogPakFile: Display: "SK_BLD_Floor_TrapDoorHatch_Thatch.uexp" offset: 2590322052, size: 751636 bytes, sha1: 3381181AB6EBBB4E9EFAE14C9D231C1BA422DF56, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_A.uasset" offset: 2591074304, size: 821 bytes, sha1: E3DAA9CA606CE62A796EBA1C97B5B756A3D53236, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_A.uexp" offset: 2591075178, size: 3423 bytes, sha1: 6269827F04A5AB21D72BD787B6E60F686390A9CE, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_A.ubulk" offset: 2591080448, size: 2793472 bytes, sha1: A80D5871F57633E34DBEB98821D5817EAC957C6B, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_RSA.uasset" offset: 2593875968, size: 939 bytes, sha1: 19588B9CF2F9A03E85F8AAE4A7150ABB5C6670C0, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_RSA.uexp" offset: 2593876960, size: 3454 bytes, sha1: 58D031E9265FA9DFDFDA257004EC2E4A53F2A6AE, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_RSA.ubulk" offset: 2593882112, size: 696320 bytes, sha1: 92B91D3A487764354CE2032E5E0429E0E4278D84, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_N.uasset" offset: 2594580480, size: 938 bytes, sha1: 4331091D99023134C22A4D4FBB007538594767B3, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_N.uexp" offset: 2594581471, size: 6197 bytes, sha1: A3C63A4F010DE3E6B2AFAE41AC5FC28861268417, compression: None.
-LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_N.ubulk" offset: 2594588672, size: 1392640 bytes, sha1: 751FBA767B87A4FC8048EDDFE2792C19F2212E3D, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_RSA.uasset" offset: 2591074304, size: 939 bytes, sha1: 19588B9CF2F9A03E85F8AAE4A7150ABB5C6670C0, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_RSA.uexp" offset: 2591075296, size: 3454 bytes, sha1: 58D031E9265FA9DFDFDA257004EC2E4A53F2A6AE, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_RSA.ubulk" offset: 2591080448, size: 696320 bytes, sha1: 92B91D3A487764354CE2032E5E0429E0E4278D84, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_N.uasset" offset: 2591778816, size: 938 bytes, sha1: 4331091D99023134C22A4D4FBB007538594767B3, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_N.uexp" offset: 2591779807, size: 6197 bytes, sha1: A3C63A4F010DE3E6B2AFAE41AC5FC28861268417, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_N.ubulk" offset: 2591787008, size: 1392640 bytes, sha1: 751FBA767B87A4FC8048EDDFE2792C19F2212E3D, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_A.uasset" offset: 2593181696, size: 821 bytes, sha1: E3DAA9CA606CE62A796EBA1C97B5B756A3D53236, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_A.uexp" offset: 2593182570, size: 3423 bytes, sha1: 6269827F04A5AB21D72BD787B6E60F686390A9CE, compression: None.
+LogPakFile: Display: "T_BLD_TrapDoorHatch_Wood_A.ubulk" offset: 2593187840, size: 2793472 bytes, sha1: A80D5871F57633E34DBEB98821D5817EAC957C6B, compression: None.
 LogPakFile: Display: "M_BLD_TrapDoorHatch_Wood.uasset" offset: 2595983360, size: 4765 bytes, sha1: D7EF1468B9771036E9330C1CCF9934737437BC91, compression: None.
 LogPakFile: Display: "M_BLD_TrapDoorHatch_Wood.uexp" offset: 2595988178, size: 2511 bytes, sha1: DE597C0374EA048E0E447203BB4B3C2463656C74, compression: None.
 LogPakFile: Display: "SM_BLD_TrapDoorHatch_Wood.uasset" offset: 2595991552, size: 2761 bytes, sha1: EF74938369A1A0AAE31C14E5B888B9FFE653120F, compression: None.
@@ -3774,4 +3774,4 @@ LogPakFile: Display: "DES/DM_BLD_Wall_Glass_Support.uexp" offset: 2680029329, si
 LogPakFile: Display: "SM_BLD_Wall_Solid_Glass.uasset" offset: 2683621376, size: 2796 bytes, sha1: 5ECA6FC76302DF83B708DC99011C4805034DD1D0, compression: None.
 LogPakFile: Display: "SM_BLD_Wall_Solid_Glass.uexp" offset: 2683624225, size: 887785 bytes, sha1: F30545B3251A960BBC349477C953AC2DEC621374, compression: None.
 LogPakFile: Display: 3760 files (2681590923 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 4.053598 seconds
+LogPakFile: Display: Unreal pak executed in 4.141262 seconds
