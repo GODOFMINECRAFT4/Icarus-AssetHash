@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1611779996
 LogPakFile: Display:     IndexSize: 15669
-LogPakFile: Display:     IndexHash: 379E43332FFC0E0157F7AC623BCABE78388FCD95
+LogPakFile: Display:     IndexHash: B4ABA4303F174C76E30BEA7CD9136FB967D93AEA
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.151835 seconds
+LogPakFile: Display: Unreal pak executed in 0.153053 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/ENV/RCK/
@@ -578,22 +578,22 @@ LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammot
 LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_CAC.ubulk" offset: 1197596672, size: 11182080 bytes, sha1: E24C3C35FE91F4488F4016ADF8BC9FF2AED4AE0D, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var1.uasset" offset: 1208780800, size: 5921 bytes, sha1: 4DCFB4F981A5A91B577EE2CC4D228D191FDC75E4, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var1.uexp" offset: 1208786774, size: 239922 bytes, sha1: 39B3F663E1DB6146B371A29BA003D13200E18F94, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uasset" offset: 1209028608, size: 5014 bytes, sha1: 0CB3DAD04BADACB1A667688582ED167D7B64A0D5, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uexp" offset: 1209033675, size: 232631 bytes, sha1: F8D4656F0A386E709A27DF42E1E4EFA1AAD3D8E7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_03.uasset" offset: 1209268224, size: 7107 bytes, sha1: A176BC94F400B9405D4CC4418D6D87B33E23A2B5, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_03.uexp" offset: 1209275384, size: 243447 bytes, sha1: 6D079B30CFF21FD13D3CB21E1BF5722AD5127302, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_03.uasset" offset: 1209520128, size: 3099 bytes, sha1: 6E6F426A74DA600BA45A36DF5FD36CB39D504556, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_03.uexp" offset: 1209523280, size: 8921237 bytes, sha1: E7E02C5494978A06DC6A03994841008526B999BD, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_02.uasset" offset: 1218445312, size: 4971 bytes, sha1: 94778A5CFB4F3B05C204AD9FA98C6821FFA131A4, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_02.uexp" offset: 1218450336, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_02.uasset" offset: 1218453504, size: 3073 bytes, sha1: 1C29BF7A3306D3BE80301DD923E0254B525A835C, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_02.uexp" offset: 1218456630, size: 8727277 bytes, sha1: C77636D0E477EADA97293C2555124C78AFD58DE8, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_01.uasset" offset: 1227184128, size: 4959 bytes, sha1: 6988FF273EE18D6D0A27D9001A386047E2634645, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_01.uexp" offset: 1227189140, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_05.uasset" offset: 1227192320, size: 4951 bytes, sha1: 4E55CA50151291842E95B7E3F964C4A68AE6060B, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_05.uexp" offset: 1227197324, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_02.uasset" offset: 1227200512, size: 4951 bytes, sha1: 080F214625B867D56C0E5AE1A40418BFDBBC8EBA, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_02.uexp" offset: 1227205516, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_01.uasset" offset: 1209028608, size: 4959 bytes, sha1: 6988FF273EE18D6D0A27D9001A386047E2634645, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_01.uexp" offset: 1209033620, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_05.uasset" offset: 1209036800, size: 4951 bytes, sha1: 4E55CA50151291842E95B7E3F964C4A68AE6060B, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_05.uexp" offset: 1209041804, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_02.uasset" offset: 1209044992, size: 4951 bytes, sha1: 080F214625B867D56C0E5AE1A40418BFDBBC8EBA, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_02.uexp" offset: 1209049996, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uasset" offset: 1209053184, size: 5014 bytes, sha1: 0CB3DAD04BADACB1A667688582ED167D7B64A0D5, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uexp" offset: 1209058251, size: 232631 bytes, sha1: F8D4656F0A386E709A27DF42E1E4EFA1AAD3D8E7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_03.uasset" offset: 1209292800, size: 7107 bytes, sha1: A176BC94F400B9405D4CC4418D6D87B33E23A2B5, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_03.uexp" offset: 1209299960, size: 243447 bytes, sha1: 6D079B30CFF21FD13D3CB21E1BF5722AD5127302, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_03.uasset" offset: 1209544704, size: 3099 bytes, sha1: 6E6F426A74DA600BA45A36DF5FD36CB39D504556, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_03.uexp" offset: 1209547856, size: 8921237 bytes, sha1: E7E02C5494978A06DC6A03994841008526B999BD, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_02.uasset" offset: 1218469888, size: 4971 bytes, sha1: 94778A5CFB4F3B05C204AD9FA98C6821FFA131A4, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_02.uexp" offset: 1218474912, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_02.uasset" offset: 1218478080, size: 3073 bytes, sha1: 1C29BF7A3306D3BE80301DD923E0254B525A835C, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_02.uexp" offset: 1218481206, size: 8727277 bytes, sha1: C77636D0E477EADA97293C2555124C78AFD58DE8, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_06.uasset" offset: 1227208704, size: 4951 bytes, sha1: F72B7E654A021DFDE88961AA1DFE70D3AC104160, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_06.uexp" offset: 1227213708, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_01.uasset" offset: 1227216896, size: 3058 bytes, sha1: AF1D10C1359205D7BFE6C4969FC2484768406048, compression: None.
@@ -1308,4 +1308,4 @@ LogPakFile: Display: "IMP/SM_ROCK_IMP_Mountain_01.uexp" offset: 2673098854, size
 LogPakFile: Display: "IMP/IMP_OLY_Mountain_01/M_ROCK_IMP_OLY_Mountain_01_NORVT.uasset" offset: 2681120768, size: 9625 bytes, sha1: E9E4078BB02DF3FF69D9405085922A2990466676, compression: None.
 LogPakFile: Display: "IMP/IMP_OLY_Mountain_01/M_ROCK_IMP_OLY_Mountain_01_NORVT.uexp" offset: 2681130446, size: 2056801 bytes, sha1: 6A79E5CB01D150915E7C4E38E4D6175785BED9DE, compression: None.
 LogPakFile: Display: 1294 files (2682143618 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.689488 seconds
+LogPakFile: Display: Unreal pak executed in 0.632998 seconds

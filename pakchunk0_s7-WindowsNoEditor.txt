@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1609827632
 LogPakFile: Display:     IndexSize: 24773
-LogPakFile: Display:     IndexHash: EB453AE80237BB94B911C8FC823F84E3C838096F
+LogPakFile: Display:     IndexHash: 9AEBB097227EBA97720E09B42917BF655F6D2C68
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.151581 seconds
+LogPakFile: Display: Unreal pak executed in 0.153296 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/ENV/
@@ -40,17 +40,17 @@ LogPakFile: Display: "HRB/Crop_Watermelon/v02/SM_HRB_Crop_Watermelon_Stage4_Var1
 LogPakFile: Display: "HRB/Crop_Watermelon/v02/SM_HRB_Crop_Watermelon_Stage4_Var1.uexp" offset: 63175649, size: 7860952 bytes, sha1: D5678BFC26BC1108B1F2691B43277B33DDDE53A5, compression: None.
 LogPakFile: Display: "HRB/Crop_Watermelon/v02/SM_HRB_Crop_Watermelon_Stage5_Var1.uasset" offset: 71036928, size: 2988 bytes, sha1: 8A3C64958E0335B50C9887F237BA69E0041EA286, compression: None.
 LogPakFile: Display: "HRB/Crop_Watermelon/v02/SM_HRB_Crop_Watermelon_Stage5_Var1.uexp" offset: 71039969, size: 6387503 bytes, sha1: 0389D871A0DE2585B323996207D9D0561409C624, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Color_png_Tex.uasset" offset: 77428736, size: 860 bytes, sha1: D7118C49657C79BFD50E7536EDF5CCD73E05020E, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Color_png_Tex.uexp" offset: 77429649, size: 6167 bytes, sha1: E418FE4930D3C88E9C7651170B59FF216D289973, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Color_png_Tex.ubulk" offset: 77436928, size: 5586944 bytes, sha1: 69A6838264222BAA9FC790E15629C4C3A729168E, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/M_HRB_Crop_Wheat_Dead_MAS.uasset" offset: 83025920, size: 4917 bytes, sha1: B2305F247BD0F80A485CCB932768A04127F9F0C7, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/M_HRB_Crop_Wheat_Dead_MAS.uexp" offset: 83030890, size: 1043 bytes, sha1: FA8E1891E89C1B0CBEA950E6A05AA1ED35288B62, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Subsurface_png_Tex.uasset" offset: 83032064, size: 870 bytes, sha1: E9FC368DCD4A6BF29E31C834ACB157F7EF196D19, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Subsurface_png_Tex.uexp" offset: 83032987, size: 3423 bytes, sha1: DDBB8D3BE406761F036C58C7DE1C75FE550F8F38, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Subsurface_png_Tex.ubulk" offset: 83038208, size: 2793472 bytes, sha1: 62DEF65162EE88114D3796F640B592C3C9F27767, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Normal_png_Tex.uasset" offset: 85833728, size: 896 bytes, sha1: 121CAA38648238B8D25CAC3062D3652B1061BB3B, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Normal_png_Tex.uexp" offset: 85834677, size: 6193 bytes, sha1: CBA4A4273DF00CA46D9E004FD65DE8E35348AF50, compression: None.
-LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Normal_png_Tex.ubulk" offset: 85841920, size: 5586944 bytes, sha1: CD48CCAC72553F44C75D26B89C5FD291C6FE16F6, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Subsurface_png_Tex.uasset" offset: 77428736, size: 870 bytes, sha1: E9FC368DCD4A6BF29E31C834ACB157F7EF196D19, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Subsurface_png_Tex.uexp" offset: 77429659, size: 3423 bytes, sha1: DDBB8D3BE406761F036C58C7DE1C75FE550F8F38, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Subsurface_png_Tex.ubulk" offset: 77434880, size: 2793472 bytes, sha1: 62DEF65162EE88114D3796F640B592C3C9F27767, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Normal_png_Tex.uasset" offset: 80230400, size: 896 bytes, sha1: 121CAA38648238B8D25CAC3062D3652B1061BB3B, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Normal_png_Tex.uexp" offset: 80231349, size: 6193 bytes, sha1: CBA4A4273DF00CA46D9E004FD65DE8E35348AF50, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Normal_png_Tex.ubulk" offset: 80238592, size: 5586944 bytes, sha1: CD48CCAC72553F44C75D26B89C5FD291C6FE16F6, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Color_png_Tex.uasset" offset: 85827584, size: 860 bytes, sha1: D7118C49657C79BFD50E7536EDF5CCD73E05020E, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Color_png_Tex.uexp" offset: 85828497, size: 6167 bytes, sha1: E418FE4930D3C88E9C7651170B59FF216D289973, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/T_HRB_Crop_Wheat_01_Dead_Color_png_Tex.ubulk" offset: 85835776, size: 5586944 bytes, sha1: 69A6838264222BAA9FC790E15629C4C3A729168E, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/M_HRB_Crop_Wheat_Dead_MAS.uasset" offset: 91424768, size: 4917 bytes, sha1: B2305F247BD0F80A485CCB932768A04127F9F0C7, compression: None.
+LogPakFile: Display: "HRB/Crop_Wheat/M_HRB_Crop_Wheat_Dead_MAS.uexp" offset: 91429738, size: 1043 bytes, sha1: FA8E1891E89C1B0CBEA950E6A05AA1ED35288B62, compression: None.
 LogPakFile: Display: "HRB/Crop_Wheat/M_HRB_Crop_Wheat_Dead_01_Mas_Atlas.uasset" offset: 91430912, size: 5697 bytes, sha1: 11E34FDF3802B57CD2050862D44C4F9B059E9F27, compression: None.
 LogPakFile: Display: "HRB/Crop_Wheat/M_HRB_Crop_Wheat_Dead_01_Mas_Atlas.uexp" offset: 91436662, size: 480210 bytes, sha1: 4361A293F00ABC31A1B47E3551FEA8ABE7424384, compression: None.
 LogPakFile: Display: "HRB/Crop_Wheat/SM_HRB_Crop_Wheat_01_Dead_Var2_Billboard_Subsurface_png_Tex.uasset" offset: 91918336, size: 902 bytes, sha1: 0C6699BB325C95DFB3B3A104C90B548513130C83, compression: None.
@@ -281,28 +281,28 @@ LogPakFile: Display: "HRB/FT/FT_LC_Cocoa.uasset" offset: 230840320, size: 2648 b
 LogPakFile: Display: "HRB/FT/FT_LC_Cocoa.uexp" offset: 230843021, size: 2753 bytes, sha1: BFE19F63ADB1D0C5E4BCDAF729494555D14B3393, compression: None.
 LogPakFile: Display: "HRB/FT/FT_LC_Squash.uasset" offset: 230846464, size: 2663 bytes, sha1: 0888F9F720022B4F7BB6226FC90D751D55D7A7B2, compression: None.
 LogPakFile: Display: "HRB/FT/FT_LC_Squash.uexp" offset: 230849180, size: 2722 bytes, sha1: 3909BBA9CD864A7F0CE06E2BA1CBC13C82E445D5, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/M_HRB_Tea_Wild_MAS.uasset" offset: 230852608, size: 4905 bytes, sha1: 43F042760D211159E94E3AD6F3C4E1B3E9735D77, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/M_HRB_Tea_Wild_MAS.uexp" offset: 230857566, size: 1043 bytes, sha1: FA8E1891E89C1B0CBEA950E6A05AA1ED35288B62, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Subsurface_png_Tex.uasset" offset: 230858752, size: 866 bytes, sha1: 73D6F7906921A1054313F5DAB8459BD186E4A875, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Subsurface_png_Tex.uexp" offset: 230859671, size: 3423 bytes, sha1: F26E36958E98FE6F1CBC4168F0A9E1599D29BB56, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Subsurface_png_Tex.ubulk" offset: 230864896, size: 2793472 bytes, sha1: FBE05C8D0391DC1875C499E64D9616435EB06D68, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Normal_png_Tex.uasset" offset: 233660416, size: 892 bytes, sha1: 69AB328C4013E4FA5D4D13FD52AFDF151E6BF4D6, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Normal_png_Tex.uexp" offset: 233661361, size: 6193 bytes, sha1: 59F71046AA2B9D6ECF8DAA10D3B391E83363DAAD, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Normal_png_Tex.ubulk" offset: 233668608, size: 5586944 bytes, sha1: 62A79AD1034AE945A7AFAADEFC7A3D790BABEE93, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Color_png_Tex.uasset" offset: 239257600, size: 856 bytes, sha1: E4EAF33AA31DCDB1DD39C4146B0E3440E237332D, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Color_png_Tex.uexp" offset: 239258509, size: 6167 bytes, sha1: 730A771C06183C658006FC578ADFEF9E09AD7FA5, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Color_png_Tex.ubulk" offset: 239265792, size: 5586944 bytes, sha1: D9A47A412C63285B46AF3CFF3CB55D9CC88C25B3, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Subsurface_png_Tex.uasset" offset: 230852608, size: 866 bytes, sha1: 73D6F7906921A1054313F5DAB8459BD186E4A875, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Subsurface_png_Tex.uexp" offset: 230853527, size: 3423 bytes, sha1: F26E36958E98FE6F1CBC4168F0A9E1599D29BB56, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Subsurface_png_Tex.ubulk" offset: 230858752, size: 2793472 bytes, sha1: FBE05C8D0391DC1875C499E64D9616435EB06D68, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Normal_png_Tex.uasset" offset: 233654272, size: 892 bytes, sha1: 69AB328C4013E4FA5D4D13FD52AFDF151E6BF4D6, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Normal_png_Tex.uexp" offset: 233655217, size: 6193 bytes, sha1: 59F71046AA2B9D6ECF8DAA10D3B391E83363DAAD, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Normal_png_Tex.ubulk" offset: 233662464, size: 5586944 bytes, sha1: 62A79AD1034AE945A7AFAADEFC7A3D790BABEE93, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Color_png_Tex.uasset" offset: 239251456, size: 856 bytes, sha1: E4EAF33AA31DCDB1DD39C4146B0E3440E237332D, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Color_png_Tex.uexp" offset: 239252365, size: 6167 bytes, sha1: 730A771C06183C658006FC578ADFEF9E09AD7FA5, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Color_png_Tex.ubulk" offset: 239259648, size: 5586944 bytes, sha1: D9A47A412C63285B46AF3CFF3CB55D9CC88C25B3, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/M_HRB_Tea_Wild_MAS.uasset" offset: 244848640, size: 4905 bytes, sha1: 43F042760D211159E94E3AD6F3C4E1B3E9735D77, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/M_HRB_Tea_Wild_MAS.uexp" offset: 244853598, size: 1043 bytes, sha1: FA8E1891E89C1B0CBEA950E6A05AA1ED35288B62, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/M_HRB_LC_Tea_Wild_Leaves.uasset" offset: 244854784, size: 5844 bytes, sha1: 04592FA87FA6FD4912E3E9565CCB37DD36257501, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/M_HRB_LC_Tea_Wild_Leaves.uexp" offset: 244860681, size: 474136 bytes, sha1: 236C92FCD8387066AEBFA9FB696D075EA44F45A8, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Color_png_Tex.uasset" offset: 245336064, size: 876 bytes, sha1: 50354906B103B26B9C3D9D236935022CBFF3254E, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Color_png_Tex.uexp" offset: 245336993, size: 6167 bytes, sha1: 7B9F7E8FE40AC1EDC3F15B9106455160BC41210B, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Color_png_Tex.ubulk" offset: 245344256, size: 5586944 bytes, sha1: AEC6BF0A633CA5F877E34A1A76352D7CD3F5FF01, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Subsurface_png_Tex.uasset" offset: 250933248, size: 886 bytes, sha1: D3966C67C55DDC08EDB83F4AE1C15A45B6FC2343, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Subsurface_png_Tex.uexp" offset: 250934187, size: 3423 bytes, sha1: AD93F260C114618DFEB29257EA03ADE548CF5FD0, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Subsurface_png_Tex.ubulk" offset: 250939392, size: 2793472 bytes, sha1: ED02757CA06DC7B448F8CBFBB09E1EBB07BC031C, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Normal_png_Tex.uasset" offset: 253734912, size: 912 bytes, sha1: ACA74D8A3BBBB39AFF4F2D629A8576DD83B9070C, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Normal_png_Tex.uexp" offset: 253735877, size: 6193 bytes, sha1: B70AD3D65B248C0ABC0A6D847578BB80C99B9229, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Normal_png_Tex.ubulk" offset: 253743104, size: 5586944 bytes, sha1: 3D63CBE89C60CD29805F3B04222036445E3EBE41, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Subsurface_png_Tex.uasset" offset: 245336064, size: 886 bytes, sha1: D3966C67C55DDC08EDB83F4AE1C15A45B6FC2343, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Subsurface_png_Tex.uexp" offset: 245337003, size: 3423 bytes, sha1: AD93F260C114618DFEB29257EA03ADE548CF5FD0, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Subsurface_png_Tex.ubulk" offset: 245342208, size: 2793472 bytes, sha1: ED02757CA06DC7B448F8CBFBB09E1EBB07BC031C, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Normal_png_Tex.uasset" offset: 248137728, size: 912 bytes, sha1: ACA74D8A3BBBB39AFF4F2D629A8576DD83B9070C, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Normal_png_Tex.uexp" offset: 248138693, size: 6193 bytes, sha1: B70AD3D65B248C0ABC0A6D847578BB80C99B9229, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Normal_png_Tex.ubulk" offset: 248145920, size: 5586944 bytes, sha1: 3D63CBE89C60CD29805F3B04222036445E3EBE41, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Color_png_Tex.uasset" offset: 253734912, size: 876 bytes, sha1: 50354906B103B26B9C3D9D236935022CBFF3254E, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Color_png_Tex.uexp" offset: 253735841, size: 6167 bytes, sha1: 7B9F7E8FE40AC1EDC3F15B9106455160BC41210B, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/HRB_LC_Tea_Wild_Billboard_Color_png_Tex.ubulk" offset: 253743104, size: 5586944 bytes, sha1: AEC6BF0A633CA5F877E34A1A76352D7CD3F5FF01, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/M_HRB_LC_Tea_Wild_BIL.uasset" offset: 259332096, size: 5998 bytes, sha1: 6A766025AEEDDB11BFCF433BD7D11DD0F25563DE, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/M_HRB_LC_Tea_Wild_BIL.uexp" offset: 259338147, size: 432950 bytes, sha1: D7EDD64BF5611B907B6CCF678E49C8AA1ED31AEA, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Wild/LC_Tea_Wild/SM_HRB_LC_Tea_Wild.uasset" offset: 259772416, size: 3486 bytes, sha1: FF850896BB65746AA0BD9CC5389A85121F0CEBC2, compression: None.
@@ -421,26 +421,26 @@ LogPakFile: Display: "HRB/HRB_Cocoa/HRB_Crop_Cocoa/M_HRB_Crop_Cocoa_Stage5_Var1_
 LogPakFile: Display: "HRB/HRB_Cocoa/HRB_Crop_Cocoa/M_HRB_Crop_Cocoa_Stage5_Var1_Mas_BILL.uexp" offset: 322832274, size: 440037 bytes, sha1: CF7BBF22CBE21622FCAEE49F3DE640FA0B93E48C, compression: None.
 LogPakFile: Display: "HRB/HRB_Cocoa/HRB_Crop_Cocoa/SM_HRB_Crop_Cocoa_Stage5_Var1_01.uasset" offset: 323272704, size: 2757 bytes, sha1: 2C248023E49246E6613F4990DA8D5F6B2E812338, compression: None.
 LogPakFile: Display: "HRB/HRB_Cocoa/HRB_Crop_Cocoa/SM_HRB_Crop_Cocoa_Stage5_Var1_01.uexp" offset: 323275514, size: 2430084 bytes, sha1: 4B2D4E38ECD80B94492B8222FA5EF9AF2326FD51, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Subsurface_png_Tex.uasset" offset: 325705728, size: 914 bytes, sha1: 84B076ADDAFD4056FC4A579A0617D12AE2F6FCEE, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Subsurface_png_Tex.uexp" offset: 325706695, size: 3387 bytes, sha1: 754340F8C02023CDE91FB6DDF66938ADB17C76E2, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Subsurface_png_Tex.ubulk" offset: 325711872, size: 696320 bytes, sha1: 72060E354A6D43179B111BD8D0F80F3E36C22E7B, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Normal_png_Tex.uasset" offset: 326410240, size: 940 bytes, sha1: D20B9948D2BE00F8C8526F471CE1F6FD613DE24A, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Normal_png_Tex.uexp" offset: 326411233, size: 6157 bytes, sha1: 604374D2864600DA269AA43284C779B955B9C4EA, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Normal_png_Tex.ubulk" offset: 326418432, size: 1392640 bytes, sha1: C844F0D4AA254232CE129BF09F813DA7A18A794F, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Color_png_Tex.uasset" offset: 327813120, size: 904 bytes, sha1: 4B6ADD16E7CFED91B277C4EF121D9A82DD957043, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Color_png_Tex.uexp" offset: 327814077, size: 6131 bytes, sha1: 86291A1030157CECAAB6A4F1FB7B76073CCF3729, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Color_png_Tex.ubulk" offset: 327821312, size: 1392640 bytes, sha1: 367FFD2D36E63B675CD486484788D5D704050CA2, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/M_HRB_Crop_Coffee_MAS.uasset" offset: 329216000, size: 4925 bytes, sha1: 6A88B0C4D3262F13FEA9D83FAD421AFD18C6783A, compression: None.
-LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/M_HRB_Crop_Coffee_MAS.uexp" offset: 329220978, size: 1043 bytes, sha1: FA8E1891E89C1B0CBEA950E6A05AA1ED35288B62, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_SSS.uasset" offset: 329222144, size: 835 bytes, sha1: 69A3AD7A48A75D54031A1B75D7160D3EF8FBED69, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_SSS.uexp" offset: 329223032, size: 3423 bytes, sha1: B2909947BF89009F898F60A2390FCAF225CE2899, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_SSS.ubulk" offset: 329228288, size: 2793472 bytes, sha1: 043C6B7BAB9C5002D29B2DBE4C0EE9B16180C4B2, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_N.uasset" offset: 332023808, size: 865 bytes, sha1: 390F7FD2008050BBBED4DB06CF475E44717EAEE2, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_N.uexp" offset: 332024726, size: 6193 bytes, sha1: A2F5BE5F7C555670C52E19F4AA52B7C1523C1D8F, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_N.ubulk" offset: 332032000, size: 5586944 bytes, sha1: 185DFDBC2A52E462B0A72B15BC4C7FF517A2332B, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_A.uasset" offset: 337620992, size: 831 bytes, sha1: CD78003D2AD8B723A26D812ABE4074FE720CE1A9, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_A.uexp" offset: 337621876, size: 6167 bytes, sha1: 35D768C4756329C609815C1E0CE82D11A066776E, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_A.ubulk" offset: 337629184, size: 5586944 bytes, sha1: E8754C3EAD5816DB6383BB35476790A6390799A7, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_SSS.uasset" offset: 325705728, size: 835 bytes, sha1: 69A3AD7A48A75D54031A1B75D7160D3EF8FBED69, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_SSS.uexp" offset: 325706616, size: 3423 bytes, sha1: B2909947BF89009F898F60A2390FCAF225CE2899, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_SSS.ubulk" offset: 325711872, size: 2793472 bytes, sha1: 043C6B7BAB9C5002D29B2DBE4C0EE9B16180C4B2, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_N.uasset" offset: 328507392, size: 865 bytes, sha1: 390F7FD2008050BBBED4DB06CF475E44717EAEE2, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_N.uexp" offset: 328508310, size: 6193 bytes, sha1: A2F5BE5F7C555670C52E19F4AA52B7C1523C1D8F, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_N.ubulk" offset: 328515584, size: 5586944 bytes, sha1: 185DFDBC2A52E462B0A72B15BC4C7FF517A2332B, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_A.uasset" offset: 334104576, size: 831 bytes, sha1: CD78003D2AD8B723A26D812ABE4074FE720CE1A9, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_A.uexp" offset: 334105460, size: 6167 bytes, sha1: 35D768C4756329C609815C1E0CE82D11A066776E, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/T_HRB_Tea_Green_Leaf_A.ubulk" offset: 334112768, size: 5586944 bytes, sha1: E8754C3EAD5816DB6383BB35476790A6390799A7, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Subsurface_png_Tex.uasset" offset: 339701760, size: 914 bytes, sha1: 84B076ADDAFD4056FC4A579A0617D12AE2F6FCEE, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Subsurface_png_Tex.uexp" offset: 339702727, size: 3387 bytes, sha1: 754340F8C02023CDE91FB6DDF66938ADB17C76E2, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Subsurface_png_Tex.ubulk" offset: 339707904, size: 696320 bytes, sha1: 72060E354A6D43179B111BD8D0F80F3E36C22E7B, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Normal_png_Tex.uasset" offset: 340406272, size: 940 bytes, sha1: D20B9948D2BE00F8C8526F471CE1F6FD613DE24A, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Normal_png_Tex.uexp" offset: 340407265, size: 6157 bytes, sha1: 604374D2864600DA269AA43284C779B955B9C4EA, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Normal_png_Tex.ubulk" offset: 340414464, size: 1392640 bytes, sha1: C844F0D4AA254232CE129BF09F813DA7A18A794F, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Color_png_Tex.uasset" offset: 341809152, size: 904 bytes, sha1: 4B6ADD16E7CFED91B277C4EF121D9A82DD957043, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Color_png_Tex.uexp" offset: 341810109, size: 6131 bytes, sha1: 86291A1030157CECAAB6A4F1FB7B76073CCF3729, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Billboard_Color_png_Tex.ubulk" offset: 341817344, size: 1392640 bytes, sha1: 367FFD2D36E63B675CD486484788D5D704050CA2, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/M_HRB_Crop_Coffee_MAS.uasset" offset: 343212032, size: 4925 bytes, sha1: 6A88B0C4D3262F13FEA9D83FAD421AFD18C6783A, compression: None.
+LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/M_HRB_Crop_Coffee_MAS.uexp" offset: 343217010, size: 1043 bytes, sha1: FA8E1891E89C1B0CBEA950E6A05AA1ED35288B62, compression: None.
 LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/M_HRB_Crop_Coffee_Dead_Var1_Mas_BILL.uasset" offset: 343218176, size: 6731 bytes, sha1: 067603D957625C6141B2A410667B767232B3F4D6, compression: None.
 LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/M_HRB_Crop_Coffee_Dead_Var1_Mas_BILL.uexp" offset: 343224960, size: 441376 bytes, sha1: 02ABBFFDE07AC986FECEB50CFDD3208B70D0A851, compression: None.
 LogPakFile: Display: "HRB/HRB_Coffee/HRB_Crop_Coffee/SM_HRB_Crop_Coffee_Dead_Var1_Subsurface_png_Tex.uasset" offset: 343666688, size: 894 bytes, sha1: 9986EE007B30652E0EE61103A2915F83F5668371, compression: None.
@@ -620,15 +620,15 @@ LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/M_HRB_Crop_Tea_Green_
 LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/M_HRB_Crop_Tea_Green_Stage3_Var1_Mas_BILL.uexp" offset: 449917662, size: 441376 bytes, sha1: D6C030E6CCE692DEA0DF9E36CD0A9B2B1879F799, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage3_Var1_01.uasset" offset: 450359296, size: 3041 bytes, sha1: F296C1BB8234B00194DDA83EAACB32EC67B130F9, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage3_Var1_01.uexp" offset: 450362390, size: 1993532 bytes, sha1: AEA9FBA9DEB4B92407D968841CB771368CB7647A, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Color_png_Tex.uasset" offset: 452356096, size: 926 bytes, sha1: 0788AC8E9B259E314538C14E5502798E812AD935, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Color_png_Tex.uexp" offset: 452357075, size: 6131 bytes, sha1: F25855E308C4985287B77621CF58A7C32163CFCF, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Color_png_Tex.ubulk" offset: 452364288, size: 1392640 bytes, sha1: 698D3BB91173595891906DA27731BFD1F62FC377, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Subsurface_png_Tex.uasset" offset: 453758976, size: 936 bytes, sha1: E77EB72A234BBC8BBE049F02C18CC82435A9F633, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Subsurface_png_Tex.uexp" offset: 453759965, size: 3387 bytes, sha1: C6705B68222EB5AECE8A34BD04DFDC59DDA586D8, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Subsurface_png_Tex.ubulk" offset: 453765120, size: 696320 bytes, sha1: 171F8C437A1DA0F5BC1BD8A2883399DDFEEB2111, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Normal_png_Tex.uasset" offset: 454463488, size: 962 bytes, sha1: 005F5920D349035C9C3D73CDEC5627A4D0BB5F01, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Normal_png_Tex.uexp" offset: 454464503, size: 6157 bytes, sha1: 435FF02B5E1D8E164F6171FA2F265CDC9717BDF6, compression: None.
-LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Normal_png_Tex.ubulk" offset: 454471680, size: 1392640 bytes, sha1: 9DCF5052785E689F52088357906162FC92997BB2, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Subsurface_png_Tex.uasset" offset: 452356096, size: 936 bytes, sha1: E77EB72A234BBC8BBE049F02C18CC82435A9F633, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Subsurface_png_Tex.uexp" offset: 452357085, size: 3387 bytes, sha1: C6705B68222EB5AECE8A34BD04DFDC59DDA586D8, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Subsurface_png_Tex.ubulk" offset: 452362240, size: 696320 bytes, sha1: 171F8C437A1DA0F5BC1BD8A2883399DDFEEB2111, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Normal_png_Tex.uasset" offset: 453060608, size: 962 bytes, sha1: 005F5920D349035C9C3D73CDEC5627A4D0BB5F01, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Normal_png_Tex.uexp" offset: 453061623, size: 6157 bytes, sha1: 435FF02B5E1D8E164F6171FA2F265CDC9717BDF6, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Normal_png_Tex.ubulk" offset: 453068800, size: 1392640 bytes, sha1: 9DCF5052785E689F52088357906162FC92997BB2, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Color_png_Tex.uasset" offset: 454463488, size: 926 bytes, sha1: 0788AC8E9B259E314538C14E5502798E812AD935, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Color_png_Tex.uexp" offset: 454464467, size: 6131 bytes, sha1: F25855E308C4985287B77621CF58A7C32163CFCF, compression: None.
+LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01_Billboard_Color_png_Tex.ubulk" offset: 454471680, size: 1392640 bytes, sha1: 698D3BB91173595891906DA27731BFD1F62FC377, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/M_HRB_Crop_Tea_Green_Stage4_Var1_Mas_BILL.uasset" offset: 455866368, size: 6825 bytes, sha1: 062F89B47F7554C9344F1AAD806BB8BD731ABEBF, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/M_HRB_Crop_Tea_Green_Stage4_Var1_Mas_BILL.uexp" offset: 455873246, size: 441376 bytes, sha1: D6C030E6CCE692DEA0DF9E36CD0A9B2B1879F799, compression: None.
 LogPakFile: Display: "HRB/HRB_Tea_Green/HRB_Crop_Tea_Green/SM_HRB_Crop_Tea_Green_Stage4_Var1_01.uasset" offset: 456314880, size: 3068 bytes, sha1: C761B314230FBF79AF1FB0D37C299C6E5C3B794F, compression: None.
@@ -774,27 +774,27 @@ LogPakFile: Display: "LND/TEX/AC_Snow_2_v2_N.ubulk" offset: 564217856, size: 558
 LogPakFile: Display: "LND/TEX/AC_Snow_2_v2_A.uasset" offset: 569806848, size: 794 bytes, sha1: 7FA581EFEF774F46CD0E5D2FCB8E099484E26D08, compression: None.
 LogPakFile: Display: "LND/TEX/AC_Snow_2_v2_A.uexp" offset: 569807695, size: 6167 bytes, sha1: 1607420D287446484B08F95CE9A3629F0E592DE5, compression: None.
 LogPakFile: Display: "LND/TEX/AC_Snow_2_v2_A.ubulk" offset: 569815040, size: 5586944 bytes, sha1: 0D733AD457FC05F7C750B607C06DF525A4890A04, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_N.uasset" offset: 575404032, size: 948 bytes, sha1: 67EBF4A5B60240E41E07CD6F9AE87F99AE08E73F, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_N.uexp" offset: 575405033, size: 6233 bytes, sha1: C5E166C5D29DECB6252FFCE07B9D7AEA188B0E3E, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_N.ubulk" offset: 575412224, size: 5586944 bytes, sha1: 1CD9E343CCD7F3081AD386E5A122287220D76608, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_A.uasset" offset: 581001216, size: 736 bytes, sha1: FB23ECE0EE61ADE60BB0C661635667F9FE169CAF, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_A.uexp" offset: 581002005, size: 3382 bytes, sha1: D4814FD304F2741958579AE30D7E83388669347E, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_A.ubulk" offset: 581007360, size: 2793472 bytes, sha1: C81C5AF119E890680815F6D1D516AD70E1E8A021, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_N.uasset" offset: 583802880, size: 974 bytes, sha1: A382D4E0C362B99D29DEFDF0C0981BB2B06A52D4, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_N.uexp" offset: 583803907, size: 6233 bytes, sha1: 1DA2CEA7FAA3D36D97E5DC291F706C4BFA7B056B, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_N.ubulk" offset: 583811072, size: 5586944 bytes, sha1: ACA56B22626E7C92860F7465EF33498BB3AC83FB, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_Mask.uasset" offset: 589400064, size: 903 bytes, sha1: 33C22C5F67F8F5C2714764EC93013A7D6831A28A, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_Mask.uexp" offset: 589401020, size: 3449 bytes, sha1: 61060389507C45599B10AAD56F626C721C9065C9, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_Mask.ubulk" offset: 589406208, size: 2793472 bytes, sha1: 600A6D766F391D2D192A55A440DB8E7B25C2B3F8, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_CAC.uasset" offset: 592201728, size: 901 bytes, sha1: 7E224797BCF7D4E656F8779A7A725C6A00615339, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_CAC.uexp" offset: 592202682, size: 3449 bytes, sha1: CD485C7AEFAC1B35C1CDBCC986F614755B193C64, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_CAC.ubulk" offset: 592207872, size: 2793472 bytes, sha1: 4056AA77C02BF73CB831C562E0DAB86096D1A5C2, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Gold_RAD.uasset" offset: 595003392, size: 867 bytes, sha1: E7EBB7E791F0F520FFD67286DC2D766954AC8A50, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Gold_RAD.uexp" offset: 595004312, size: 3449 bytes, sha1: 067002F0008666588BD5FE4FDA0E3FC836469C52, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Gold_RAD.ubulk" offset: 595009536, size: 2793472 bytes, sha1: 0A2961C78F5783309061A74D7DD4AD4633BCDAB4, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_RMA.uasset" offset: 597805056, size: 949 bytes, sha1: 8FA23CC4AEA3EF70C70AF3835F5AF974F6BC4387, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_RMA.uexp" offset: 597806058, size: 3490 bytes, sha1: A3F21A661816E96B834535E942A2D9C3DBAD8E80, compression: None.
-LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_RMA.ubulk" offset: 597811200, size: 2793472 bytes, sha1: D69EEBA791BB1FFD2F84A7E16687BFEDF39F93B8, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Gold_RAD.uasset" offset: 575404032, size: 867 bytes, sha1: E7EBB7E791F0F520FFD67286DC2D766954AC8A50, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Gold_RAD.uexp" offset: 575404952, size: 3449 bytes, sha1: 067002F0008666588BD5FE4FDA0E3FC836469C52, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Gold_RAD.ubulk" offset: 575410176, size: 2793472 bytes, sha1: 0A2961C78F5783309061A74D7DD4AD4633BCDAB4, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_RMA.uasset" offset: 578205696, size: 949 bytes, sha1: 8FA23CC4AEA3EF70C70AF3835F5AF974F6BC4387, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_RMA.uexp" offset: 578206698, size: 3490 bytes, sha1: A3F21A661816E96B834535E942A2D9C3DBAD8E80, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_RMA.ubulk" offset: 578211840, size: 2793472 bytes, sha1: D69EEBA791BB1FFD2F84A7E16687BFEDF39F93B8, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_N.uasset" offset: 581007360, size: 948 bytes, sha1: 67EBF4A5B60240E41E07CD6F9AE87F99AE08E73F, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_N.uexp" offset: 581008361, size: 6233 bytes, sha1: C5E166C5D29DECB6252FFCE07B9D7AEA188B0E3E, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_N.ubulk" offset: 581015552, size: 5586944 bytes, sha1: 1CD9E343CCD7F3081AD386E5A122287220D76608, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_A.uasset" offset: 586604544, size: 736 bytes, sha1: FB23ECE0EE61ADE60BB0C661635667F9FE169CAF, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_A.uexp" offset: 586605333, size: 3382 bytes, sha1: D4814FD304F2741958579AE30D7E83388669347E, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Aluminum_A.ubulk" offset: 586610688, size: 2793472 bytes, sha1: C81C5AF119E890680815F6D1D516AD70E1E8A021, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_N.uasset" offset: 589406208, size: 974 bytes, sha1: A382D4E0C362B99D29DEFDF0C0981BB2B06A52D4, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_N.uexp" offset: 589407235, size: 6233 bytes, sha1: 1DA2CEA7FAA3D36D97E5DC291F706C4BFA7B056B, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_N.ubulk" offset: 589414400, size: 5586944 bytes, sha1: ACA56B22626E7C92860F7465EF33498BB3AC83FB, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_Mask.uasset" offset: 595003392, size: 903 bytes, sha1: 33C22C5F67F8F5C2714764EC93013A7D6831A28A, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_Mask.uexp" offset: 595004348, size: 3449 bytes, sha1: 61060389507C45599B10AAD56F626C721C9065C9, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_Mask.ubulk" offset: 595009536, size: 2793472 bytes, sha1: 600A6D766F391D2D192A55A440DB8E7B25C2B3F8, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_CAC.uasset" offset: 597805056, size: 901 bytes, sha1: 7E224797BCF7D4E656F8779A7A725C6A00615339, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_CAC.uexp" offset: 597806010, size: 3449 bytes, sha1: CD485C7AEFAC1B35C1CDBCC986F614755B193C64, compression: None.
+LogPakFile: Display: "LND/DeepMiningOreDeposit/T_DeepMiningOreDeposit_Node_CAC.ubulk" offset: 597811200, size: 2793472 bytes, sha1: 4056AA77C02BF73CB831C562E0DAB86096D1A5C2, compression: None.
 LogPakFile: Display: "LND/DeepMiningOreDeposit/M_CF_DeepMiningOreDeposit_Aluminum_Node.uasset" offset: 600606720, size: 10624 bytes, sha1: 3B00EDCB537CA2D78D8C9B1A46838393C87DEA02, compression: None.
 LogPakFile: Display: "LND/DeepMiningOreDeposit/M_CF_DeepMiningOreDeposit_Aluminum_Node.uexp" offset: 600617397, size: 2053736 bytes, sha1: 47269D2F8D1D773CBFD2ED77D65B7DB7966019B7, compression: None.
 LogPakFile: Display: "LND/DeepMiningOreDeposit/T_Ore_Coal_RMA.uasset" offset: 602673152, size: 867 bytes, sha1: E84CEDD2B8F1653642AAC1C8C287E9CFB0F50C92, compression: None.
@@ -1100,16 +1100,16 @@ LogPakFile: Display: "LND/META_GROUND_DEPOSIT/M_MetaDepositRays.uasset" offset: 
 LogPakFile: Display: "LND/META_GROUND_DEPOSIT/M_MetaDepositRays.uexp" offset: 992188410, size: 210067 bytes, sha1: EFDB4A1E9FFF2ABBCAB57C022D53D20E8468F9BE, compression: None.
 LogPakFile: Display: "LND/META_GROUND_DEPOSIT/SM_MetaGroundRays.uasset" offset: 992399360, size: 2441 bytes, sha1: E7764C4710744203C6DA10E16F027691C030FE7A, compression: None.
 LogPakFile: Display: "LND/META_GROUND_DEPOSIT/SM_MetaGroundRays.uexp" offset: 992401854, size: 813750 bytes, sha1: BE8B9773CA2813FD1425F370A1433280A06013CC, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_N.uasset" offset: 993216512, size: 975 bytes, sha1: AEF0A5195B005452ABA7B8407805F46AB9E4538E, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_N.uexp" offset: 993217540, size: 6269 bytes, sha1: 733186EC41CDEB85F7AA1CB113D5B278FC8B3495, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_N.ubulk" offset: 993224704, size: 22364160 bytes, sha1: 752465A04675AA8413F20DC6A09EC6AF51AF73DE, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_CAC.uasset" offset: 1015590912, size: 902 bytes, sha1: 2EFCCE41170439CDC253C621A35675EC27F58758, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_CAC.uexp" offset: 1015591867, size: 3485 bytes, sha1: 527FD59230C90CFC187458B9A1CD7147703BCC96, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_CAC.ubulk" offset: 1015597056, size: 11182080 bytes, sha1: EBC070CD7C30E66FBEED69C7DE0A5F24A38FC046, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MA_MetaGround_Blend.uasset" offset: 1026781184, size: 8290 bytes, sha1: BB2098C7927C533247866301D41554033D02DC12, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MA_MetaGround_Blend.uexp" offset: 1026789527, size: 226725 bytes, sha1: 5D713EB8CFE6597E2E468967650C8AF457ECFB7B, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MI_MetaGround_BlendMAS.uasset" offset: 1027016704, size: 3904 bytes, sha1: 55F89382E1C46EB61233AB7778ED22F2600798F4, compression: None.
-LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MI_MetaGround_BlendMAS.uexp" offset: 1027020661, size: 1487 bytes, sha1: 87CFE4AB97C770CDDAADFC0BD71632172ABA01E5, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MA_MetaGround_Blend.uasset" offset: 993216512, size: 8290 bytes, sha1: BB2098C7927C533247866301D41554033D02DC12, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MA_MetaGround_Blend.uexp" offset: 993224855, size: 226725 bytes, sha1: 5D713EB8CFE6597E2E468967650C8AF457ECFB7B, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MI_MetaGround_BlendMAS.uasset" offset: 993452032, size: 3904 bytes, sha1: 55F89382E1C46EB61233AB7778ED22F2600798F4, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/MAT/MI_MetaGround_BlendMAS.uexp" offset: 993455989, size: 1487 bytes, sha1: 87CFE4AB97C770CDDAADFC0BD71632172ABA01E5, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_N.uasset" offset: 993458176, size: 975 bytes, sha1: AEF0A5195B005452ABA7B8407805F46AB9E4538E, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_N.uexp" offset: 993459204, size: 6269 bytes, sha1: 733186EC41CDEB85F7AA1CB113D5B278FC8B3495, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_N.ubulk" offset: 993466368, size: 22364160 bytes, sha1: 752465A04675AA8413F20DC6A09EC6AF51AF73DE, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_CAC.uasset" offset: 1015832576, size: 902 bytes, sha1: 2EFCCE41170439CDC253C621A35675EC27F58758, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_CAC.uexp" offset: 1015833531, size: 3485 bytes, sha1: 527FD59230C90CFC187458B9A1CD7147703BCC96, compression: None.
+LogPakFile: Display: "LND/META_GROUND_DEPOSIT/T_AC_Meta_Ground_Deposit_LND_CAC.ubulk" offset: 1015838720, size: 11182080 bytes, sha1: EBC070CD7C30E66FBEED69C7DE0A5F24A38FC046, compression: None.
 LogPakFile: Display: "LND/META_GROUND_DEPOSIT/AC_MGD/MI_AC_Meta_Ground_Deposit_LND.uasset" offset: 1027022848, size: 5840 bytes, sha1: F37FD9159778C180B656B6501AAE6627065A489C, compression: None.
 LogPakFile: Display: "LND/META_GROUND_DEPOSIT/AC_MGD/MI_AC_Meta_Ground_Deposit_LND.uexp" offset: 1027028741, size: 276641 bytes, sha1: A2888FA8799B434E654DCF045D079595E0C307A4, compression: None.
 LogPakFile: Display: "LND/META_GROUND_DEPOSIT/SM_AC_Meta_Ground_Deposit_LND.uasset" offset: 1027305472, size: 3420 bytes, sha1: 2D1AD1BA575DF13835B1C5F803992C24948AF287, compression: None.
@@ -1477,9 +1477,9 @@ LogPakFile: Display: "RCK/Cave/M_CaveBlocker_Arctic.uexp" offset: 1435106003, si
 LogPakFile: Display: "RCK/Cave/SM_Caveblocker_Arctic.uasset" offset: 1436239872, size: 3236 bytes, sha1: C233762B7B338E25AD7983F8D0BC99F4E945B72E, compression: None.
 LogPakFile: Display: "RCK/Cave/SM_Caveblocker_Arctic.uexp" offset: 1436243161, size: 3130180 bytes, sha1: 5FCEB4A409911D8C7C119884DB0772DE7CA74777, compression: None.
 LogPakFile: Display: "RCK/Cave/SM_Caveblocker_Arctic_DM.uasset" offset: 1439375360, size: 4200 bytes, sha1: B94E530D07BF77E08E263CB6AF0FE1C85BC94BA1, compression: None.
-LogPakFile: Display: "RCK/Cave/SM_Caveblocker_Arctic_DM.uexp" offset: 1439379613, size: 19650545 bytes, sha1: 9F17785A19448958FF9E43132D08B393CF98A2D9, compression: None.
+LogPakFile: Display: "RCK/Cave/SM_Caveblocker_Arctic_DM.uexp" offset: 1439379613, size: 19650545 bytes, sha1: A10D3D5B1C0432CA543C93C83952229A08047648, compression: None.
 LogPakFile: Display: "RCK/Cave/SM_Caveblocker_01_DM.uasset" offset: 1459032064, size: 4158 bytes, sha1: C35C032A060D05C8768F29F73215DAA631FD00A1, compression: None.
-LogPakFile: Display: "RCK/Cave/SM_Caveblocker_01_DM.uexp" offset: 1459036275, size: 19650545 bytes, sha1: 690E0B65C4B94D67CBF3EF961277480C6196CB2C, compression: None.
+LogPakFile: Display: "RCK/Cave/SM_Caveblocker_01_DM.uexp" offset: 1459036275, size: 19650545 bytes, sha1: 26888C54BB0C4CB5B29C7ABEAE9919C37F3B87DA, compression: None.
 LogPakFile: Display: "LND/TEX/T_DC_Sand_v2_N.uasset" offset: 1478688768, size: 985 bytes, sha1: 5BF98C15A7CF8C318931F679A1E68C7F1F121D12, compression: None.
 LogPakFile: Display: "LND/TEX/T_DC_Sand_v2_N.uexp" offset: 1478689806, size: 6274 bytes, sha1: B08DB70DC4085263AB29091BB0CD37D799C2326A, compression: None.
 LogPakFile: Display: "LND/TEX/T_DC_Sand_v2_N.ubulk" offset: 1478696960, size: 5586944 bytes, sha1: 9DC6A8E54086D3E71478FD5290DA318C61EB2CA5, compression: None.
@@ -1524,7 +1524,7 @@ LogPakFile: Display: "RCK/Cave/SM_CAVE_CF_Entrance_SML_04.uexp" offset: 15922660
 LogPakFile: Display: "RCK/Cave/SM_CAVE_CF_Entrance_SML_04_Closed.uasset" offset: 1594198016, size: 2898 bytes, sha1: ACAC057C12E35FCE141932AE8413189DB9BB3630, compression: None.
 LogPakFile: Display: "RCK/Cave/SM_CAVE_CF_Entrance_SML_04_Closed.uexp" offset: 1594200967, size: 1859282 bytes, sha1: 58B73F5099B0AE361132F79A9A3D172E3FB09EC3, compression: None.
 LogPakFile: Display: "RCK/Cave/DM_CAVE_CF_Entrance_SML_04.uasset" offset: 1596061696, size: 37474 bytes, sha1: C4A191DFAC11488ADFA72322C0653B648C05133A, compression: None.
-LogPakFile: Display: "RCK/Cave/DM_CAVE_CF_Entrance_SML_04.uexp" offset: 1596099223, size: 70325020 bytes, sha1: DB991AEF06267EE0FABCE14680A71B7A1356B014, compression: None.
+LogPakFile: Display: "RCK/Cave/DM_CAVE_CF_Entrance_SML_04.uexp" offset: 1596099223, size: 70325020 bytes, sha1: DD24D16FF8CC0AF7316B39BD0AA26BF9995F6C12, compression: None.
 LogPakFile: Display: "LND/Cocoon_Eggs/T_Sandworm_CocoonEggs_Web_RMA.uasset" offset: 1666424832, size: 957 bytes, sha1: 069A46D68FBB805538D5953D37CB8D31F08EA6A3, compression: None.
 LogPakFile: Display: "LND/Cocoon_Eggs/T_Sandworm_CocoonEggs_Web_RMA.uexp" offset: 1666425842, size: 3490 bytes, sha1: A0861D62FF8C62A9E2AD6D3A1696BBEB8C8C34CB, compression: None.
 LogPakFile: Display: "LND/Cocoon_Eggs/T_Sandworm_CocoonEggs_Web_RMA.ubulk" offset: 1666430976, size: 2793472 bytes, sha1: 98A675F9DF26966AB49C48FD4E9BD7CC79A66999, compression: None.
@@ -2067,4 +2067,4 @@ LogPakFile: Display: "LND/CF_RiverTiles/CF_RT_01/MI_CF_RiverTile_01.uexp" offset
 LogPakFile: Display: "LND/CF_RiverTiles/SM_CF_RiverTile_01.uasset" offset: 2684088320, size: 2907 bytes, sha1: A4FDDECF2B094D88BE423A68E5DA570A9A7880E5, compression: None.
 LogPakFile: Display: "LND/CF_RiverTiles/SM_CF_RiverTile_01.uexp" offset: 2684091280, size: 1048331 bytes, sha1: A7FE047AA562C6B9A1C163FFB51FAC6BC36CCDAE, compression: None.
 LogPakFile: Display: 2053 files (2683258335 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.109534 seconds
+LogPakFile: Display: Unreal pak executed in 0.924407 seconds

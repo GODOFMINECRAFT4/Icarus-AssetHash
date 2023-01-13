@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1612151366
 LogPakFile: Display:     IndexSize: 8025
-LogPakFile: Display:     IndexHash: 4F4771794812CE7FCC24ECC975FE2251FBBD570D
+LogPakFile: Display:     IndexHash: DF221CD14DED2C6E6F3C0D6AECE1C25A3F9DC550
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.162612 seconds
+LogPakFile: Display: Unreal pak executed in 0.154290 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/
@@ -23,22 +23,22 @@ LogPakFile: Display: "Icarus_Materials/F_TriPlane_Material.uasset" offset: 2908,
 LogPakFile: Display: "Icarus_Materials/F_TriPlane_Material.uexp" offset: 3642, size: 81 bytes, sha1: A4581E18DE5729D3F21883DACA4CFD81B5ED952B, compression: None.
 LogPakFile: Display: "Heatmaps/Terrain_016_OLY/T_Terrain016_Biome.uasset" offset: 4096, size: 945 bytes, sha1: 0E8EED999A0C4D847B09F6876DD87A9977F2BD40, compression: None.
 LogPakFile: Display: "Heatmaps/Terrain_016_OLY/T_Terrain016_Biome.uexp" offset: 5094, size: 16777570 bytes, sha1: AD3B2D630BD65D42FD35BE658C256C1C0F7829EB, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_OutlineColored.uasset" offset: 16783360, size: 6489 bytes, sha1: DC412AF4C1739A006401F4C2DC9D28A75713B77A, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_OutlineColored.uexp" offset: 16789902, size: 86476 bytes, sha1: 10F37F461BF9F78970D3485EF4AA9260C07D6059, compression: None.
-LogPakFile: Display: "Icarus_Materials/PPI_OutlineColored.uasset" offset: 16877568, size: 2525 bytes, sha1: 1602366605FDC8AE44603D0FE5AD87502AE23E92, compression: None.
-LogPakFile: Display: "Icarus_Materials/PPI_OutlineColored.uexp" offset: 16880146, size: 47158 bytes, sha1: 9F16E1D9A23B4281CB2597EEB75F9CA454364A64, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_Thermal.uasset" offset: 16928768, size: 1981 bytes, sha1: 193496C2F2A96DEBDB5224FF5354C86FA7178394, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_Thermal.uexp" offset: 16930802, size: 32159 bytes, sha1: EE9D96656350820F09F9D10F7EA3FE7CB9F0D9C4, compression: None.
-LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uasset" offset: 16963584, size: 2143 bytes, sha1: 28F872056BFE10F934E43E92DB5A989C5DF27F0A, compression: None.
-LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uexp" offset: 16965780, size: 33842 bytes, sha1: F6F95EE1136104291C8EA83981418602632489C0, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uasset" offset: 17000448, size: 1632 bytes, sha1: 8D6D642CBF26DA88CE19D022D41684E21410B96D, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uexp" offset: 17002133, size: 31426 bytes, sha1: F654AA4BAEEA76DF0C6A3F4E27F5DC1CB47FE03D, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uasset" offset: 17035264, size: 2853 bytes, sha1: 0FFAC70D85E9CED4DC06BF43222886130270EB01, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uexp" offset: 17038170, size: 37398 bytes, sha1: B58449F89D49394407D2D195E11E15AAE47641CB, compression: None.
-LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uasset" offset: 17076224, size: 703 bytes, sha1: EAF1FC7B49197EA68DE170218A9FD6FE896F68A3, compression: None.
-LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uexp" offset: 17076980, size: 81 bytes, sha1: B0637AD490C4F40D63B3EFF742E0257DF2BD0D2E, compression: None.
-LogPakFile: Display: "Icarus_Materials/02_Master/Functions/POM/POM_Bottom_Func.uasset" offset: 17077114, size: 697 bytes, sha1: 3E564AFFF3DD1344772A7BCAF468A10A48B46ED7, compression: None.
-LogPakFile: Display: "Icarus_Materials/02_Master/Functions/POM/POM_Bottom_Func.uexp" offset: 17077864, size: 81 bytes, sha1: 4BB6D4F823239CAFDCD988423B56BFD6E62F628E, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_Thermal.uasset" offset: 16783360, size: 1981 bytes, sha1: 193496C2F2A96DEBDB5224FF5354C86FA7178394, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_Thermal.uexp" offset: 16785394, size: 32159 bytes, sha1: EE9D96656350820F09F9D10F7EA3FE7CB9F0D9C4, compression: None.
+LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uasset" offset: 16818176, size: 2143 bytes, sha1: 28F872056BFE10F934E43E92DB5A989C5DF27F0A, compression: None.
+LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uexp" offset: 16820372, size: 33842 bytes, sha1: F6F95EE1136104291C8EA83981418602632489C0, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uasset" offset: 16855040, size: 1632 bytes, sha1: 8D6D642CBF26DA88CE19D022D41684E21410B96D, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uexp" offset: 16856725, size: 31426 bytes, sha1: F654AA4BAEEA76DF0C6A3F4E27F5DC1CB47FE03D, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uasset" offset: 16889856, size: 2853 bytes, sha1: 0FFAC70D85E9CED4DC06BF43222886130270EB01, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uexp" offset: 16892762, size: 37398 bytes, sha1: B58449F89D49394407D2D195E11E15AAE47641CB, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_OutlineColored.uasset" offset: 16930816, size: 6489 bytes, sha1: DC412AF4C1739A006401F4C2DC9D28A75713B77A, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_OutlineColored.uexp" offset: 16937358, size: 86476 bytes, sha1: 10F37F461BF9F78970D3485EF4AA9260C07D6059, compression: None.
+LogPakFile: Display: "Icarus_Materials/PPI_OutlineColored.uasset" offset: 17025024, size: 2525 bytes, sha1: 1602366605FDC8AE44603D0FE5AD87502AE23E92, compression: None.
+LogPakFile: Display: "Icarus_Materials/PPI_OutlineColored.uexp" offset: 17027602, size: 47158 bytes, sha1: 9F16E1D9A23B4281CB2597EEB75F9CA454364A64, compression: None.
+LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uasset" offset: 17074813, size: 703 bytes, sha1: EAF1FC7B49197EA68DE170218A9FD6FE896F68A3, compression: None.
+LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uexp" offset: 17075569, size: 81 bytes, sha1: B0637AD490C4F40D63B3EFF742E0257DF2BD0D2E, compression: None.
+LogPakFile: Display: "Icarus_Materials/02_Master/Functions/POM/POM_Bottom_Func.uasset" offset: 17076224, size: 697 bytes, sha1: 3E564AFFF3DD1344772A7BCAF468A10A48B46ED7, compression: None.
+LogPakFile: Display: "Icarus_Materials/02_Master/Functions/POM/POM_Bottom_Func.uexp" offset: 17076974, size: 81 bytes, sha1: 4BB6D4F823239CAFDCD988423B56BFD6E62F628E, compression: None.
 LogPakFile: Display: "Icarus_Materials/02_Master/Master_Emissive.uasset" offset: 17078272, size: 5372 bytes, sha1: C14347C5BCD8F2547B8AD66BE0F958BAEB2A9AB4, compression: None.
 LogPakFile: Display: "Icarus_Materials/02_Master/Master_Emissive.uexp" offset: 17083697, size: 181433 bytes, sha1: D86AD427E5CDBCA9C552AF047B42B971412C00A0, compression: None.
 LogPakFile: Display: "Icarus_Materials/WaterMaster/MF_Liquid_VolumeDeepness.uasset" offset: 17265183, size: 703 bytes, sha1: B2A6D4F3D2CA07A7B514A0E8D9D7220697D4AD01, compression: None.
@@ -672,4 +672,4 @@ LogPakFile: Display: "Maps/Terrain_016_OLY/HeightMap/HeightMap_x2_y0LOD/HeightMa
 LogPakFile: Display: "Maps/Terrain_016_OLY/HeightMap/HeightMap_x2_y0LOD/HeightMap_x2_y0_LOD2.ubulk" offset: 2678626304, size: 4177920 bytes, sha1: AAC499B10098A5B44D957B2D005A078EF248BC65, compression: None.
 LogPakFile: Display: "Maps/Terrain_016_OLY/HeightMap/HeightMap_x2_y0LOD/HeightMap_x2_y0_LOD2.umap" offset: 2682806272, size: 9605 bytes, sha1: 60DB31ACBBF0DE8FFA8A3DE47A72BD1C367209CD, compression: None.
 LogPakFile: Display: 658 files (2682203947 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.358111 seconds
+LogPakFile: Display: Unreal pak executed in 0.337695 seconds

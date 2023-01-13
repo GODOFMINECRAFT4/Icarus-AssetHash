@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: C:\GamesSSD\SteamLibrary\steamapps\common\Icarus\
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1657756328
 LogPakFile: Display:     IndexSize: 34171
-LogPakFile: Display:     IndexHash: 40F565A9D0562FF1DFB7DCC488E4C2DF66EAF6B2
+LogPakFile: Display:     IndexHash: CFB08F1833BF80FF88810025C52A8DF6BAC06818
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.153685 seconds
+LogPakFile: Display: Unreal pak executed in 0.152096 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_017_STYX/
@@ -317,12 +317,12 @@ LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/M_PROXY_HeightMap_x4_y5_LOD1.
 LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/M_PROXY_HeightMap_x4_y5_LOD1.uexp" offset: 1512664013, size: 247616 bytes, sha1: E945AA370A5976941D3AE866419BE22A09A97533, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/SM_PROXY_HeightMap_x4_y5_LOD1.uasset" offset: 1512912896, size: 2509 bytes, sha1: 712F482667C4C0228A975F6D3691B406B521F3E2, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/SM_PROXY_HeightMap_x4_y5_LOD1.uexp" offset: 1512915458, size: 135018 bytes, sha1: 445CD6FA67BF5A8CDC689C0C45F06DA32938D833, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_N.uasset" offset: 1513052160, size: 1002 bytes, sha1: B4FD891B8EC6B05FCDCDEFE785D786B10DF35732, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_N.uexp" offset: 1513053215, size: 6197 bytes, sha1: 8149C8A1951F51659CA3549828C74226ADCC42E1, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_N.ubulk" offset: 1513060352, size: 1392640 bytes, sha1: C2731DA36EBC51BC47E6A23033F2B3AE128276EA, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_D.uasset" offset: 1514455040, size: 790 bytes, sha1: D3B2C124947E0EB0C0F5832AE37583CF60679C05, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_D.uexp" offset: 1514455883, size: 3346 bytes, sha1: 7730140F869DAAB16CE285AC9A62ADCA68187BA8, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_D.ubulk" offset: 1514461184, size: 696320 bytes, sha1: 4849DB541633247D1E447D5180944D0DD6048F2B, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_D.uasset" offset: 1513052160, size: 790 bytes, sha1: D3B2C124947E0EB0C0F5832AE37583CF60679C05, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_D.uexp" offset: 1513053003, size: 3346 bytes, sha1: 7730140F869DAAB16CE285AC9A62ADCA68187BA8, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_D.ubulk" offset: 1513058304, size: 696320 bytes, sha1: 4849DB541633247D1E447D5180944D0DD6048F2B, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_N.uasset" offset: 1513756672, size: 1002 bytes, sha1: B4FD891B8EC6B05FCDCDEFE785D786B10DF35732, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_N.uexp" offset: 1513757727, size: 6197 bytes, sha1: 8149C8A1951F51659CA3549828C74226ADCC42E1, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/T_LandscapeStreamingProxy_0_LOD1_N.ubulk" offset: 1513764864, size: 1392640 bytes, sha1: C2731DA36EBC51BC47E6A23033F2B3AE128276EA, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/M_LandscapeStreamingProxy_0_LOD1.uasset" offset: 1515159552, size: 1576 bytes, sha1: 22F2DCE3DD6A1C408E36C402E60233130FFF0A62, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/M_LandscapeStreamingProxy_0_LOD1.uexp" offset: 1515161181, size: 108610 bytes, sha1: F1A6D4C7EA062E31830D0224BCD34687361A6FF5, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x4_y5LOD/SM_LandscapeStreamingProxy_0_LOD1.uasset" offset: 1515270144, size: 2515 bytes, sha1: 3836EE76B9803BBC21774A25EE8590E196923252, compression: None.
@@ -1239,12 +1239,12 @@ LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/M_PROXY_HeightMap_x6_y4_LOD2.
 LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/M_PROXY_HeightMap_x6_y4_LOD2.uexp" offset: 1645386701, size: 247616 bytes, sha1: E945AA370A5976941D3AE866419BE22A09A97533, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/SM_PROXY_HeightMap_x6_y4_LOD2.uasset" offset: 1645635584, size: 2509 bytes, sha1: 3CFDA19091344EC9BEACF5AA93DCE0A5D7C4D566, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/SM_PROXY_HeightMap_x6_y4_LOD2.uexp" offset: 1645638146, size: 36506 bytes, sha1: 5B89AEF31B10491EB3101A48F6FCE21AA19CC261, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_D.uasset" offset: 1645676544, size: 790 bytes, sha1: CDBE00BB697EA7EF189B36FC6818208308F94661, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_D.uexp" offset: 1645677387, size: 3310 bytes, sha1: 220BE5FACE0889C617032BE0CB5C7BB2C002F8D3, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_D.ubulk" offset: 1645682688, size: 172032 bytes, sha1: 42087EB7FB2735F27708F84C8532B5CD12B4D4BA, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_N.uasset" offset: 1645856768, size: 1002 bytes, sha1: 05784817F73BD3E4EE0A34F6A387F2B314A83676, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_N.uexp" offset: 1645857823, size: 6161 bytes, sha1: 1D9D85279C0AF36637B6B79FB43D5927E4972A7D, compression: None.
-LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_N.ubulk" offset: 1645864960, size: 344064 bytes, sha1: C9878795F3A94211F8EBA9B87E9DEAB5F8C547F7, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_N.uasset" offset: 1645676544, size: 1002 bytes, sha1: 05784817F73BD3E4EE0A34F6A387F2B314A83676, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_N.uexp" offset: 1645677599, size: 6161 bytes, sha1: 1D9D85279C0AF36637B6B79FB43D5927E4972A7D, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_N.ubulk" offset: 1645684736, size: 344064 bytes, sha1: C9878795F3A94211F8EBA9B87E9DEAB5F8C547F7, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_D.uasset" offset: 1646030848, size: 790 bytes, sha1: CDBE00BB697EA7EF189B36FC6818208308F94661, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_D.uexp" offset: 1646031691, size: 3310 bytes, sha1: 220BE5FACE0889C617032BE0CB5C7BB2C002F8D3, compression: None.
+LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/T_LandscapeStreamingProxy_0_LOD2_D.ubulk" offset: 1646036992, size: 172032 bytes, sha1: 42087EB7FB2735F27708F84C8532B5CD12B4D4BA, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/M_LandscapeStreamingProxy_0_LOD2.uasset" offset: 1646211072, size: 1576 bytes, sha1: 9AFD283BD49F5E0CAA02189BD995096E223EAA08, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/M_LandscapeStreamingProxy_0_LOD2.uexp" offset: 1646212701, size: 108610 bytes, sha1: 6D29D6D81165DA91BDDAFBEB61AB7C0976BB0F1A, compression: None.
 LogPakFile: Display: "HeightMap/HeightMap_x6_y4LOD/SM_LandscapeStreamingProxy_0_LOD2.uasset" offset: 1646321664, size: 2515 bytes, sha1: 4BFBD70F1C5CD1D85636A2594EC1B45D79856348, compression: None.
@@ -2849,4 +2849,4 @@ LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y7LOD/SM_PROXY_T017_
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y7LOD/T017_Generated_x4_y7_LOD2.uexp" offset: 2637205504, size: 918 bytes, sha1: 495E691E11692AE3E740BCD4EB748596A415F7C4, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y7LOD/T017_Generated_x4_y7_LOD2.umap" offset: 2637207552, size: 3363 bytes, sha1: 268D0C3EB363F02DA37CDC418A5CBBEC8CF0B6B1, compression: None.
 LogPakFile: Display: 2835 files (2634620820 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.546328 seconds
+LogPakFile: Display: Unreal pak executed in 1.510619 seconds
