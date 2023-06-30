@@ -9,7 +9,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.209755 seconds
+LogPakFile: Display: Unreal pak executed in 0.243154 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -57,7 +57,7 @@ LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y1.u
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y1.umap" offset: 720082944, size: 818842 bytes, sha1: 316BF642DA402AD5FBBC5B98FFB2BD1965E1BEEB, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y2.uexp" offset: 720902144, size: 1963836 bytes, sha1: F5CAFC1DDDA426D39A667D09BD7F9619C3380C0E, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y2.umap" offset: 722866176, size: 930938 bytes, sha1: 0420D3C87E20D4E11A4C34FBE73022B32CE15497, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y3.uexp" offset: 723798016, size: 4390400 bytes, sha1: 0E9ABE41FD8F760C1E7E7B431D40BD19BA0FDB82, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y3.uexp" offset: 723798016, size: 4390400 bytes, sha1: 865D02B226526B5C1C0A39D1F27353F7241D1A80, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y3.umap" offset: 728188928, size: 1686444 bytes, sha1: BB41CA8B947F5AAA64F5F5A8ACBF044F084EF0E6, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y4.uexp" offset: 729876480, size: 51811920 bytes, sha1: 19684DC8F676F2A52AF88C5F519D8F947A3EEEE1, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y4.umap" offset: 781688832, size: 1338684 bytes, sha1: 132AD3FA9B03EFD0FEF22DC2011C91B1FF1BD436, compression: None.
@@ -71,7 +71,7 @@ LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y0.u
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y0.umap" offset: 858486784, size: 123903 bytes, sha1: 0A1EA2871ADFD96BF9B7C8ED034B58C9783AEBD9, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y1.uexp" offset: 858611712, size: 973337 bytes, sha1: CD44C608B329B3AB58FB8A32D161916995EB32AC, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y1.umap" offset: 859586560, size: 450838 bytes, sha1: 3FF9DDE06F232AC5D42D36A5CA8A4531CE7E79CD, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y2.uexp" offset: 860039168, size: 6038816 bytes, sha1: 3DE71D2A6F4CA9E2FC32AECE9D5609051C8CE2A5, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y2.uexp" offset: 860039168, size: 6038816 bytes, sha1: 7AED3673BA468BB43CAA7BAAFAA61C0EEA8A8E5D, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y2.umap" offset: 866078720, size: 1119383 bytes, sha1: 0820E7BA0C60937D6B178272C7F67915CE67A967, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y3.uexp" offset: 867198976, size: 2453583 bytes, sha1: CFE208C033E4C4442F6D03CB94E7443B496078FA, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y3.umap" offset: 869654528, size: 771604 bytes, sha1: 8F5C0E9124778B7A0D6B7C25EFB89EA902A88397, compression: None.
@@ -881,4 +881,4 @@ LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y6LOD/SM_Landscape
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y6LOD/HeightMap_x2_y6_LOD1.uexp" offset: 2630774784, size: 1607 bytes, sha1: 6783376492339C8777D5FDC1E5428FA0CAFA76C8, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y6LOD/HeightMap_x2_y6_LOD1.umap" offset: 2630776832, size: 3544 bytes, sha1: F0F58045391898CA3B7775136186D71C324826B8, compression: None.
 LogPakFile: Display: 867 files (2630044505 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.649416 seconds
+LogPakFile: Display: Unreal pak executed in 0.348269 seconds
