@@ -9,7 +9,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.003871 seconds
+LogPakFile: Display: Unreal pak executed in 0.298943 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_019_DLC/heightmap/
@@ -24,13 +24,13 @@ LogPakFile: Display: "heightmap_x1_y7.ubulk" offset: 162699264, size: 6881280 by
 LogPakFile: Display: "heightmap_x1_y7.umap" offset: 169582592, size: 129195 bytes, sha1: C430368243E22EDCF49DEF55E9DC46EC1647F650, compression: None.
 LogPakFile: Display: "heightmap_x2_y0.uexp" offset: 169713664, size: 32653118 bytes, sha1: 08C48E650D2FE6EC7C22C073EC97054EAD3DAADF, compression: None.
 LogPakFile: Display: "heightmap_x2_y0.ubulk" offset: 202366976, size: 9109504 bytes, sha1: 304BB024FCA6C12792D45372093F7CECE0DD8B4E, compression: None.
-LogPakFile: Display: "heightmap_x2_y0.umap" offset: 211478528, size: 121126 bytes, sha1: 95A242D5759C465C1EDA712928558CC20C77E77D, compression: None.
+LogPakFile: Display: "heightmap_x2_y0.umap" offset: 211478528, size: 121126 bytes, sha1: 8933B8C812152439AC0C9E18AB83AC1FC279E1A6, compression: None.
 LogPakFile: Display: "heightmap_x2_y1.uexp" offset: 211601408, size: 33432229 bytes, sha1: 92C4534A0C1C56083C47EF59FFF7E156D1E1E41F, compression: None.
 LogPakFile: Display: "heightmap_x2_y1.ubulk" offset: 245035008, size: 9502720 bytes, sha1: 9BFDECE313EFD0E725D5C49003C0F53EE6E2A483, compression: None.
-LogPakFile: Display: "heightmap_x2_y1.umap" offset: 254539776, size: 123690 bytes, sha1: 7F706E7347F5B8E6CEF5C16F0CFEDAD3AB8D335A, compression: None.
-LogPakFile: Display: "heightmap_x2_y2.uexp" offset: 254664704, size: 40103654 bytes, sha1: E96B0FFDC27736DAC747927E6B870D0355E29F76, compression: None.
+LogPakFile: Display: "heightmap_x2_y1.umap" offset: 254539776, size: 123690 bytes, sha1: CFADA413E6976B60F7DAFB780308BB9D1F62C183, compression: None.
+LogPakFile: Display: "heightmap_x2_y2.uexp" offset: 254664704, size: 40103654 bytes, sha1: F9B2976FA01F560FD0F2454617FF6C3D8A2B649A, compression: None.
 LogPakFile: Display: "heightmap_x2_y2.ubulk" offset: 294768640, size: 10092544 bytes, sha1: D4EC59572D07FE4739304ECD6ACDE80672E8AFCC, compression: None.
-LogPakFile: Display: "heightmap_x2_y2.umap" offset: 304863232, size: 174785 bytes, sha1: 0E7538501BB38E4AFCCC4225D1F88DD6ECA34D28, compression: None.
+LogPakFile: Display: "heightmap_x2_y2.umap" offset: 304863232, size: 174785 bytes, sha1: 237A963F3AFE0659E1B15F9E514FD8104938FC60, compression: None.
 LogPakFile: Display: "heightmap_x2_y3.uexp" offset: 305039360, size: 58760518 bytes, sha1: A7C3DCA5364FCF90ED6FE2BC80D978C575041125, compression: None.
 LogPakFile: Display: "heightmap_x2_y3.ubulk" offset: 363800576, size: 9895936 bytes, sha1: 428B2BDA8744C298685659EE1F26AB18A78DC06E, compression: None.
 LogPakFile: Display: "heightmap_x2_y3.umap" offset: 373698560, size: 186114 bytes, sha1: 61493A0044860765DD6CC1C296D6BE8B5142F19B, compression: None.
@@ -46,15 +46,15 @@ LogPakFile: Display: "heightmap_x2_y6.umap" offset: 588263424, size: 160219 byte
 LogPakFile: Display: "heightmap_x2_y7.uexp" offset: 588425216, size: 37676950 bytes, sha1: A3F67711DF64F06455766DA722AEC005EB884CC1, compression: None.
 LogPakFile: Display: "heightmap_x2_y7.ubulk" offset: 626102272, size: 7602176 bytes, sha1: 322835991AE8533BFC1C749B40297DB4C068F4D0, compression: None.
 LogPakFile: Display: "heightmap_x2_y7.umap" offset: 633706496, size: 127711 bytes, sha1: D0945728FBF2AA449F8C6B708667B7FC81B2139C, compression: None.
-LogPakFile: Display: "heightmap_x3_y0.uexp" offset: 633835520, size: 31918756 bytes, sha1: 2609427D04872A5CE25FD00A60B4662A77F6C4EC, compression: None.
-LogPakFile: Display: "heightmap_x3_y0.ubulk" offset: 665755648, size: 7667712 bytes, sha1: 3AFFE82B56EE97028667A57F4E3E1CE3AE5B49B5, compression: None.
-LogPakFile: Display: "heightmap_x3_y0.umap" offset: 673425408, size: 118943 bytes, sha1: 5A9B99081E643AF53FB113FEF8CA1268679A5133, compression: None.
+LogPakFile: Display: "heightmap_x3_y0.uexp" offset: 633835520, size: 31918756 bytes, sha1: 4D782F0A3BEDED6A4F190AB9686C7A2261F93077, compression: None.
+LogPakFile: Display: "heightmap_x3_y0.ubulk" offset: 665755648, size: 7667712 bytes, sha1: B41182B75D3D68AE7DAC86107F5EC82C12C6CAC1, compression: None.
+LogPakFile: Display: "heightmap_x3_y0.umap" offset: 673425408, size: 118943 bytes, sha1: 48E6004701C66A543CA4B93DE42BD9BD0E9DF0B8, compression: None.
 LogPakFile: Display: "heightmap_x3_y1.uexp" offset: 673546240, size: 32109957 bytes, sha1: 26E22728E8C071427EEA52B761483BB702FB925B, compression: None.
 LogPakFile: Display: "heightmap_x3_y1.ubulk" offset: 705656832, size: 8257536 bytes, sha1: 10725EE756DCDEC65CD43F6B40B17326532E8A5D, compression: None.
-LogPakFile: Display: "heightmap_x3_y1.umap" offset: 713916416, size: 119276 bytes, sha1: DA2C11A9D754B71A345F7766C97620D0FF4ACEA8, compression: None.
-LogPakFile: Display: "heightmap_x3_y2.uexp" offset: 714037248, size: 38729190 bytes, sha1: 292B0B1E645842411CC2660BECE1FA933A9462D7, compression: None.
+LogPakFile: Display: "heightmap_x3_y1.umap" offset: 713916416, size: 119276 bytes, sha1: 577FF6947E574009B39B8F34C92B4B71E1B514B9, compression: None.
+LogPakFile: Display: "heightmap_x3_y2.uexp" offset: 714037248, size: 38729190 bytes, sha1: C98F58072F7C70DA35868DB38E42A61D075F73DE, compression: None.
 LogPakFile: Display: "heightmap_x3_y2.ubulk" offset: 752766976, size: 9568256 bytes, sha1: D03CA205A07EA2FE48A32704E7C49C7DEA871F1E, compression: None.
-LogPakFile: Display: "heightmap_x3_y2.umap" offset: 762337280, size: 148631 bytes, sha1: CB62BEF5829D4513F301E17186829310BE90AD89, compression: None.
+LogPakFile: Display: "heightmap_x3_y2.umap" offset: 762337280, size: 148631 bytes, sha1: 89D5C117927B65F8B0A57DC59AD876F08A56A1A9, compression: None.
 LogPakFile: Display: "heightmap_x3_y3.uexp" offset: 762486784, size: 54191844 bytes, sha1: 8A4B9DF2B80ED995E5A97EC6083E0B320BEC351E, compression: None.
 LogPakFile: Display: "heightmap_x3_y3.ubulk" offset: 816678912, size: 8323072 bytes, sha1: EC613FE06F77B13828A902113105B5E50F7EFC1F, compression: None.
 LogPakFile: Display: "heightmap_x3_y3.umap" offset: 825004032, size: 181535 bytes, sha1: 8C473AE952897EFE2AF903B977454B705E6C2ADC, compression: None.
@@ -72,13 +72,13 @@ LogPakFile: Display: "heightmap_x3_y7.ubulk" offset: 1043273728, size: 8388608 b
 LogPakFile: Display: "heightmap_x3_y7.umap" offset: 1051664384, size: 126063 bytes, sha1: 09365F8A4D4774E1FCB4A91F8698D7808FB93B43, compression: None.
 LogPakFile: Display: "heightmap_x4_y0.uexp" offset: 1051791360, size: 29883283 bytes, sha1: 0F1B303C408D2317140BFB2045B88405C550B6FA, compression: None.
 LogPakFile: Display: "heightmap_x4_y0.ubulk" offset: 1081675776, size: 7274496 bytes, sha1: 32324D8759866224810FBD2F741D1A9A6B53BA12, compression: None.
-LogPakFile: Display: "heightmap_x4_y0.umap" offset: 1088952320, size: 115401 bytes, sha1: 60043B72355A5650ABB4AD86F5E9970B8AD4E613, compression: None.
+LogPakFile: Display: "heightmap_x4_y0.umap" offset: 1088952320, size: 115401 bytes, sha1: ED84974CA78886F4F477D0D8140B008D86E99047, compression: None.
 LogPakFile: Display: "heightmap_x4_y1.uexp" offset: 1089069056, size: 31011373 bytes, sha1: A2CCCC3A50AEF44B75175406081AD18B450EB216, compression: None.
 LogPakFile: Display: "heightmap_x4_y1.ubulk" offset: 1120081920, size: 8847360 bytes, sha1: 46DA0BF909E11CE8895744226AD4CAE22AAD9306, compression: None.
-LogPakFile: Display: "heightmap_x4_y1.umap" offset: 1128931328, size: 118141 bytes, sha1: 1C824EAE87D3533BFA3CDFEC4F120866F1760E45, compression: None.
+LogPakFile: Display: "heightmap_x4_y1.umap" offset: 1128931328, size: 118141 bytes, sha1: 736236DF107DC2881EE0B9E81FE64511A9200AD1, compression: None.
 LogPakFile: Display: "heightmap_x4_y2.uexp" offset: 1129050112, size: 32407159 bytes, sha1: 50BC6775CE82044A2A9D481E5D310FDC88C06766, compression: None.
 LogPakFile: Display: "heightmap_x4_y2.ubulk" offset: 1161457664, size: 9109504 bytes, sha1: 4F43AE44E2F5BF9DDF098EBA75ED191D59068425, compression: None.
-LogPakFile: Display: "heightmap_x4_y2.umap" offset: 1170569216, size: 121799 bytes, sha1: 83AA1FC03C7FE772E2503FA7057A15D04AE5B2AF, compression: None.
+LogPakFile: Display: "heightmap_x4_y2.umap" offset: 1170569216, size: 121799 bytes, sha1: D56BF84F826AF5214E6637A32CBC9FFB166AB3E3, compression: None.
 LogPakFile: Display: "heightmap_x4_y3.uexp" offset: 1170692096, size: 55777364 bytes, sha1: 723F6E464318D8B3AF6018EAF4799F434CF1EEFB, compression: None.
 LogPakFile: Display: "heightmap_x4_y3.ubulk" offset: 1226471424, size: 9502720 bytes, sha1: 7FCA9BA7E45E90CCBAEB5BA57F222FDA400F33CD, compression: None.
 LogPakFile: Display: "heightmap_x4_y3.umap" offset: 1235976192, size: 201738 bytes, sha1: 9380F89E52B5420F084CCF6D4FE3F5A8E1960E99, compression: None.
@@ -88,9 +88,9 @@ LogPakFile: Display: "heightmap_x4_y4.umap" offset: 1299517440, size: 169131 byt
 LogPakFile: Display: "heightmap_x4_y5.uexp" offset: 1299687424, size: 56648343 bytes, sha1: B6F96B4CD6CB776377268B71995295F2FE145A13, compression: None.
 LogPakFile: Display: "heightmap_x4_y5.ubulk" offset: 1356337152, size: 10092544 bytes, sha1: 971058D1DC291230156A2C8047EF21DCA7F8802C, compression: None.
 LogPakFile: Display: "heightmap_x4_y5.umap" offset: 1366431744, size: 183996 bytes, sha1: 328FD3CA12BF8BC97602DF13735312123DD0F1A5, compression: None.
-LogPakFile: Display: "heightmap_x4_y6.uexp" offset: 1366616064, size: 40870819 bytes, sha1: 569A1CAD4BD16463858E8EF601463F761EF78F3B, compression: None.
+LogPakFile: Display: "heightmap_x4_y6.uexp" offset: 1366616064, size: 40870819 bytes, sha1: 02ABCCF47040B03C353EA0737520BD519A45E888, compression: None.
 LogPakFile: Display: "heightmap_x4_y6.ubulk" offset: 1407488000, size: 9437184 bytes, sha1: F06CD64FBDE2FAAAF52964ED8B256131321D2D35, compression: None.
-LogPakFile: Display: "heightmap_x4_y6.umap" offset: 1416927232, size: 202811 bytes, sha1: E9E98CCFA6AF129D42E2F88098F66315A92C24FE, compression: None.
+LogPakFile: Display: "heightmap_x4_y6.umap" offset: 1416927232, size: 202811 bytes, sha1: F6240D7DE0BE443A944FE88AA35C38711FBE3B9A, compression: None.
 LogPakFile: Display: "heightmap_x4_y7.uexp" offset: 1417132032, size: 40521779 bytes, sha1: E4B25535ED8C3C2A847699AA1E3AB82A03B6B60B, compression: None.
 LogPakFile: Display: "heightmap_x4_y7.ubulk" offset: 1457655808, size: 7471104 bytes, sha1: E7038B2BA25BE0DC07FF3A0151DF9CAEBFE0D34B, compression: None.
 LogPakFile: Display: "heightmap_x4_y7.umap" offset: 1465128960, size: 137577 bytes, sha1: 04D8BE39EB60FD95AF9FF51C73B0649155EC5250, compression: None.
@@ -106,15 +106,15 @@ LogPakFile: Display: "heightmap_x5_y2.umap" offset: 1580943360, size: 116701 byt
 LogPakFile: Display: "heightmap_x5_y3.uexp" offset: 1581062144, size: 45202814 bytes, sha1: 5270B4F63E0ED1A01F22A540EC9A8D7F24FD7879, compression: None.
 LogPakFile: Display: "heightmap_x5_y3.ubulk" offset: 1626265600, size: 10158080 bytes, sha1: 2EA01418EBFD9E37B6479106B0C7A2478CD651EA, compression: None.
 LogPakFile: Display: "heightmap_x5_y3.umap" offset: 1636425728, size: 131009 bytes, sha1: 91D8B5A580BEB3A3AA198A4C6109224EA39B2958, compression: None.
-LogPakFile: Display: "heightmap_x5_y4.uexp" offset: 1636556800, size: 39502412 bytes, sha1: AFC45CAF669DE433383687F833B57BE61078FC8E, compression: None.
-LogPakFile: Display: "heightmap_x5_y4.ubulk" offset: 1676060672, size: 10289152 bytes, sha1: AF45FDD9702AF168685FB42CFF3E9611C2842A94, compression: None.
-LogPakFile: Display: "heightmap_x5_y4.umap" offset: 1686351872, size: 171365 bytes, sha1: E988A8837176707F3764E2B6F9293DB2DA2F0363, compression: None.
-LogPakFile: Display: "heightmap_x5_y5.uexp" offset: 1686523904, size: 47156185 bytes, sha1: F6251A434A8AC82BCC892CB3645D0466DB853F1C, compression: None.
+LogPakFile: Display: "heightmap_x5_y4.uexp" offset: 1636556800, size: 39502412 bytes, sha1: F439D2FE50FBB5BA6D6385D077691F51A54E5158, compression: None.
+LogPakFile: Display: "heightmap_x5_y4.ubulk" offset: 1676060672, size: 10289152 bytes, sha1: 3B23013F950B19218483C955E6185D896334994D, compression: None.
+LogPakFile: Display: "heightmap_x5_y4.umap" offset: 1686351872, size: 171365 bytes, sha1: C04D581393B40479C026FC8762FDD3379D69273C, compression: None.
+LogPakFile: Display: "heightmap_x5_y5.uexp" offset: 1686523904, size: 47156185 bytes, sha1: 34FD9D16BA12FDF96CD34B19D4CB22F34506E37D, compression: None.
 LogPakFile: Display: "heightmap_x5_y5.ubulk" offset: 1733681152, size: 10027008 bytes, sha1: DBDE72551101C70F512C10921E0B008F584CC277, compression: None.
-LogPakFile: Display: "heightmap_x5_y5.umap" offset: 1743710208, size: 169671 bytes, sha1: E6164CF402E21173776FA8CF0D5F49575338CD99, compression: None.
-LogPakFile: Display: "heightmap_x5_y6.uexp" offset: 1743880192, size: 47116828 bytes, sha1: A6C77DB04B2E5E5CC28741049610078D3251A01A, compression: None.
+LogPakFile: Display: "heightmap_x5_y5.umap" offset: 1743710208, size: 169671 bytes, sha1: 36BF9813034D72A4CDB211020EAEE6C7F1C6A4FC, compression: None.
+LogPakFile: Display: "heightmap_x5_y6.uexp" offset: 1743880192, size: 47116828 bytes, sha1: 6D8B595AA05BC4B581F66C655B7B0DE348E89CC6, compression: None.
 LogPakFile: Display: "heightmap_x5_y6.ubulk" offset: 1790998528, size: 10354688 bytes, sha1: 45BE35DAB557C9B5026C880527ED542C19A426F8, compression: None.
-LogPakFile: Display: "heightmap_x5_y6.umap" offset: 1801355264, size: 190849 bytes, sha1: 29CB36B332F31368488319C98D151CB6EC05AA8C, compression: None.
+LogPakFile: Display: "heightmap_x5_y6.umap" offset: 1801355264, size: 190849 bytes, sha1: BA176D785579F003C158A3F8F8AB1697BDC02665, compression: None.
 LogPakFile: Display: "heightmap_x5_y7.uexp" offset: 1801547776, size: 44830634 bytes, sha1: A3CC9E8554CBC474C1E2B36FC87F2D5E340CE982, compression: None.
 LogPakFile: Display: "heightmap_x5_y7.ubulk" offset: 1846378496, size: 7864320 bytes, sha1: C9C645C2ABA5FBCC3EC8094213D16B6FD122DEBC, compression: None.
 LogPakFile: Display: "heightmap_x5_y7.umap" offset: 1854244864, size: 143592 bytes, sha1: 99CB0D12640732AB94F7362560840B41A417520E, compression: None.
@@ -796,4 +796,4 @@ LogPakFile: Display: "heightmap_x7_y2LOD/SM_LandscapeStreamingProxy_0_LOD1.uexp"
 LogPakFile: Display: "heightmap_x7_y2LOD/heightmap_x7_y2_LOD1.uexp" offset: 2682974236, size: 1607 bytes, sha1: D2C71158D638942C19F934F057619BD657101464, compression: None.
 LogPakFile: Display: "heightmap_x7_y2LOD/heightmap_x7_y2_LOD1.umap" offset: 2682976256, size: 3542 bytes, sha1: 9D8977A5BEB2925EBDD5AAB139B50C8D3803E130, compression: None.
 LogPakFile: Display: 782 files (2682271063 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.391256 seconds
+LogPakFile: Display: Unreal pak executed in 0.359010 seconds

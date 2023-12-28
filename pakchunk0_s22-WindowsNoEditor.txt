@@ -9,7 +9,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.005463 seconds
+LogPakFile: Display: Unreal pak executed in 0.211972 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -1165,13 +1165,13 @@ LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x7_y6L
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x7_y6LOD/T017_Generated_x7_y6_LOD2.umap" offset: 1985390592, size: 3363 bytes, sha1: 7EC0BB43DDE7A552A58AF29A0B092E4EC4381651, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y0.uexp" offset: 1985394688, size: 27987136 bytes, sha1: 716C3F9568500D5E61998D09D1C5BDD600960089, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y0.ubulk" offset: 2013382656, size: 6750208 bytes, sha1: CF6628A8F92F26460A4E09E71BD5CD72E5ECD88A, compression: None.
-LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y0.umap" offset: 2020134912, size: 104545 bytes, sha1: 525484238736A43E0089C3A98B7DB0821B4B41AB, compression: None.
+LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y0.umap" offset: 2020134912, size: 104545 bytes, sha1: 15D2D9A891FE97B8A251FB278F7D4F2ECDBF245A, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y1.uexp" offset: 2020241408, size: 28512717 bytes, sha1: 4FE713B3FB98845EACB48480176AE68DD448F8A7, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y1.ubulk" offset: 2048755712, size: 7340032 bytes, sha1: 6BE0124F1859B7C104F80F101111ED2FB536E97D, compression: None.
-LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y1.umap" offset: 2056097792, size: 106653 bytes, sha1: F404EC302325679C3D06128FA0183E6CF499483E, compression: None.
+LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y1.umap" offset: 2056097792, size: 106653 bytes, sha1: E0FD546D2E86C2FCDA7073ADBB23F14497A980F8, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y2.uexp" offset: 2056206336, size: 28399984 bytes, sha1: BAB860FD424D7EEC6904903433C3B1A8060903F1, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y2.ubulk" offset: 2084608000, size: 7995392 bytes, sha1: 5DF5FAB0074663169BA6DE81E12DB96CEF452329, compression: None.
-LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y2.umap" offset: 2092605440, size: 107757 bytes, sha1: 07571BA8BAB8E8249D354032ED8C1A5D32238563, compression: None.
+LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y2.umap" offset: 2092605440, size: 107757 bytes, sha1: 31A51C720ED2030DA845147E9E3C593FEC3081CA, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y3.uexp" offset: 2092713984, size: 28634311 bytes, sha1: 567933FF1A4BBB320185EC75381C707C46EF0C65, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y3.ubulk" offset: 2121349120, size: 7012352 bytes, sha1: 464EB9F38EF3B655C279B11ABCB41902CC96B83B, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y3.umap" offset: 2128363520, size: 122931 bytes, sha1: BA53FF4E970CC97163F538B9F149CD84DF3BC9A6, compression: None.
@@ -1189,13 +1189,13 @@ LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y7.ubulk" offset: 2
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y7.umap" offset: 2305060864, size: 108582 bytes, sha1: 6D9414568142AC52D4F92EBEFF136D66E9FD015F, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y0.uexp" offset: 2305171456, size: 29582143 bytes, sha1: 5F1908F81FA5C1E063032FC9F1C6C9694A6B0CFE, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y0.ubulk" offset: 2334754816, size: 7864320 bytes, sha1: 6C695EC90D349F895EE045C99F138A0841B3DA8E, compression: None.
-LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y0.umap" offset: 2342621184, size: 108792 bytes, sha1: B7C149217017020709126AF321C4501AAED7F19C, compression: None.
+LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y0.umap" offset: 2342621184, size: 108792 bytes, sha1: 3CE9A7572F8A16D1C209201C8B5CF617CC800561, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y1.uexp" offset: 2342731776, size: 27088561 bytes, sha1: 8F4B1347B98965B4F8F2AD66D52587D0CD19B49B, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y1.ubulk" offset: 2369820672, size: 7602176 bytes, sha1: 2A1F30C5493E02069A39F9007C79537BD7A27C4D, compression: None.
-LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y1.umap" offset: 2377424896, size: 105431 bytes, sha1: 3113A5DCBBD4F91655E70EEE6F73A38D037C9F65, compression: None.
-LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y2.uexp" offset: 2377531392, size: 29177076 bytes, sha1: 9B6495ED464E27E014A72A6FD9DCF71739D3B615, compression: None.
+LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y1.umap" offset: 2377424896, size: 105431 bytes, sha1: A95DFDD8503BED1D30BA388C90F3BD594F4CC39E, compression: None.
+LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y2.uexp" offset: 2377531392, size: 29177076 bytes, sha1: 2AF42D0C46FD3D4D365B8B696C1F4236307C0A33, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y2.ubulk" offset: 2406709248, size: 7864320 bytes, sha1: E32A4278A836C34616E9E8168E3292FAC1DC4461, compression: None.
-LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y2.umap" offset: 2414575616, size: 123586 bytes, sha1: 885F03B46E0F642DA444C765C809114BE9DE95DB, compression: None.
+LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y2.umap" offset: 2414575616, size: 123586 bytes, sha1: 4E6BB461D8ACD9C6A4C16BF354EF26A6DC5D7B30, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y3.uexp" offset: 2414700544, size: 36287557 bytes, sha1: 24F57CDFB1488054EBB583CA16068FD31524AF4F, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y3.ubulk" offset: 2450989056, size: 8650752 bytes, sha1: 20A54A6BD553F923564061E143B5D9B6370A63E8, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y3.umap" offset: 2459641856, size: 151382 bytes, sha1: 5AC73BC42974B77C8B1259BEB3C514C6E08CC5B0, compression: None.
@@ -1359,4 +1359,4 @@ LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/SM_LandscapeS
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/heightmap_x1_y4_LOD1.uexp" offset: 2631604224, size: 1607 bytes, sha1: 1488265333A4DB959BFC80763E4825DAC449E146, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/heightmap_x1_y4_LOD1.umap" offset: 2631606272, size: 3542 bytes, sha1: 2E5E0C810D175F683FA88EF11034C77118BFCDB4, compression: None.
 LogPakFile: Display: 1345 files (2630463057 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.600369 seconds
+LogPakFile: Display: Unreal pak executed in 0.611413 seconds

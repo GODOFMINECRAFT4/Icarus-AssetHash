@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1645730472
 LogPakFile: Display:     IndexSize: 12775
-LogPakFile: Display:     IndexHash: FC3BF4F7F4C7362218AFF729D3621FD0D1E86748
+LogPakFile: Display:     IndexHash: 45ACAFB7A532BAA88834E01D60D058FDC438C2FD
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.005592 seconds
+LogPakFile: Display: Unreal pak executed in 0.149741 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_017_STYX/
@@ -633,24 +633,24 @@ LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y2.uexp" offset: 251
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y2.umap" offset: 2533470208, size: 2240511 bytes, sha1: 96DF54FAB4548D62E7F20DF0E42D5E7FE647ADFA, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y3.uexp" offset: 2535712768, size: 7203306 bytes, sha1: 455F0F5026CA04425B93AC492636443CAB817BD0, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y3.umap" offset: 2542917632, size: 2108602 bytes, sha1: 316F933102BA7F6F784B94ADC52D09CCFF70CFEE, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Diffuse.uasset" offset: 2545027072, size: 915 bytes, sha1: CE7AC2057CD9603CFAED7588FB65B533895E8248, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Diffuse.uexp" offset: 2545028040, size: 3387 bytes, sha1: 660900329EF3341771F52A07DD7C0543D449437F, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Diffuse.ubulk" offset: 2545033216, size: 696320 bytes, sha1: 2F08481D473484DD43F36223FCC6F5353BD6D936, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Normal.uasset" offset: 2545731584, size: 1030 bytes, sha1: 58BF4A558230BA1F45AFB79C50AF290A8F195906, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Normal.uexp" offset: 2545732667, size: 6197 bytes, sha1: 684141CF830B55C39A4FF2120D8E83C24A3643A0, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Normal.ubulk" offset: 2545739776, size: 1392640 bytes, sha1: FDD20ED7858C2BF670BAE6183F98392B3B5DFA76, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Normal.uasset" offset: 2545027072, size: 1030 bytes, sha1: 58BF4A558230BA1F45AFB79C50AF290A8F195906, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Normal.uexp" offset: 2545028155, size: 6197 bytes, sha1: 684141CF830B55C39A4FF2120D8E83C24A3643A0, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Normal.ubulk" offset: 2545035264, size: 1392640 bytes, sha1: FDD20ED7858C2BF670BAE6183F98392B3B5DFA76, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Diffuse.uasset" offset: 2546429952, size: 915 bytes, sha1: CE7AC2057CD9603CFAED7588FB65B533895E8248, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Diffuse.uexp" offset: 2546430920, size: 3387 bytes, sha1: 660900329EF3341771F52A07DD7C0543D449437F, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD1_Diffuse.ubulk" offset: 2546436096, size: 696320 bytes, sha1: 2F08481D473484DD43F36223FCC6F5353BD6D936, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/M_PROXY_T017_Generated_x0_y1_LOD1.uasset" offset: 2547134464, size: 3083 bytes, sha1: 39D65FC548DB72E394C541CE83A65D3BC0704B6D, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/M_PROXY_T017_Generated_x0_y1_LOD1.uexp" offset: 2547137600, size: 247704 bytes, sha1: 932CECA935A6BBDDE679BF98DA0558637F1B3437, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/SM_PROXY_T017_Generated_x0_y1_LOD1.uasset" offset: 2547386368, size: 2559 bytes, sha1: AAE8BF3E0636F74EAA865D2739F3B2433BA1E519, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/SM_PROXY_T017_Generated_x0_y1_LOD1.uexp" offset: 2547388980, size: 389888 bytes, sha1: F1D18CF796EA20CCC5685EBE0B0629734C10E732, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T017_Generated_x0_y1_LOD1.uexp" offset: 2547779584, size: 918 bytes, sha1: 497F48BD32E7D943A591C73702238ED1D3F06103, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T017_Generated_x0_y1_LOD1.umap" offset: 2547781632, size: 3363 bytes, sha1: DCCC9B36A8A11CDF7A462377261FF4D6E0C848FB, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Diffuse.uasset" offset: 2547785728, size: 915 bytes, sha1: EF7854D9782E4B4736D11645F6F849A4C54EC5FF, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Diffuse.uexp" offset: 2547786696, size: 3351 bytes, sha1: 91A9848701361DBEEC82266A8BD59D482A1B49CB, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Diffuse.ubulk" offset: 2547791872, size: 172032 bytes, sha1: E0C2CEA7E1E3EA0D898009EA84CA58EA4E4E8BBE, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Normal.uasset" offset: 2547965952, size: 1030 bytes, sha1: FFAE0AB9E47FEBA0BF243E66CC5608AA9F4C6C6B, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Normal.uexp" offset: 2547967035, size: 6161 bytes, sha1: 622B9DF98E3B74118690D2BAC002340ABBD349C3, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Normal.ubulk" offset: 2547974144, size: 344064 bytes, sha1: C55AFEC3632F58D4B8BF883158C51526778AF945, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Normal.uasset" offset: 2547785728, size: 1030 bytes, sha1: FFAE0AB9E47FEBA0BF243E66CC5608AA9F4C6C6B, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Normal.uexp" offset: 2547786811, size: 6161 bytes, sha1: 622B9DF98E3B74118690D2BAC002340ABBD349C3, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Normal.ubulk" offset: 2547793920, size: 344064 bytes, sha1: C55AFEC3632F58D4B8BF883158C51526778AF945, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Diffuse.uasset" offset: 2548140032, size: 915 bytes, sha1: EF7854D9782E4B4736D11645F6F849A4C54EC5FF, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Diffuse.uexp" offset: 2548141000, size: 3351 bytes, sha1: 91A9848701361DBEEC82266A8BD59D482A1B49CB, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/T_PROXY_T017_Generated_x0_y1_LOD2_Diffuse.ubulk" offset: 2548146176, size: 172032 bytes, sha1: E0C2CEA7E1E3EA0D898009EA84CA58EA4E4E8BBE, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/M_PROXY_T017_Generated_x0_y1_LOD2.uasset" offset: 2548320256, size: 3083 bytes, sha1: EE38B16ACC5D67C7B8AF99459762D5868034CE4B, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/M_PROXY_T017_Generated_x0_y1_LOD2.uexp" offset: 2548323392, size: 247704 bytes, sha1: 932CECA935A6BBDDE679BF98DA0558637F1B3437, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x0_y1LOD/SM_PROXY_T017_Generated_x0_y1_LOD2.uasset" offset: 2548572160, size: 2559 bytes, sha1: BE85A07EC5321004E8E71C139E639339E9C0B9C9, compression: None.
@@ -1066,4 +1066,4 @@ LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y3LOD/SM_PROXY_T017_
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y3LOD/T017_Generated_x2_y3_LOD2.uexp" offset: 2649231360, size: 918 bytes, sha1: 064EFB5CE9D7FDCC4B6ECE71745740CE43D4582F, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y3LOD/T017_Generated_x2_y3_LOD2.umap" offset: 2649233408, size: 3363 bytes, sha1: 0A3C49879F0FE8CE47EAEDECCAC2A6C40EF4A458, compression: None.
 LogPakFile: Display: 1052 files (2648307991 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.506049 seconds
+LogPakFile: Display: Unreal pak executed in 0.503521 seconds
