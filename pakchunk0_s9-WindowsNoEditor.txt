@@ -2,14 +2,14 @@ LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Content\Paks\pakchunk0_s9-WindowsNoEditor.pak
 LogPakFile: Display:     Version: 11
-LogPakFile: Display:     IndexOffset: -1617813638
+LogPakFile: Display:     IndexOffset: -1617815391
 LogPakFile: Display:     IndexSize: 14385
-LogPakFile: Display:     IndexHash: D8EAAF0D7D4EECB14E95B73DBB1D35DF238BAB38
+LogPakFile: Display:     IndexHash: B050C00A4059F5F8B6EFCB630E200DC3D0609D6C
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.221375 seconds
+LogPakFile: Display: Unreal pak executed in 0.006671 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/ENV/RCK/
@@ -288,16 +288,16 @@ LogPakFile: Display: "SM_AC_Rocks/AC_C01/MI_AC_Cliff01_SNOW.uasset" offset: 8508
 LogPakFile: Display: "SM_AC_Rocks/AC_C01/MI_AC_Cliff01_SNOW.uexp" offset: 850830082, size: 2195083 bytes, sha1: DB43055E3E74561FAC96D70A332FF1A021FC0579, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Cliff_01.uasset" offset: 853026816, size: 2984 bytes, sha1: DECA1FDED02851AA6954FF6B40E9813489BC789B, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Cliff_01.uexp" offset: 853029853, size: 3077634 bytes, sha1: 3B1C2493299B0DF12FD474DFFD8C411C08AE6829, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_N.uasset" offset: 856109056, size: 988 bytes, sha1: 5F31C787F9D0289642EB70CBBCE08D6A92A78E2F, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_N.uexp" offset: 856110097, size: 6269 bytes, sha1: 463B868B02C981C6D91620317B67FAE998223135, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_N.ubulk" offset: 856117248, size: 22364160 bytes, sha1: 1FBE6CE4C377B61E88713BA1E44933716B46D7C8, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/M_AC_FrozenFormation_Mammoth.uasset" offset: 878483456, size: 3400 bytes, sha1: E6CF89CA9E406C23C5D8898AE01292326B55DAE7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/M_AC_FrozenFormation_Mammoth.uexp" offset: 878486909, size: 651500 bytes, sha1: 472511A4119467891D1C600C9168B4BB70805B27, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/SM_AC_FrozenFormation_Mammoth.uasset" offset: 879138816, size: 2941 bytes, sha1: E7EEB103D0F100851C6B2A156BE43A8092A6CBB0, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/SM_AC_FrozenFormation_Mammoth.uexp" offset: 879141810, size: 1757464 bytes, sha1: 118CC77BD862EAF3CBCEE7722ABFF983E2A56FD1, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_CAC.uasset" offset: 880900096, size: 915 bytes, sha1: B012D0FCD8F18CE929DF575B59324251512DDDBD, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_CAC.uexp" offset: 880901064, size: 3485 bytes, sha1: 437065196B6D47408F87C5CB8B7DF73AC59ED6A2, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_CAC.ubulk" offset: 880906240, size: 11182080 bytes, sha1: E24C3C35FE91F4488F4016ADF8BC9FF2AED4AE0D, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_CAC.uasset" offset: 856109056, size: 915 bytes, sha1: B012D0FCD8F18CE929DF575B59324251512DDDBD, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_CAC.uexp" offset: 856110024, size: 3485 bytes, sha1: 437065196B6D47408F87C5CB8B7DF73AC59ED6A2, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_CAC.ubulk" offset: 856115200, size: 11182080 bytes, sha1: E24C3C35FE91F4488F4016ADF8BC9FF2AED4AE0D, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_N.uasset" offset: 867299328, size: 988 bytes, sha1: 5F31C787F9D0289642EB70CBBCE08D6A92A78E2F, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_N.uexp" offset: 867300369, size: 6269 bytes, sha1: 463B868B02C981C6D91620317B67FAE998223135, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/T_M_AC_FrozenFormation_Mammoth_N.ubulk" offset: 867307520, size: 22364160 bytes, sha1: 1FBE6CE4C377B61E88713BA1E44933716B46D7C8, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/M_AC_FrozenFormation_Mammoth.uasset" offset: 889673728, size: 3400 bytes, sha1: E6CF89CA9E406C23C5D8898AE01292326B55DAE7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/M_AC_FrozenFormation_Mammoth.uexp" offset: 889677181, size: 651500 bytes, sha1: 472511A4119467891D1C600C9168B4BB70805B27, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/SM_AC_FrozenFormation_Mammoth.uasset" offset: 890329088, size: 2941 bytes, sha1: E7EEB103D0F100851C6B2A156BE43A8092A6CBB0, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_IceFormations/SM_AC_FrozenFormation_Mammoth.uexp" offset: 890332082, size: 1757464 bytes, sha1: 118CC77BD862EAF3CBCEE7722ABFF983E2A56FD1, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var1.uasset" offset: 892090368, size: 5921 bytes, sha1: 3702EE7CE448A783489A41F3CDFCD22CB26E04C2, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var1.uexp" offset: 892096342, size: 239933 bytes, sha1: D7B28BA2098B1720F930E865E61AE6B4769AF173, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_01.uasset" offset: 892338176, size: 4959 bytes, sha1: 6988FF273EE18D6D0A27D9001A386047E2634645, compression: None.
@@ -310,26 +310,26 @@ LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_02.uasset" offset: 89387
 LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_02.uexp" offset: 893875084, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_02.uasset" offset: 893878272, size: 2893 bytes, sha1: 87C950251E7B5C5D06495F15BE7B514F49FCB0A8, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_02.uexp" offset: 893881218, size: 1353763 bytes, sha1: 87435274B469C553F8E06473E0325776F7803A6D, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_N.uasset" offset: 895236096, size: 956 bytes, sha1: 16C852B4366DD95E8C19A9A6AB7810AC671A2A1B, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_N.uexp" offset: 895237105, size: 6233 bytes, sha1: F433AD56AD6925F0B6536F3C51BD0B15FD833058, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_N.ubulk" offset: 895244288, size: 5586944 bytes, sha1: C93ECF918C4D2EB47E5C27958C5A1E38F7989E39, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_CAC.uasset" offset: 900833280, size: 957 bytes, sha1: 112AEE422EBE3DE70DA8A1FEBE323666C6FDEC18, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_CAC.uexp" offset: 900834290, size: 6234 bytes, sha1: F80D722837DD2131123212E0602F347241CE7CC1, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_CAC.ubulk" offset: 900841472, size: 5586944 bytes, sha1: 1119C4E55E09ED75AAD91058D4B9E6C8C6EE3879, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_02_T.uasset" offset: 906430464, size: 873 bytes, sha1: 063A3221D46FAE93CCEECB9317DEBDB5CC30E12A, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_02_T.uexp" offset: 906431390, size: 3449 bytes, sha1: 98FCFA03A4341700E2779ED2164A8FF1ABF7E7E9, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_02_T.ubulk" offset: 906436608, size: 2793472 bytes, sha1: A66487857EBA52D8C2F5DEBA6C9B601ACD666441, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_N.uasset" offset: 909232128, size: 956 bytes, sha1: ECEEDD9B3D866DA74B46652CA89049B4330E142D, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_N.uexp" offset: 909233137, size: 6233 bytes, sha1: ECDAB5572FFA36168DA4436E14745CDFCE2D8AD0, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_N.ubulk" offset: 909240320, size: 5586944 bytes, sha1: 4784A98F58A2DB9081FB5C5AA4547813D2C4EE4F, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_CAC.uasset" offset: 914829312, size: 957 bytes, sha1: 05E668082E298C0330446EF2B6C4CCE8393F66E3, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_CAC.uexp" offset: 914830322, size: 6234 bytes, sha1: 0F0CC6C7E03F03F685AB8F3D4491DAD8193DEC51, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_CAC.ubulk" offset: 914837504, size: 5586944 bytes, sha1: 9C4FDC5457E0357DA1D1110A23460145C0A51CFC, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uasset" offset: 920426496, size: 5014 bytes, sha1: 9AF5817D0B1CFC82B94DA2BD9FC5D6ADAC6F421E, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uexp" offset: 920431563, size: 232642 bytes, sha1: CB1F055889FE44CF6C6775FC94906FD90FA8C813, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_AC_Serac_01_N.uasset" offset: 920666112, size: 937 bytes, sha1: DD38E3A6B334107A4E2B082B48765C28CF2BE5F2, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_AC_Serac_01_N.uexp" offset: 920667102, size: 6233 bytes, sha1: 157956B099D326261A146BE77F1847D533BFB5A5, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_AC_Serac_01_N.ubulk" offset: 920674304, size: 5586944 bytes, sha1: 31980A499BE1AB6BD9E676B627608CC4A8247A84, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_AC_Serac_01_N.uasset" offset: 895236096, size: 937 bytes, sha1: DD38E3A6B334107A4E2B082B48765C28CF2BE5F2, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_AC_Serac_01_N.uexp" offset: 895237086, size: 6233 bytes, sha1: 157956B099D326261A146BE77F1847D533BFB5A5, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_AC_Serac_01_N.ubulk" offset: 895244288, size: 5586944 bytes, sha1: 31980A499BE1AB6BD9E676B627608CC4A8247A84, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_N.uasset" offset: 900833280, size: 956 bytes, sha1: 16C852B4366DD95E8C19A9A6AB7810AC671A2A1B, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_N.uexp" offset: 900834289, size: 6233 bytes, sha1: F433AD56AD6925F0B6536F3C51BD0B15FD833058, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_N.ubulk" offset: 900841472, size: 5586944 bytes, sha1: C93ECF918C4D2EB47E5C27958C5A1E38F7989E39, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_CAC.uasset" offset: 906430464, size: 957 bytes, sha1: 112AEE422EBE3DE70DA8A1FEBE323666C6FDEC18, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_CAC.uexp" offset: 906431474, size: 6234 bytes, sha1: F80D722837DD2131123212E0602F347241CE7CC1, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_03_CAC.ubulk" offset: 906438656, size: 5586944 bytes, sha1: 1119C4E55E09ED75AAD91058D4B9E6C8C6EE3879, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_02_T.uasset" offset: 912027648, size: 873 bytes, sha1: 063A3221D46FAE93CCEECB9317DEBDB5CC30E12A, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_02_T.uexp" offset: 912028574, size: 3449 bytes, sha1: 98FCFA03A4341700E2779ED2164A8FF1ABF7E7E9, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_02_T.ubulk" offset: 912033792, size: 2793472 bytes, sha1: A66487857EBA52D8C2F5DEBA6C9B601ACD666441, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_N.uasset" offset: 914829312, size: 956 bytes, sha1: ECEEDD9B3D866DA74B46652CA89049B4330E142D, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_N.uexp" offset: 914830321, size: 6233 bytes, sha1: ECDAB5572FFA36168DA4436E14745CDFCE2D8AD0, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_N.ubulk" offset: 914837504, size: 5586944 bytes, sha1: 4784A98F58A2DB9081FB5C5AA4547813D2C4EE4F, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_CAC.uasset" offset: 920426496, size: 957 bytes, sha1: 05E668082E298C0330446EF2B6C4CCE8393F66E3, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_CAC.uexp" offset: 920427506, size: 6234 bytes, sha1: 0F0CC6C7E03F03F685AB8F3D4491DAD8193DEC51, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_GlacialCliff_01_CAC.ubulk" offset: 920434688, size: 5586944 bytes, sha1: 9C4FDC5457E0357DA1D1110A23460145C0A51CFC, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uasset" offset: 926023680, size: 5014 bytes, sha1: 9AF5817D0B1CFC82B94DA2BD9FC5D6ADAC6F421E, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_01.uexp" offset: 926028747, size: 232642 bytes, sha1: CB1F055889FE44CF6C6775FC94906FD90FA8C813, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_03.uasset" offset: 926263296, size: 7107 bytes, sha1: EC22DD9C26291FD3B0DE9C1A4C0722EB89A49687, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_GlacialCliff_03.uexp" offset: 926270456, size: 243458 bytes, sha1: 1D02435661C87F57276BE64EE8904B427915A990, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_GlacialCliff_03.uasset" offset: 926515200, size: 3135 bytes, sha1: 92961DF33F9557FB70B206F35B1FBB4801841028, compression: None.
@@ -1143,62 +1143,62 @@ LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var2.uasset" offset: 2
 LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var2.uexp" offset: 2544782413, size: 1233643 bytes, sha1: F82BE9EE0E2E49E6E72DC4FDF34CE892D07BA2ED, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var1.uasset" offset: 2546016256, size: 3096 bytes, sha1: 710009E02EE2BECE6D832011D8C0B4B87D8B6244, compression: None.
 LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var1.uexp" offset: 2546019405, size: 1174004 bytes, sha1: DE78121E691CF59CE6D694BCB424FA215B2EE683, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_N.uasset" offset: 2547193856, size: 957 bytes, sha1: 2A73DF2F31AD557EE4DD2BB0FF8BC42235453768, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_N.uexp" offset: 2547194866, size: 6269 bytes, sha1: 04F284F4E8AA497E1779BDA945CE2A5016738725, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_N.ubulk" offset: 2547202048, size: 22364160 bytes, sha1: D9C428C6ECF1B7BB872B3EAD8BFD148F035823D2, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_CAC.uasset" offset: 2569568256, size: 884 bytes, sha1: D1CD1427B6557E8390121E8095BFCF38211091B6, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_CAC.uexp" offset: 2569569193, size: 3485 bytes, sha1: F3B97277CBEC192CE05CCD2CDFDCF527CAD1FEF4, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_CAC.ubulk" offset: 2569574400, size: 11182080 bytes, sha1: 0F63AC0623143AEFC452A8D2CD10F505EAE0BECB, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_RVT.uasset" offset: 2580758528, size: 4993 bytes, sha1: B6499C37BF65B6404C71CADFBBD983BB7F559DA9, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_RVT.uexp" offset: 2580763574, size: 282198 bytes, sha1: 9A7AB4C43155762B8688B3D6CECE209CC61737B5, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var1.uasset" offset: 2581047296, size: 2900 bytes, sha1: 354AD2E6698964EF681CDD7C1BEC380DB0264D83, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var1.uexp" offset: 2581050249, size: 2447347 bytes, sha1: 1C3C9E8B922F7AD685546E7FDA54504FD6FC7D9D, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_04.uasset" offset: 2583498752, size: 4951 bytes, sha1: 9718203C61AE4292763BC9FA9151E127CE783F50, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_04.uexp" offset: 2583503756, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_04.uasset" offset: 2583506944, size: 2893 bytes, sha1: 797EA0915A678636902AB5AF68BC32F9A12F840C, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_04.uexp" offset: 2583509890, size: 1330864 bytes, sha1: 6FBFEC2C05ED7EB6D0879068DCB65EFF56832770, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_N.uasset" offset: 2584842240, size: 947 bytes, sha1: 51EFA49D9E9CAC165DF3C9522B1DAF3DF0C7D683, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_N.uexp" offset: 2584843240, size: 6269 bytes, sha1: E50E05D98B4C05BFDDAB7AB2BA46629092F72640, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_N.ubulk" offset: 2584850432, size: 22364160 bytes, sha1: BE1C0EC348F9D104E0648163FE9767A0619E16CF, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_CAC.uasset" offset: 2607216640, size: 874 bytes, sha1: 468F125B5F154DDD7DBC47060453D4799790EA04, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_CAC.uexp" offset: 2607217567, size: 3485 bytes, sha1: 2B01C4C5A3BA9A9A3D2C8BC0E38086BFD2DBA62C, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_CAC.ubulk" offset: 2607222784, size: 11182080 bytes, sha1: FDEBBD01040BEF0B7FEF19CF888DD94EB6DDA015, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_S05/MI_AC_Serac_05_SnowICE_NORVT.uasset" offset: 2618406912, size: 4947 bytes, sha1: B7B63805483D1C2B2D8A2D31EF75339711A6C955, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_S05/MI_AC_Serac_05_SnowICE_NORVT.uexp" offset: 2618411912, size: 232340 bytes, sha1: F086025056E99F53B107A6128CF9A913840F2A58, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_05.uasset" offset: 2618644480, size: 2844 bytes, sha1: 9AD3C477ADBC128A58157BD8D9592649D57EB6FD, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_05.uexp" offset: 2618647377, size: 2847580 bytes, sha1: EF79F7170B2F6653E5378D27AC34235F963C0695, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var6.uasset" offset: 2621495296, size: 5009 bytes, sha1: 25FE3329DF20AA4A9A13C64498D9041C9CDC74F2, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var6.uexp" offset: 2621500358, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var6.uasset" offset: 2621503488, size: 3096 bytes, sha1: 5B54FC4C6C40A470D0B42A5728F4F151D93B5DB8, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var6.uexp" offset: 2621506637, size: 2145130 bytes, sha1: 0494A40D160E711184DEECD2703F0EDBA23EE43C, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var5.uasset" offset: 2623651840, size: 5009 bytes, sha1: E636E139B4D1BF1845209AB69145D6A0DEEE8353, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var5.uexp" offset: 2623656902, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var5.uasset" offset: 2623660032, size: 3096 bytes, sha1: 7C912DE4746BEA0E8E44AAE904BB4B66C1C0B2E9, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var5.uexp" offset: 2623663181, size: 1620147 bytes, sha1: 0D02E71CBDF6207DC9F824BA1938E6926C401991, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_S03/MI_AC_Serac_03_ICE.uasset" offset: 2625284096, size: 5037 bytes, sha1: 7D2678960B7604BF88BB22EC218466DD3610BAEB, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_S03/MI_AC_Serac_03_ICE.uexp" offset: 2625289186, size: 233353 bytes, sha1: 3748B8A175685D736D17A4F53BD1795C78A86CE1, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_01.uasset" offset: 2625523712, size: 2889 bytes, sha1: 2F97C88D171D8F6E9344C4E155F65B8DD612CA51, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_01.uexp" offset: 2625526654, size: 1224794 bytes, sha1: 823BB4BE614EA22A1A69E8991A5038BB838DD969, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_06B_CAC.uasset" offset: 2626752512, size: 876 bytes, sha1: 5AB6E24FE27D42A0A6543EABF83939B9A29E25C6, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_06B_CAC.uexp" offset: 2626753441, size: 3485 bytes, sha1: 236D312D18E8CB0EB3F44BDB0283D7EB9840EF9B, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_06B_CAC.ubulk" offset: 2626758656, size: 11182080 bytes, sha1: B8595D7AEBB7B0D4D44C2E2BDBBF58CBD66BB6E7, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_S06/MI_AC_Serac_06B_SnowICE_NORVT.uasset" offset: 2637942784, size: 4953 bytes, sha1: BB7FC92FE40CE21F334D16FF58259D53DC019D83, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/AC_S06/MI_AC_Serac_06B_SnowICE_NORVT.uexp" offset: 2637947790, size: 232340 bytes, sha1: F086025056E99F53B107A6128CF9A913840F2A58, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_06B.uasset" offset: 2638180352, size: 2849 bytes, sha1: 5B7D80072B0266D2C18258FEE2E69353D8D3AFD6, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_06B.uexp" offset: 2638183254, size: 1499437 bytes, sha1: B6BF4FDFF151722D5D06F12C0B9062A004C0EEBD, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_NORVT.uasset" offset: 2639683584, size: 4984 bytes, sha1: CBC59288009C139890F4F5B58AA2B491C68C4690, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_NORVT.uexp" offset: 2639688621, size: 232055 bytes, sha1: A123D7744A6B31C0DB8DB9ED5711FF89591F9F47, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_N.uasset" offset: 2639921152, size: 957 bytes, sha1: 364D10BDA2E41A239FFFC01E40D219598A0C0A47, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_N.uexp" offset: 2639922162, size: 6269 bytes, sha1: AA3C5A2613377D08979D243ED24E6A3A4B0FD4A5, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_N.ubulk" offset: 2639929344, size: 22364160 bytes, sha1: 557F7319E4978D02FDD59AFB7DA50C0C77846925, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_CAC.uasset" offset: 2662295552, size: 884 bytes, sha1: 7440FCA5D434C3CA94F90EF58191BA524ACD930A, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_CAC.uexp" offset: 2662296489, size: 3485 bytes, sha1: 17417AD6DECC98405DC088948EBFFB5D6D6AFA0C, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_CAC.ubulk" offset: 2662301696, size: 11182080 bytes, sha1: 1B2C7EFACB4217CB78587EB22A69CA3AA4DE2C00, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var2_SnowICE_RVT.uasset" offset: 2673485824, size: 5020 bytes, sha1: EB560750733E036EA5AD9F1C6C485001F7AACFAB, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var2_SnowICE_RVT.uexp" offset: 2673490897, size: 282460 bytes, sha1: C7B30FCD0072AA1375BB197E2A3659B89ADE30FB, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var2.uasset" offset: 2673774592, size: 2900 bytes, sha1: E6B9EEA161C386241053BBA8B342D8F914984183, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var2.uexp" offset: 2673777545, size: 3136739 bytes, sha1: D605BB9573D390D477CC001F6C6086B3492D20D4, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var3_SnowICE_NORVT.uasset" offset: 2676916224, size: 5011 bytes, sha1: 92CFC3647B7D5B1668378517253ADF5119B064F5, compression: None.
-LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var3_SnowICE_NORVT.uexp" offset: 2676921288, size: 232317 bytes, sha1: D70758D2F4EE2561A55D7BBEB392427FE12E9E19, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_04.uasset" offset: 2547193856, size: 4951 bytes, sha1: 9718203C61AE4292763BC9FA9151E127CE783F50, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_ROCK_AC_Stalagmite_04.uexp" offset: 2547198860, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_04.uasset" offset: 2547202048, size: 2893 bytes, sha1: 797EA0915A678636902AB5AF68BC32F9A12F840C, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_04.uexp" offset: 2547204994, size: 1330864 bytes, sha1: 6FBFEC2C05ED7EB6D0879068DCB65EFF56832770, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_N.uasset" offset: 2548537344, size: 947 bytes, sha1: 51EFA49D9E9CAC165DF3C9522B1DAF3DF0C7D683, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_N.uexp" offset: 2548538344, size: 6269 bytes, sha1: E50E05D98B4C05BFDDAB7AB2BA46629092F72640, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_N.ubulk" offset: 2548545536, size: 22364160 bytes, sha1: BE1C0EC348F9D104E0648163FE9767A0619E16CF, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_CAC.uasset" offset: 2570911744, size: 874 bytes, sha1: 468F125B5F154DDD7DBC47060453D4799790EA04, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_CAC.uexp" offset: 2570912671, size: 3485 bytes, sha1: 2B01C4C5A3BA9A9A3D2C8BC0E38086BFD2DBA62C, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_05_CAC.ubulk" offset: 2570917888, size: 11182080 bytes, sha1: FDEBBD01040BEF0B7FEF19CF888DD94EB6DDA015, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_S05/MI_AC_Serac_05_SnowICE_NORVT.uasset" offset: 2582102016, size: 4947 bytes, sha1: B7B63805483D1C2B2D8A2D31EF75339711A6C955, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_S05/MI_AC_Serac_05_SnowICE_NORVT.uexp" offset: 2582107016, size: 232340 bytes, sha1: F086025056E99F53B107A6128CF9A913840F2A58, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_05.uasset" offset: 2582339584, size: 2844 bytes, sha1: 9AD3C477ADBC128A58157BD8D9592649D57EB6FD, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_05.uexp" offset: 2582342481, size: 2847580 bytes, sha1: EF79F7170B2F6653E5378D27AC34235F963C0695, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var6.uasset" offset: 2585190400, size: 5009 bytes, sha1: 25FE3329DF20AA4A9A13C64498D9041C9CDC74F2, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var6.uexp" offset: 2585195462, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var6.uasset" offset: 2585198592, size: 3096 bytes, sha1: 5B54FC4C6C40A470D0B42A5728F4F151D93B5DB8, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var6.uexp" offset: 2585201741, size: 2145130 bytes, sha1: 0494A40D160E711184DEECD2703F0EDBA23EE43C, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var5.uasset" offset: 2587346944, size: 5009 bytes, sha1: E636E139B4D1BF1845209AB69145D6A0DEEE8353, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/MI_AC_RCK_CaveIcePillar_Var5.uexp" offset: 2587352006, size: 2262 bytes, sha1: 8C5C306EBCC1E518DBF57540A92CE69B263283F7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var5.uasset" offset: 2587355136, size: 3096 bytes, sha1: 7C912DE4746BEA0E8E44AAE904BB4B66C1C0B2E9, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_RCK_CaveIcePillar_Var5.uexp" offset: 2587358285, size: 1620147 bytes, sha1: 0D02E71CBDF6207DC9F824BA1938E6926C401991, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_S03/MI_AC_Serac_03_ICE.uasset" offset: 2588979200, size: 5037 bytes, sha1: 7D2678960B7604BF88BB22EC218466DD3610BAEB, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_S03/MI_AC_Serac_03_ICE.uexp" offset: 2588984290, size: 233353 bytes, sha1: 3748B8A175685D736D17A4F53BD1795C78A86CE1, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_N.uasset" offset: 2589218816, size: 957 bytes, sha1: 2A73DF2F31AD557EE4DD2BB0FF8BC42235453768, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_N.uexp" offset: 2589219826, size: 6269 bytes, sha1: 04F284F4E8AA497E1779BDA945CE2A5016738725, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_N.ubulk" offset: 2589227008, size: 22364160 bytes, sha1: D9C428C6ECF1B7BB872B3EAD8BFD148F035823D2, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_CAC.uasset" offset: 2611593216, size: 884 bytes, sha1: D1CD1427B6557E8390121E8095BFCF38211091B6, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_CAC.uexp" offset: 2611594153, size: 3485 bytes, sha1: F3B97277CBEC192CE05CCD2CDFDCF527CAD1FEF4, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var1_CAC.ubulk" offset: 2611599360, size: 11182080 bytes, sha1: 0F63AC0623143AEFC452A8D2CD10F505EAE0BECB, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_NORVT.uasset" offset: 2622783488, size: 4984 bytes, sha1: CBC59288009C139890F4F5B58AA2B491C68C4690, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_NORVT.uexp" offset: 2622788525, size: 232055 bytes, sha1: A123D7744A6B31C0DB8DB9ED5711FF89591F9F47, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_RVT.uasset" offset: 2623021056, size: 4993 bytes, sha1: B6499C37BF65B6404C71CADFBBD983BB7F559DA9, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var1_SnowICE_RVT.uexp" offset: 2623026102, size: 282198 bytes, sha1: 9A7AB4C43155762B8688B3D6CECE209CC61737B5, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var1.uasset" offset: 2623309824, size: 2900 bytes, sha1: 354AD2E6698964EF681CDD7C1BEC380DB0264D83, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var1.uexp" offset: 2623312777, size: 2447347 bytes, sha1: 1C3C9E8B922F7AD685546E7FDA54504FD6FC7D9D, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_01.uasset" offset: 2625761280, size: 2889 bytes, sha1: 2F97C88D171D8F6E9344C4E155F65B8DD612CA51, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_ROCK_AC_Stalagmite_01.uexp" offset: 2625764222, size: 1224794 bytes, sha1: 823BB4BE614EA22A1A69E8991A5038BB838DD969, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_06B_CAC.uasset" offset: 2626990080, size: 876 bytes, sha1: 5AB6E24FE27D42A0A6543EABF83939B9A29E25C6, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_06B_CAC.uexp" offset: 2626991009, size: 3485 bytes, sha1: 236D312D18E8CB0EB3F44BDB0283D7EB9840EF9B, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_ROCK_AC_Serac_06B_CAC.ubulk" offset: 2626996224, size: 11182080 bytes, sha1: B8595D7AEBB7B0D4D44C2E2BDBBF58CBD66BB6E7, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_S06/MI_AC_Serac_06B_SnowICE_NORVT.uasset" offset: 2638180352, size: 4953 bytes, sha1: BB7FC92FE40CE21F334D16FF58259D53DC019D83, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/AC_S06/MI_AC_Serac_06B_SnowICE_NORVT.uexp" offset: 2638185358, size: 232340 bytes, sha1: F086025056E99F53B107A6128CF9A913840F2A58, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_06B.uasset" offset: 2638417920, size: 2849 bytes, sha1: 5B7D80072B0266D2C18258FEE2E69353D8D3AFD6, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_AC_Serac_06B.uexp" offset: 2638420822, size: 1499437 bytes, sha1: B6BF4FDFF151722D5D06F12C0B9062A004C0EEBD, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var3_SnowICE_NORVT.uasset" offset: 2639921152, size: 5011 bytes, sha1: 92CFC3647B7D5B1668378517253ADF5119B064F5, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var3_SnowICE_NORVT.uexp" offset: 2639926216, size: 232317 bytes, sha1: D70758D2F4EE2561A55D7BBEB392427FE12E9E19, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_N.uasset" offset: 2640158720, size: 957 bytes, sha1: 364D10BDA2E41A239FFFC01E40D219598A0C0A47, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_N.uexp" offset: 2640159730, size: 6269 bytes, sha1: AA3C5A2613377D08979D243ED24E6A3A4B0FD4A5, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_N.ubulk" offset: 2640166912, size: 22364160 bytes, sha1: 557F7319E4978D02FDD59AFB7DA50C0C77846925, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_CAC.uasset" offset: 2662533120, size: 884 bytes, sha1: 7440FCA5D434C3CA94F90EF58191BA524ACD930A, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_CAC.uexp" offset: 2662534057, size: 3485 bytes, sha1: 17417AD6DECC98405DC088948EBFFB5D6D6AFA0C, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/T_CAVE_AC_Entrance_Var2_CAC.ubulk" offset: 2662539264, size: 11182080 bytes, sha1: 1B2C7EFACB4217CB78587EB22A69CA3AA4DE2C00, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var2_SnowICE_RVT.uasset" offset: 2673723392, size: 5020 bytes, sha1: EB560750733E036EA5AD9F1C6C485001F7AACFAB, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/CAVE_AC_Entrance/MI_CAVE_AC_Entrance_Var2_SnowICE_RVT.uexp" offset: 2673728465, size: 282460 bytes, sha1: C7B30FCD0072AA1375BB197E2A3659B89ADE30FB, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var2.uasset" offset: 2674012160, size: 2900 bytes, sha1: E6B9EEA161C386241053BBA8B342D8F914984183, compression: None.
+LogPakFile: Display: "SM_AC_Rocks/SM_CAVE_AC_Entrance_Var2.uexp" offset: 2674015113, size: 3136739 bytes, sha1: D605BB9573D390D477CC001F6C6086B3492D20D4, compression: None.
 LogPakFile: Display: 1187 files (2676146948 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.548799 seconds
+LogPakFile: Display: Unreal pak executed in 0.527294 seconds

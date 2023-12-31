@@ -9,7 +9,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.225640 seconds
+LogPakFile: Display: Unreal pak executed in 0.035051 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -102,7 +102,7 @@ LogPakFile: Display: "Outpost_003/Outpost_003.umap" offset: 19505152, size: 6991
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y1.uexp" offset: 19576832, size: 30499526 bytes, sha1: F266686FBEC1AB787FF10D53DFDCC8F95FF44634, compression: None.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y1.ubulk" offset: 50077696, size: 6815744 bytes, sha1: EAA83BA0F37753C504F611E4E219D4E5FABAF7F3, compression: None.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y1.umap" offset: 56895488, size: 113417 bytes, sha1: DFF1ABB1F11BF69371A0085162C23DEE62900CBF, compression: None.
-LogPakFile: Display: "Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 57010176, size: 1283522 bytes, sha1: 5E2E9734F7DB0DCCC08B58D8320B03A036BDA49C, compression: None.
+LogPakFile: Display: "Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 57010176, size: 1283522 bytes, sha1: 277C955F5365BD0F2029C60A267BBDA74CF58CC0, compression: None.
 LogPakFile: Display: "Outpost_003/Sublevels/Developer/OP003_Developer_Main.umap" offset: 58294272, size: 204667 bytes, sha1: 96D9B47601D25847747F7B823AEF229E4F88E92A, compression: None.
 LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_Vista.uexp" offset: 58499072, size: 18100 bytes, sha1: E347F7AE2610817CA3831B147B99BBF8889594DB, compression: None.
 LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_Vista.umap" offset: 58517504, size: 19939 bytes, sha1: C878FDCCAF39492A799C7C36BD4FF7BF0644CAAD, compression: None.
@@ -154,7 +154,7 @@ LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y0.umap" offset: 945207
 LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.uexp" offset: 945356800, size: 41283012 bytes, sha1: 18FF2BE10F6B5AB4B0AF2600B4BB58C5AAD28971, compression: None.
 LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.ubulk" offset: 986640384, size: 8257536 bytes, sha1: 5210DF0778779954D3C27402436E70529E24EF63, compression: None.
 LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.umap" offset: 994899968, size: 147361 bytes, sha1: 02FA21B3D89CDA26763D238728A06E9FDC594F47, compression: None.
-LogPakFile: Display: "Outpost_005/Sublevels/Developer/OP005_Developer_Main.uexp" offset: 995047424, size: 2557406 bytes, sha1: 7D1DA1C4F12C8406FF7BDDDE77005358DD0F6B1E, compression: None.
+LogPakFile: Display: "Outpost_005/Sublevels/Developer/OP005_Developer_Main.uexp" offset: 995047424, size: 2557406 bytes, sha1: 70770CB73EA546740CDE4ABC7B6F4D5291B74C8C, compression: None.
 LogPakFile: Display: "Outpost_005/Sublevels/Developer/OP005_Developer_Main.umap" offset: 997605376, size: 963251 bytes, sha1: E34736CF7127E6937DF7D770A7A0929B502A5242, compression: None.
 LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_Vista.uexp" offset: 998569984, size: 9004 bytes, sha1: CA12EABBFB5B2AA75878361A4757ED8AD5300B02, compression: None.
 LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_Vista.umap" offset: 998580224, size: 11532 bytes, sha1: B7C6ECC085CC53EA5402FB6A41807278E3405CDD, compression: None.
@@ -431,4 +431,4 @@ LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x0_y5LOD/SM_LandscapeS
 LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x0_y5LOD/HeightMap_x0_y5_LOD1.uexp" offset: 2656311296, size: 1607 bytes, sha1: A04639514C300CB59179A3D1FFB1F455061B9F03, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/HeightMap/HeightMap_x0_y5LOD/HeightMap_x0_y5_LOD1.umap" offset: 2656313344, size: 3542 bytes, sha1: F0C749225C4A696610E8F1D5BE523676723416DB, compression: None.
 LogPakFile: Display: 417 files (2656000217 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.194224 seconds
+LogPakFile: Display: Unreal pak executed in 0.142407 seconds

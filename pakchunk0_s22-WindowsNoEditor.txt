@@ -9,7 +9,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.211972 seconds
+LogPakFile: Display: Unreal pak executed in 0.004715 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -1359,4 +1359,4 @@ LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/SM_LandscapeS
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/heightmap_x1_y4_LOD1.uexp" offset: 2631604224, size: 1607 bytes, sha1: 1488265333A4DB959BFC80763E4825DAC449E146, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/heightmap_x1_y4_LOD1.umap" offset: 2631606272, size: 3542 bytes, sha1: 2E5E0C810D175F683FA88EF11034C77118BFCDB4, compression: None.
 LogPakFile: Display: 1345 files (2630463057 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.611413 seconds
+LogPakFile: Display: Unreal pak executed in 0.528657 seconds
