@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1663357429
 LogPakFile: Display:     IndexSize: 16274
-LogPakFile: Display:     IndexHash: BBB06F914BD88AA8A03FE5683141C5BEFC5AF604
+LogPakFile: Display:     IndexHash: C5006EC90211E964DB785C8AF4B507E90149F9C9
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.006655 seconds
+LogPakFile: Display: Unreal pak executed in 0.238406 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -191,12 +191,12 @@ LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6L
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/SM_PROXY_T017_Generated_x2_y6_LOD1.uexp" offset: 1735432756, size: 1929584 bytes, sha1: 13B98EA214D8332621FF6CD50EF8DB5D916A3A8C, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T017_Generated_x2_y6_LOD1.uexp" offset: 1737362393, size: 918 bytes, sha1: CADD22259DC5CF2788339F7CD7338AB82B270B26, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T017_Generated_x2_y6_LOD1.umap" offset: 1737363456, size: 3363 bytes, sha1: CA3026D2421BDC6642F56538EA26CB3A86A6392D, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Diffuse.uasset" offset: 1737367552, size: 915 bytes, sha1: 6BDD3D1FF59A27FE79E2A22D369ED5335A6919A3, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Diffuse.uexp" offset: 1737368520, size: 3351 bytes, sha1: 869372B4CF442321F953A3995E4E1C94F574A2F8, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Diffuse.ubulk" offset: 1737373696, size: 172032 bytes, sha1: FB059894CB712DF0F97C860121FCA1E81C3A02B4, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Normal.uasset" offset: 1737547776, size: 1030 bytes, sha1: 23BEA468D5AC25D9230722223C8967EFCF01A9A2, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Normal.uexp" offset: 1737548859, size: 6161 bytes, sha1: 066E2F384E5C103EC820A048EA7A9186D0504FED, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Normal.ubulk" offset: 1737555968, size: 344064 bytes, sha1: 2380F8FB3B21062BCD3E6F2B64D86EF0DA18A685, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Normal.uasset" offset: 1737367552, size: 1030 bytes, sha1: 23BEA468D5AC25D9230722223C8967EFCF01A9A2, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Normal.uexp" offset: 1737368635, size: 6161 bytes, sha1: 066E2F384E5C103EC820A048EA7A9186D0504FED, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Normal.ubulk" offset: 1737375744, size: 344064 bytes, sha1: 2380F8FB3B21062BCD3E6F2B64D86EF0DA18A685, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Diffuse.uasset" offset: 1737721856, size: 915 bytes, sha1: 6BDD3D1FF59A27FE79E2A22D369ED5335A6919A3, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Diffuse.uexp" offset: 1737722824, size: 3351 bytes, sha1: 869372B4CF442321F953A3995E4E1C94F574A2F8, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/T_PROXY_T017_Generated_x2_y6_LOD2_Diffuse.ubulk" offset: 1737728000, size: 172032 bytes, sha1: FB059894CB712DF0F97C860121FCA1E81C3A02B4, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/M_PROXY_T017_Generated_x2_y6_LOD2.uasset" offset: 1737902080, size: 3127 bytes, sha1: 1A52954ED084038485A7F14DD1FCC0508CE513B2, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/M_PROXY_T017_Generated_x2_y6_LOD2.uexp" offset: 1737905260, size: 249416 bytes, sha1: 3E6C520FAB9178DCD7D9B560DBFD4383E7F63FBD, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x2_y6LOD/SM_PROXY_T017_Generated_x2_y6_LOD2.uasset" offset: 1738156032, size: 2559 bytes, sha1: 778B2C6AE45B62FFA7972DEBDFA78B6CB8B354BC, compression: None.
@@ -863,12 +863,12 @@ LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2L
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/SM_PROXY_T017_Generated_x6_y2_LOD1.uexp" offset: 1915136564, size: 1837330 bytes, sha1: 15771D61CEEC01B1E37392310E32BBE5C268923D, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T017_Generated_x6_y2_LOD1.uexp" offset: 1916973947, size: 918 bytes, sha1: A2A52027AB6A9D3F9A88125607896F7CC8239A52, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T017_Generated_x6_y2_LOD1.umap" offset: 1916975104, size: 3363 bytes, sha1: 788B5DD2E9768F9745781206C11BD6BC65ABF8CF, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Diffuse.uasset" offset: 1916979200, size: 915 bytes, sha1: 1D3546A51364A551D4E7D17D493DBA27C75BC3C0, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Diffuse.uexp" offset: 1916980168, size: 3351 bytes, sha1: EBD4F3C03A9938D91019B48468C85D34C4A0CFD4, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Diffuse.ubulk" offset: 1916985344, size: 172032 bytes, sha1: 0D79BC217480D36C606CC5C40A644F3B11F11C84, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Normal.uasset" offset: 1917159424, size: 1030 bytes, sha1: 849EFDCCD413BF7A3FECE4A22EB3BE0F7E92C297, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Normal.uexp" offset: 1917160507, size: 6161 bytes, sha1: B33A7E21CF819E442BC03EACD47B8F81153E885D, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Normal.ubulk" offset: 1917167616, size: 344064 bytes, sha1: E0D60FA5D810F7DE4925F2E4E1E6C3086FEF8EC4, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Normal.uasset" offset: 1916979200, size: 1030 bytes, sha1: 849EFDCCD413BF7A3FECE4A22EB3BE0F7E92C297, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Normal.uexp" offset: 1916980283, size: 6161 bytes, sha1: B33A7E21CF819E442BC03EACD47B8F81153E885D, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Normal.ubulk" offset: 1916987392, size: 344064 bytes, sha1: E0D60FA5D810F7DE4925F2E4E1E6C3086FEF8EC4, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Diffuse.uasset" offset: 1917333504, size: 915 bytes, sha1: 1D3546A51364A551D4E7D17D493DBA27C75BC3C0, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Diffuse.uexp" offset: 1917334472, size: 3351 bytes, sha1: EBD4F3C03A9938D91019B48468C85D34C4A0CFD4, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/T_PROXY_T017_Generated_x6_y2_LOD2_Diffuse.ubulk" offset: 1917339648, size: 172032 bytes, sha1: 0D79BC217480D36C606CC5C40A644F3B11F11C84, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/M_PROXY_T017_Generated_x6_y2_LOD2.uasset" offset: 1917513728, size: 3127 bytes, sha1: 3FBD336A9E50967035B7FC1A692507492A2D60A9, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/M_PROXY_T017_Generated_x6_y2_LOD2.uexp" offset: 1917516908, size: 249416 bytes, sha1: 3E6C520FAB9178DCD7D9B560DBFD4383E7F63FBD, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Sublevels/Generated/T017_Generated_x6_y2LOD/SM_PROXY_T017_Generated_x6_y2_LOD2.uasset" offset: 1917767680, size: 2559 bytes, sha1: 8F185064BBB7690BD10E39E5736B60326B07B6F6, compression: None.
@@ -1359,4 +1359,4 @@ LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/SM_LandscapeS
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/heightmap_x1_y4_LOD1.uexp" offset: 2631604224, size: 1607 bytes, sha1: 1488265333A4DB959BFC80763E4825DAC449E146, compression: None.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x1_y4LOD/heightmap_x1_y4_LOD1.umap" offset: 2631606272, size: 3542 bytes, sha1: 2E5E0C810D175F683FA88EF11034C77118BFCDB4, compression: None.
 LogPakFile: Display: 1345 files (2630463057 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.511222 seconds
+LogPakFile: Display: Unreal pak executed in 0.408651 seconds

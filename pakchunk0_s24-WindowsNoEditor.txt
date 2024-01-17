@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1612096549
 LogPakFile: Display:     IndexSize: 22725
-LogPakFile: Display:     IndexHash: 0727BE6956B7666713567BC39418DCD530B7D0D5
+LogPakFile: Display:     IndexHash: 22888E2159F5D1B30D20BF007CDA3B9B8104DCDB
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.004084 seconds
+LogPakFile: Display: Unreal pak executed in 0.222901 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/
@@ -68,24 +68,24 @@ LogPakFile: Display: "Megascans/Surfaces/AC_cliffsteep/tbqkaceg_2K_Albedo.uexp" 
 LogPakFile: Display: "Megascans/Surfaces/AC_cliffsteep/tbqkaceg_2K_Albedo.ubulk" offset: 39546880, size: 2793472 bytes, sha1: 97DEE6EC036CD78D6FD7C37BE4D2E83A5CBDAFAC, compression: None.
 LogPakFile: Display: "Master_Materials/LandscapeMaster/Functions/Quick/HeightAlphaLerp.uasset" offset: 42340405, size: 705 bytes, sha1: 5C90248935B4B2F0B3F23652435D1DFEF8657D00, compression: None.
 LogPakFile: Display: "Master_Materials/LandscapeMaster/Functions/Quick/HeightAlphaLerp.uexp" offset: 42341163, size: 81 bytes, sha1: 255852892F27C34B621799AC2971B9172926C5CA, compression: None.
-LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Normal.uasset" offset: 42342400, size: 944 bytes, sha1: 1B69D329D33B6F8B70A0AFADA076A1004374EE93, compression: None.
-LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Normal.uexp" offset: 42343397, size: 6233 bytes, sha1: 5D93807337A23EAE2A3BB6EEC9F85D99A4BD8EAF, compression: None.
-LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Normal.ubulk" offset: 42350592, size: 5586944 bytes, sha1: 9EA7DE3E0D0AD81EC4DB22135C67E7C222FBF281, compression: None.
-LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Albedo.uasset" offset: 47939584, size: 732 bytes, sha1: 910122AF1E32964FBA41212D7EC19DCBE00910F7, compression: None.
-LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Albedo.uexp" offset: 47940369, size: 3382 bytes, sha1: 4CBD772D4FB7F7581980C37B1A7584A6B37446B5, compression: None.
-LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Albedo.ubulk" offset: 47945728, size: 2793472 bytes, sha1: 06863E3D74B6232780BC45570A6F01020E6A3812, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/Damp_Mud_00/sbglpdp_2K_Albedo.uasset" offset: 50741248, size: 834 bytes, sha1: 00AE9F13E06359288FD94A1116F3C8B65D07E670, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/Damp_Mud_00/sbglpdp_2K_Albedo.uexp" offset: 50742135, size: 6166 bytes, sha1: 2779D1902526926180C277B81734B2D336183284, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/Damp_Mud_00/sbglpdp_2K_Albedo.ubulk" offset: 50749440, size: 5586944 bytes, sha1: C87A59AC3CA9E2265B001D124A0014224D8B44BE, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_RAD.uasset" offset: 56338432, size: 870 bytes, sha1: 618F3363C453E5085D158A0BF25C9C1B96260D9B, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_RAD.uexp" offset: 56339355, size: 3449 bytes, sha1: CF895F6FAD2819ED33327D85894062705ACCAD34, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_RAD.ubulk" offset: 56344576, size: 2793472 bytes, sha1: 79BB8D320FA13557BF2AD84044A024F5F0EB7FAB, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Normal.uasset" offset: 59140096, size: 953 bytes, sha1: C920398E96166E881BB01CA6D62AECF31157EE61, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Normal.uexp" offset: 59141102, size: 6233 bytes, sha1: 0729A06DD9368282238DE421CF4BBE64B35366A5, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Normal.ubulk" offset: 59148288, size: 5586944 bytes, sha1: 00403D018EC7305D9BC91EF9766907D70F57D67D, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Albedo.uasset" offset: 64737280, size: 741 bytes, sha1: 5885E81361B650FB1D1E51DD4E36BA48F2432F94, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Albedo.uexp" offset: 64738074, size: 3382 bytes, sha1: 3BDB65A7D69D47E494DE00FF6F32E3FF3916CFFC, compression: None.
-LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Albedo.ubulk" offset: 64743424, size: 2793472 bytes, sha1: 5E0C8611AC6573919196B50350980EB2B522E348, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_RAD.uasset" offset: 42342400, size: 870 bytes, sha1: 618F3363C453E5085D158A0BF25C9C1B96260D9B, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_RAD.uexp" offset: 42343323, size: 3449 bytes, sha1: CF895F6FAD2819ED33327D85894062705ACCAD34, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_RAD.ubulk" offset: 42348544, size: 2793472 bytes, sha1: 79BB8D320FA13557BF2AD84044A024F5F0EB7FAB, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Normal.uasset" offset: 45144064, size: 953 bytes, sha1: C920398E96166E881BB01CA6D62AECF31157EE61, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Normal.uexp" offset: 45145070, size: 6233 bytes, sha1: 0729A06DD9368282238DE421CF4BBE64B35366A5, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Normal.ubulk" offset: 45152256, size: 5586944 bytes, sha1: 00403D018EC7305D9BC91EF9766907D70F57D67D, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Albedo.uasset" offset: 50741248, size: 741 bytes, sha1: 5885E81361B650FB1D1E51DD4E36BA48F2432F94, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Albedo.uexp" offset: 50742042, size: 3382 bytes, sha1: 3BDB65A7D69D47E494DE00FF6F32E3FF3916CFFC, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/AC_cliffstones/SnowyGravel_Albedo.ubulk" offset: 50747392, size: 2793472 bytes, sha1: 5E0C8611AC6573919196B50350980EB2B522E348, compression: None.
+LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Normal.uasset" offset: 53542912, size: 944 bytes, sha1: 1B69D329D33B6F8B70A0AFADA076A1004374EE93, compression: None.
+LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Normal.uexp" offset: 53543909, size: 6233 bytes, sha1: 5D93807337A23EAE2A3BB6EEC9F85D99A4BD8EAF, compression: None.
+LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Normal.ubulk" offset: 53551104, size: 5586944 bytes, sha1: 9EA7DE3E0D0AD81EC4DB22135C67E7C222FBF281, compression: None.
+LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Albedo.uasset" offset: 59140096, size: 732 bytes, sha1: 910122AF1E32964FBA41212D7EC19DCBE00910F7, compression: None.
+LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Albedo.uexp" offset: 59140881, size: 3382 bytes, sha1: 4CBD772D4FB7F7581980C37B1A7584A6B37446B5, compression: None.
+LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_Albedo.ubulk" offset: 59146240, size: 2793472 bytes, sha1: 06863E3D74B6232780BC45570A6F01020E6A3812, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/Damp_Mud_00/sbglpdp_2K_Albedo.uasset" offset: 61941760, size: 834 bytes, sha1: 00AE9F13E06359288FD94A1116F3C8B65D07E670, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/Damp_Mud_00/sbglpdp_2K_Albedo.uexp" offset: 61942647, size: 6166 bytes, sha1: 2779D1902526926180C277B81734B2D336183284, compression: None.
+LogPakFile: Display: "Megascans/Surfaces/Damp_Mud_00/sbglpdp_2K_Albedo.ubulk" offset: 61949952, size: 5586944 bytes, sha1: C87A59AC3CA9E2265B001D124A0014224D8B44BE, compression: None.
 LogPakFile: Display: "Megascans/Surfaces/Dirty_Snow_2x2_M_02/sd5rff1a_2K_Normal.uasset" offset: 67538944, size: 958 bytes, sha1: E76B37C2F7CBEAE8709F36B77C752A07DF731E2E, compression: None.
 LogPakFile: Display: "Megascans/Surfaces/Dirty_Snow_2x2_M_02/sd5rff1a_2K_Normal.uexp" offset: 67539955, size: 6233 bytes, sha1: 1A583D3CA87E126D88E6A9DAFE16E78ECB8931A5, compression: None.
 LogPakFile: Display: "Megascans/Surfaces/Dirty_Snow_2x2_M_02/sd5rff1a_2K_Normal.ubulk" offset: 67547136, size: 5586944 bytes, sha1: 0BCE1B8B25A00D315C22060015ABAAEF11AD46A5, compression: None.
@@ -119,18 +119,18 @@ LogPakFile: Display: "Megascans/Mixes/LC_Sand2/LC_Sand_2_Albedo.ubulk" offset: 1
 LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_RAD.uasset" offset: 106737664, size: 861 bytes, sha1: 7A94D8CA455BE2FD24DC4822EC58DF7A70AB1A1C, compression: None.
 LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_RAD.uexp" offset: 106738578, size: 3449 bytes, sha1: 972D41B7EAEAEBEFA630C4AB0B7E1EDE68451DA3, compression: None.
 LogPakFile: Display: "Megascans/Mixes/DC_Incline/DC_Incline_RAD.ubulk" offset: 106743808, size: 2793472 bytes, sha1: 1CB22B2E2FDAD27F305CB13F55EA62CB0785BD3D, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Normal.uasset" offset: 109539328, size: 935 bytes, sha1: 0F50BA186AC8392611B394FE54E1A6B8A0BC8779, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Normal.uexp" offset: 109540316, size: 6233 bytes, sha1: D291566029D4B431D1C27FB934BDD2177B223B2E, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Normal.ubulk" offset: 109547520, size: 5586944 bytes, sha1: 909C72CD33215C10B490E4EF5EFA11B6EA28C92C, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_RAD.uasset" offset: 115136512, size: 852 bytes, sha1: 64D327366454DB48A58B5314C1495DFC842FCB45, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_RAD.uexp" offset: 115137417, size: 3449 bytes, sha1: 0421610AEB0D889EFF557C46A068038BD78ED7FD, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_RAD.ubulk" offset: 115142656, size: 2793472 bytes, sha1: BD91D3606BA6F620D5C36C48F03BDABAABECA9B7, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Albedo.uasset" offset: 117938176, size: 723 bytes, sha1: 1EC66018AECF326A658BABE5774A8DAA719DAE3E, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Albedo.uexp" offset: 117938952, size: 3382 bytes, sha1: 07C299A2D13DA30DBD19409FCBB1096AA96C9244, compression: None.
-LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Albedo.ubulk" offset: 117944320, size: 2793472 bytes, sha1: 9C9F4051C477A015D3DDDBBDAAAD38A1B726B1F4, compression: None.
-LogPakFile: Display: "Megascans/Mixes/CliffSnowCap/CliffSnowCap_Albedo.uasset" offset: 120739840, size: 738 bytes, sha1: A9370A54E7BA3885CACF162E3FE516D809209315, compression: None.
-LogPakFile: Display: "Megascans/Mixes/CliffSnowCap/CliffSnowCap_Albedo.uexp" offset: 120740631, size: 3382 bytes, sha1: B380448F3027E8AB7248877A3088B77EF431B93E, compression: None.
-LogPakFile: Display: "Megascans/Mixes/CliffSnowCap/CliffSnowCap_Albedo.ubulk" offset: 120745984, size: 2793472 bytes, sha1: DD6B8D12745FCD5C41226A356AB7963CE1EECA00, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_RAD.uasset" offset: 109539328, size: 852 bytes, sha1: 64D327366454DB48A58B5314C1495DFC842FCB45, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_RAD.uexp" offset: 109540233, size: 3449 bytes, sha1: 0421610AEB0D889EFF557C46A068038BD78ED7FD, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_RAD.ubulk" offset: 109545472, size: 2793472 bytes, sha1: BD91D3606BA6F620D5C36C48F03BDABAABECA9B7, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Albedo.uasset" offset: 112340992, size: 723 bytes, sha1: 1EC66018AECF326A658BABE5774A8DAA719DAE3E, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Albedo.uexp" offset: 112341768, size: 3382 bytes, sha1: 07C299A2D13DA30DBD19409FCBB1096AA96C9244, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Albedo.ubulk" offset: 112347136, size: 2793472 bytes, sha1: 9C9F4051C477A015D3DDDBBDAAAD38A1B726B1F4, compression: None.
+LogPakFile: Display: "Megascans/Mixes/CliffSnowCap/CliffSnowCap_Albedo.uasset" offset: 115142656, size: 738 bytes, sha1: A9370A54E7BA3885CACF162E3FE516D809209315, compression: None.
+LogPakFile: Display: "Megascans/Mixes/CliffSnowCap/CliffSnowCap_Albedo.uexp" offset: 115143447, size: 3382 bytes, sha1: B380448F3027E8AB7248877A3088B77EF431B93E, compression: None.
+LogPakFile: Display: "Megascans/Mixes/CliffSnowCap/CliffSnowCap_Albedo.ubulk" offset: 115148800, size: 2793472 bytes, sha1: DD6B8D12745FCD5C41226A356AB7963CE1EECA00, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Normal.uasset" offset: 117944320, size: 935 bytes, sha1: 0F50BA186AC8392611B394FE54E1A6B8A0BC8779, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Normal.uexp" offset: 117945308, size: 6233 bytes, sha1: D291566029D4B431D1C27FB934BDD2177B223B2E, compression: None.
+LogPakFile: Display: "Megascans/Mixes/WL_Dirt/WL_Dirt_Normal.ubulk" offset: 117952512, size: 5586944 bytes, sha1: 909C72CD33215C10B490E4EF5EFA11B6EA28C92C, compression: None.
 LogPakFile: Display: "Megascans/Mixes/GenericCliff/CliffGeneric_RAD.uasset" offset: 123541504, size: 867 bytes, sha1: 3ADF6FFB32B7157D7D0490B0C4247BE39D182E70, compression: None.
 LogPakFile: Display: "Megascans/Mixes/GenericCliff/CliffGeneric_RAD.uexp" offset: 123542424, size: 3449 bytes, sha1: 07C666C7787F63B2011A094370AA8A85FFEBA3D9, compression: None.
 LogPakFile: Display: "Megascans/Mixes/GenericCliff/CliffGeneric_RAD.ubulk" offset: 123547648, size: 2793472 bytes, sha1: C999A85DA1A713C7FCF753530851694930ED1EC1, compression: None.
@@ -381,11 +381,11 @@ LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y3.umap" offset: 1644234752, size: 713591 bytes, sha1: B962214091EB5DD63BA5538C399459652C734C76, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y4.uexp" offset: 1644949504, size: 3108670 bytes, sha1: 369C118718D21AFB81778D02424B3B05D41FC0DF, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y4.umap" offset: 1648058368, size: 791938 bytes, sha1: EAE51AF1FE1C13E9F2252D4CAD565214CC8CA5BA, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y5.uexp" offset: 1648850944, size: 6104819 bytes, sha1: 2372E961D4733CF201974B320E8523A289A883FC, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y5.uexp" offset: 1648850944, size: 6104819 bytes, sha1: 009D2BB74F63625318FDC249480358D17D02831A, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y5.umap" offset: 1654956032, size: 1895217 bytes, sha1: B85DFC4E51F96584382F3EA76589AAFE314B3A77, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y6.uexp" offset: 1656852480, size: 11284746 bytes, sha1: B686A0FDFB6E074831FAE63437B3F4B6D580511A, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y6.uexp" offset: 1656852480, size: 11284746 bytes, sha1: 7D3D269A4E706BBD9585D5AB08E8D2AF7F53CB54, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y6.umap" offset: 1668139008, size: 3070579 bytes, sha1: 3D7E3EF2EF4D149472BCD33F9808D88CDDF3F338, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y7.uexp" offset: 1671211008, size: 8197212 bytes, sha1: 542239E4A01BDF84C2D18A9EA0E4D62600115104, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y7.uexp" offset: 1671211008, size: 8197212 bytes, sha1: 0A46D50D39A63D409D9B44C3599ACD89E28CE3CD, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y7.umap" offset: 1679409152, size: 2633427 bytes, sha1: D10E71DD36D0AA173B047312D6CAFBBAF84BB162, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y0.uexp" offset: 1682042880, size: 12054 bytes, sha1: C526D320C82E966BB92C49AFC3B5ECDC7454F992, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y0.umap" offset: 1682055168, size: 13107 bytes, sha1: 90506BE13B93411D3C6C512CBE3AC9173D0E1EBA, compression: None.
@@ -397,9 +397,9 @@ LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y3.umap" offset: 1693792256, size: 1011166 bytes, sha1: 4EE6B5BDACB4CAAE4523D31B7FA85477A7D30A90, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y4.uexp" offset: 1694803968, size: 3810276 bytes, sha1: FF471E1C04D3B472C60744DCFC04962480AA8548, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y4.umap" offset: 1698615296, size: 1011475 bytes, sha1: 2F388A4E1B10E72C95CD21114A77094B0768EEC0, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y5.uexp" offset: 1699627008, size: 11312988 bytes, sha1: 8EB192239F344670CA17256909FCBDA5F1D65307, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y5.uexp" offset: 1699627008, size: 11312988 bytes, sha1: 7DE467F7D7C7EB4685EBB925188CA30AA9DD40A3, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y5.umap" offset: 1710940160, size: 3028790 bytes, sha1: 3DAC407ACFCF7BD84EA4AADE3565AE2BA5581352, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y6.uexp" offset: 1713969152, size: 9374294 bytes, sha1: 6B7A90D2274CA21D5044FD91A2C78CDC7DF106EE, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y6.uexp" offset: 1713969152, size: 9374294 bytes, sha1: 297BE1098FFF033CAB5BE7A3E41A3D7C515E06D5, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y6.umap" offset: 1723344896, size: 2503085 bytes, sha1: 849043A676B11830B55FDD2BE1C66B3A09BC95DD, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y7.uexp" offset: 1725849600, size: 1377961 bytes, sha1: 4E2F20346DC831D35A5471CC230892ABC4B1BBD1, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y7.umap" offset: 1727227904, size: 437713 bytes, sha1: 46A9EC258E305CA2566F2E4EDDA5CCB2B4612698, compression: None.
@@ -535,12 +535,12 @@ LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/SM_PROXY_T019_Generated_x0_y6_LOD1.uexp" offset: 1809945138, size: 2651944 bytes, sha1: 95C2DFD33F8261C6992AC0A47D7BB0C130CE43B7, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T019_Generated_x0_y6_LOD1.uexp" offset: 1812597135, size: 918 bytes, sha1: A70ABE7C7F40A84E9665482284D90AE9DB385545, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T019_Generated_x0_y6_LOD1.umap" offset: 1812598784, size: 3361 bytes, sha1: 35AFEFFDD97988B3FCF70BB1620DE9FB210F16D8, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Diffuse.uasset" offset: 1812602880, size: 914 bytes, sha1: 4BF515D839FB1927345FBD3195E52E7064416455, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Diffuse.uexp" offset: 1812603847, size: 3387 bytes, sha1: 6A91C4222FF2D7A10D8DEFC261112C525DA5384D, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Diffuse.ubulk" offset: 1812609024, size: 696320 bytes, sha1: 938A857EB53617F8E10B73D83ABCA8D54B6CF038, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Normal.uasset" offset: 1813307392, size: 1029 bytes, sha1: DBF69FE26A0A3C7CC7AF70B3C858CD7A98CE5641, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Normal.uexp" offset: 1813308474, size: 6197 bytes, sha1: 26E0C5D79B94BDC79C9DC641FD76E3ED64F301AB, compression: None.
-LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Normal.ubulk" offset: 1813315584, size: 1392640 bytes, sha1: B4AE7C8170D48C64504B5813DF77BFE25B2C1E61, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Normal.uasset" offset: 1812602880, size: 1029 bytes, sha1: DBF69FE26A0A3C7CC7AF70B3C858CD7A98CE5641, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Normal.uexp" offset: 1812603962, size: 6197 bytes, sha1: 26E0C5D79B94BDC79C9DC641FD76E3ED64F301AB, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Normal.ubulk" offset: 1812611072, size: 1392640 bytes, sha1: B4AE7C8170D48C64504B5813DF77BFE25B2C1E61, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Diffuse.uasset" offset: 1814005760, size: 914 bytes, sha1: 4BF515D839FB1927345FBD3195E52E7064416455, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Diffuse.uexp" offset: 1814006727, size: 3387 bytes, sha1: 6A91C4222FF2D7A10D8DEFC261112C525DA5384D, compression: None.
+LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/T_PROXY_T019_Generated_x0_y6_LOD2_Diffuse.ubulk" offset: 1814011904, size: 696320 bytes, sha1: 938A857EB53617F8E10B73D83ABCA8D54B6CF038, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/M_PROXY_T019_Generated_x0_y6_LOD2.uasset" offset: 1814710272, size: 3124 bytes, sha1: 50C109231FDBEEE3AA910EBF609049BFBFE5E9F3, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/M_PROXY_T019_Generated_x0_y6_LOD2.uexp" offset: 1814713449, size: 249416 bytes, sha1: 3E6C520FAB9178DCD7D9B560DBFD4383E7F63FBD, compression: None.
 LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x0_y6LOD/SM_PROXY_T019_Generated_x0_y6_LOD2.uasset" offset: 1814964224, size: 2557 bytes, sha1: 2B786F065E76DD4ACAF80120503C93624F454DD3, compression: None.
@@ -1897,4 +1897,4 @@ LogPakFile: Display: "Maps/Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7
 LogPakFile: Display: "Maps/TitleScreen/TitleScreen.uexp" offset: 2682859520, size: 3404 bytes, sha1: D8B171148BB3C99F3A6A428DA9A6D025EFAC8430, compression: None.
 LogPakFile: Display: "Maps/TitleScreen/TitleScreen.umap" offset: 2682863616, size: 7078 bytes, sha1: 4E6ADF431F8C3D27FEDE4363F77B4B0487E56239, compression: None.
 LogPakFile: Display: 1883 files (2681233599 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.648477 seconds
+LogPakFile: Display: Unreal pak executed in 0.592438 seconds
