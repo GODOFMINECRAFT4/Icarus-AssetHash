@@ -4,12 +4,12 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: -1671552636
 LogPakFile: Display:     IndexSize: 5949
-LogPakFile: Display:     IndexHash: EF497EAB7AE2E7EF39BFD3B8F61C8AAD6C72E959
+LogPakFile: Display:     IndexHash: 579EC5D936D731B5C86ACDBA136360F4CD21E3D6
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.003824 seconds
+LogPakFile: Display: Unreal pak executed in 0.235918 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/
@@ -300,7 +300,7 @@ LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y0.umap" offset: 8
 LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y1.uexp" offset: 830027776, size: 47458239 bytes, sha1: B51867E0B232CFC2E8C39AF0CE0F786B25FEBE66, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y1.ubulk" offset: 877486080, size: 8323072 bytes, sha1: 2ACDFE70AB67547849EEDDBB6E14F6ADABD65BC3, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y1.umap" offset: 885811200, size: 145324 bytes, sha1: 47735D71281D93636DCCB99ADA98B2ACA3221DDA, compression: None.
-LogPakFile: Display: "Maps/Outpost_002/Sublevels/Developer/OP002_Developer_Main.uexp" offset: 885956608, size: 6445085 bytes, sha1: FA46C131026D08E03C71F701B06FA42726F7082C, compression: None.
+LogPakFile: Display: "Maps/Outpost_002/Sublevels/Developer/OP002_Developer_Main.uexp" offset: 885956608, size: 6445085 bytes, sha1: 44B1A77C39FC10A8A8660D870528198CEC6A4751, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/Sublevels/Developer/OP002_Developer_Main.umap" offset: 892403712, size: 767094 bytes, sha1: 51BA48193B2F72338EF094D9B252E6741E774232, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/Sublevels/Generated/OP002_Generated_Vista.uexp" offset: 893171712, size: 12141 bytes, sha1: 603F603CF8E9CEB8FAD3510EFC3F1434EB8AC727, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/Sublevels/Generated/OP002_Generated_Vista.umap" offset: 893184000, size: 14347 bytes, sha1: 5C0DDA4807BAF6D7DFBEE6F3845DDBB629467534, compression: None.
@@ -326,7 +326,7 @@ LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y0.umap" offset: 1
 LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y1.uexp" offset: 1037684736, size: 30499526 bytes, sha1: F266686FBEC1AB787FF10D53DFDCC8F95FF44634, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y1.ubulk" offset: 1068185600, size: 6815744 bytes, sha1: EAA83BA0F37753C504F611E4E219D4E5FABAF7F3, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y1.umap" offset: 1075003392, size: 113417 bytes, sha1: DFF1ABB1F11BF69371A0085162C23DEE62900CBF, compression: None.
-LogPakFile: Display: "Maps/Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 1075118080, size: 1284266 bytes, sha1: 5B2E71E64FBBFA2CC6B203D3A3E8286D0E3740A4, compression: None.
+LogPakFile: Display: "Maps/Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 1075118080, size: 1284266 bytes, sha1: 4F57E803036C111A279633DFFD9103E8981FEA93, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/Sublevels/Developer/OP003_Developer_Main.umap" offset: 1076404224, size: 204947 bytes, sha1: E990F909F78A553E43C3D9420252DAEC71EF02C6, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/Sublevels/Generated/OP003_Generated_Vista.uexp" offset: 1076611072, size: 18100 bytes, sha1: E347F7AE2610817CA3831B147B99BBF8889594DB, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/Sublevels/Generated/OP003_Generated_Vista.umap" offset: 1076629504, size: 19939 bytes, sha1: C878FDCCAF39492A799C7C36BD4FF7BF0644CAAD, compression: None.
@@ -378,7 +378,7 @@ LogPakFile: Display: "Maps/Outpost_005/heightmap/heightmap_x1_y0.umap" offset: 1
 LogPakFile: Display: "Maps/Outpost_005/heightmap/heightmap_x1_y1.uexp" offset: 1963483136, size: 41283012 bytes, sha1: 18FF2BE10F6B5AB4B0AF2600B4BB58C5AAD28971, compression: None.
 LogPakFile: Display: "Maps/Outpost_005/heightmap/heightmap_x1_y1.ubulk" offset: 2004766720, size: 8257536 bytes, sha1: 5210DF0778779954D3C27402436E70529E24EF63, compression: None.
 LogPakFile: Display: "Maps/Outpost_005/heightmap/heightmap_x1_y1.umap" offset: 2013026304, size: 147361 bytes, sha1: 02FA21B3D89CDA26763D238728A06E9FDC594F47, compression: None.
-LogPakFile: Display: "Maps/Outpost_005/Sublevels/Developer/OP005_Developer_Main.uexp" offset: 2013173760, size: 2553002 bytes, sha1: AABAA50D850A332D353A83A8C847FE212B386ED9, compression: None.
+LogPakFile: Display: "Maps/Outpost_005/Sublevels/Developer/OP005_Developer_Main.uexp" offset: 2013173760, size: 2553002 bytes, sha1: 58E5B7FDFCEE5E5376B9A1ADE51C26735A4EC7CB, compression: None.
 LogPakFile: Display: "Maps/Outpost_005/Sublevels/Developer/OP005_Developer_Main.umap" offset: 2015727616, size: 961755 bytes, sha1: 431890445F1B6CA8569C52760512BE51361FD768, compression: None.
 LogPakFile: Display: "Maps/Outpost_005/Sublevels/Generated/OP005_Generated_Vista.uexp" offset: 2016690176, size: 9004 bytes, sha1: CA12EABBFB5B2AA75878361A4757ED8AD5300B02, compression: None.
 LogPakFile: Display: "Maps/Outpost_005/Sublevels/Generated/OP005_Generated_Vista.umap" offset: 2016700416, size: 11532 bytes, sha1: B7C6ECC085CC53EA5402FB6A41807278E3405CDD, compression: None.
@@ -450,16 +450,16 @@ LogPakFile: Display: "Maps/Outpost_006/Sublevels/Generated/OP006_Generated_x1_y1
 LogPakFile: Display: "Maps/Outpost_006/Sublevels/Generated/OP006_Generated_x1_y1.umap" offset: 2351523840, size: 685572 bytes, sha1: 42D55AC343A569E54005F9448439FFFAB901E6D9, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Outpost_007.uexp" offset: 2352209920, size: 76206643 bytes, sha1: 868AFB1C34C3E7639EC911AF04F566583841F761, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Outpost_007.umap" offset: 2428418048, size: 114201 bytes, sha1: 888374675ECB324B57CA119CB80A9219A5F5E913, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/AC_Snow_LayerInfo.uasset" offset: 2428532736, size: 1010 bytes, sha1: 6BECDF2C1B4EAD3EEAF2947E2144D789503CB5F0, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/AC_Snow_LayerInfo.uexp" offset: 2428533799, size: 143 bytes, sha1: 0F44D61D438BF86BEAB06A76B042FF9EC669294E, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Erosion_LayerInfo.uasset" offset: 2428534784, size: 1016 bytes, sha1: E9E933D935D8134EBFA6AB92776718B951E59AA5, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Erosion_LayerInfo.uexp" offset: 2428535853, size: 143 bytes, sha1: 7C2BF9A13636A4EFEA3B113A21517D90AE1F4036, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/CF_Dirt_LayerInfo.uasset" offset: 2428532736, size: 1010 bytes, sha1: 859D21B51CA4F0ABEA57AE596E95DD6F6816A2F9, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/CF_Dirt_LayerInfo.uexp" offset: 2428533799, size: 143 bytes, sha1: B981D8A18DBE7A93D5B0777703EA1F6F9267D15F, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Snowcap_LayerInfo.uasset" offset: 2428534784, size: 1016 bytes, sha1: 768D78FC471861978A753541D5A5A34E21DF57CC, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Snowcap_LayerInfo.uexp" offset: 2428535853, size: 143 bytes, sha1: 21F2A280752E10E7AF2B1B8C933483C18B1564FD, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_River_Stones_LayerInfo.uasset" offset: 2428536832, size: 1035 bytes, sha1: A27B1FDDB207463B34CC3E446EA4A384BF676AD0, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_River_Stones_LayerInfo.uexp" offset: 2428537920, size: 143 bytes, sha1: 0CC2B8B5B7B2ED935723B60F1EEF35E6E760E9BA, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Snowcap_LayerInfo.uasset" offset: 2428538880, size: 1016 bytes, sha1: 768D78FC471861978A753541D5A5A34E21DF57CC, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Snowcap_LayerInfo.uexp" offset: 2428539949, size: 143 bytes, sha1: 21F2A280752E10E7AF2B1B8C933483C18B1564FD, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/CF_Dirt_LayerInfo.uasset" offset: 2428540928, size: 1010 bytes, sha1: 859D21B51CA4F0ABEA57AE596E95DD6F6816A2F9, compression: None.
-LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/CF_Dirt_LayerInfo.uexp" offset: 2428541991, size: 143 bytes, sha1: B981D8A18DBE7A93D5B0777703EA1F6F9267D15F, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Erosion_LayerInfo.uasset" offset: 2428538880, size: 1016 bytes, sha1: E9E933D935D8134EBFA6AB92776718B951E59AA5, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/C_Erosion_LayerInfo.uexp" offset: 2428539949, size: 143 bytes, sha1: 7C2BF9A13636A4EFEA3B113A21517D90AE1F4036, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/AC_Snow_LayerInfo.uasset" offset: 2428540928, size: 1010 bytes, sha1: 6BECDF2C1B4EAD3EEAF2947E2144D789503CB5F0, compression: None.
+LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/AC_Snow_LayerInfo.uexp" offset: 2428541991, size: 143 bytes, sha1: 0F44D61D438BF86BEAB06A76B042FF9EC669294E, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/CF_Moss_LayerInfo.uasset" offset: 2428542976, size: 1012 bytes, sha1: FBE701E08065DCB2EBF792AF9947816EF2162C2F, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/CF_Moss_LayerInfo.uexp" offset: 2428544041, size: 143 bytes, sha1: 5E800B35CCCF28884D3725372C0A14FFD59CA824, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Outpost_007_sharedassets/CF_Needles_LayerInfo.uasset" offset: 2428545024, size: 1019 bytes, sha1: C053988D7CA7DEA1147B37EB80BC73FC1678E6A3, compression: None.
@@ -499,4 +499,4 @@ LogPakFile: Display: "Maps/Outpost_007/Sublevels/Developer/OP007_Developer_Main.
 LogPakFile: Display: "Maps/Outpost_007/Sublevels/Generated/OP007_Generated_Vista.uexp" offset: 2623363072, size: 25434 bytes, sha1: 576C9CF2B74EB364DDC96CB61F7726984F669B57, compression: None.
 LogPakFile: Display: "Maps/Outpost_007/Sublevels/Generated/OP007_Generated_Vista.umap" offset: 2623389696, size: 24911 bytes, sha1: 3C7D88D750A232A714817ED072A6AD83BA680B5C, compression: None.
 LogPakFile: Display: 485 files (2623093049 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.184373 seconds
+LogPakFile: Display: Unreal pak executed in 0.170921 seconds
