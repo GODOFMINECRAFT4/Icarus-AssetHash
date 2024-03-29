@@ -9,7 +9,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.293344 seconds
+LogPakFile: Display: Unreal pak executed in 0.239930 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/
@@ -351,7 +351,7 @@ LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y0.umap" offset: 1
 LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y1.uexp" offset: 1221570560, size: 47458239 bytes, sha1: B51867E0B232CFC2E8C39AF0CE0F786B25FEBE66, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y1.ubulk" offset: 1269028864, size: 8323072 bytes, sha1: 2ACDFE70AB67547849EEDDBB6E14F6ADABD65BC3, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/heightmap/heightmap_x1_y1.umap" offset: 1277353984, size: 145324 bytes, sha1: 47735D71281D93636DCCB99ADA98B2ACA3221DDA, compression: None.
-LogPakFile: Display: "Maps/Outpost_002/Sublevels/Developer/OP002_Developer_Main.uexp" offset: 1277499392, size: 6445085 bytes, sha1: A895C77FAA6EAD3733234241ED3DDEFE9B43566D, compression: None.
+LogPakFile: Display: "Maps/Outpost_002/Sublevels/Developer/OP002_Developer_Main.uexp" offset: 1277499392, size: 6445085 bytes, sha1: 975033DDC1CFDB131425EB870A7AB6B86991538C, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/Sublevels/Developer/OP002_Developer_Main.umap" offset: 1283946496, size: 767094 bytes, sha1: 51BA48193B2F72338EF094D9B252E6741E774232, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/Sublevels/Generated/OP002_Generated_Vista.uexp" offset: 1284714496, size: 12141 bytes, sha1: 603F603CF8E9CEB8FAD3510EFC3F1434EB8AC727, compression: None.
 LogPakFile: Display: "Maps/Outpost_002/Sublevels/Generated/OP002_Generated_Vista.umap" offset: 1284726784, size: 14347 bytes, sha1: 5C0DDA4807BAF6D7DFBEE6F3845DDBB629467534, compression: None.
@@ -377,7 +377,7 @@ LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y0.umap" offset: 1
 LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y1.uexp" offset: 1429227520, size: 30499526 bytes, sha1: F266686FBEC1AB787FF10D53DFDCC8F95FF44634, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y1.ubulk" offset: 1459728384, size: 6815744 bytes, sha1: EAA83BA0F37753C504F611E4E219D4E5FABAF7F3, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/heightmap/heightmap_x1_y1.umap" offset: 1466546176, size: 113417 bytes, sha1: DFF1ABB1F11BF69371A0085162C23DEE62900CBF, compression: None.
-LogPakFile: Display: "Maps/Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 1466660864, size: 1284266 bytes, sha1: 1F8817C8EE7449DA50DD27975AA1AD95D99FC0F9, compression: None.
+LogPakFile: Display: "Maps/Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 1466660864, size: 1284266 bytes, sha1: 04D4779BBEB331DA51AC4561CC534A86AB5D75B5, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/Sublevels/Developer/OP003_Developer_Main.umap" offset: 1467947008, size: 204947 bytes, sha1: E990F909F78A553E43C3D9420252DAEC71EF02C6, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/Sublevels/Generated/OP003_Generated_Vista.uexp" offset: 1468153856, size: 18100 bytes, sha1: E347F7AE2610817CA3831B147B99BBF8889594DB, compression: None.
 LogPakFile: Display: "Maps/Outpost_003/Sublevels/Generated/OP003_Generated_Vista.umap" offset: 1468172288, size: 19939 bytes, sha1: C878FDCCAF39492A799C7C36BD4FF7BF0644CAAD, compression: None.
@@ -454,4 +454,4 @@ LogPakFile: Display: "Maps/Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap
 LogPakFile: Display: "Maps/Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y1.ubulk" offset: 2641737728, size: 8126464 bytes, sha1: FA5376EF9A815F12D338164434A3E50F7A46A1FC, compression: None.
 LogPakFile: Display: "Maps/Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y1.umap" offset: 2649866240, size: 138765 bytes, sha1: A3C73656A390E854C0D9F4D853E881A5534062D2, compression: None.
 LogPakFile: Display: 440 files (2649697972 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.171668 seconds
+LogPakFile: Display: Unreal pak executed in 0.284293 seconds
