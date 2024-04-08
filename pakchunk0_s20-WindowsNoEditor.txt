@@ -9,7 +9,7 @@ LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
-LogPakFile: Display: Unreal pak executed in 0.239107 seconds
+LogPakFile: Display: Unreal pak executed in 0.005303 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_016_OLY/
@@ -641,4 +641,4 @@ LogPakFile: Display: "Sublevels/Developer/T016_Developer_VisionVoxelPass.umap" o
 LogPakFile: Display: "Sublevels/Developer/T016_Developer_Yellow.uexp" offset: 2653214720, size: 15825963 bytes, sha1: C5C82E9AC3ADAD6E5B12FDB278AC33BB7012CB27, compression: None.
 LogPakFile: Display: "Sublevels/Developer/T016_Developer_Yellow.umap" offset: 2669041664, size: 2917453 bytes, sha1: 6A78627B43A4FD0D56A53F957A34699E2395EA48, compression: None.
 LogPakFile: Display: 627 files (2671392617 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.246239 seconds
+LogPakFile: Display: Unreal pak executed in 0.228495 seconds
