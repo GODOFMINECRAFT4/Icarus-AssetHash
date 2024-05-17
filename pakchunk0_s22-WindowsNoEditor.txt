@@ -3,14 +3,14 @@ LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Content\Paks\pakchunk0_s22-WindowsNoEditor.pak
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1413540578
-LogPakFile: Display:     IndexSize: 30442
-LogPakFile: Display:     IndexHash: CB6915983ECDF85E221E6B17FCFBEF3672FCA1CE
+LogPakFile: Display:     IndexSize: 30446
+LogPakFile: Display:     IndexHash: 0B37588CCE675D67D3BC0ACF6D5E57348F12B5E2
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.218096 seconds
+LogPakFile: Display: Unreal pak executed in 0.005520 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -60,10 +60,10 @@ LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y0.u
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y0.umap" offset: 369684005, size: 9472 bytes, sha1: 955408D9416AB6EB96669D30B5CFB47EE9AD7C19, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y1.uexp" offset: 369693550, size: 333603 bytes, sha1: EA0FE1CD3CAD7B17EDE62B26161644E89D4977FA, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y1.umap" offset: 370027274, size: 57993 bytes, sha1: DBA66CD04A38AB4BF43233C69406E77A962E37D5, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y2.uexp" offset: 370147328, size: 490188 bytes, sha1: BE231070EF3791FD447C577EFF6F196CE9F7F70B, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y2.umap" offset: 370637669, size: 82208 bytes, sha1: A92A5155F4FA0402889DDDAF722EF12B40BCBA85, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y3.uexp" offset: 371195904, size: 3299994 bytes, sha1: 1C2025575C2D5BF1308CD24BF68060B40940BBB4, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y3.umap" offset: 374496067, size: 41480 bytes, sha1: BEA7A6E8E7BD93BF7B122F9532E46E96231CF960, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y2.uexp" offset: 370147328, size: 491233 bytes, sha1: 00D1482D2239E8DB40033DDCE4204EDD34952EB9, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y2.umap" offset: 370638714, size: 82466 bytes, sha1: 7FEF1CF44A3CCD49281030E3E87C4CF2FAD5470C, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y3.uexp" offset: 371195904, size: 3300050 bytes, sha1: AA8BC891C8B9F8E8A5481B8907509C29871476C6, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y3.umap" offset: 374496123, size: 41474 bytes, sha1: 1911C3F234CF8D37752D50908A88960F09D8A732, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y4.uexp" offset: 375390208, size: 44151556 bytes, sha1: 924A1EFFC0F51D4E432527175C52E7A354506E8C, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y4.umap" offset: 419542973, size: 49097 bytes, sha1: 812EFE723E8B54455223E339817DB8DE082688F9, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x5_y5.uexp" offset: 420478976, size: 17282883 bytes, sha1: 645EDC15C8B60FA93E4F8E880230C33E5D918685, compression: Oodle.
@@ -76,10 +76,10 @@ LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y0.u
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y0.umap" offset: 482054531, size: 20619 bytes, sha1: 176FFD5A3E93214E0121AF376F19840A44CF02D1, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y1.uexp" offset: 482344960, size: 2090395 bytes, sha1: 7BF4426C0ACD051D26970A589767C27AA65688C3, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y1.umap" offset: 484442112, size: 41698 bytes, sha1: 69215F704CCDE5C56D70638701F9E49D80F98E21, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y2.uexp" offset: 484483883, size: 86519 bytes, sha1: EC358E3F2616A26FAFAB5A0110401B1C1CA259F8, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y2.umap" offset: 484570491, size: 42358 bytes, sha1: 6C9DEB0321EB8CB616EFFF19194BA0445BC6181B, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y3.uexp" offset: 484612922, size: 548885 bytes, sha1: 2C03460C14B895C15FF498A4E8061CCE0CBCFC3C, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y3.umap" offset: 485161944, size: 75316 bytes, sha1: 307216A6F309A0743529472F2834165FEB1F28C7, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y2.uexp" offset: 484483883, size: 86014 bytes, sha1: 171C6C7413D75424E6456A47CC2683B26579D669, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y2.umap" offset: 484569986, size: 42411 bytes, sha1: F2582D5451207B0A7AE52263E42CF9AA3B2FD897, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y3.uexp" offset: 484612470, size: 548885 bytes, sha1: 2C03460C14B895C15FF498A4E8061CCE0CBCFC3C, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y3.umap" offset: 485161492, size: 75316 bytes, sha1: 307216A6F309A0743529472F2834165FEB1F28C7, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y4.uexp" offset: 485490688, size: 29480447 bytes, sha1: 41076F15A8D333A8027B938386CC5A4444A68D3E, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y4.umap" offset: 514971992, size: 60005 bytes, sha1: 7991A321F0C275A8D22881D415B9F39349795BE1, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y5.uexp" offset: 515032086, size: 801604 bytes, sha1: D978E00F70836D37B5A56C81D7C5977D01F902C0, compression: Oodle.
@@ -92,10 +92,10 @@ LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y0.u
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y0.umap" offset: 546747158, size: 13519 bytes, sha1: 1EE68D55EFF8A86B9098D66D427626F0A9937669, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y1.uexp" offset: 546760750, size: 146869 bytes, sha1: 7162502F8725C0496B8F5059F7628E30F2005570, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y1.umap" offset: 546907692, size: 28113 bytes, sha1: D30D5A66C8BCE9B02B6FD291E1AB5AE81D2919D4, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y2.uexp" offset: 547356672, size: 1412303 bytes, sha1: 1559B85B061011647303E2FEF5941D544EF903C0, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y2.umap" offset: 548769128, size: 52416 bytes, sha1: 05A8C4DAA90A30002A76E2093D056096A68DA8C9, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y3.uexp" offset: 548821633, size: 398202 bytes, sha1: 8639082D1D13552C9E0FF24FDC5D3C61B0BB63B3, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y3.umap" offset: 549219940, size: 37019 bytes, sha1: 3A8BC8C24E1271A3604E25FD5CA63326AC9C74BB, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y2.uexp" offset: 547356672, size: 1412505 bytes, sha1: B27B184CE8302413EC9FFE089C6F75D4E7EF0040, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y2.umap" offset: 548769330, size: 52437 bytes, sha1: F7BEA84399A5BAC9B6E21ADCF5FBFEC60595A959, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y3.uexp" offset: 548821856, size: 398202 bytes, sha1: 8639082D1D13552C9E0FF24FDC5D3C61B0BB63B3, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y3.umap" offset: 549220163, size: 37019 bytes, sha1: 3A8BC8C24E1271A3604E25FD5CA63326AC9C74BB, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y4.uexp" offset: 549453824, size: 12565074 bytes, sha1: A9DB2DBC908421906B5C0FC05C048A039454A41B, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y4.umap" offset: 562036736, size: 50968 bytes, sha1: D7E531E4D15C4A1D16480EACA155B2C8BC221F43, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x7_y5.uexp" offset: 563085312, size: 26749496 bytes, sha1: 21C99CEF50B836401FFE9378827F3F03FBEB2D81, compression: Oodle.
@@ -817,15 +817,15 @@ LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y2.umap" offset: 9
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y3.uexp" offset: 985661440, size: 15811681 bytes, sha1: 043349F77466B3EF7F7EE3BE63DEE5769E74107A, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y3.ubulk" offset: 1002438656, size: 2914971 bytes, sha1: 6AA7D115563074013344D12C6639F4E5D19F019B, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y3.umap" offset: 1005353796, size: 11541 bytes, sha1: 2D3975ADB747040604DB06444A20BF344B600FCC, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y4.uexp" offset: 1005584384, size: 11523104 bytes, sha1: B0ECF703A36DA774807168224FEA5FE0FD1A4F8A, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y4.uexp" offset: 1005584384, size: 11522364 bytes, sha1: 9E2D96E6D816E4908ED7D9D2F3688D96EFFF1826, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y4.ubulk" offset: 1017118720, size: 3913562 bytes, sha1: B2EEFB63F83ACCF64BA84089BBFC4C4BAA7BC7C5, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y4.umap" offset: 1021032483, size: 17201 bytes, sha1: CC238BADBE0ED8CE55D6CF982AA384E3E9079AA3, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y5.uexp" offset: 1021313024, size: 12471355 bytes, sha1: 8B461507C9BCF63D0DC73B8D0A77052C9F712C72, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y4.umap" offset: 1021032483, size: 17183 bytes, sha1: C967BCA18CBE5AD33D58E942F925D25AB1F4894B, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y5.uexp" offset: 1021313024, size: 12470903 bytes, sha1: 544BDD5E0ACE33006555806BA41B6BC6887BB7F4, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y5.ubulk" offset: 1033895936, size: 3626353 bytes, sha1: 276F89DAFA01CE8D7275C789871AA764905B3A64, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y5.umap" offset: 1037522506, size: 16891 bytes, sha1: 3CB9F8D88390089387E1AC5DDF7A4AFBED097AF6, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y6.uexp" offset: 1038090240, size: 13501550 bytes, sha1: 972F3F876637EF294C12372689DED16966532D0E, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y5.umap" offset: 1037522506, size: 16890 bytes, sha1: 4DFB3DD2928E804217E9B681CDF3E3A1FEED37D8, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y6.uexp" offset: 1038090240, size: 13506404 bytes, sha1: 70A015116048D0F64B8B7625A06D829EFA230A3C, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y6.ubulk" offset: 1051721728, size: 3234398 bytes, sha1: 07857AEB087150B16814F571F3C36A4AECA3C164, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y6.umap" offset: 1054956311, size: 15599 bytes, sha1: 9A5413691A9E8C155734DC1EA10904427F352E4F, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y6.umap" offset: 1054956311, size: 15604 bytes, sha1: 23F8852AA33706FE735ECBAB171D0D446F612570, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y7.uexp" offset: 1055916032, size: 5816864 bytes, sha1: ECF5930A402E39CE4A576CCFE7B1E05653BCE620, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y7.ubulk" offset: 1062207488, size: 3361588 bytes, sha1: BC0D760FCB2FAE53E90874DABC4C3B1723BBA245, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y7.umap" offset: 1065569245, size: 11180 bytes, sha1: DAC22CF967F7741E547D84B68DC0AA7A84340A58, compression: Oodle.
@@ -835,15 +835,15 @@ LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y0.umap" offset: 1
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y1.uexp" offset: 1073741824, size: 10389325 bytes, sha1: 6257728D91131097E24B76426111E96ED3D1655F, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y1.ubulk" offset: 1084227584, size: 3259950 bytes, sha1: C1298D767F0C4A62F6FDC687B6EBADE094796AAD, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y1.umap" offset: 1087487735, size: 14299 bytes, sha1: 650DD6A9391EA5C65B8B5D25BFB4C408E61E6CF7, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y2.uexp" offset: 1088421888, size: 15143185 bytes, sha1: 930882A50B5DF550610CD9710324D3FDBE247EFF, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y2.uexp" offset: 1088421888, size: 15144482 bytes, sha1: 73A253C1C1009B34D2FA2BEFEEFAF3B648B2E076, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y2.ubulk" offset: 1104150528, size: 2968471 bytes, sha1: 80D132D691B18DEF07434DC60762AE8F7E0B89A1, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y2.umap" offset: 1107119184, size: 13395 bytes, sha1: EAE4430A6C802C2349118EBDB37645CE23199103, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3.uexp" offset: 1107296256, size: 16004578 bytes, sha1: 071FB22DDBCF5B790703B9D9AEFABF95D60653BB, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y2.umap" offset: 1107119184, size: 13391 bytes, sha1: F0F62AFE14C02F5BACFE595DD2436E0FF77F4AEC, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3.uexp" offset: 1107296256, size: 15997164 bytes, sha1: 3F89B9B93E588DA647FBA13D9392A436A0A18A61, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3.ubulk" offset: 1124073472, size: 2774379 bytes, sha1: BAFE6D62F205BAFF824568F4D2524656C5E06997, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3.umap" offset: 1126848036, size: 16684 bytes, sha1: EEF44A5327CCF241325F16B5A4D199D58182D053, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y4.uexp" offset: 1127219200, size: 8245842 bytes, sha1: BBE8D61145D6536509EAD4FBF61F0F63C5AC91AD, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3.umap" offset: 1126848036, size: 16668 bytes, sha1: 2683AD530F4FC6F261BB4AFD2C95A24373B8C52F, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y4.uexp" offset: 1127219200, size: 8243379 bytes, sha1: 4E7070019580D54B514A9938F9CEC5D3FA9D9712, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y4.ubulk" offset: 1135607808, size: 3131775 bytes, sha1: FE2A737A247F0866D008010AAD28DCDEF8163502, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y4.umap" offset: 1138753536, size: 19057 bytes, sha1: 85AE1A185BD3452F52271D99EE7E40B1A0D8A608, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y4.umap" offset: 1138753536, size: 18914 bytes, sha1: D4666C6608A678CFF41B00DD4E9DD28CE526E751, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y5.uexp" offset: 1139802112, size: 11684879 bytes, sha1: E06103A03AC8B6AAD1E01A88A0FDB60D8B31C298, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y5.ubulk" offset: 1152385024, size: 2790181 bytes, sha1: E10D71F1389802A520059C77A2BD90C86A062A92, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y5.umap" offset: 1155175390, size: 15220 bytes, sha1: 1A759234B34B9E2761978F6C766453EAD83E9DE0, compression: Oodle.
@@ -853,17 +853,17 @@ LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y6.umap" offset: 1
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y7.uexp" offset: 1172307968, size: 13343241 bytes, sha1: 09F71D5F60F009D51789328ADEAFF00C85597CB0, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y7.ubulk" offset: 1185939456, size: 2834083 bytes, sha1: EC65F45BAA480A9BD336BAA23C7F2EBCD516377B, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y7.umap" offset: 1188773708, size: 11386 bytes, sha1: A54B640B73890AA78B0156C43D3FE6DBD2BFEE38, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y0.uexp" offset: 1189085184, size: 10226315 bytes, sha1: EB90707DC0CE9D57BC50D7090FD2BB8FD3D95446, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y0.uexp" offset: 1189085184, size: 10230202 bytes, sha1: 9631AD7905FF2B0779F4D4B59805E8B16ACE3211, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y0.ubulk" offset: 1199570944, size: 2958781 bytes, sha1: 26214882B36F3925307277A20E374E12B967902D, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y0.umap" offset: 1202529910, size: 17668 bytes, sha1: 2BF442C95AD8B6255EF33B40689DB1F05FADC311, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y1.uexp" offset: 1202716672, size: 28368273 bytes, sha1: 8D19CBB92FAE1DEEAF6B1790AA8618F3A144064A, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y0.umap" offset: 1202529910, size: 17656 bytes, sha1: 39424EBE484CF323D25E7897C95D3EF363129400, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y1.uexp" offset: 1202716672, size: 28367746 bytes, sha1: AC1425F96DE4115E9FAE1F21A638FB8237941225, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y1.ubulk" offset: 1232076800, size: 3811551 bytes, sha1: DAB1CB8F9C8C5C012A54822B88982DD115AE457C, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y1.umap" offset: 1235888584, size: 20764 bytes, sha1: 1F970E6A610A4F39156782FF25F93EDF48D4B4FB, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2.uexp" offset: 1236271104, size: 17533747 bytes, sha1: 657220C4F9B08DAC255FA5D1CEC0156FE1A35EA9, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y1.umap" offset: 1235888584, size: 20776 bytes, sha1: 8859FE49DA0DD927A37831121EFB106804A9E7C4, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2.uexp" offset: 1236271104, size: 17534630 bytes, sha1: 45DDDFF333AA0378CC3D85EA46CD2BCB1F5C085E, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2.ubulk" offset: 1254096896, size: 3787268 bytes, sha1: 985F86732B2D796A25602EADED50E6E441238E32, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2.umap" offset: 1257884381, size: 17206 bytes, sha1: C6C850752CFF670D3521BD55F3E2DAEFB67BD3AE, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y0LOD/T_LandscapeStreamingProxy_0_LOD1_N.uasset" offset: 1257901660, size: 1002 bytes, sha1: 51F10A284B72941D55217BF1EC42DF24D88C0782, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y0LOD/T_LandscapeStreamingProxy_0_LOD1_N.uexp" offset: 1257902715, size: 5761 bytes, sha1: F82648C410C0C88C2BF50F0363351D19784D6B3C, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2.umap" offset: 1257884381, size: 17203 bytes, sha1: 70E79FF1A85D209AAE851FA88E30FA9972DEF62E, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y0LOD/T_LandscapeStreamingProxy_0_LOD1_N.uasset" offset: 1257901657, size: 1002 bytes, sha1: 51F10A284B72941D55217BF1EC42DF24D88C0782, compression: None.
+LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y0LOD/T_LandscapeStreamingProxy_0_LOD1_N.uexp" offset: 1257902712, size: 5761 bytes, sha1: F82648C410C0C88C2BF50F0363351D19784D6B3C, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y0LOD/T_LandscapeStreamingProxy_0_LOD1_N.ubulk" offset: 1258291200, size: 5234020 bytes, sha1: 15CFA61CD1F42C45E5D02E477EA748A420296C6F, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y0LOD/T_LandscapeStreamingProxy_0_LOD1_D.uasset" offset: 1263525373, size: 790 bytes, sha1: BB043FBC15D474B84B402E2F314B1AD0FCB4FD26, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x0_y0LOD/T_LandscapeStreamingProxy_0_LOD1_D.uexp" offset: 1263526216, size: 1905 bytes, sha1: E6F3CAAE0FBD95155F20A8301E04D19D774156EC, compression: Oodle.
@@ -1090,5 +1090,5 @@ LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2LOD/SM_Landscape
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2LOD/SM_LandscapeStreamingProxy_0_LOD1.uexp" offset: 1413522370, size: 16055 bytes, sha1: F6293812E511C61EC9E5B10FDE3FA019B3CD8BAF, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2LOD/HeightMap_x2_y2_LOD1.uexp" offset: 1413538498, size: 393 bytes, sha1: 6025E1E098383A5424A72CA8F33EDC9B8F33FC44, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2LOD/HeightMap_x2_y2_LOD1.umap" offset: 1413538964, size: 1541 bytes, sha1: 5219C01CD27D40FD5ED279AEA87312EE70BAF1B9, compression: Oodle.
-LogPakFile: Display: 1076 files (1325788917 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.378148 seconds
+LogPakFile: Display: 1076 files (1325789186 bytes), (0 filtered bytes).
+LogPakFile: Display: Unreal pak executed in 0.437013 seconds

@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1165626617
 LogPakFile: Display:     IndexSize: 15894
-LogPakFile: Display:     IndexHash: B821833D0FC6EB6FF238EF95E0754088F755F8E4
+LogPakFile: Display:     IndexHash: 80AF0A33CAC1B2842E14A8E153DD594DBFDBE739
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.227975 seconds
+LogPakFile: Display: Unreal pak executed in 0.005103 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -128,22 +128,22 @@ LogPakFile: Display: "Outpost_005/Outpost_005_sharedassets/AC_Snow_LayerInfo.uas
 LogPakFile: Display: "Outpost_005/Outpost_005_sharedassets/AC_Snow_LayerInfo.uexp" offset: 65254, size: 143 bytes, sha1: 73079E1F5E218B3FF0998244BBAC9139C63BD45E, compression: None.
 LogPakFile: Display: "Outpost_002/Outpost_002.uexp" offset: 1048576, size: 20104235 bytes, sha1: 718ECD3557FB7017435675C5B90BCFDD50B31B42, compression: Oodle.
 LogPakFile: Display: "Outpost_002/Outpost_002.umap" offset: 21153428, size: 13363 bytes, sha1: A84983837E88BDA7709921478F386B6723C91123, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y0.uexp" offset: 22020096, size: 16841552 bytes, sha1: 7FF33201DF713E9349386E9F30618E4ADCFC2C57, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y0.uexp" offset: 22020096, size: 16841832 bytes, sha1: C0D94E033D403E2A777579AC383EEBB8E59E0D05, compression: Oodle.
 LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y0.ubulk" offset: 39845888, size: 4256928 bytes, sha1: 75F377315D401858A0A3D43C713BC4BC96DAA519, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y0.umap" offset: 44103001, size: 16195 bytes, sha1: 3475574862E522D7F58CEC3F9187FD841FBE9828, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y1.uexp" offset: 45088768, size: 25528150 bytes, sha1: 47FA0228F7E0D6138324D3BE45C156910846EE89, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y0.umap" offset: 44103001, size: 16185 bytes, sha1: F20812FA219B22D30160F1B36F009AF611C4C5AA, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y1.uexp" offset: 45088768, size: 25520257 bytes, sha1: 6138686C838B2BA5B936565FDCD7040CC0A3A691, compression: Oodle.
 LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y1.ubulk" offset: 71303168, size: 4170737 bytes, sha1: 2E6DFF3B4572680D283DA65248075CE6179A827D, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y1.umap" offset: 75474106, size: 16542 bytes, sha1: 4EB60E2E154198B14E51BF898AA264C19816A2BF, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y0.uexp" offset: 75497472, size: 11387615 bytes, sha1: 190D82A0CCB98EA8A978AE99C4971DD35C9FA3C2, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x0_y1.umap" offset: 75474106, size: 16536 bytes, sha1: 6B26682D967C82C18A961ACBB08527CE0B368CFB, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y0.uexp" offset: 75497472, size: 11394132 bytes, sha1: D4CB7717F077571EBC8A9F22916569626C603AF3, compression: Oodle.
 LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y0.ubulk" offset: 87031808, size: 4369875 bytes, sha1: 99DDC8C68AE8EAE601BAAF9AD565D230C468C915, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y0.umap" offset: 91401868, size: 15384 bytes, sha1: 7F8205CDC04B7B99A2B2CB805FA8C4187255E20C, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y1.uexp" offset: 92274688, size: 15674365 bytes, sha1: 752C3316C82348C13816CCE4F269359990FBACB5, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y0.umap" offset: 91401868, size: 15393 bytes, sha1: 6A63F5A75D2BFD362AC2DD5BD2C5B954DE2F5A7A, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y1.uexp" offset: 92274688, size: 15672679 bytes, sha1: 9CE86DFF89C9732C6D4C8CB664AB662A4B5C6BFE, compression: Oodle.
 LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y1.ubulk" offset: 108003328, size: 4236203 bytes, sha1: 93430B8CD136EFB51F622080DA0985BE3AE9EBAC, compression: Oodle.
-LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y1.umap" offset: 112239716, size: 16017 bytes, sha1: BC492C0EB6A62ECB7805241A8A4F17EFE1055CBF, compression: Oodle.
-LogPakFile: Display: "Outpost_002/Sublevels/Developer/OP002_Developer_Main.uexp" offset: 113246208, size: 2029372 bytes, sha1: 3BFB362F24E8D3932FED0BD066F958F38780D664, compression: Oodle.
-LogPakFile: Display: "Outpost_002/Sublevels/Developer/OP002_Developer_Main.umap" offset: 115275749, size: 40023 bytes, sha1: BC67A97DE15E5A8D613B9598A4ED0C7A358B911F, compression: Oodle.
-LogPakFile: Display: "Outpost_002/Sublevels/Generated/OP002_Generated_Vista.uexp" offset: 115315845, size: 1441 bytes, sha1: F7C811D3F1B696FFF06D4D7C1CB3FB26B1CA78CC, compression: Oodle.
-LogPakFile: Display: "Outpost_002/Sublevels/Generated/OP002_Generated_Vista.umap" offset: 115317359, size: 3065 bytes, sha1: 866D566C62A2C77B12B293288B4D288DA4C11D06, compression: Oodle.
+LogPakFile: Display: "Outpost_002/heightmap/heightmap_x1_y1.umap" offset: 112239716, size: 16024 bytes, sha1: 58834CA6E58FE5A6BB2F329C68AAB27C48E967F8, compression: Oodle.
+LogPakFile: Display: "Outpost_002/Sublevels/Developer/OP002_Developer_Main.uexp" offset: 113246208, size: 2031293 bytes, sha1: E4E4F29CF1F5DAAB48549C9EBB327E2C264A4F94, compression: Oodle.
+LogPakFile: Display: "Outpost_002/Sublevels/Developer/OP002_Developer_Main.umap" offset: 115277670, size: 40063 bytes, sha1: D09E10A2F62F76CE61188F123CDFBB636ADFDF29, compression: Oodle.
+LogPakFile: Display: "Outpost_002/Sublevels/Generated/OP002_Generated_Vista.uexp" offset: 115317806, size: 1441 bytes, sha1: F7C811D3F1B696FFF06D4D7C1CB3FB26B1CA78CC, compression: Oodle.
+LogPakFile: Display: "Outpost_002/Sublevels/Generated/OP002_Generated_Vista.umap" offset: 115319320, size: 3065 bytes, sha1: 866D566C62A2C77B12B293288B4D288DA4C11D06, compression: Oodle.
 LogPakFile: Display: "Outpost_002/Sublevels/Generated/OP002_Generated_x0_y0.uexp" offset: 115343360, size: 138162 bytes, sha1: F4B433C2CBAD52946F977E100E8D4E166B94AD43, compression: Oodle.
 LogPakFile: Display: "Outpost_002/Sublevels/Generated/OP002_Generated_x0_y0.umap" offset: 115481627, size: 41938 bytes, sha1: E91A3C15D246DEA4D1E68767731927DA2BB7F29B, compression: Oodle.
 LogPakFile: Display: "Outpost_002/Sublevels/Generated/OP002_Generated_x0_y1.uexp" offset: 115523638, size: 407121 bytes, sha1: 3C3151726924C9B6CA5BC5A2F86FF0B876FA38B7, compression: Oodle.
@@ -160,16 +160,16 @@ LogPakFile: Display: "Outpost_003/heightmap/heightmap_x0_y0.umap" offset: 140098
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x0_y1.uexp" offset: 140509184, size: 7248903 bytes, sha1: 71E168EA7A4CF313478829F4A0ABA3287C1200EB, compression: Oodle.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x0_y1.ubulk" offset: 147849216, size: 3842771 bytes, sha1: EA73E75B7768A8630FF30A66859E8A82875C245D, compression: Oodle.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x0_y1.umap" offset: 151692156, size: 10919 bytes, sha1: B1A0E2D9BFA4B68AD619529FD3C2657216866BCF, compression: Oodle.
-LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y0.uexp" offset: 152043520, size: 7644558 bytes, sha1: E08B367E9B5DC9781B1078E190FD876EC8C97FE2, compression: Oodle.
+LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y0.uexp" offset: 152043520, size: 7643161 bytes, sha1: 444B4DEB880DD0841B3A39D92F4AF9A65E6C9A03, compression: Oodle.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y0.ubulk" offset: 160432128, size: 3749772 bytes, sha1: A0C6F2D4BAEB33024A1B2B513CE45797EFF04F7B, compression: Oodle.
-LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y0.umap" offset: 164182069, size: 14346 bytes, sha1: E92D85F80EEB2CBD1C7089A4E057DF567B9B3255, compression: Oodle.
+LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y0.umap" offset: 164182069, size: 14355 bytes, sha1: C83A6619A57A731B15D2E18E7E3185A12275A6BE, compression: Oodle.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y1.uexp" offset: 164626432, size: 7499515 bytes, sha1: 4336691A14ACADAD070809911287A6209C2219ED, compression: Oodle.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y1.ubulk" offset: 173015040, size: 3844930 bytes, sha1: 5448C98D682938E5A961DA3F696CB5351F2E2A34, compression: Oodle.
 LogPakFile: Display: "Outpost_003/heightmap/heightmap_x1_y1.umap" offset: 176860139, size: 11498 bytes, sha1: 072111DE8018E6117CC1D550C48AE4D42CB99ABB, compression: Oodle.
-LogPakFile: Display: "Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 177209344, size: 461977 bytes, sha1: 010A67F95DB76015E01577B474CC7F1A1E18DAB9, compression: Oodle.
-LogPakFile: Display: "Outpost_003/Sublevels/Developer/OP003_Developer_Main.umap" offset: 177671410, size: 17653 bytes, sha1: ECC49D975383B53B173735167E103F0FBC6D2409, compression: Oodle.
-LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_Vista.uexp" offset: 177689136, size: 1821 bytes, sha1: 8D73EC7E9BF77DCC50517151E07DFBFE377C943D, compression: Oodle.
-LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_Vista.umap" offset: 177691030, size: 3585 bytes, sha1: 3654C850F1E299256D4136491EAC3C4376FA6B4A, compression: Oodle.
+LogPakFile: Display: "Outpost_003/Sublevels/Developer/OP003_Developer_Main.uexp" offset: 177209344, size: 462438 bytes, sha1: FFC41060B2D5FB894EEE8BF7F83B3776FF131271, compression: Oodle.
+LogPakFile: Display: "Outpost_003/Sublevels/Developer/OP003_Developer_Main.umap" offset: 177671871, size: 17620 bytes, sha1: 2214A89A35EA7E2668029243B8290B40952F681D, compression: Oodle.
+LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_Vista.uexp" offset: 177689564, size: 1821 bytes, sha1: 8D73EC7E9BF77DCC50517151E07DFBFE377C943D, compression: Oodle.
+LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_Vista.umap" offset: 177691458, size: 3585 bytes, sha1: 3654C850F1E299256D4136491EAC3C4376FA6B4A, compression: Oodle.
 LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_x0_y0.uexp" offset: 178257920, size: 5349288 bytes, sha1: 51D2CA3BC6D3619DA1D52084E67C2F82BC216509, compression: Oodle.
 LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_x0_y0.umap" offset: 183607441, size: 28632 bytes, sha1: DFA1C7AF3D6D574BB995E14928837888A94111B2, compression: Oodle.
 LogPakFile: Display: "Outpost_003/Sublevels/Generated/OP003_Generated_x0_y1.uexp" offset: 184549376, size: 13705345 bytes, sha1: 5C1B48CEBACC46380BAE43F3828AC5B8BD92E2AE, compression: Oodle.
@@ -206,23 +206,23 @@ LogPakFile: Display: "Outpost_004/Sublevels/Generated/OP004_Generated_x1_y1.uexp
 LogPakFile: Display: "Outpost_004/Sublevels/Generated/OP004_Generated_x1_y1.umap" offset: 534918636, size: 65722 bytes, sha1: D5A6EF4CEDD34DBDE7E608F72297459714C76724, compression: Oodle.
 LogPakFile: Display: "Outpost_005/Outpost_005.uexp" offset: 535822336, size: 11589953 bytes, sha1: 53947D521A50153AEF34E13E44B82D0F4C80D886, compression: Oodle.
 LogPakFile: Display: "Outpost_005/Outpost_005.umap" offset: 547412698, size: 10964 bytes, sha1: 5BF70D54DEC6AC9681B19B5FBE3AD90822012A8A, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y0.uexp" offset: 548405248, size: 12692292 bytes, sha1: 019729E9E08D0418B5370EE6189D7DC8C5B03D12, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y0.uexp" offset: 548405248, size: 12700396 bytes, sha1: 6718AFFC682D77B53B05000FDEC60C85E6E59F88, compression: Oodle.
 LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y0.ubulk" offset: 562036736, size: 4131376 bytes, sha1: 4C203377D19BFB95DD77A2C804102C9B68DBB276, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y0.umap" offset: 566168297, size: 15686 bytes, sha1: 2B46CD2921A4E0F698047EF07BF3E6C91AC6BD21, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y1.uexp" offset: 566231040, size: 12189834 bytes, sha1: 9355DB19061C85523246BC72ED9A8C9448D23A13, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y0.umap" offset: 566168297, size: 15687 bytes, sha1: 727BD3C91D5A88B9BD4D4E294B38F034A322BC45, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y1.uexp" offset: 566231040, size: 12191786 bytes, sha1: 44D84639967AA63BF719C41785F31640ED08E628, compression: Oodle.
 LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y1.ubulk" offset: 578813952, size: 4183145 bytes, sha1: D87F0D65E4C29386EAC6A2AE49C0BDCDA6398F23, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y1.umap" offset: 583008256, size: 15917 bytes, sha1: B96863A4601455D29B558A849DD331313ED6DBFB, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y0.uexp" offset: 584056832, size: 13325395 bytes, sha1: 693EE95C727DCAD140517F3743C9D6402F90DBA5, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x0_y1.umap" offset: 583008256, size: 15913 bytes, sha1: 81D16FA38BFB4BC04CBD57DDA63349B071BA1710, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y0.uexp" offset: 584056832, size: 13323027 bytes, sha1: 08AF7C5143FCEC5E3BF3B76700A4381A2E287CA0, compression: Oodle.
 LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y0.ubulk" offset: 597688320, size: 4085440 bytes, sha1: D8A837FB9F6F6648B3482FF919A25F0A1F835F84, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y0.umap" offset: 601773945, size: 16004 bytes, sha1: 42174697AB062072D5614D94828F69075C735DB6, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.uexp" offset: 601882624, size: 11374202 bytes, sha1: DCDF7023A013AF0C1F247CBDE022B9B50F044848, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y0.umap" offset: 601773945, size: 15995 bytes, sha1: B39C96E73898CA7ED8BC4449A4BB2D49F505A3AE, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.uexp" offset: 601882624, size: 11374804 bytes, sha1: 558B12CA2FD8CAE46908B544F23FD2DA51FD1A81, compression: Oodle.
 LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.ubulk" offset: 613416960, size: 4229181 bytes, sha1: 5D9A488F2B1D7DA5BD1423225F8CAA0C55CC65B6, compression: Oodle.
-LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.umap" offset: 617646326, size: 16161 bytes, sha1: F63BF4330080536E8B3338E3E5285612F346331B, compression: Oodle.
-LogPakFile: Display: "Outpost_005/Sublevels/Developer/OP005_Developer_Main.uexp" offset: 617662560, size: 493140 bytes, sha1: 116E1A7C89E59A0208DB64B35194EBB17EBA5C22, compression: Oodle.
-LogPakFile: Display: "Outpost_005/Sublevels/Developer/OP005_Developer_Main.umap" offset: 618155805, size: 41621 bytes, sha1: 310302BD128A56FD90CD2F74AA28C3FD0D4720B1, compression: Oodle.
-LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_Vista.uexp" offset: 618197499, size: 1077 bytes, sha1: BACCA2CFFE274F2F6E87A907F67B919DD0F8E848, compression: Oodle.
-LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_Vista.umap" offset: 618198649, size: 2941 bytes, sha1: D387CFE60F7EF43301257360D35DC3B3F76940CB, compression: Oodle.
-LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_x0_y0.uexp" offset: 618201663, size: 432450 bytes, sha1: 67771C51DB5CEE19A6DF92C7584C2892BAAA938C, compression: Oodle.
+LogPakFile: Display: "Outpost_005/heightmap/heightmap_x1_y1.umap" offset: 617646326, size: 16165 bytes, sha1: F7621EB3217F79CFCF5D4AECCA1A36DBE2550B54, compression: Oodle.
+LogPakFile: Display: "Outpost_005/Sublevels/Developer/OP005_Developer_Main.uexp" offset: 617662564, size: 493140 bytes, sha1: 116E1A7C89E59A0208DB64B35194EBB17EBA5C22, compression: Oodle.
+LogPakFile: Display: "Outpost_005/Sublevels/Developer/OP005_Developer_Main.umap" offset: 618155809, size: 41621 bytes, sha1: 310302BD128A56FD90CD2F74AA28C3FD0D4720B1, compression: Oodle.
+LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_Vista.uexp" offset: 618197503, size: 1077 bytes, sha1: BACCA2CFFE274F2F6E87A907F67B919DD0F8E848, compression: Oodle.
+LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_Vista.umap" offset: 618198653, size: 2941 bytes, sha1: D387CFE60F7EF43301257360D35DC3B3F76940CB, compression: Oodle.
+LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_x0_y0.uexp" offset: 618201667, size: 432450 bytes, sha1: 67771C51DB5CEE19A6DF92C7584C2892BAAA938C, compression: Oodle.
 LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_x0_y0.umap" offset: 618659840, size: 48358 bytes, sha1: B8A904C896534E8449E997BB549D2D8CF220038A, compression: Oodle.
 LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_x0_y1.uexp" offset: 618708271, size: 109693 bytes, sha1: 8E6946D328E341C22E74494FC040F305B0ED8828, compression: Oodle.
 LogPakFile: Display: "Outpost_005/Sublevels/Generated/OP005_Generated_x0_y1.umap" offset: 618818037, size: 30921 bytes, sha1: B80FC70EDF95E9AD77008912DD64644ADC78E322, compression: Oodle.
@@ -264,22 +264,22 @@ LogPakFile: Display: "Outpost_006/Outpost_006_sharedassets/AC_Snow_LayerInfo.uas
 LogPakFile: Display: "Outpost_006/Outpost_006_sharedassets/AC_Snow_LayerInfo.uexp" offset: 619308830, size: 143 bytes, sha1: 0245739D439B5B36213D145A175D7D33032F4720, compression: None.
 LogPakFile: Display: "Outpost_006/Outpost_006.uexp" offset: 619708416, size: 36743694 bytes, sha1: DCC4A2935F12C376A85F59BA60995DCE5EBEBE05, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Outpost_006.umap" offset: 656453175, size: 10575 bytes, sha1: 89901933DBCD7B75969A97BB6190F4F672033077, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y0.uexp" offset: 657457152, size: 23368185 bytes, sha1: 86CD361D55AF72D8F83DAC8553817837B5DFF4DA, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y0.uexp" offset: 657457152, size: 23380962 bytes, sha1: 1534DA8C1FCCC53B96713DE37DC8F09D85BD0CFF, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y0.ubulk" offset: 681574400, size: 2980556 bytes, sha1: 15F5D7931F6CD1B24228105B3C94D1BDA1F1CBA3, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y0.umap" offset: 684555157, size: 16907 bytes, sha1: 0A7E840F714425A5B6D5DE50913CECBEDB53EC99, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y1.uexp" offset: 684720128, size: 10431962 bytes, sha1: 475748F0B7978A6078CD5C009BABEEB5C45CE134, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y0.umap" offset: 684555157, size: 16909 bytes, sha1: 650D0FD1D50FA629CF2130B14105392A688B71AA, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y1.uexp" offset: 684720128, size: 10429504 bytes, sha1: FF57E0803AEE3AB6225B11153589077BE243C69F, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y1.ubulk" offset: 695205888, size: 3083682 bytes, sha1: 593234BAC4B16B62901FC82B9FAC2BE40B615DA8, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y1.umap" offset: 698289755, size: 16220 bytes, sha1: A8E52E4B2F41C96C2F9BAA3530523B489592FD2F, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y0.uexp" offset: 698351616, size: 14352465 bytes, sha1: 14E919387FEFAA44DBE9E6D8C70DA01393C8B68D, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x0_y1.umap" offset: 698289755, size: 16220 bytes, sha1: 8EFE41FFB6B6799315832F1A57D720FA627F6AFB, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y0.uexp" offset: 698351616, size: 14346724 bytes, sha1: 66E882CEE50B6567720298DAA895488E11EAA8C8, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y0.ubulk" offset: 713031680, size: 3233682 bytes, sha1: 23A05D1BED47DF8C9611B82B818A7C712551585E, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y0.umap" offset: 716265563, size: 16163 bytes, sha1: B6483096AF35CCFF5FCCE79DFD272A8EC963C8BD, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y1.uexp" offset: 717225984, size: 9735064 bytes, sha1: EA51D48A255380976B68F935047AD4CB00B5B0D0, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y0.umap" offset: 716265563, size: 16166 bytes, sha1: 6E21584913A24CB0AFF97DE7A8C87AA51991DFBD, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y1.uexp" offset: 717225984, size: 9743495 bytes, sha1: 8E9982595B56D86F913E3DA16985990C5D1C934D, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y1.ubulk" offset: 727711744, size: 2996060 bytes, sha1: D85E8CD079B4322E6C82E5BADD0722FC48B7D8AB, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y1.umap" offset: 730707989, size: 15406 bytes, sha1: 14823A79F36F1D22A6DF7142D6DAD7006A52BEC5, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Sublevels/Developer/OP006_Developer_Main.uexp" offset: 730857472, size: 1868663 bytes, sha1: 58C4160420C1423F8D6C2ED6AED9A804BEC7791B, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Sublevels/Developer/OP006_Developer_Main.umap" offset: 732726288, size: 58469 bytes, sha1: 21922C06B2172B7971E9CF4B0BEFDFD3B791CB43, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_Vista.uexp" offset: 732784846, size: 1457 bytes, sha1: 78CE25DD1B114012DC28E46CC1C36E2AAE1A72A4, compression: Oodle.
-LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_Vista.umap" offset: 732786376, size: 3060 bytes, sha1: 36912D4CE4FCA328F3D6D9F455A94A6979702915, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Outpost006_HeightMap/Outpost006_HeightMap_x1_y1.umap" offset: 730707989, size: 15394 bytes, sha1: 1C2FA34BD982E8D399C4A686E51276C98B0CD821, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Sublevels/Developer/OP006_Developer_Main.uexp" offset: 730857472, size: 1871317 bytes, sha1: F5B403C7CCE78677A72DD6F36CAC45379B4A9305, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Sublevels/Developer/OP006_Developer_Main.umap" offset: 732728942, size: 58316 bytes, sha1: 49B0384F190D4CE97C21C4087371B19A8A6243AD, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_Vista.uexp" offset: 732787347, size: 1457 bytes, sha1: 78CE25DD1B114012DC28E46CC1C36E2AAE1A72A4, compression: Oodle.
+LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_Vista.umap" offset: 732788877, size: 3060 bytes, sha1: 36912D4CE4FCA328F3D6D9F455A94A6979702915, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_x0_y0.uexp" offset: 732954624, size: 1527745 bytes, sha1: B4B52767D524845D28C42BBF3611DF1B8462FF03, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_x0_y0.umap" offset: 734482570, size: 97138 bytes, sha1: 5385ECDAA15D5877097AA0F0C95B95B334EA346C, compression: Oodle.
 LogPakFile: Display: "Outpost_006/Sublevels/Generated/OP006_Generated_x0_y1.uexp" offset: 734579813, size: 264148 bytes, sha1: E833E6F33265C5689E6C5DCA21CF897D9D23C6DC, compression: Oodle.
@@ -358,5 +358,5 @@ LogPakFile: Display: "Outpost_008/Outpost008_Heightmap/Outpost008_Heightmap_x1_y
 LogPakFile: Display: "Outpost_008/Outpost008_Heightmap/Outpost008_Heightmap_x1_y1.uexp" offset: 1143996416, size: 17957754 bytes, sha1: 53B582678066885DC32868FF4C7BA83330136C28, compression: Oodle.
 LogPakFile: Display: "Outpost_008/Outpost008_Heightmap/Outpost008_Heightmap_x1_y1.ubulk" offset: 1162870784, size: 2744090 bytes, sha1: 132402EA6BE99AABF6C915E8A53D7369BC2AE6A6, compression: Oodle.
 LogPakFile: Display: "Outpost_008/Outpost008_Heightmap/Outpost008_Heightmap_x1_y1.umap" offset: 1165615043, size: 11501 bytes, sha1: E41ED5A19D7029869F8911C63C3E29F7FD8086F6, compression: Oodle.
-LogPakFile: Display: 344 files (1122148341 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.112443 seconds
+LogPakFile: Display: 344 files (1122170345 bytes), (0 filtered bytes).
+LogPakFile: Display: Unreal pak executed in 0.138764 seconds
