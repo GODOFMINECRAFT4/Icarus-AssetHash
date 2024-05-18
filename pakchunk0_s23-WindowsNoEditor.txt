@@ -10,7 +10,7 @@ LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.005307 seconds
+LogPakFile: Display: Unreal pak executed in 0.214837 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_017_STYX/
@@ -692,4 +692,4 @@ LogPakFile: Display: "HeightMap/HeightMap_x7_y7LOD/HeightMap_x7_y7_LOD1.umap" of
 LogPakFile: Display: "Sublevels/Developer/T017_Developer_Blue.uexp" offset: 1070596096, size: 6726104 bytes, sha1: CCD48E1943D7D7F9AA75439C2F9D8F2166399508, compression: Oodle.
 LogPakFile: Display: "Sublevels/Developer/T017_Developer_Blue.umap" offset: 1077322593, size: 189762 bytes, sha1: AF13A3B680C0DEBA0442CC8451CACACFCED1A1CB, compression: Oodle.
 LogPakFile: Display: 677 files (978969752 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.272980 seconds
+LogPakFile: Display: Unreal pak executed in 0.269548 seconds
