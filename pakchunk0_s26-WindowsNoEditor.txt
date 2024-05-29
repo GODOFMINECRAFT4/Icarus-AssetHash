@@ -10,7 +10,7 @@ LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.217801 seconds
+LogPakFile: Display: Unreal pak executed in 0.007644 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_019_DLC/
@@ -1888,4 +1888,4 @@ LogPakFile: Display: "Sublevels/Generated/T019_Generated_x7_y7LOD/SM_PROXY_T019_
 LogPakFile: Display: "Sublevels/Generated/T019_Generated_x7_y7LOD/T019_Generated_x7_y7_LOD2.uexp" offset: 1163909788, size: 918 bytes, sha1: FBEC8F47E555A5B3E9ECF0E5A0FAACA14781F730, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T019_Generated_x7_y7LOD/T019_Generated_x7_y7_LOD2.umap" offset: 1163910759, size: 1414 bytes, sha1: FDB30CA47B9B109D6F43F6BF86E71298D689167A, compression: Oodle.
 LogPakFile: Display: 1873 files (987000181 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.682876 seconds
+LogPakFile: Display: Unreal pak executed in 0.909228 seconds
