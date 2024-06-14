@@ -10,7 +10,7 @@ LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.224030 seconds
+LogPakFile: Display: Unreal pak executed in 0.005160 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/
@@ -2541,4 +2541,4 @@ LogPakFile: Display: "DPS/T_DPS_SML_DropShip_02_INT_Padding_RMA.uasset" offset: 
 LogPakFile: Display: "DPS/T_DPS_SML_DropShip_02_INT_Padding_RMA.ubulk" offset: 1537212416, size: 413219 bytes, sha1: A65C365FF99FBCB15E10607C00A359B46DCE47B7, compression: Oodle.
 LogPakFile: Display: "DPS/T_DPS_SML_DropShip_02_INT_Padding_RMA.uexp" offset: 1537625708, size: 2793 bytes, sha1: 983630B380B8045F3C20AE48663C0280BCB4EF5E, compression: Oodle.
 LogPakFile: Display: 2526 files (1352255060 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.037556 seconds
+LogPakFile: Display: Unreal pak executed in 0.979985 seconds

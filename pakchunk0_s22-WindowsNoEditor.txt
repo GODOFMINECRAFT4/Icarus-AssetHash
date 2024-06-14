@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1413540578
 LogPakFile: Display:     IndexSize: 30446
-LogPakFile: Display:     IndexHash: 702D8F7D8E05D5981DF2D7AFDA83F49D7E8E7D85
+LogPakFile: Display:     IndexHash: B253ADABABE5C5C22C39895D2C8D08ADE9BDBD62
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.213758 seconds
+LogPakFile: Display: Unreal pak executed in 0.015160 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -581,20 +581,20 @@ LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LO
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/SM_PROXY_T016_Generated_x6_y6_LOD1.uexp" offset: 850396646, size: 801200 bytes, sha1: 7E574FD5B587EA039802FFBBC42F6C3B27DEAB29, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T016_Generated_x6_y6_LOD1.uexp" offset: 851197935, size: 918 bytes, sha1: E5476B0C96A0A2D7E76B777AF72EF63A90C178B2, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T016_Generated_x6_y6_LOD1.umap" offset: 851198906, size: 1415 bytes, sha1: BEBEB1C835038CB6E68E2BFBCCC1523AAFA6D329, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Diffuse.uasset" offset: 851200394, size: 914 bytes, sha1: F4406D67449C69458F55297B2F76A842C29FB079, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Diffuse.uexp" offset: 851201361, size: 2778 bytes, sha1: EF5CDB5B2FE31C5BB22E719C5C076B68930AE73A, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Diffuse.ubulk" offset: 851443712, size: 426464 bytes, sha1: 78203FFA68B88F98AD0108ED436D8B7C6EED00D7, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Normal.uasset" offset: 851870249, size: 668 bytes, sha1: 1EE893FD9F8C7DA4266A23A1E6CA7DB36F34BE74, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Normal.uexp" offset: 851870990, size: 5745 bytes, sha1: CB46439FE4A07D767707BE4BB1EE12A5011A69A0, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Normal.ubulk" offset: 852492288, size: 1297306 bytes, sha1: 0691F4E67103A2BCF58CD580FB52AA4ED5B2B6A1, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/M_PROXY_T016_Generated_x6_y6_LOD2.uasset" offset: 853789683, size: 1483 bytes, sha1: 81221CF6A1015612B094584F09587CE520E313C2, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/M_PROXY_T016_Generated_x6_y6_LOD2.uexp" offset: 853791239, size: 75544 bytes, sha1: 04D26F79E45446D89169DC7D804D1B3705584B0C, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/SM_PROXY_T016_Generated_x6_y6_LOD2.uasset" offset: 853866856, size: 1433 bytes, sha1: 467FFC0D0A5D2B33EF99AAED7DC2AEF776899F7C, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/SM_PROXY_T016_Generated_x6_y6_LOD2.uexp" offset: 853868362, size: 384198 bytes, sha1: 0FC2BF833EBD825342DCD17B834180211606FF9B, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T016_Generated_x6_y6_LOD2.uexp" offset: 854252633, size: 918 bytes, sha1: CB80A0423590C6FF2D4A069443E34C78A110B0F3, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T016_Generated_x6_y6_LOD2.umap" offset: 854253604, size: 1415 bytes, sha1: EC7E28B19358725A4E83CF13D2DB9DADE86EC64C, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y7LOD/T_PROXY_T016_Generated_x6_y7_LOD1_Normal.uasset" offset: 854255092, size: 668 bytes, sha1: 0370054E1ED36A16A1B59E52CBD947970806665D, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y7LOD/T_PROXY_T016_Generated_x6_y7_LOD1_Normal.uexp" offset: 854255833, size: 5762 bytes, sha1: 719182AD8BC667E8836F76DAAB376F0DFCB71179, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Normal.uasset" offset: 851200394, size: 668 bytes, sha1: 1EE893FD9F8C7DA4266A23A1E6CA7DB36F34BE74, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Normal.uexp" offset: 851201135, size: 5745 bytes, sha1: CB46439FE4A07D767707BE4BB1EE12A5011A69A0, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Normal.ubulk" offset: 851443712, size: 1297306 bytes, sha1: 0691F4E67103A2BCF58CD580FB52AA4ED5B2B6A1, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Diffuse.uasset" offset: 852741107, size: 914 bytes, sha1: F4406D67449C69458F55297B2F76A842C29FB079, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Diffuse.uexp" offset: 852742074, size: 2778 bytes, sha1: EF5CDB5B2FE31C5BB22E719C5C076B68930AE73A, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T_PROXY_T016_Generated_x6_y6_LOD2_Diffuse.ubulk" offset: 852744925, size: 426464 bytes, sha1: 78203FFA68B88F98AD0108ED436D8B7C6EED00D7, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/M_PROXY_T016_Generated_x6_y6_LOD2.uasset" offset: 853171462, size: 1483 bytes, sha1: 81221CF6A1015612B094584F09587CE520E313C2, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/M_PROXY_T016_Generated_x6_y6_LOD2.uexp" offset: 853173018, size: 75544 bytes, sha1: 04D26F79E45446D89169DC7D804D1B3705584B0C, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/SM_PROXY_T016_Generated_x6_y6_LOD2.uasset" offset: 853540864, size: 1433 bytes, sha1: 467FFC0D0A5D2B33EF99AAED7DC2AEF776899F7C, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/SM_PROXY_T016_Generated_x6_y6_LOD2.uexp" offset: 853542370, size: 384198 bytes, sha1: 0FC2BF833EBD825342DCD17B834180211606FF9B, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T016_Generated_x6_y6_LOD2.uexp" offset: 853926641, size: 918 bytes, sha1: CB80A0423590C6FF2D4A069443E34C78A110B0F3, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y6LOD/T016_Generated_x6_y6_LOD2.umap" offset: 853927612, size: 1415 bytes, sha1: EC7E28B19358725A4E83CF13D2DB9DADE86EC64C, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y7LOD/T_PROXY_T016_Generated_x6_y7_LOD1_Normal.uasset" offset: 853929100, size: 668 bytes, sha1: 0370054E1ED36A16A1B59E52CBD947970806665D, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y7LOD/T_PROXY_T016_Generated_x6_y7_LOD1_Normal.uexp" offset: 853929841, size: 5762 bytes, sha1: 719182AD8BC667E8836F76DAAB376F0DFCB71179, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y7LOD/T_PROXY_T016_Generated_x6_y7_LOD1_Normal.ubulk" offset: 854589440, size: 5172539 bytes, sha1: C4CC3577FDB665A515403D5C62E387A9415C1514, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y7LOD/T_PROXY_T016_Generated_x6_y7_LOD1_Diffuse.uasset" offset: 859762132, size: 914 bytes, sha1: DE9082097C7C58097507FC05D840C59DE3501268, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Sublevels/Generated/T016_Generated_x6_y7LOD/T_PROXY_T016_Generated_x6_y7_LOD1_Diffuse.uexp" offset: 859763099, size: 2601 bytes, sha1: B4E01E49EF9EA74494D0B807B14EC70C517CFD5B, compression: Oodle.
@@ -1091,4 +1091,4 @@ LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2LOD/SM_Landscape
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2LOD/HeightMap_x2_y2_LOD1.uexp" offset: 1413538498, size: 393 bytes, sha1: 6025E1E098383A5424A72CA8F33EDC9B8F33FC44, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x2_y2LOD/HeightMap_x2_y2_LOD1.umap" offset: 1413538964, size: 1541 bytes, sha1: 5219C01CD27D40FD5ED279AEA87312EE70BAF1B9, compression: Oodle.
 LogPakFile: Display: 1076 files (1325794813 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.417702 seconds
+LogPakFile: Display: Unreal pak executed in 0.381417 seconds

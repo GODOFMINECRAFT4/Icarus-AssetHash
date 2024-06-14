@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1469579878
 LogPakFile: Display:     IndexSize: 75853
-LogPakFile: Display:     IndexHash: D35CD530E5B4A205F2CD1CCD8D4F870B193E490C
+LogPakFile: Display:     IndexHash: E11C457DE8DD1CAB6D05BAB1E9C4A806C77F12A0
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.215894 seconds
+LogPakFile: Display: Unreal pak executed in 0.004647 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/DEP/
@@ -355,46 +355,46 @@ LogPakFile: Display: "M_DEP_DeepMiningDrill_Electric_On.uasset" offset: 14365491
 LogPakFile: Display: "M_DEP_DeepMiningDrill_Electric_On.uexp" offset: 143657383, size: 380636 bytes, sha1: D0249F44BA6D7E7B7D9738CBF214CF88E66FE64B, compression: Oodle.
 LogPakFile: Display: "SM_DEP_DeepMiningDrill_Electric.uasset" offset: 144703488, size: 1654 bytes, sha1: AC06017D560FF3CA7D8375A076967D94E44B1151, compression: Oodle.
 LogPakFile: Display: "SM_DEP_DeepMiningDrill_Electric.uexp" offset: 144705215, size: 3018030 bytes, sha1: 4D5AB0407200A150C6B5EBC90A9749616E6AE345, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_Unfold.uasset" offset: 147723414, size: 745 bytes, sha1: 63768BA1D13959D485EAF2152407F545897B5F53, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_Unfold.uexp" offset: 147724232, size: 8698 bytes, sha1: 1B7C54B3FF1C647C5DB331302514D140CA37D3AF, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_Drill_Loop_Struggling.uasset" offset: 147733003, size: 760 bytes, sha1: 099508F89092DE17D3D56DF82AA864F939A662A7, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_Drill_Loop_Struggling.uexp" offset: 147733836, size: 23723 bytes, sha1: 9548A4FB733C540887980F1A63F243E3CEBB9B62, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Disruption_Base_Skeleton.uasset" offset: 147757632, size: 1011 bytes, sha1: 4B09568C8B8D3693AE9B62D6FB0BB3C7EF5A99A6, compression: None.
-LogPakFile: Display: "SK_DEP_Disruption_Base_Skeleton.uexp" offset: 147758696, size: 312 bytes, sha1: C8DAB356CC4FE3383BA73AB0699045F4DDF4A7FB, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Disruption_Base_AnimBP_Copypose.uasset" offset: 147759081, size: 1278 bytes, sha1: 7291EEB52F743AC5D0D6FEDD97791506B51D655F, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Disruption_Base_AnimBP_Copypose.uexp" offset: 147760432, size: 380 bytes, sha1: F9802C7542C2550FEC65E1705DAEEFD3B3B79BC5, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Disruption_Base_PhysicsAsset.uasset" offset: 147760885, size: 1349 bytes, sha1: 2D1AF783E5739CD8724CEF05BD5A8F0DAA4413F4, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Disruption_Base_PhysicsAsset.uexp" offset: 147762307, size: 561 bytes, sha1: C3748B760F729435A64310267A98D349A2B4DFEC, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Disruption_Base.uasset" offset: 147849216, size: 1944 bytes, sha1: D48D1EFB60CEB2B004631C82B4DF69BFDC1DA417, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Disruption_Base.uexp" offset: 147851233, size: 623709 bytes, sha1: 69909E1E617E60765935DD6AA12EA18C8F249D9C, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_AnimBP.uasset" offset: 148475031, size: 3721 bytes, sha1: 5B920DD3AFEAB050B43E7A71163EF4B07815BF5E, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_AnimBP.uexp" offset: 148478825, size: 1508 bytes, sha1: BAC217C9200D6E164A2392B2FD0E353651373DC2, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_PhysicsAsset.uasset" offset: 148480406, size: 1417 bytes, sha1: 1DBC4FE014343598C544005F81368032F67E243B, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor_PhysicsAsset.uexp" offset: 148481896, size: 789 bytes, sha1: F5C731C34C6638266FA76293F33AE697D35C5422, compression: Oodle.
-LogPakFile: Display: "MI_DEP_STD_Extractor_V2.uasset" offset: 148897792, size: 2378 bytes, sha1: 2282C823A95DFB426B91CD6E36A36E115E8D73A4, compression: Oodle.
-LogPakFile: Display: "MI_DEP_STD_Extractor_V2.uexp" offset: 148900243, size: 395465 bytes, sha1: B8ADBBF10AC1B945929AB19AFA4D1EA11D6F1407, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor.uasset" offset: 149946368, size: 2192 bytes, sha1: 42EDA3FFC4057A346A6C50B16C02CB88EF03C298, compression: Oodle.
-LogPakFile: Display: "SK_DEP_STD_Extractor.uexp" offset: 149948633, size: 1652433 bytes, sha1: 6A2B4BD8750BD276B89BE982B561F8C05B534203, compression: Oodle.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uasset" offset: 151601203, size: 1425 bytes, sha1: ADCE93F1F2777745B4A15FC45AD5C9AA2559241F, compression: Oodle.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uexp" offset: 151602701, size: 6982 bytes, sha1: C427FE526CE9E9CD19497CD5286468FED0F190D1, compression: Oodle.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML.uasset" offset: 151609756, size: 1487 bytes, sha1: 464F5A00C24000866BD3BB16A0EAB72D2D74CAA7, compression: Oodle.
-LogPakFile: Display: "SM_DEP_WaterPipe_SML.uexp" offset: 151611316, size: 13899 bytes, sha1: 1893351AAC03BB01035E184CF648F452CAD3DEEC, compression: Oodle.
-LogPakFile: Display: "M_DEP_PipeNode_SML.uasset" offset: 151625288, size: 2095 bytes, sha1: 155A772728B45E2A485428DC380C09C54BDF85C7, compression: Oodle.
-LogPakFile: Display: "M_DEP_PipeNode_SML.uexp" offset: 151627456, size: 413 bytes, sha1: E183DC71F5B36D5BBCF3B7F609E592B20EBA89C4, compression: Oodle.
-LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uasset" offset: 151627942, size: 1672 bytes, sha1: 266EB7406FC8F4F26A3BF57DA08569889DD3C8DD, compression: Oodle.
-LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uexp" offset: 151629687, size: 14570 bytes, sha1: B1A07E1D383B7293C4645EFE0BAF0882A655C205, compression: Oodle.
-LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uasset" offset: 151644330, size: 1672 bytes, sha1: 4841701873CDF38E544B46EB82294EA98CBED46F, compression: Oodle.
-LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uexp" offset: 151646075, size: 9847 bytes, sha1: AAFD58C1A071E25F1E66AEDAE926CDF5D520E7D9, compression: Oodle.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uasset" offset: 151655995, size: 1428 bytes, sha1: 5EFB200FC45D658EA80066723191A8CA5B39D46B, compression: Oodle.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uexp" offset: 151657496, size: 7024 bytes, sha1: 83D027E2CFA9C5762B636D9617242E3257990190, compression: Oodle.
-LogPakFile: Display: "SM_DEP_FuelPipe_SML.uasset" offset: 151664593, size: 1480 bytes, sha1: A9F9343DE9B9F55C9A5E7354B2174196FECAD5F0, compression: Oodle.
-LogPakFile: Display: "SM_DEP_FuelPipe_SML.uexp" offset: 151666146, size: 14174 bytes, sha1: 643E7097F9A6040DF2A10B2E5709A3DDCE46DC34, compression: Oodle.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML.uasset" offset: 151680393, size: 1481 bytes, sha1: 7A50B03EFFE19A37599243E62B7C57450833D202, compression: Oodle.
-LogPakFile: Display: "SM_DEP_ElectricCable_SML.uexp" offset: 151681947, size: 14169 bytes, sha1: 522AD1E505DA50568FB6A96DDF6D85528CD2C144, compression: Oodle.
-LogPakFile: Display: "M_DEP_Pipe_SML.uasset" offset: 151696189, size: 1367 bytes, sha1: C5135502E8CF37403CFED22329CBB055557FDECA, compression: Oodle.
-LogPakFile: Display: "M_DEP_Pipe_SML.uexp" offset: 151697629, size: 92498 bytes, sha1: 7C2EDF41B844A7B3E3C79D6188E483299491D96E, compression: Oodle.
-LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.uasset" offset: 151790200, size: 943 bytes, sha1: 1398D0FC036C470F0C7F112C050B2D2CF3F1EBEE, compression: None.
-LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.uexp" offset: 151791196, size: 3014 bytes, sha1: 7A78182A8AB95CAC93D58B2CD2516CB56B2C3818, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_PhysicsAsset.uasset" offset: 147723414, size: 1417 bytes, sha1: 1DBC4FE014343598C544005F81368032F67E243B, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_PhysicsAsset.uexp" offset: 147724904, size: 789 bytes, sha1: F5C731C34C6638266FA76293F33AE697D35C5422, compression: Oodle.
+LogPakFile: Display: "MI_DEP_STD_Extractor_V2.uasset" offset: 147849216, size: 2378 bytes, sha1: 2282C823A95DFB426B91CD6E36A36E115E8D73A4, compression: Oodle.
+LogPakFile: Display: "MI_DEP_STD_Extractor_V2.uexp" offset: 147851667, size: 395465 bytes, sha1: B8ADBBF10AC1B945929AB19AFA4D1EA11D6F1407, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor.uasset" offset: 148897792, size: 2192 bytes, sha1: 42EDA3FFC4057A346A6C50B16C02CB88EF03C298, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor.uexp" offset: 148900057, size: 1652433 bytes, sha1: 6A2B4BD8750BD276B89BE982B561F8C05B534203, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_Unfold.uasset" offset: 150552627, size: 745 bytes, sha1: 63768BA1D13959D485EAF2152407F545897B5F53, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_Unfold.uexp" offset: 150553445, size: 8698 bytes, sha1: 1B7C54B3FF1C647C5DB331302514D140CA37D3AF, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_Drill_Loop_Struggling.uasset" offset: 150562216, size: 760 bytes, sha1: 099508F89092DE17D3D56DF82AA864F939A662A7, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_Drill_Loop_Struggling.uexp" offset: 150563049, size: 23723 bytes, sha1: 9548A4FB733C540887980F1A63F243E3CEBB9B62, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Disruption_Base_Skeleton.uasset" offset: 150586845, size: 1011 bytes, sha1: 4B09568C8B8D3693AE9B62D6FB0BB3C7EF5A99A6, compression: None.
+LogPakFile: Display: "SK_DEP_Disruption_Base_Skeleton.uexp" offset: 150587909, size: 312 bytes, sha1: C8DAB356CC4FE3383BA73AB0699045F4DDF4A7FB, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Disruption_Base_AnimBP_Copypose.uasset" offset: 150588294, size: 1278 bytes, sha1: 7291EEB52F743AC5D0D6FEDD97791506B51D655F, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Disruption_Base_AnimBP_Copypose.uexp" offset: 150589645, size: 380 bytes, sha1: F9802C7542C2550FEC65E1705DAEEFD3B3B79BC5, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Disruption_Base_PhysicsAsset.uasset" offset: 150590098, size: 1349 bytes, sha1: 2D1AF783E5739CD8724CEF05BD5A8F0DAA4413F4, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Disruption_Base_PhysicsAsset.uexp" offset: 150591520, size: 561 bytes, sha1: C3748B760F729435A64310267A98D349A2B4DFEC, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Disruption_Base.uasset" offset: 150994944, size: 1944 bytes, sha1: D48D1EFB60CEB2B004631C82B4DF69BFDC1DA417, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Disruption_Base.uexp" offset: 150996961, size: 623709 bytes, sha1: 69909E1E617E60765935DD6AA12EA18C8F249D9C, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_AnimBP.uasset" offset: 151620759, size: 3721 bytes, sha1: 5B920DD3AFEAB050B43E7A71163EF4B07815BF5E, compression: Oodle.
+LogPakFile: Display: "SK_DEP_STD_Extractor_AnimBP.uexp" offset: 151624553, size: 1508 bytes, sha1: BAC217C9200D6E164A2392B2FD0E353651373DC2, compression: Oodle.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uasset" offset: 151626134, size: 1425 bytes, sha1: ADCE93F1F2777745B4A15FC45AD5C9AA2559241F, compression: Oodle.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML_Collision.uexp" offset: 151627632, size: 6982 bytes, sha1: C427FE526CE9E9CD19497CD5286468FED0F190D1, compression: Oodle.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML.uasset" offset: 151634687, size: 1487 bytes, sha1: 464F5A00C24000866BD3BB16A0EAB72D2D74CAA7, compression: Oodle.
+LogPakFile: Display: "SM_DEP_WaterPipe_SML.uexp" offset: 151636247, size: 13899 bytes, sha1: 1893351AAC03BB01035E184CF648F452CAD3DEEC, compression: Oodle.
+LogPakFile: Display: "M_DEP_PipeNode_SML.uasset" offset: 151650219, size: 2095 bytes, sha1: 155A772728B45E2A485428DC380C09C54BDF85C7, compression: Oodle.
+LogPakFile: Display: "M_DEP_PipeNode_SML.uexp" offset: 151652387, size: 413 bytes, sha1: E183DC71F5B36D5BBCF3B7F609E592B20EBA89C4, compression: Oodle.
+LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uasset" offset: 151652873, size: 1672 bytes, sha1: 266EB7406FC8F4F26A3BF57DA08569889DD3C8DD, compression: Oodle.
+LogPakFile: Display: "SM_DEP_Pipe_Node_Water_SML.uexp" offset: 151654618, size: 14570 bytes, sha1: B1A07E1D383B7293C4645EFE0BAF0882A655C205, compression: Oodle.
+LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uasset" offset: 151669261, size: 1672 bytes, sha1: 4841701873CDF38E544B46EB82294EA98CBED46F, compression: Oodle.
+LogPakFile: Display: "SM_DEP_PipeNode_Electric_SML.uexp" offset: 151671006, size: 9847 bytes, sha1: AAFD58C1A071E25F1E66AEDAE926CDF5D520E7D9, compression: Oodle.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uasset" offset: 151680926, size: 1428 bytes, sha1: 5EFB200FC45D658EA80066723191A8CA5B39D46B, compression: Oodle.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML_Collision.uexp" offset: 151682427, size: 7024 bytes, sha1: 83D027E2CFA9C5762B636D9617242E3257990190, compression: Oodle.
+LogPakFile: Display: "SM_DEP_FuelPipe_SML.uasset" offset: 151689524, size: 1480 bytes, sha1: A9F9343DE9B9F55C9A5E7354B2174196FECAD5F0, compression: Oodle.
+LogPakFile: Display: "SM_DEP_FuelPipe_SML.uexp" offset: 151691077, size: 14174 bytes, sha1: 643E7097F9A6040DF2A10B2E5709A3DDCE46DC34, compression: Oodle.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML.uasset" offset: 151705324, size: 1481 bytes, sha1: 7A50B03EFFE19A37599243E62B7C57450833D202, compression: Oodle.
+LogPakFile: Display: "SM_DEP_ElectricCable_SML.uexp" offset: 151706878, size: 14169 bytes, sha1: 522AD1E505DA50568FB6A96DDF6D85528CD2C144, compression: Oodle.
+LogPakFile: Display: "M_DEP_Pipe_SML.uasset" offset: 151721120, size: 1367 bytes, sha1: C5135502E8CF37403CFED22329CBB055557FDECA, compression: Oodle.
+LogPakFile: Display: "M_DEP_Pipe_SML.uexp" offset: 151722560, size: 92498 bytes, sha1: 7C2EDF41B844A7B3E3C79D6188E483299491D96E, compression: Oodle.
+LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.uasset" offset: 151815131, size: 943 bytes, sha1: 1398D0FC036C470F0C7F112C050B2D2CF3F1EBEE, compression: None.
+LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.uexp" offset: 151816127, size: 3014 bytes, sha1: 7A78182A8AB95CAC93D58B2CD2516CB56B2C3818, compression: Oodle.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_RMA.ubulk" offset: 152043520, size: 540821 bytes, sha1: 75EC0D0F8A961A5A54CD67F39593AD089E06CD46, compression: Oodle.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_N.uasset" offset: 152584414, size: 942 bytes, sha1: 0EC093A68767E39726101BC39EEB825BE3DEFB47, compression: None.
 LogPakFile: Display: "T_DEP_Crate_Sinotai_Reward_N.uexp" offset: 152585409, size: 5724 bytes, sha1: 403D2E4E5A2D076FEE3E37654BD9AC3331B26F94, compression: Oodle.
@@ -2225,14 +2225,14 @@ LogPakFile: Display: "SM_DEP_Ice_Borer2.uasset" offset: 926941184, size: 1570 by
 LogPakFile: Display: "SM_DEP_Ice_Borer2.uexp" offset: 926942827, size: 1538156 bytes, sha1: BFACC1EE6C1CF66BCFA9418D4A66BE17C2D83936, compression: Oodle.
 LogPakFile: Display: "SK_DEP_Radar_T3_Skeleton.uasset" offset: 928481104, size: 743 bytes, sha1: 95C9AFD3037ACB27D3A1DD97E7BA30521A86AB25, compression: Oodle.
 LogPakFile: Display: "SK_DEP_Radar_T3_Skeleton.uexp" offset: 928481920, size: 533 bytes, sha1: 76DEAA51EDB434B4E0AFEFE9F563BEA1AF521F90, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Radar_T3_Deploy.uasset" offset: 928482526, size: 739 bytes, sha1: 65B5A3748925C526F82500E93F36E16DD6DE1F44, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Radar_T3_Deploy.uexp" offset: 928483338, size: 1209 bytes, sha1: 273E0FF1516B337BD40F2FB0313556986BCC63D4, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Radar_T3_Active.uasset" offset: 928484620, size: 739 bytes, sha1: 62A2AE95E94B04E37B975ABADB8B582CF45B2CAA, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Radar_T3_Active.uexp" offset: 928485432, size: 843 bytes, sha1: 30DF55D7D3024BF4A75A6B6B079919A1A9A276A6, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Radar_T3_PhysicsAsset.uasset" offset: 928486348, size: 1576 bytes, sha1: 87FF3BAC8CC39844BC8DE6CD77EEB436F15ABF83, compression: Oodle.
-LogPakFile: Display: "SK_DEP_Radar_T3_PhysicsAsset.uexp" offset: 928487997, size: 1072 bytes, sha1: 4725C7BB6404A74C56B5C135EB6F84261D86BE2D, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Radar_T3_Active.uasset" offset: 928482526, size: 739 bytes, sha1: 62A2AE95E94B04E37B975ABADB8B582CF45B2CAA, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Radar_T3_Active.uexp" offset: 928483338, size: 843 bytes, sha1: 30DF55D7D3024BF4A75A6B6B079919A1A9A276A6, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Radar_T3_PhysicsAsset.uasset" offset: 928484254, size: 1576 bytes, sha1: 87FF3BAC8CC39844BC8DE6CD77EEB436F15ABF83, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Radar_T3_PhysicsAsset.uexp" offset: 928485903, size: 1072 bytes, sha1: 4725C7BB6404A74C56B5C135EB6F84261D86BE2D, compression: Oodle.
 LogPakFile: Display: "SK_DEP_Radar_T3.uasset" offset: 929038336, size: 2062 bytes, sha1: 0D0EC5CAEDCC1208DBC4C561135B6211949FBE69, compression: Oodle.
 LogPakFile: Display: "SK_DEP_Radar_T3.uexp" offset: 929040471, size: 656180 bytes, sha1: 3488A471D6ABCCB4B0F892F2A8A08BEF42FAEB76, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Radar_T3_Deploy.uasset" offset: 929696740, size: 739 bytes, sha1: 65B5A3748925C526F82500E93F36E16DD6DE1F44, compression: Oodle.
+LogPakFile: Display: "SK_DEP_Radar_T3_Deploy.uexp" offset: 929697552, size: 1209 bytes, sha1: 273E0FF1516B337BD40F2FB0313556986BCC63D4, compression: Oodle.
 LogPakFile: Display: "SK_DEP_Radar_T4.uasset" offset: 930086912, size: 2104 bytes, sha1: 0A06E1091540C5F9C4E56EC08DC5C87159FA6D77, compression: Oodle.
 LogPakFile: Display: "SK_DEP_Radar_T4.uexp" offset: 930089089, size: 919442 bytes, sha1: 34DEC9DA99C670FC6574F6174918CDDDCC3A9E26, compression: Oodle.
 LogPakFile: Display: "SK_DEP_Radar_Head_C_PhysicsAsset.uasset" offset: 931008636, size: 957 bytes, sha1: CDBFA6E7014B49D5984E6854A3684CC041596925, compression: Oodle.
@@ -3450,4 +3450,4 @@ LogPakFile: Display: "T_DEP_Bench_Repair_V2_RMA.uasset" offset: 1468867940, size
 LogPakFile: Display: "T_DEP_Bench_Repair_V2_RMA.ubulk" offset: 1469054976, size: 521776 bytes, sha1: 12E335189BB91A0683758F82E64A1B60F8B167E8, compression: Oodle.
 LogPakFile: Display: "T_DEP_Bench_Repair_V2_RMA.uexp" offset: 1469576825, size: 2980 bytes, sha1: 4C75A32F0F4FB3C38D89651AFB93BCD7AF56A24A, compression: Oodle.
 LogPakFile: Display: 3435 files (1181065065 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.219600 seconds
+LogPakFile: Display: Unreal pak executed in 0.854360 seconds

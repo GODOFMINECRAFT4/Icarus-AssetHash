@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1537981447
 LogPakFile: Display:     IndexSize: 82953
-LogPakFile: Display:     IndexHash: B0F635A429D26262244FC65540816963508B2DC7
+LogPakFile: Display:     IndexHash: FD7775916796A90568E3837933E8113500BDFB25
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.222673 seconds
+LogPakFile: Display: Unreal pak executed in 0.006376 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/
@@ -720,10 +720,6 @@ LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_Burrow.uasset" offse
 LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_Burrow.uexp" offset: 155965459, size: 84035 bytes, sha1: 9AF5A951CD83CCADBB1053E7F052FB111B567B9C, compression: Oodle.
 LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_Burrow_Montage.uasset" offset: 156049567, size: 1898 bytes, sha1: D42B4C89DCED15302F52D8B7D5FC71A06135EB48, compression: Oodle.
 LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_Burrow_Montage.uexp" offset: 156051538, size: 533 bytes, sha1: 8CABE9B44F6184BF1238B0D513897C239CA458A4, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Emerge_Defensive.uasset" offset: 156052144, size: 1589 bytes, sha1: 2ED05CD57B75377AB6AF13951419C4ABF03279A9, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Emerge_Defensive.uexp" offset: 156053806, size: 27278 bytes, sha1: FA6716BA0603A274A3DAB4E2E6E98A9C91CB7C55, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/SandWorm_Emerge_Montage.uasset" offset: 156081157, size: 2053 bytes, sha1: D8E4FB2C7A8596DF1CF21D750438211CD35087A8, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/SandWorm_Emerge_Montage.uexp" offset: 156083283, size: 521 bytes, sha1: 1936F54480BABFDCE5B2C26574F7F96B161CC69D, compression: Oodle.
 LogPakFile: Display: "CRE/Suzie/SM_CRE_Suzie_Idle_Pose.uasset" offset: 156237824, size: 1442 bytes, sha1: 9F1D597250AD1E4D6B1E5BF18BE1E677F5B672DC, compression: Oodle.
 LogPakFile: Display: "CRE/Suzie/SM_CRE_Suzie_Idle_Pose.uexp" offset: 156239339, size: 36584 bytes, sha1: 3B844783B28770314B0888A1B7D1E4BAD313815C, compression: Oodle.
 LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Ranged_Long.uasset" offset: 156275996, size: 1901 bytes, sha1: 13E2E7D37E67675874EFCCA9E007CF6F3670F77B, compression: Oodle.
@@ -734,24 +730,28 @@ LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Ranged_Short.uasset" offset
 LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Ranged_Short.uexp" offset: 156374751, size: 64570 bytes, sha1: 4FB590A488656B769ADB2C7563D0425D10F8C999, compression: Oodle.
 LogPakFile: Display: "CRE/Suzie/SandWorm_SpitAttack_Montage.uasset" offset: 156439394, size: 2005 bytes, sha1: 769217A6C940E677D381E7DCA68616DFA6EE8723, compression: Oodle.
 LogPakFile: Display: "CRE/Suzie/SandWorm_SpitAttack_Montage.uexp" offset: 156441472, size: 605 bytes, sha1: CCEED619F6C4736D6E2A18AD204A9CCAE18F27A8, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_RetreatTEST.uasset" offset: 156442150, size: 751 bytes, sha1: BD792D8E40967EC97E54EE05885AED12253B8F4A, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_RetreatTEST.uexp" offset: 156442974, size: 2096 bytes, sha1: 7BB30A8C47070D885ABE42F160FE124E154ACC88, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_long.uasset" offset: 156445143, size: 1793 bytes, sha1: A74FAB4F3E1BC1D259572543F568F902E2E982F9, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_long.uexp" offset: 156447009, size: 53810 bytes, sha1: EA4DD99128297D97CA9FAEF1BAC2E088568CF15F, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_Attack_Montage.uasset" offset: 156500892, size: 2271 bytes, sha1: 9231BBFA58D601DE95AD49629CF611F4C70A3026, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_Attack_Montage.uexp" offset: 156503236, size: 640 bytes, sha1: C36699BED7B49537A14223B787B04736A8373D72, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_BurrowHold_Montage.uasset" offset: 156503949, size: 1961 bytes, sha1: A47A7B0341A439209D816CF13F2C395C4DA33A00, compression: Oodle.
-LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_BurrowHold_Montage.uexp" offset: 156505983, size: 557 bytes, sha1: 7A736FA7462363DBEC1FFD48B6B7ECCB0F31DF09, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Skeleton.uasset" offset: 156506613, size: 840 bytes, sha1: A316E37CDD0D7A0901E1F06604B8840D7A999CE1, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Skeleton.uexp" offset: 156507526, size: 347 bytes, sha1: 1093BE5032270180C7EB3650F8AF038B7761B9EA, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/ANI_CRE_LavaHunter_Flyer_Idle.uasset" offset: 156507946, size: 770 bytes, sha1: A71698A57E76DDE2634B383CBE8BE48336C34743, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/ANI_CRE_LavaHunter_Flyer_Idle.uexp" offset: 156508789, size: 1128 bytes, sha1: 0847CCA83977BD46AF812F7CADD96B0E11D0623A, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_AnimBP.uasset" offset: 156509990, size: 3590 bytes, sha1: 0430A7ADE7748B674C73128B8D5C6705D793D834, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_AnimBP.uexp" offset: 156513653, size: 1841 bytes, sha1: 14A03F1383D29C68F737E5F75C2511DC79B0E14E, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Physics.uasset" offset: 156515567, size: 1388 bytes, sha1: 8AACA46864BF443AE13EC01CCA39626E1E4AC1F0, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Physics.uexp" offset: 156517028, size: 459 bytes, sha1: 548C3116E77A0C992C8A3EAF2DF33FDD5DBD7DC9, compression: Oodle.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/T_CRE_Mini_Flyer_BomberWings_A.uasset" offset: 156517560, size: 846 bytes, sha1: 1E34772B51ED0FC54D5B8858B51A4F1F7FC3A35D, compression: None.
-LogPakFile: Display: "CRE/Mini_Lava_Bomber/T_CRE_Mini_Flyer_BomberWings_A.uexp" offset: 156518459, size: 2999 bytes, sha1: 6FAF9F0A686B1F478618AC99C4B27B8E316051D2, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Emerge_Defensive.uasset" offset: 156442150, size: 1589 bytes, sha1: 2ED05CD57B75377AB6AF13951419C4ABF03279A9, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Emerge_Defensive.uexp" offset: 156443812, size: 27278 bytes, sha1: FA6716BA0603A274A3DAB4E2E6E98A9C91CB7C55, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/SandWorm_Emerge_Montage.uasset" offset: 156471163, size: 2053 bytes, sha1: D8E4FB2C7A8596DF1CF21D750438211CD35087A8, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/SandWorm_Emerge_Montage.uexp" offset: 156473289, size: 521 bytes, sha1: 1936F54480BABFDCE5B2C26574F7F96B161CC69D, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_RetreatTEST.uasset" offset: 156473883, size: 751 bytes, sha1: BD792D8E40967EC97E54EE05885AED12253B8F4A, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_RetreatTEST.uexp" offset: 156474707, size: 2096 bytes, sha1: 7BB30A8C47070D885ABE42F160FE124E154ACC88, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_long.uasset" offset: 156476876, size: 1793 bytes, sha1: A74FAB4F3E1BC1D259572543F568F902E2E982F9, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_long.uexp" offset: 156478742, size: 53810 bytes, sha1: EA4DD99128297D97CA9FAEF1BAC2E088568CF15F, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_Attack_Montage.uasset" offset: 156532625, size: 2271 bytes, sha1: 9231BBFA58D601DE95AD49629CF611F4C70A3026, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Dive_Attack_Montage.uexp" offset: 156534969, size: 640 bytes, sha1: C36699BED7B49537A14223B787B04736A8373D72, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_BurrowHold_Montage.uasset" offset: 156535682, size: 1961 bytes, sha1: A47A7B0341A439209D816CF13F2C395C4DA33A00, compression: Oodle.
+LogPakFile: Display: "CRE/Suzie/ANI_CRE_Suzie_Attack_Strike_BurrowHold_Montage.uexp" offset: 156537716, size: 557 bytes, sha1: 7A736FA7462363DBEC1FFD48B6B7ECCB0F31DF09, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Skeleton.uasset" offset: 156538346, size: 840 bytes, sha1: A316E37CDD0D7A0901E1F06604B8840D7A999CE1, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Skeleton.uexp" offset: 156539259, size: 347 bytes, sha1: 1093BE5032270180C7EB3650F8AF038B7761B9EA, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/ANI_CRE_LavaHunter_Flyer_Idle.uasset" offset: 156539679, size: 770 bytes, sha1: A71698A57E76DDE2634B383CBE8BE48336C34743, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/ANI_CRE_LavaHunter_Flyer_Idle.uexp" offset: 156540522, size: 1128 bytes, sha1: 0847CCA83977BD46AF812F7CADD96B0E11D0623A, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_AnimBP.uasset" offset: 156541723, size: 3590 bytes, sha1: 0430A7ADE7748B674C73128B8D5C6705D793D834, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_AnimBP.uexp" offset: 156545386, size: 1841 bytes, sha1: 14A03F1383D29C68F737E5F75C2511DC79B0E14E, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Physics.uasset" offset: 156547300, size: 1388 bytes, sha1: 8AACA46864BF443AE13EC01CCA39626E1E4AC1F0, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/SK_CRE_LavaBomber_Flyer_Physics.uexp" offset: 156548761, size: 459 bytes, sha1: 548C3116E77A0C992C8A3EAF2DF33FDD5DBD7DC9, compression: Oodle.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/T_CRE_Mini_Flyer_BomberWings_A.uasset" offset: 156549293, size: 846 bytes, sha1: 1E34772B51ED0FC54D5B8858B51A4F1F7FC3A35D, compression: None.
+LogPakFile: Display: "CRE/Mini_Lava_Bomber/T_CRE_Mini_Flyer_BomberWings_A.uexp" offset: 156550192, size: 2999 bytes, sha1: 6FAF9F0A686B1F478618AC99C4B27B8E316051D2, compression: Oodle.
 LogPakFile: Display: "CRE/Mini_Lava_Bomber/T_CRE_Mini_Flyer_BomberWings_A.ubulk" offset: 157286400, size: 1693892 bytes, sha1: 105D0FFF1C42C2EC529A2B21DDADA56DEFD35B58, compression: Oodle.
 LogPakFile: Display: "CRE/Mini_Lava_Bomber/T_CRE_Mini_Flyer_Bomber_MRO.uasset" offset: 158980397, size: 962 bytes, sha1: 8A1AAB00CB66A214322B649A8EBBD2CFFBA98900, compression: None.
 LogPakFile: Display: "CRE/Mini_Lava_Bomber/T_CRE_Mini_Flyer_Bomber_MRO.uexp" offset: 158981412, size: 3025 bytes, sha1: 63F8360E25E11262006AC7C450F2C5DD39189288, compression: Oodle.
@@ -1564,7 +1564,7 @@ LogPakFile: Display: "CRE/Swamp_Quadruped/Anims/JumpStand.uexp" offset: 33371742
 LogPakFile: Display: "CRE/Swamp_Quadruped/Anims/SwampQuad_Jump_Montage.uasset" offset: 333730033, size: 1649 bytes, sha1: 82ADB6AFF3DB4EC88F2403C16D88DC6F7E5139B6, compression: Oodle.
 LogPakFile: Display: "CRE/Swamp_Quadruped/Anims/SwampQuad_Jump_Montage.uexp" offset: 333731755, size: 470 bytes, sha1: 64497502438E1BD488AAB9C4D37C5C6B554C5B2C, compression: Oodle.
 LogPakFile: Display: "CRE/Swamp_Quadruped/SK_CRE_SwampQuad_LookAt_CtrlRig.uasset" offset: 333732298, size: 4765 bytes, sha1: 4CEE13D0D90BAEFA13EAE5836404C9599C3CEC17, compression: Oodle.
-LogPakFile: Display: "CRE/Swamp_Quadruped/SK_CRE_SwampQuad_LookAt_CtrlRig.uexp" offset: 333737136, size: 7395 bytes, sha1: F32A5B955A81953B9AC63DA964070587A84AECDE, compression: Oodle.
+LogPakFile: Display: "CRE/Swamp_Quadruped/SK_CRE_SwampQuad_LookAt_CtrlRig.uexp" offset: 333737136, size: 7395 bytes, sha1: 7EB91B19D1C4AF27C77CE1974ABD17F889874214, compression: Oodle.
 LogPakFile: Display: "CRE/Swamp_Quadruped/Anims/Loco_WalkSlowR.uasset" offset: 333744604, size: 1636 bytes, sha1: A3C0B3806B957536D3A68385BD14B99DD5088FEE, compression: Oodle.
 LogPakFile: Display: "CRE/Swamp_Quadruped/Anims/Loco_WalkSlowR.uexp" offset: 333746313, size: 10030 bytes, sha1: 62A050F4D685956189206A9C0760D41827DE411C, compression: Oodle.
 LogPakFile: Display: "CRE/Swamp_Quadruped/Anims/Loco_WalkSlowL.uasset" offset: 333756416, size: 1635 bytes, sha1: B79AB169C739A7EB8F21F14085BD888D66D42D7F, compression: Oodle.
@@ -3825,4 +3825,4 @@ LogPakFile: Display: "DCO/ArtDeco/T_DCO_ArtDeco_Bricks_RMA.uasset" offset: 15365
 LogPakFile: Display: "DCO/ArtDeco/T_DCO_ArtDeco_Bricks_RMA.ubulk" offset: 1537212416, size: 767331 bytes, sha1: F29291822D1235012F39D42B8D428AD8553FE039, compression: Oodle.
 LogPakFile: Display: "DCO/ArtDeco/T_DCO_ArtDeco_Bricks_RMA.uexp" offset: 1537979852, size: 1522 bytes, sha1: 965588A48FFC6E12F33F0787F2268633B6CF0C8A, compression: Oodle.
 LogPakFile: Display: 3810 files (1314721592 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.295822 seconds
+LogPakFile: Display: Unreal pak executed in 1.292657 seconds

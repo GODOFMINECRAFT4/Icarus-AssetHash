@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1317975707
 LogPakFile: Display:     IndexSize: 73793
-LogPakFile: Display:     IndexHash: D9410602EF433D1A54E7FD1A78D6FDC932CF6A76
+LogPakFile: Display:     IndexHash: 81ADAF188CF8C7947ADD89A862DD27171BE5F89C
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.217684 seconds
+LogPakFile: Display: Unreal pak executed in 0.005178 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/ASS/
@@ -243,15 +243,15 @@ LogPakFile: Display: "DEP/DEP_Bench_Anvil_T4/SM_DEP_Bench_Anvil_T4.uexp" offset:
 LogPakFile: Display: "DEP/DEP_Cairn_Stone/SM_DEP_Cairn_Stone.uasset" offset: 154140672, size: 1722 bytes, sha1: 97617475E93C878B5264F03CC50C9097F4DE24F2, compression: Oodle.
 LogPakFile: Display: "DEP/DEP_Cairn_Stone/SM_DEP_Cairn_Stone.uexp" offset: 154142467, size: 953173 bytes, sha1: 43F6EEA26E1F2F19DF548D44BD1C9A774233CD35, compression: Oodle.
 LogPakFile: Display: "DEP/DEP_Cairn_Stone/DM_DEP_Cairn_Stone.uasset" offset: 155189248, size: 2326 bytes, sha1: 451003346287AA2212A738E481D47AA81D313616, compression: Oodle.
-LogPakFile: Display: "DEP/DEP_Cairn_Stone/DM_DEP_Cairn_Stone.uexp" offset: 155191647, size: 1660001 bytes, sha1: BB880E5195629DBD4B02790FD0EDDA6837066F14, compression: Oodle.
+LogPakFile: Display: "DEP/DEP_Cairn_Stone/DM_DEP_Cairn_Stone.uexp" offset: 155191647, size: 1660001 bytes, sha1: 07C9F29B346166F9F29A0B664FDB45E4CDC3DAAD, compression: Oodle.
 LogPakFile: Display: "DEP/DM_DEP_Beacon.uasset" offset: 157286400, size: 2052 bytes, sha1: F112CBC36E1BB5F07A9B8A0FD600B3AD26A61548, compression: Oodle.
-LogPakFile: Display: "DEP/DM_DEP_Beacon.uexp" offset: 157288525, size: 1618867 bytes, sha1: 2B9A57DDA19E4A41CAD9F09B7A29167109BC050E, compression: Oodle.
-LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Active.uasset" offset: 158907561, size: 759 bytes, sha1: E5C97EB2091F5AD14140CB204E6FBCB1F01F6EC3, compression: Oodle.
-LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Active.uexp" offset: 158908393, size: 512 bytes, sha1: 276A4DE0800A3D00A91CE32BCDD4588BC137AF57, compression: Oodle.
-LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Idle_P.uasset" offset: 158908978, size: 759 bytes, sha1: 35349F909C0D19E9560EE2CBF1BA90EF9B4D49B1, compression: Oodle.
-LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Idle_P.uexp" offset: 158909810, size: 1017 bytes, sha1: 7748072895E9F5CAF37EEF6B37B94F2110688398, compression: None.
-LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Deploy.uasset" offset: 158910880, size: 759 bytes, sha1: FD2629129DAEB77C4E2389BF0C7EC5EFA7B83C78, compression: Oodle.
-LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Deploy.uexp" offset: 158911712, size: 1213 bytes, sha1: 14268CAAFF76AE028D5E3D70D8BA09BF72F95157, compression: Oodle.
+LogPakFile: Display: "DEP/DM_DEP_Beacon.uexp" offset: 157288525, size: 1618868 bytes, sha1: 61D2D2F7888CAD4CD9527A3A3D177831B60BD172, compression: Oodle.
+LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Active.uasset" offset: 158907562, size: 759 bytes, sha1: E5C97EB2091F5AD14140CB204E6FBCB1F01F6EC3, compression: Oodle.
+LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Active.uexp" offset: 158908394, size: 512 bytes, sha1: 276A4DE0800A3D00A91CE32BCDD4588BC137AF57, compression: Oodle.
+LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Idle_P.uasset" offset: 158908979, size: 759 bytes, sha1: 35349F909C0D19E9560EE2CBF1BA90EF9B4D49B1, compression: Oodle.
+LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Idle_P.uexp" offset: 158909811, size: 1017 bytes, sha1: 7748072895E9F5CAF37EEF6B37B94F2110688398, compression: None.
+LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Deploy.uasset" offset: 158910881, size: 759 bytes, sha1: FD2629129DAEB77C4E2389BF0C7EC5EFA7B83C78, compression: Oodle.
+LogPakFile: Display: "DEP/ANI_DEP_Analyzer_Transmitter_Deploy.uexp" offset: 158911713, size: 1213 bytes, sha1: 14268CAAFF76AE028D5E3D70D8BA09BF72F95157, compression: Oodle.
 LogPakFile: Display: "DEP/DM_DEP_DeepMiningDrill_Electric.uasset" offset: 159383552, size: 2235 bytes, sha1: C4877F5AE8D93457DD75688A2A398797CB6F3748, compression: Oodle.
 LogPakFile: Display: "DEP/DM_DEP_DeepMiningDrill_Electric.uexp" offset: 159385860, size: 3036715 bytes, sha1: 1017E437C8E833A717194E73A1477BD8F58CDF9A, compression: Oodle.
 LogPakFile: Display: "DEP/DEP_LandingPad/SM_LandingPad_Player_Placeholder.uasset" offset: 162529280, size: 1726 bytes, sha1: 65C33E0D1E8B97552076E8C4E97BEEF88316E868, compression: Oodle.
@@ -1302,12 +1302,12 @@ LogPakFile: Display: "DCO/CoffeeTable_MetalGlass/DM_DCO_CoffeeTable_MetalGlass.u
 LogPakFile: Display: "DCO/DiningChair_MetalGlass/T_DCO_DiningChair_MetalGlass_MASK.uasset" offset: 563591889, size: 768 bytes, sha1: D966455133A0526BD9E18046646FE4C6BC3CFBB4, compression: None.
 LogPakFile: Display: "DCO/DiningChair_MetalGlass/T_DCO_DiningChair_MetalGlass_MASK.uexp" offset: 563592710, size: 2693 bytes, sha1: CE83F96763693130BA7B0C0CD2DA8F2B753C8574, compression: Oodle.
 LogPakFile: Display: "DCO/DiningChair_MetalGlass/T_DCO_DiningChair_MetalGlass_MASK.ubulk" offset: 564133888, size: 1313095 bytes, sha1: B30BF4A4C5880180FD2516493FA1CA119FF766D9, compression: Oodle.
-LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_1.uasset" offset: 565447088, size: 2017 bytes, sha1: D8681DA3499EE184B43E1F9C2622C5F84B2E83BA, compression: Oodle.
-LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_1.uexp" offset: 565449178, size: 279 bytes, sha1: A47CC2FE4D7397CFC4B55F92D55F215A3B28A0AE, compression: Oodle.
-LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_3.uasset" offset: 565449530, size: 1964 bytes, sha1: F54670B2EF7E79F61DD1384D54B9B150C467BAD5, compression: Oodle.
-LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_3.uexp" offset: 565451567, size: 279 bytes, sha1: A47CC2FE4D7397CFC4B55F92D55F215A3B28A0AE, compression: Oodle.
-LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_2.uasset" offset: 565451919, size: 1964 bytes, sha1: CDB68B19F798C928166382637F5487E31169DEF5, compression: Oodle.
-LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_2.uexp" offset: 565453956, size: 279 bytes, sha1: A47CC2FE4D7397CFC4B55F92D55F215A3B28A0AE, compression: Oodle.
+LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_3.uasset" offset: 565447088, size: 1964 bytes, sha1: F54670B2EF7E79F61DD1384D54B9B150C467BAD5, compression: Oodle.
+LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_3.uexp" offset: 565449125, size: 279 bytes, sha1: A47CC2FE4D7397CFC4B55F92D55F215A3B28A0AE, compression: Oodle.
+LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_2.uasset" offset: 565449477, size: 1964 bytes, sha1: CDB68B19F798C928166382637F5487E31169DEF5, compression: Oodle.
+LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_2.uexp" offset: 565451514, size: 279 bytes, sha1: A47CC2FE4D7397CFC4B55F92D55F215A3B28A0AE, compression: Oodle.
+LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_1.uasset" offset: 565451866, size: 2017 bytes, sha1: D8681DA3499EE184B43E1F9C2622C5F84B2E83BA, compression: Oodle.
+LogPakFile: Display: "DCO/DiningChair_MetalGlass/M_DCO_DiningChair_MetalGlass_1.uexp" offset: 565453956, size: 279 bytes, sha1: A47CC2FE4D7397CFC4B55F92D55F215A3B28A0AE, compression: Oodle.
 LogPakFile: Display: "DCO/DiningChair_MetalGlass/SM_DCO_DiningChair_MetalGlass.uasset" offset: 565454308, size: 1683 bytes, sha1: 2C93B1E9FE750CB48B88EC636E70B61351F4B7BC, compression: Oodle.
 LogPakFile: Display: "DCO/DiningChair_MetalGlass/SM_DCO_DiningChair_MetalGlass.uexp" offset: 565456064, size: 306136 bytes, sha1: 54225513D1D93B77A572376E4E3AEE2ED368A647, compression: Oodle.
 LogPakFile: Display: "DCO/DiningChair_MetalGlass/DM_DCO_DiningChair_MetalGlass.uasset" offset: 566231040, size: 2051 bytes, sha1: A87026F07935822CBBCD6CC04F7AD555949D266A, compression: Oodle.
@@ -3403,5 +3403,5 @@ LogPakFile: Display: "DEP/DM_DEP_Bench_Kitchen_Salting.uasset" offset: 131072000
 LogPakFile: Display: "DEP/DM_DEP_Bench_Kitchen_Salting.uexp" offset: 1310722230, size: 1490519 bytes, sha1: 6F7735BBD4C661131CEC080BD5374C491F5DF908, compression: Oodle.
 LogPakFile: Display: "DEP/DM_DEP_Bench_Repair_V2.uasset" offset: 1312817152, size: 2359 bytes, sha1: 0D0695234E525E1304A03CB1911917A6A0C5B05B, compression: Oodle.
 LogPakFile: Display: "DEP/DM_DEP_Bench_Repair_V2.uexp" offset: 1312819584, size: 5155746 bytes, sha1: F235EB31ADECAD905D2101A2D4F59068DD7B115C, compression: Oodle.
-LogPakFile: Display: 3389 files (1035858686 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 1.179418 seconds
+LogPakFile: Display: 3389 files (1035858687 bytes), (0 filtered bytes).
+LogPakFile: Display: Unreal pak executed in 1.013750 seconds
