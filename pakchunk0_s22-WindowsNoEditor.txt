@@ -4,42 +4,42 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1552599187
 LogPakFile: Display:     IndexSize: 37666
-LogPakFile: Display:     IndexHash: 598F59AF338EE13B74E15FD8E6258F6262B3C3BA
+LogPakFile: Display:     IndexHash: 775CE25B27DB997D7A1A383BED5C5C8633275DC6
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.135454 seconds
+LogPakFile: Display: Unreal pak executed in 0.003851 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Erosion_LayerInfo.uasset" offset: 0, size: 1020 bytes, sha1: 2547E57EFC5E68DF0580D2B0838B075EC841630E, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Erosion_LayerInfo.uexp" offset: 1073, size: 143 bytes, sha1: DAD8ED7A21FFE7D2D608A1CCF12BDA3FA882FFE0, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Dirt_LayerInfo.uasset" offset: 1269, size: 1014 bytes, sha1: C817C933FC44451959030BC4BD11632DC47DDE26, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Dirt_LayerInfo.uexp" offset: 2336, size: 143 bytes, sha1: 45DC9EE1E2F33C57F03B839D1F3E182DA653E048, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_River_Stones_LayerInfo.uasset" offset: 2532, size: 611 bytes, sha1: 42BC6564F72E7F209517893AA8457923BE601EC3, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_River_Stones_LayerInfo.uexp" offset: 3216, size: 143 bytes, sha1: FCCB6EA42BD47194B9AFA577A160D774127B191D, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/AC_Snow_LayerInfo.uasset" offset: 3412, size: 1014 bytes, sha1: BAA0D33A64547C19F0BA009CD9FC55D3BA5DB66D, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/AC_Snow_LayerInfo.uexp" offset: 4479, size: 143 bytes, sha1: D7A44F9CAA796E71CC65CFA135D899E6623BCB6A, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Snowcap_LayerInfo.uasset" offset: 4675, size: 1020 bytes, sha1: F2FBD86041B7404BB37F78C9FFD794F5775CF30F, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Snowcap_LayerInfo.uexp" offset: 5748, size: 143 bytes, sha1: D2191781B67D3AE4E3A331AAD4E839BCA6DC929D, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_GroundMoss_LayerInfo.uasset" offset: 5944, size: 606 bytes, sha1: 96007388096D60D09F355E3241F9A7F95132666C, compression: Oodle.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_GroundMoss_LayerInfo.uexp" offset: 6623, size: 143 bytes, sha1: 7698CB266668022B7D4B68A8A5553AC65B86B0F4, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Sand_LayerInfo.uasset" offset: 6819, size: 1014 bytes, sha1: 224945A9DF0B577AC421D3520BF4640901E0C8DF, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Sand_LayerInfo.uexp" offset: 7886, size: 143 bytes, sha1: B30BC54F316C6D057BCF30306B36E8B4666C138F, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Lava_LayerInfo.uasset" offset: 8082, size: 1014 bytes, sha1: F1CB8EFD90C420E9FE8B2C0494F07692BBD126E3, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Lava_LayerInfo.uexp" offset: 9149, size: 143 bytes, sha1: 6A559C23C646547547B157E0A423CDD6E87A93AC, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Needles_LayerInfo.uasset" offset: 9345, size: 1023 bytes, sha1: 5B4256186357E2CE4AEC4F061DDE1595A6C5DB51, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Needles_LayerInfo.uexp" offset: 10421, size: 143 bytes, sha1: B3A5375C4082A4B7EE84E2D7B7AE7DF529C31092, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Dirt_LayerInfo.uasset" offset: 10617, size: 1014 bytes, sha1: 246BC9E832E5B650262C256B45123DEE2B99DB94, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Dirt_LayerInfo.uexp" offset: 11684, size: 143 bytes, sha1: F71B08BE56EF2B7A451E72C3E43E71FDF1CC4872, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Moss_LayerInfo.uasset" offset: 11880, size: 1016 bytes, sha1: BB42A199865C90E06A6871BED62C150F917E7A26, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Moss_LayerInfo.uexp" offset: 12949, size: 143 bytes, sha1: A127C2167BA38B45D03CF0D676B9A509891839DE, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_Dirt_LayerInfo.uasset" offset: 13145, size: 1014 bytes, sha1: A1CFC65A00189B461B3F619A17C346F2EED0574B, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_Dirt_LayerInfo.uexp" offset: 14212, size: 143 bytes, sha1: 6442218327751E8D236052D112F78D2F83D35029, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Sand_LayerInfo.uasset" offset: 14408, size: 1014 bytes, sha1: 8C7A4DF9A3EAE43D11D2CA6055A31A86378B6B88, compression: None.
-LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Sand_LayerInfo.uexp" offset: 15475, size: 143 bytes, sha1: BB0DB94C37F68A6E5BB7623C9B414C4446305EBF, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Snowcap_LayerInfo.uasset" offset: 0, size: 1020 bytes, sha1: F2FBD86041B7404BB37F78C9FFD794F5775CF30F, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Snowcap_LayerInfo.uexp" offset: 1073, size: 143 bytes, sha1: D2191781B67D3AE4E3A331AAD4E839BCA6DC929D, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Erosion_LayerInfo.uasset" offset: 1269, size: 1020 bytes, sha1: 2547E57EFC5E68DF0580D2B0838B075EC841630E, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_Erosion_LayerInfo.uexp" offset: 2342, size: 143 bytes, sha1: DAD8ED7A21FFE7D2D608A1CCF12BDA3FA882FFE0, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_GroundMoss_LayerInfo.uasset" offset: 2538, size: 606 bytes, sha1: 96007388096D60D09F355E3241F9A7F95132666C, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_GroundMoss_LayerInfo.uexp" offset: 3217, size: 143 bytes, sha1: 7698CB266668022B7D4B68A8A5553AC65B86B0F4, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_Dirt_LayerInfo.uasset" offset: 3413, size: 1014 bytes, sha1: A1CFC65A00189B461B3F619A17C346F2EED0574B, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/WL_Dirt_LayerInfo.uexp" offset: 4480, size: 143 bytes, sha1: 6442218327751E8D236052D112F78D2F83D35029, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Sand_LayerInfo.uasset" offset: 4676, size: 1014 bytes, sha1: 8C7A4DF9A3EAE43D11D2CA6055A31A86378B6B88, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Sand_LayerInfo.uexp" offset: 5743, size: 143 bytes, sha1: BB0DB94C37F68A6E5BB7623C9B414C4446305EBF, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Lava_LayerInfo.uasset" offset: 5939, size: 1014 bytes, sha1: F1CB8EFD90C420E9FE8B2C0494F07692BBD126E3, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/LC_Lava_LayerInfo.uexp" offset: 7006, size: 143 bytes, sha1: 6A559C23C646547547B157E0A423CDD6E87A93AC, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Sand_LayerInfo.uasset" offset: 7202, size: 1014 bytes, sha1: 224945A9DF0B577AC421D3520BF4640901E0C8DF, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Sand_LayerInfo.uexp" offset: 8269, size: 143 bytes, sha1: B30BC54F316C6D057BCF30306B36E8B4666C138F, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Dirt_LayerInfo.uasset" offset: 8465, size: 1014 bytes, sha1: 246BC9E832E5B650262C256B45123DEE2B99DB94, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Dirt_LayerInfo.uexp" offset: 9532, size: 143 bytes, sha1: F71B08BE56EF2B7A451E72C3E43E71FDF1CC4872, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Needles_LayerInfo.uasset" offset: 9728, size: 1023 bytes, sha1: 5B4256186357E2CE4AEC4F061DDE1595A6C5DB51, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Needles_LayerInfo.uexp" offset: 10804, size: 143 bytes, sha1: B3A5375C4082A4B7EE84E2D7B7AE7DF529C31092, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Moss_LayerInfo.uasset" offset: 11000, size: 1016 bytes, sha1: BB42A199865C90E06A6871BED62C150F917E7A26, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Moss_LayerInfo.uexp" offset: 12069, size: 143 bytes, sha1: A127C2167BA38B45D03CF0D676B9A509891839DE, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Dirt_LayerInfo.uasset" offset: 12265, size: 1014 bytes, sha1: C817C933FC44451959030BC4BD11632DC47DDE26, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/CF_Dirt_LayerInfo.uexp" offset: 13332, size: 143 bytes, sha1: 45DC9EE1E2F33C57F03B839D1F3E182DA653E048, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_River_Stones_LayerInfo.uasset" offset: 13528, size: 611 bytes, sha1: 42BC6564F72E7F209517893AA8457923BE601EC3, compression: Oodle.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/C_River_Stones_LayerInfo.uexp" offset: 14212, size: 143 bytes, sha1: FCCB6EA42BD47194B9AFA577A160D774127B191D, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/AC_Snow_LayerInfo.uasset" offset: 14408, size: 1014 bytes, sha1: BAA0D33A64547C19F0BA009CD9FC55D3BA5DB66D, compression: None.
+LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/AC_Snow_LayerInfo.uexp" offset: 15475, size: 143 bytes, sha1: D7A44F9CAA796E71CC65CFA135D899E6623BCB6A, compression: None.
 LogPakFile: Display: "Terrain_016_OLY/Terrain_016.uexp" offset: 1048576, size: 359243183 bytes, sha1: 6A24FF7816F9001ED2C558C5262D0D76813345F6, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Terrain_016.umap" offset: 360301128, size: 84571 bytes, sha1: A6A7F5454BEA745EB212905C8AE07346F0E51A6F, compression: Oodle.
 LogPakFile: Display: "Terrain_016_OLY/Terrain_016_sharedassets/DC_Incline_LayerInfo.uasset" offset: 360385788, size: 809 bytes, sha1: DD1F052FF2CC60E13AFDB39090F5E7A2B9B909C8, compression: None.
@@ -1471,4 +1471,4 @@ LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3LOD/SM_Landscape
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3LOD/HeightMap_x1_y3_LOD1.uexp" offset: 1552597108, size: 392 bytes, sha1: AEE77CE07600C3DEFA78AD5B151A96E91B423D86, compression: Oodle.
 LogPakFile: Display: "Terrain_017_STYX/HeightMap/HeightMap_x1_y3LOD/HeightMap_x1_y3_LOD1.umap" offset: 1552597573, size: 1541 bytes, sha1: E2A9708117A831D600E8F6FEEF1493C8E8D65B5E, compression: Oodle.
 LogPakFile: Display: 1456 files (1449256796 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.552033 seconds
+LogPakFile: Display: Unreal pak executed in 0.561075 seconds
