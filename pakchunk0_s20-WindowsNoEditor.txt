@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 934986601
 LogPakFile: Display:     IndexSize: 18761
-LogPakFile: Display:     IndexHash: C366D5159904AD6FC2D1B0DEF062BA88C9384648
+LogPakFile: Display:     IndexHash: 104894D15E6108EE1711854C1A9A924E8E95046D
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.251698 seconds
+LogPakFile: Display: Unreal pak executed in 0.005474 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/
@@ -26,6 +26,8 @@ LogPakFile: Display: "Icarus_Materials/F_TriPlane_Func.uasset" offset: 41620, si
 LogPakFile: Display: "Icarus_Materials/F_TriPlane_Func.uexp" offset: 42346, size: 81 bytes, sha1: FF356B82010A8895BC1ACC8D2252C20D383EB52A, compression: None.
 LogPakFile: Display: "Icarus_Materials/F_TriPlane_Material.uasset" offset: 42480, size: 681 bytes, sha1: F56667996280CFC48DF3B675665F77380EC6F517, compression: None.
 LogPakFile: Display: "Icarus_Materials/F_TriPlane_Material.uexp" offset: 43214, size: 81 bytes, sha1: A4581E18DE5729D3F21883DACA4CFD81B5ED952B, compression: None.
+LogPakFile: Display: "Icarus_Materials/WaterMaster/MF_Liquid_VolumeDeepness.uasset" offset: 43348, size: 703 bytes, sha1: B2A6D4F3D2CA07A7B514A0E8D9D7220697D4AD01, compression: None.
+LogPakFile: Display: "Icarus_Materials/WaterMaster/MF_Liquid_VolumeDeepness.uexp" offset: 44104, size: 81 bytes, sha1: 856DA49CB13E136BA76034ED2C3D4C56C2BA11ED, compression: None.
 LogPakFile: Display: "Heatmaps/Terrain_019_DLC/T_Terrain019_MapMask.uasset" offset: 1048576, size: 908 bytes, sha1: 4D7C41B18E169CC2E1795377AA46118CB8213777, compression: None.
 LogPakFile: Display: "Heatmaps/Terrain_019_DLC/T_Terrain019_MapMask.uexp" offset: 1049537, size: 16861 bytes, sha1: 5C586E6934496E4E496C7F39F2EB248902CF9BC0, compression: Oodle.
 LogPakFile: Display: "Heatmaps/Terrain_017_STYX/T_Terrain017_MapMask.uasset" offset: 2097152, size: 909 bytes, sha1: CA9BB978182985FAF7716B4B294FB3601CA14E9A, compression: None.
@@ -36,18 +38,16 @@ LogPakFile: Display: "Icarus_Materials/PP_OutlineColored.uasset" offset: 3166619
 LogPakFile: Display: "Icarus_Materials/PP_OutlineColored.uexp" offset: 3169222, size: 18960 bytes, sha1: 425D13E2650E42D1B50A7280C7F1884F30ABBFE7, compression: Oodle.
 LogPakFile: Display: "Icarus_Materials/PPI_OutlineColored.uasset" offset: 3188255, size: 1466 bytes, sha1: B59027B1E7FD361FDFF6CA22B67F79BB01E3B38D, compression: Oodle.
 LogPakFile: Display: "Icarus_Materials/PPI_OutlineColored.uexp" offset: 3189794, size: 21622 bytes, sha1: 6F191BE430080BC43E5EB4EAEA144B7C9B16ACEC, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/WaterMaster/MF_Liquid_VolumeDeepness.uasset" offset: 3211489, size: 703 bytes, sha1: B2A6D4F3D2CA07A7B514A0E8D9D7220697D4AD01, compression: None.
-LogPakFile: Display: "Icarus_Materials/WaterMaster/MF_Liquid_VolumeDeepness.uexp" offset: 3212245, size: 81 bytes, sha1: 856DA49CB13E136BA76034ED2C3D4C56C2BA11ED, compression: None.
-LogPakFile: Display: "Icarus_Materials/PP_Thermal.uasset" offset: 3212379, size: 1304 bytes, sha1: 88F04F174095067F3B053F4F5C7BE1DD2EBEB38A, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/PP_Thermal.uexp" offset: 3213756, size: 16423 bytes, sha1: 89A2EA752F96A243C82C09EC8857085F7F7D608B, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uasset" offset: 3230252, size: 1338 bytes, sha1: 4FF37CC3EC74D78D61C412A4ACC7D7C1C3DAC5DE, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uexp" offset: 3231663, size: 16359 bytes, sha1: 592FB2B33A16ECD57D2462882E9C40F0BF5B7BBD, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uasset" offset: 3248095, size: 1056 bytes, sha1: 7E5AD89B772F371DB0A87E4B07282E2E2E0E30E6, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uexp" offset: 3249224, size: 16913 bytes, sha1: 10B248163B7DA0DFB02AB47FA1D8016C1A9A4B88, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uasset" offset: 3266210, size: 1483 bytes, sha1: E839D5ABC296DAE5FDAC3AEB18B05B72E0C4A5BB, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uexp" offset: 3267766, size: 19319 bytes, sha1: 3668BBD20CBCDAEA8FE8D0B80B15B7F0A35F3E8F, compression: Oodle.
-LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uasset" offset: 3287158, size: 703 bytes, sha1: EAF1FC7B49197EA68DE170218A9FD6FE896F68A3, compression: None.
-LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uexp" offset: 3287914, size: 81 bytes, sha1: B0637AD490C4F40D63B3EFF742E0257DF2BD0D2E, compression: None.
+LogPakFile: Display: "Icarus_Materials/PP_Thermal.uasset" offset: 3211489, size: 1304 bytes, sha1: 88F04F174095067F3B053F4F5C7BE1DD2EBEB38A, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/PP_Thermal.uexp" offset: 3212866, size: 16423 bytes, sha1: 89A2EA752F96A243C82C09EC8857085F7F7D608B, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uasset" offset: 3229362, size: 1338 bytes, sha1: 4FF37CC3EC74D78D61C412A4ACC7D7C1C3DAC5DE, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/PPI_Thermal.uexp" offset: 3230773, size: 16359 bytes, sha1: 592FB2B33A16ECD57D2462882E9C40F0BF5B7BBD, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uasset" offset: 3247205, size: 1056 bytes, sha1: 7E5AD89B772F371DB0A87E4B07282E2E2E0E30E6, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/PP_HitEffects.uexp" offset: 3248334, size: 16913 bytes, sha1: 10B248163B7DA0DFB02AB47FA1D8016C1A9A4B88, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uasset" offset: 3265320, size: 1483 bytes, sha1: E839D5ABC296DAE5FDAC3AEB18B05B72E0C4A5BB, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/PP_DirectionalDamageIndicator.uexp" offset: 3266876, size: 19319 bytes, sha1: 3668BBD20CBCDAEA8FE8D0B80B15B7F0A35F3E8F, compression: Oodle.
+LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uasset" offset: 3286268, size: 703 bytes, sha1: EAF1FC7B49197EA68DE170218A9FD6FE896F68A3, compression: None.
+LogPakFile: Display: "Icarus_Materials/02_Master/Functions/Quick/QuickDiffuse_Func.uexp" offset: 3287024, size: 81 bytes, sha1: B0637AD490C4F40D63B3EFF742E0257DF2BD0D2E, compression: None.
 LogPakFile: Display: "Heatmaps/Terrain_017_STYX/T_Terrain017_AISpawnMap.uasset" offset: 4194304, size: 915 bytes, sha1: 8A2AEE8B33440EA084041455F1637A4B0BF6796A, compression: None.
 LogPakFile: Display: "Heatmaps/Terrain_017_STYX/T_Terrain017_AISpawnMap.uexp" offset: 4195272, size: 54029 bytes, sha1: 018A4C39943F3E907D552A956DC655A006764FC6, compression: Oodle.
 LogPakFile: Display: "Heatmaps/Terrain_017_STYX/GT_Terrain017_AISpawnMap.uasset" offset: 5242880, size: 592 bytes, sha1: 5FE9E88D4569CB417A608691D64A8876EAD11DED, compression: Oodle.
@@ -261,7 +261,7 @@ LogPakFile: Display: "Maps/GreatHunt/Arena_RockGolem/Arena_RockGolem_BuiltData.u
 LogPakFile: Display: "Maps/GreatHunt/Arena_RockGolem/Arena_RockGolem_BuiltData.uexp" offset: 38798028, size: 23326646 bytes, sha1: 561E5C5248EF2872B5CB4F451CF20DD3BBBA13FF, compression: Oodle.
 LogPakFile: Display: "Maps/GreatHunt/Arena_RockGolem/Arena_RockGolem.uexp" offset: 62914560, size: 3145054 bytes, sha1: 62C9BDDCD53BD80427E0E3D1F004D8DA60EAAF49, compression: Oodle.
 LogPakFile: Display: "Maps/GreatHunt/Arena_RockGolem/Arena_RockGolem.umap" offset: 66060288, size: 31404 bytes, sha1: 302EB50D8F2CDDFC00164A6ED448BFFB9B9B9255, compression: Oodle.
-LogPakFile: Display: "Maps/GreatHunt/Arena_SwampApe/Arena_SwampApe.uexp" offset: 67108864, size: 3698162 bytes, sha1: 7B8F066A9F61DD538CC4C99154F8CDC2E0C86816, compression: Oodle.
+LogPakFile: Display: "Maps/GreatHunt/Arena_SwampApe/Arena_SwampApe.uexp" offset: 67108864, size: 3698162 bytes, sha1: FFB8086D3B0B1E122EE1243328AC0F7CA7E6A5B7, compression: Oodle.
 LogPakFile: Display: "Maps/GreatHunt/Arena_SwampApe/Arena_SwampApe.umap" offset: 70807483, size: 35058 bytes, sha1: 7DACAD6B3A0E51A41693BE26E50AABF1B744D5D9, compression: Oodle.
 LogPakFile: Display: "Maps/Hab/Station_MAS.uexp" offset: 70842614, size: 1071 bytes, sha1: 32A40B129EDFBB99907C49C4070237B93B805FFD, compression: Oodle.
 LogPakFile: Display: "Maps/Hab/Station_MAS.umap" offset: 70843758, size: 3174 bytes, sha1: 54B09947043EA6F708DC56397EF4E3EF092DB175, compression: Oodle.
@@ -544,4 +544,4 @@ LogPakFile: Display: "Maps/GreatHunt/Arena_Hornets/Arena_Hornets_sharedassets/C_
 LogPakFile: Display: "Maps/GreatHunt/Arena_SwampApe/Arena_SwampApe_sharedassets/C_River_Stones_LayerInfo.uasset" offset: 934985548, size: 833 bytes, sha1: 02FCA9A26D2CE6D4B594FE6D210B1B3772188537, compression: None.
 LogPakFile: Display: "Maps/GreatHunt/Arena_SwampApe/Arena_SwampApe_sharedassets/C_River_Stones_LayerInfo.uexp" offset: 934986434, size: 114 bytes, sha1: 27667B412F65C067F15744BDADD7EA48EA16C436, compression: None.
 LogPakFile: Display: 529 files (867785020 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.180538 seconds
+LogPakFile: Display: Unreal pak executed in 0.232875 seconds
