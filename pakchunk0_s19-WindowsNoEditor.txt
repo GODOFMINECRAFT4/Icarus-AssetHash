@@ -10,7 +10,7 @@ LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.414016 seconds
+LogPakFile: Display: Unreal pak executed in 0.009325 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -363,4 +363,4 @@ LogPakFile: Display: "Outpost_009/heightmap/heightmap_x1_y1.uexp" offset: 114189
 LogPakFile: Display: "Outpost_009/heightmap/heightmap_x1_y1.ubulk" offset: 1149239296, size: 3058590 bytes, sha1: 4FF01DAF18F4E78E1208C85A8FB9535F623F73CD, compression: Oodle.
 LogPakFile: Display: "Outpost_009/heightmap/heightmap_x1_y1.umap" offset: 1152298087, size: 14457 bytes, sha1: 908BB350C033BB20D218789BB277711E8BEC5F6A, compression: Oodle.
 LogPakFile: Display: 348 files (1110543716 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.114042 seconds
+LogPakFile: Display: Unreal pak executed in 0.171115 seconds
