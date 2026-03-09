@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1294056650
 LogPakFile: Display:     IndexSize: 27006
-LogPakFile: Display:     IndexHash: F421B992BDA7C4C4323B97B42C4C50119A205F5F
+LogPakFile: Display:     IndexHash: CCD4DFDF3F6BA9056458CEC8A267B9A5B5F1CEB8
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.290103 seconds
+LogPakFile: Display: Unreal pak executed in 0.009703 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -62,11 +62,11 @@ LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y3.u
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y3.umap" offset: 428420872, size: 39317 bytes, sha1: CF9BC448AC891CB063411F8636FC8EDCBEEBE3F4, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y4.uexp" offset: 428867584, size: 896320 bytes, sha1: 5D4C4BC4E4A1FD295F098F3AD7349167B888566A, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y4.umap" offset: 429764009, size: 44373 bytes, sha1: 6B0F5062D7C8C70D15295B2C4431DDB3543D8DDA, compression: Oodle.
-LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y5.uexp" offset: 429916160, size: 940662 bytes, sha1: 954893470A4E12BA614321CF75F85335D9DDE6C5, compression: Oodle.
+LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y5.uexp" offset: 429916160, size: 940662 bytes, sha1: 6F6882A482F5824FE1CA43E00AB2F9EC07545981, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y5.umap" offset: 430856975, size: 81895 bytes, sha1: 3596B30CBC88063DAB67DADFF7AFB99B03B8E994, compression: Oodle.
-LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y6.uexp" offset: 430964736, size: 1725717 bytes, sha1: D8F3E7D6A1D23114AB297D3413CA7692F0030A55, compression: Oodle.
-LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y6.umap" offset: 432690686, size: 120929 bytes, sha1: 038016986DDBA9CAFC13DC9C1392D01ABEB8F1BD, compression: Oodle.
-LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y7.uexp" offset: 433061888, size: 1251761 bytes, sha1: 90D0CB46E0FA385B7B02F45D19CDC2AB905571F6, compression: Oodle.
+LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y6.uexp" offset: 430964736, size: 1725716 bytes, sha1: DAB2DE7D885BF48719C8CFBA3A748063E04FC3DA, compression: Oodle.
+LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y6.umap" offset: 432690685, size: 120929 bytes, sha1: 038016986DDBA9CAFC13DC9C1392D01ABEB8F1BD, compression: Oodle.
+LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y7.uexp" offset: 433061888, size: 1251761 bytes, sha1: 22F5B070D237CE3163958B52330DB0FB5F2EFC3E, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x6_y7.umap" offset: 434313834, size: 103416 bytes, sha1: B473200743ACB6AFA6B6966D098813D4E7BC5686, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y0.uexp" offset: 434417355, size: 1961 bytes, sha1: 9F6D614EDBD47608AC9261EEB7C0DF9EC3584993, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y0.umap" offset: 434419389, size: 3529 bytes, sha1: 9139850FA1B1E22DE0E30E468ED61DCD965D1418, compression: Oodle.
@@ -78,9 +78,9 @@ LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y3.u
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y3.umap" offset: 436908310, size: 49895 bytes, sha1: D169FEC0A1BAF6FE678C879599C9A9ACA596FDED, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y4.uexp" offset: 437256192, size: 861668 bytes, sha1: 594618F7F3E8DA26480688BBA65E7565DC12DEE6, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y4.umap" offset: 438117981, size: 50287 bytes, sha1: 79907CE5CD5260ADC800DF790928459A85D12B88, compression: Oodle.
-LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y5.uexp" offset: 438304768, size: 1622523 bytes, sha1: 5D30A3B601D0ACE746BFC4CDAAD273FCBA1C20F2, compression: Oodle.
-LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y5.umap" offset: 439927524, size: 117571 bytes, sha1: 2C1A995D940E01701E24B434F87DF1C2833F5B25, compression: Oodle.
-LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y6.uexp" offset: 440401920, size: 1656403 bytes, sha1: 970252A802189216ACEB1855E4CD47F68E9DE974, compression: Oodle.
+LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y5.uexp" offset: 438304768, size: 1622526 bytes, sha1: B2A6DCBD4A9D20EAE796476F5538C41C9217EBC7, compression: Oodle.
+LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y5.umap" offset: 439927527, size: 117571 bytes, sha1: 2C1A995D940E01701E24B434F87DF1C2833F5B25, compression: Oodle.
+LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y6.uexp" offset: 440401920, size: 1656403 bytes, sha1: 30DD37C6B971947A672F40962E2DEDAAA82ADD12, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y6.umap" offset: 442058524, size: 94927 bytes, sha1: 2891488D9FF30D82862AF6E5ECCD5786701311C4, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y7.uexp" offset: 442153556, size: 128694 bytes, sha1: A15BD547658C2094614179FE35F3AA21358384F1, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/Sublevels/Generated/T019_Generated_x7_y7.umap" offset: 442282339, size: 31913 bytes, sha1: 2F3F4494535CC59E5849DE3BC7749AC5A3AD90C9, compression: Oodle.
@@ -900,5 +900,5 @@ LogPakFile: Display: "Terrain_021_DLC2/heightmap/heightmap_x3_y0LOD/SM_Landscape
 LogPakFile: Display: "Terrain_021_DLC2/heightmap/heightmap_x3_y0LOD/SM_LandscapeStreamingProxy_0_LOD1.uexp" offset: 1293631407, size: 423092 bytes, sha1: A40AA95D798CB229979694D663799A3965ECB673, compression: Oodle.
 LogPakFile: Display: "Terrain_021_DLC2/heightmap/heightmap_x3_y0LOD/heightmap_x3_y0_LOD1.uexp" offset: 1294054572, size: 393 bytes, sha1: 71D1B04A85D3D932BFF97436B3AF07D47D164587, compression: Oodle.
 LogPakFile: Display: "Terrain_021_DLC2/heightmap/heightmap_x3_y0LOD/heightmap_x3_y0_LOD1.umap" offset: 1294055038, size: 1539 bytes, sha1: BDCDD19122DADF19C96F2BB1FA38AAE908C5961C, compression: Oodle.
-LogPakFile: Display: 886 files (1198447722 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.297021 seconds
+LogPakFile: Display: 886 files (1198447724 bytes), (0 filtered bytes).
+LogPakFile: Display: Unreal pak executed in 0.318521 seconds
