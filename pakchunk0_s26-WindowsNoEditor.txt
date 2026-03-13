@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1298684942
 LogPakFile: Display:     IndexSize: 43227
-LogPakFile: Display:     IndexHash: CDDD586501A78D2B897189627E5B43C64418D144
+LogPakFile: Display:     IndexHash: B9F31D7F31F8C063AB174B27F2637BD65CDF5843
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.009320 seconds
+LogPakFile: Display: Unreal pak executed in 0.003962 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/Terrain_017_STYX/
@@ -880,14 +880,14 @@ LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/SM_PROXY_T017_
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/SM_PROXY_T017_Generated_x2_y5_LOD1.uexp" offset: 1104152039, size: 991988 bytes, sha1: 22AE0D883836AFE6A0F03E112E35D5A11156A9D1, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T017_Generated_x2_y5_LOD1.uexp" offset: 1105144116, size: 918 bytes, sha1: 3893E4DD9BD9229FCF16A75E46B435A0028DA8D7, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T017_Generated_x2_y5_LOD1.umap" offset: 1105145087, size: 1415 bytes, sha1: 643D4C9341E8940173F6EC1E9E12176B990B71DB, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Diffuse.uasset" offset: 1105146575, size: 915 bytes, sha1: D4F4267EAFCCFE69B1C7497A4392E6BC921D963C, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Diffuse.uexp" offset: 1105147543, size: 2577 bytes, sha1: 8A73950AF94DEFA315854E53BAC0C9FD6AD89D04, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Diffuse.ubulk" offset: 1105199104, size: 114652 bytes, sha1: F6C16F0731993D6EB25748C19A7E75C567B33C11, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Normal.uasset" offset: 1105313829, size: 668 bytes, sha1: 4CE80029E2446F1465523C1DD8D7FF7C2F15DD56, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Normal.uexp" offset: 1105314570, size: 5747 bytes, sha1: 72E52CDB013BB29369692E1C1FD3E33A1FD9C25E, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Normal.ubulk" offset: 1105320390, size: 331215 bytes, sha1: 24382BF93E96BA90E5DE34ED9EE7F566D1A45100, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/M_PROXY_T017_Generated_x2_y5_LOD2.uasset" offset: 1105651678, size: 1483 bytes, sha1: 1792AF73BCEDEEF9570BB0F014C947F3AC7EB85D, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/M_PROXY_T017_Generated_x2_y5_LOD2.uexp" offset: 1105653234, size: 75544 bytes, sha1: 04D26F79E45446D89169DC7D804D1B3705584B0C, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Normal.uasset" offset: 1105146575, size: 668 bytes, sha1: 4CE80029E2446F1465523C1DD8D7FF7C2F15DD56, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Normal.uexp" offset: 1105147316, size: 5747 bytes, sha1: 72E52CDB013BB29369692E1C1FD3E33A1FD9C25E, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Normal.ubulk" offset: 1105199104, size: 331215 bytes, sha1: 24382BF93E96BA90E5DE34ED9EE7F566D1A45100, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Diffuse.uasset" offset: 1105530392, size: 915 bytes, sha1: D4F4267EAFCCFE69B1C7497A4392E6BC921D963C, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Diffuse.uexp" offset: 1105531360, size: 2577 bytes, sha1: 8A73950AF94DEFA315854E53BAC0C9FD6AD89D04, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T_PROXY_T017_Generated_x2_y5_LOD2_Diffuse.ubulk" offset: 1105534010, size: 114652 bytes, sha1: F6C16F0731993D6EB25748C19A7E75C567B33C11, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/M_PROXY_T017_Generated_x2_y5_LOD2.uasset" offset: 1105648735, size: 1483 bytes, sha1: 1792AF73BCEDEEF9570BB0F014C947F3AC7EB85D, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/M_PROXY_T017_Generated_x2_y5_LOD2.uexp" offset: 1105650291, size: 75544 bytes, sha1: 04D26F79E45446D89169DC7D804D1B3705584B0C, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/SM_PROXY_T017_Generated_x2_y5_LOD2.uasset" offset: 1106247680, size: 1438 bytes, sha1: 947153D32B6CEA3BA758C74920EE1EF1658A0F71, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/SM_PROXY_T017_Generated_x2_y5_LOD2.uexp" offset: 1106249191, size: 707548 bytes, sha1: EE236DC1D05D04D462EC8F96CD6D3A8B7ED8C051, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x2_y5LOD/T017_Generated_x2_y5_LOD2.uexp" offset: 1106956828, size: 918 bytes, sha1: 8E9481DA7D13F56FCE3BC73B72C5145F50CE5225, compression: None.
@@ -1216,20 +1216,20 @@ LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/SM_PROXY_T017_
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/SM_PROXY_T017_Generated_x4_y3_LOD1.uexp" offset: 1178600936, size: 766243 bytes, sha1: 254B5086371CE6BE4068A21913FDCD83C4121BBA, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T017_Generated_x4_y3_LOD1.uexp" offset: 1179367268, size: 918 bytes, sha1: ED4BF22099B99E5D47B8C68246D8D6850FBA3CB5, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T017_Generated_x4_y3_LOD1.umap" offset: 1179368239, size: 1415 bytes, sha1: E40CEEA87F94987C7DBA8C6924DEF37164B4E664, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Diffuse.uasset" offset: 1179369727, size: 915 bytes, sha1: 55C3C35DC9D2AE2BC134F2009CD23E7CD4DE0198, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Diffuse.uexp" offset: 1179370695, size: 2985 bytes, sha1: 79FC9C1D4D257A39EA8021D31F26456D0E8BD3E4, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Diffuse.ubulk" offset: 1179373753, size: 125900 bytes, sha1: 512B4526190B12603EEB5190CA4EDDE864358DBA, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Normal.uasset" offset: 1179499726, size: 668 bytes, sha1: E46CC9DEA239E8F83F5A44DE081F08AD59790D6D, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Normal.uexp" offset: 1179500467, size: 5744 bytes, sha1: B7CD50F4837B798C04121C4E83F8CC2AD2D8C055, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Normal.uasset" offset: 1179369727, size: 668 bytes, sha1: E46CC9DEA239E8F83F5A44DE081F08AD59790D6D, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Normal.uexp" offset: 1179370468, size: 5744 bytes, sha1: B7CD50F4837B798C04121C4E83F8CC2AD2D8C055, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Normal.ubulk" offset: 1179648000, size: 334578 bytes, sha1: 32546835025BF7F79D8F3A252B31EBEED7CAFE07, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/M_PROXY_T017_Generated_x4_y3_LOD2.uasset" offset: 1179982651, size: 1483 bytes, sha1: CB0F81027294771E0124B96253233D142A2E1A42, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/M_PROXY_T017_Generated_x4_y3_LOD2.uexp" offset: 1179984207, size: 75544 bytes, sha1: 04D26F79E45446D89169DC7D804D1B3705584B0C, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/SM_PROXY_T017_Generated_x4_y3_LOD2.uasset" offset: 1180059824, size: 1439 bytes, sha1: 7184BD572E495162F580F82B72CF6A7742FB3E3C, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/SM_PROXY_T017_Generated_x4_y3_LOD2.uexp" offset: 1180061336, size: 412872 bytes, sha1: ACDEF7C49956DDA125A1BBB51D778A0B91E35F6B, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T017_Generated_x4_y3_LOD2.uexp" offset: 1180474281, size: 918 bytes, sha1: CA756B9BD35CDE0A6BC9AEE88F14EA7CC06FB159, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T017_Generated_x4_y3_LOD2.umap" offset: 1180475252, size: 1415 bytes, sha1: CEA415049E1E211309C553ED7A4D56E1F7A949FE, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y4LOD/T_PROXY_T017_Generated_x4_y4_LOD1_Normal.uasset" offset: 1180476740, size: 668 bytes, sha1: 5B583AB145F6E1CA87E792A24C512A9CCEC9E91B, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y4LOD/T_PROXY_T017_Generated_x4_y4_LOD1_Normal.uexp" offset: 1180477481, size: 5755 bytes, sha1: C9E33ADCB5D2DAEA7D04443F3A6BF1F6B4A6C558, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Diffuse.uasset" offset: 1179982651, size: 915 bytes, sha1: 55C3C35DC9D2AE2BC134F2009CD23E7CD4DE0198, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Diffuse.uexp" offset: 1179983619, size: 2985 bytes, sha1: 79FC9C1D4D257A39EA8021D31F26456D0E8BD3E4, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T_PROXY_T017_Generated_x4_y3_LOD2_Diffuse.ubulk" offset: 1179986677, size: 125900 bytes, sha1: 512B4526190B12603EEB5190CA4EDDE864358DBA, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/M_PROXY_T017_Generated_x4_y3_LOD2.uasset" offset: 1180112650, size: 1483 bytes, sha1: CB0F81027294771E0124B96253233D142A2E1A42, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/M_PROXY_T017_Generated_x4_y3_LOD2.uexp" offset: 1180114206, size: 75544 bytes, sha1: 04D26F79E45446D89169DC7D804D1B3705584B0C, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/SM_PROXY_T017_Generated_x4_y3_LOD2.uasset" offset: 1180189823, size: 1439 bytes, sha1: 7184BD572E495162F580F82B72CF6A7742FB3E3C, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/SM_PROXY_T017_Generated_x4_y3_LOD2.uexp" offset: 1180191335, size: 412872 bytes, sha1: ACDEF7C49956DDA125A1BBB51D778A0B91E35F6B, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T017_Generated_x4_y3_LOD2.uexp" offset: 1180604280, size: 918 bytes, sha1: CA756B9BD35CDE0A6BC9AEE88F14EA7CC06FB159, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y3LOD/T017_Generated_x4_y3_LOD2.umap" offset: 1180605251, size: 1415 bytes, sha1: CEA415049E1E211309C553ED7A4D56E1F7A949FE, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y4LOD/T_PROXY_T017_Generated_x4_y4_LOD1_Normal.uasset" offset: 1180606739, size: 668 bytes, sha1: 5B583AB145F6E1CA87E792A24C512A9CCEC9E91B, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y4LOD/T_PROXY_T017_Generated_x4_y4_LOD1_Normal.uexp" offset: 1180607480, size: 5755 bytes, sha1: C9E33ADCB5D2DAEA7D04443F3A6BF1F6B4A6C558, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y4LOD/T_PROXY_T017_Generated_x4_y4_LOD1_Normal.ubulk" offset: 1180696576, size: 1295904 bytes, sha1: 705DE2219C72E8E215D2836E923EBFAC6ECA37BD, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y4LOD/T_PROXY_T017_Generated_x4_y4_LOD1_Diffuse.uasset" offset: 1181992569, size: 915 bytes, sha1: D2BBD5A374CF502330B1E542F79B94C64EE668EF, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x4_y4LOD/T_PROXY_T017_Generated_x4_y4_LOD1_Diffuse.uexp" offset: 1181993537, size: 2684 bytes, sha1: 0D5037E2806054E9A6C0544DEFE52793C6F16E52, compression: Oodle.
@@ -1720,20 +1720,20 @@ LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/SM_PROXY_T017_
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/SM_PROXY_T017_Generated_x7_y0_LOD1.uexp" offset: 1289244702, size: 223527 bytes, sha1: F2BA24EB66FA27C98A5BA34A0DE18850008A3F1D, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T017_Generated_x7_y0_LOD1.uexp" offset: 1289468302, size: 918 bytes, sha1: 953AF38E76637EC41DCE8228E897C2D6FFBCEB10, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T017_Generated_x7_y0_LOD1.umap" offset: 1289469273, size: 1415 bytes, sha1: C50257AF90B7481D8382C3FAD8F0FCE5116D503C, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Diffuse.uasset" offset: 1289470761, size: 915 bytes, sha1: 530775D32F343E12AFC003D056EA9D230B557FEE, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Diffuse.uexp" offset: 1289471729, size: 2386 bytes, sha1: 4EAE09C938345B4C5C966AC3A2E46E146B0B7198, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Diffuse.ubulk" offset: 1289474188, size: 85129 bytes, sha1: A801F75E9AC508BA4090A9BC718BD87469DE23A9, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Normal.uasset" offset: 1289559390, size: 668 bytes, sha1: 90F851A23EED24D5B034089EE4F3F4F8ABE780D7, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Normal.uexp" offset: 1289560131, size: 5747 bytes, sha1: 5878DBED409CFCC52F23D6855D1AAB433C9A4112, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Normal.uasset" offset: 1289470761, size: 668 bytes, sha1: 90F851A23EED24D5B034089EE4F3F4F8ABE780D7, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Normal.uexp" offset: 1289471502, size: 5747 bytes, sha1: 5878DBED409CFCC52F23D6855D1AAB433C9A4112, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Normal.ubulk" offset: 1289748480, size: 299178 bytes, sha1: 4EE3C29D6DEF7728B0FDCCFB19D83F35E60651B3, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/M_PROXY_T017_Generated_x7_y0_LOD2.uasset" offset: 1290047731, size: 1459 bytes, sha1: 7255E29990971E628285B3781ECD3185DEF19960, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/M_PROXY_T017_Generated_x7_y0_LOD2.uexp" offset: 1290049263, size: 74836 bytes, sha1: 8706B98249C0B5FF8AC210DAFE7911A59A74F876, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/SM_PROXY_T017_Generated_x7_y0_LOD2.uasset" offset: 1290124172, size: 1438 bytes, sha1: 1D1F4123E315BE73BF15E63065045C654A74CFCD, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/SM_PROXY_T017_Generated_x7_y0_LOD2.uexp" offset: 1290125683, size: 186931 bytes, sha1: 1056586034AC3297C1644D52F9161796470E3F94, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T017_Generated_x7_y0_LOD2.uexp" offset: 1290312687, size: 918 bytes, sha1: DD49ABA0777DB6448C2346D7B8970ED7FAEAFF83, compression: None.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T017_Generated_x7_y0_LOD2.umap" offset: 1290313658, size: 1415 bytes, sha1: D9E7C4AA48E2E67DB0C7208EAC40C497903FDAB6, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y1LOD/T_PROXY_T017_Generated_x7_y1_LOD1_Normal.uasset" offset: 1290315146, size: 668 bytes, sha1: C1443D2F7161FA794E46E872B226AF30CE671F8F, compression: Oodle.
-LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y1LOD/T_PROXY_T017_Generated_x7_y1_LOD1_Normal.uexp" offset: 1290315887, size: 5756 bytes, sha1: A7F48158C683F01B9CCEABF11229E60EAE3C84C0, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Diffuse.uasset" offset: 1290047731, size: 915 bytes, sha1: 530775D32F343E12AFC003D056EA9D230B557FEE, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Diffuse.uexp" offset: 1290048699, size: 2386 bytes, sha1: 4EAE09C938345B4C5C966AC3A2E46E146B0B7198, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T_PROXY_T017_Generated_x7_y0_LOD2_Diffuse.ubulk" offset: 1290051158, size: 85129 bytes, sha1: A801F75E9AC508BA4090A9BC718BD87469DE23A9, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/M_PROXY_T017_Generated_x7_y0_LOD2.uasset" offset: 1290136360, size: 1459 bytes, sha1: 7255E29990971E628285B3781ECD3185DEF19960, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/M_PROXY_T017_Generated_x7_y0_LOD2.uexp" offset: 1290137892, size: 74836 bytes, sha1: 8706B98249C0B5FF8AC210DAFE7911A59A74F876, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/SM_PROXY_T017_Generated_x7_y0_LOD2.uasset" offset: 1290212801, size: 1438 bytes, sha1: 1D1F4123E315BE73BF15E63065045C654A74CFCD, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/SM_PROXY_T017_Generated_x7_y0_LOD2.uexp" offset: 1290214312, size: 186931 bytes, sha1: 1056586034AC3297C1644D52F9161796470E3F94, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T017_Generated_x7_y0_LOD2.uexp" offset: 1290401316, size: 918 bytes, sha1: DD49ABA0777DB6448C2346D7B8970ED7FAEAFF83, compression: None.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y0LOD/T017_Generated_x7_y0_LOD2.umap" offset: 1290402287, size: 1415 bytes, sha1: D9E7C4AA48E2E67DB0C7208EAC40C497903FDAB6, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y1LOD/T_PROXY_T017_Generated_x7_y1_LOD1_Normal.uasset" offset: 1290403775, size: 668 bytes, sha1: C1443D2F7161FA794E46E872B226AF30CE671F8F, compression: Oodle.
+LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y1LOD/T_PROXY_T017_Generated_x7_y1_LOD1_Normal.uexp" offset: 1290404516, size: 5756 bytes, sha1: A7F48158C683F01B9CCEABF11229E60EAE3C84C0, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y1LOD/T_PROXY_T017_Generated_x7_y1_LOD1_Normal.ubulk" offset: 1290797056, size: 1294008 bytes, sha1: 85E84E004D9B831BAE7DF76C3946CA33F574DF22, compression: Oodle.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y1LOD/T_PROXY_T017_Generated_x7_y1_LOD1_Diffuse.uasset" offset: 1292091153, size: 915 bytes, sha1: D98994E538B0E37314C87015DAB399506A3A378A, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y1LOD/T_PROXY_T017_Generated_x7_y1_LOD1_Diffuse.uexp" offset: 1292092121, size: 2384 bytes, sha1: DC4CDE7721F9EF8F91680BA3C3372A81E4489679, compression: Oodle.
@@ -1781,4 +1781,4 @@ LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y2LOD/SM_PROXY_T017_
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y2LOD/T017_Generated_x7_y2_LOD2.uexp" offset: 1298682483, size: 918 bytes, sha1: 0C005CC0CD4E9DA22745CD802CC1DC34FD8FEDD3, compression: None.
 LogPakFile: Display: "Sublevels/Generated/T017_Generated_x7_y2LOD/T017_Generated_x7_y2_LOD2.umap" offset: 1298683454, size: 1415 bytes, sha1: 2ADD968E5D878A0B33D7FBCDD75A90D8754AAEB6, compression: Oodle.
 LogPakFile: Display: 1766 files (1184040095 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.585241 seconds
+LogPakFile: Display: Unreal pak executed in 0.486638 seconds
