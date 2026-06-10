@@ -4,13 +4,13 @@ LogPakFile: Display: Pak File: J:\SteamLibrary\steamapps\common\Icarus\Icarus\Co
 LogPakFile: Display:     Version: 11
 LogPakFile: Display:     IndexOffset: 1031165964
 LogPakFile: Display:     IndexSize: 20662
-LogPakFile: Display:     IndexHash: 89A83CE463CB4F314F51DBC2A2B09344CAE1E855
+LogPakFile: Display:     IndexHash: 3F21E1425AFD3D7F5613B5C8ADA38A07B8306A8D
 LogPakFile: Display:     bEncryptedIndex: 0
 LogPakFile: Display:     EncryptionKeyGuid: 00000000000000000000000000000000
 LogPakFile: Display:     CompressionMethods:
 LogPakFile: Display:         None
 LogPakFile: Display:         Oodle
-LogPakFile: Display: Unreal pak executed in 0.008406 seconds
+LogPakFile: Display: Unreal pak executed in 0.010781 seconds
 LogInit: Display: Loading text-based GConfig....
 LogPakFile: Display: Using command line for crypto configuration
 LogPakFile: Display: Mount point ../../../Icarus/Content/Maps/
@@ -42,8 +42,8 @@ LogPakFile: Display: "Terrain_017_STYX/Terrain_017_sharedassets/C_Erosion_LayerI
 LogPakFile: Display: "Terrain_017_STYX/Terrain_017_sharedassets/C_Erosion_LayerInfo.uexp" offset: 14854, size: 143 bytes, sha1: F5550E88846AB590E723B68E725DD5C6D963D8E4, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Terrain_017_sharedassets/AC_Snow_LayerInfo.uasset" offset: 15050, size: 1015 bytes, sha1: F78F6A9AD688F77F297EB57C85C4EC5455950BDE, compression: None.
 LogPakFile: Display: "Terrain_017_STYX/Terrain_017_sharedassets/AC_Snow_LayerInfo.uexp" offset: 16118, size: 143 bytes, sha1: FE4B921D4B9B0912704805361AD7762385729BEF, compression: None.
-LogPakFile: Display: "Terrain_017_STYX/Terrain_017.uexp" offset: 1048576, size: 372233464 bytes, sha1: BBEEB2E59EFD438922ADBDBD6B8B2AFCFBD4EDFB, compression: Oodle.
-LogPakFile: Display: "Terrain_017_STYX/Terrain_017.umap" offset: 373293056, size: 83203 bytes, sha1: 7323E1E0244FC3C7299ECCCD540FF98F5D2849E9, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/Terrain_017.uexp" offset: 1048576, size: 372233576 bytes, sha1: 74FF39D1EE97CFD8B7BE7D3A5D44CF12AF9EC065, compression: Oodle.
+LogPakFile: Display: "Terrain_017_STYX/Terrain_017.umap" offset: 373293056, size: 83140 bytes, sha1: 0301CECAE404B93D22583627F70ECEE131F5A436, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y0.uexp" offset: 374341632, size: 2540361 bytes, sha1: 444C107161F0EA1E1E3395707833A4D3B2FA2574, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y0.ubulk" offset: 376882482, size: 61585 bytes, sha1: DCEDF19C2EF9BC605C3B961392028CDD043EB4F4, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x0_y0.umap" offset: 376944236, size: 8968 bytes, sha1: 745AFF94AAF84364662ADE5B1B2E84E1758E30D8, compression: Oodle.
@@ -569,5 +569,5 @@ LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x4_y2LOD/SM_LandscapeS
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x4_y2LOD/SM_LandscapeStreamingProxy_0_LOD1.uexp" offset: 1030862033, size: 301782 bytes, sha1: 26CA3D4121F167F1EA2B1EAF01B40EF991A26ACF, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x4_y2LOD/heightmap_x4_y2_LOD1.uexp" offset: 1031163888, size: 393 bytes, sha1: 57484544AE507CCA9B8228A0DF77CAEAD62A01BA, compression: Oodle.
 LogPakFile: Display: "Terrain_019_DLC/heightmap/heightmap_x4_y2LOD/heightmap_x4_y2_LOD1.umap" offset: 1031164354, size: 1537 bytes, sha1: 9DEA598DCEBC33EBB43F2D34CE6CBDE2FD019CA5, compression: Oodle.
-LogPakFile: Display: 555 files (969109198 bytes), (0 filtered bytes).
-LogPakFile: Display: Unreal pak executed in 0.274823 seconds
+LogPakFile: Display: 555 files (969109247 bytes), (0 filtered bytes).
+LogPakFile: Display: Unreal pak executed in 0.211714 seconds
